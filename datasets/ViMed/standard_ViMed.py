@@ -14,7 +14,7 @@ if not API_KEY:
     raise ValueError("❌ Không tìm thấy GEMINI_API_KEY trong file .env. Vui lòng kiểm tra lại.")
 
 INPUT_FILE = "datasets/ViMed/vimedner_processed_dataset.json"
-OUTPUT_FILE = "datasets/ViMed/vimedner_cleaned_dataset.json"
+OUTPUT_FILE = "datasets/ViMed/vimed_cleaned_dataset.json"
 PATCH_DIR = "datasets/ViMed/patches"
 BATCH_SIZE = 30
 
@@ -64,7 +64,7 @@ def clean_patch_with_gemini(client, patch_file_path, max_retries=5):
     for attempt in range(max_retries):
         try:
             response = client.models.generate_content(
-                model='gemini-flash-latest',
+                model='gemini-3.5-flash-lite',
                 contents=prompt,
                 config=types.GenerateContentConfig(
                     system_instruction=SYSTEM_INSTRUCTION,
