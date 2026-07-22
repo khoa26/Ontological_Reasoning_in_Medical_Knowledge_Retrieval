@@ -1,0 +1,423 @@
+[
+  {
+    "text": "ung thư túi mật sớm được giới hạn trong túi mật thường được điều trị bằng loại bỏ túi mật ( cắt bỏ túi mật ) .",
+    "entities": [
+      {
+        "text": "ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cắt bỏ túi mật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phình mạch : tại vị trí động mạch nếu túi phình bị vỡ , bệnh nhân có thể bị xuất huyết trong , đe dọa tính mạng .",
+    "entities": [
+      {
+        "text": "phình mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ví dụ , những người bị ung thư thực quản có thể bị đau do điều trị ung thư hoặc khối u phát triển .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm trùng thường gặp gây đau họng có thể dẫn đến các dấu hiệu và triệu chứng khác đi kèm : sốt .",
+    "entities": [
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau họng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tình trạng này đôi khi làm máu rò rỉ ngược vào tâm nhĩ trái dẫn tới hiện tượng hở van hai lá .",
+    "entities": [
+      {
+        "text": "hở van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các nguyên nhân khác như tiếp xúc với nguồn nước bị ô nhiễm và sinh hoạt kém vệ sinh cũng có thể gây ra tiêu chảy nhiễm trùng : các mầm bệnh : các mầm bệnh từ bên ngoài đi vào cơ thể và gây kích thích các mô trong đường tiêu hóa .",
+    "entities": [
+      {
+        "text": "tiêu chảy nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu bệnh nhân bị nhịp nhanh thất không do nguyên nhân thoáng qua hay nguyên nhân có thể đảo ngược , chỉ định đặt máy icd cho bệnh nhân có nhịp nhanh thất dai dẳng .",
+    "entities": [
+      {
+        "text": "nhịp nhanh thất",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "máy icd",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các thông tin tăng cao , những gì là bình thường hoặc những gì dưới mức bình thường có thể cho biết nhiễm trùng có khả năng gây ra bởi tác nhân virus hoặc vi khuẩn .",
+    "entities": []
+  },
+  {
+    "text": "mất ngủ là một biến chứng thường gặp , như là hội chứng chân bồn chồn và ngưng thở khi ngủ cũng có thể gây trở ngại cho giấc ngủ .",
+    "entities": [
+      {
+        "text": "hội chứng chân bồn chồn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ngưng thở khi ngủ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mất ngủ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đeo băng là biện pháp tạm thời , được áp dụng cho những bệnh nhân lớn tuổi , già yếu và không có khả năng phẫu thuật được .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đeo băng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu không được điều trị đầy đủ , thì trong vòng 2 đến 3 tuần sau khi nhiễm khuẩn ở vùng hầu họng , có thể tiến triển thành bệnh thấp tim .",
+    "entities": [
+      {
+        "text": "bệnh thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm phân có thể giúp xác định xem viêm niêm mạc trực tràng có phải do nhiễm trùng bởi vi khuẩn .",
+    "entities": [
+      {
+        "text": "viêm niêm mạc trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xét nghiệm phân",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh tế bào thần kinh vận động các yếu tố nguy cơ có liên quan đến bệnh tế bào thần kinh vận động bao gồm : di truyền : ở mỹ , khoảng 1/10 các trường hợp xơ cứng cột bên teo cơ là do di truyền .",
+    "entities": [
+      {
+        "text": "bệnh tế bào thần kinh vận động",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ cứng cột bên teo cơ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều kiện nhất định , chẳng hạn như bệnh tiểu đường và huyết áp cao có thể ảnh hưởng đến tầm nhìn nếu không nhận được điều trị thích hợp .",
+    "entities": [
+      {
+        "text": "bệnh tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ sẽ kiểm tra bên ngoài của mắt , t ìm kiếm mở rộng mạch máu , có thể chỉ ra một khối u trong mắt .",
+    "entities": [
+      {
+        "text": "kiểm tra bên ngoài của mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ìm kiếm mở rộng mạch máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm trùng huyết : viêm phúc mạc nếu không được điều trị kịp thời sẽ dẫn đến hoại tử ruột và nhiễm trùng huyết .",
+    "entities": [
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư gan mật – những phương pháp điều trị mới gói tầm soát và phát hiện sớm ung thư gan chủ đề : hóa trị xạ trị ung thư gan viêm gan b xơ gan nghiện rượu ung thư v iêm gan c vàng da gan vàng mắt vacxin vắc xin viêm gan b đốt sóng cao tần",
+    "entities": [
+      {
+        "text": "ung thư gan mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm gan b",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "iêm gan c",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vàng mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư bắt đầu ở nơi khác và lan truyền đến não u não thứ phát ( di căn ) là kết quả của khối u ung thư bắt đầu ở nơi khác trong cơ thể và sau đó lây lan đến não .",
+    "entities": [
+      {
+        "text": "u não thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khối u",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với hầu hết mọi người , hội chứng ruột kích thích là một tình trạng mãn tính , mặc dù có thể sẽ có những lúc các dấu hiệu và triệu chứng nặng hơn và thời gian triệu chứng cải thiện hoặc thậm chí biến mất hoàn toàn .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc điều trị thiếu máu cục bộ đường ruột liên quan đến việc khôi phục lại nguồn cung cấp máu đầy đủ đến đường tiêu hóa .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng của sốc bao gồm : lú lẫn , đặc biệt ở người lớn tuổi; da lạnh ; da xanh xao ; thở nhanh , nông ; mạch yếu và nhanh .",
+    "entities": [
+      {
+        "text": "da xanh xao",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thở nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mạch yếu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "da lạnh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lú lẫn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nông",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong trường hợp rung nhĩ cơn kịch phát hầu như hoặc chỉ xảy ra khi nghỉ hoặc trong lúc ngủ khi mà trương lực phế vị cao , các thuốc tác động lên hệ phế vị đặc biệt có hiệu quả ( ví dụ disopyramide ) .",
+    "entities": [
+      {
+        "text": "disopyramide",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiều người trải qua liệu pháp tá dược sau khi điều trị đồng thời không thể chịu đựng được các tác dụng phụ và phải ngừng điều trị .",
+    "entities": [
+      {
+        "text": "liệu pháp tá dược",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "lựa chọn phác đồ điều trị phụ thuộc vào một vài yếu tố bao gồm : giai đoạn và loại ung thư ; các tác dụng phụ của điều trị , lựa chọn của bệnh nhân và thể trạng chung người bệnh .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "men gan : loại trừ các nguyên nhân khác gây vàng da ldh ( lactate dehydrogenase ) : đánh giá độ nặng của tình trạng tan máu test coombs định lượng bilirubin máu phân tích nước tiểu các biện pháp điều trị bệnh thiếu men g6pd điều trị bệnh thiếu men g6pd quan trọng nhất là loại bỏ các yếu tố khởi phát một đợt cấp , bao gồm : tránh dùng thức ăn hay các loại thuốc đã được xác định gây tan máu .",
+    "entities": [
+      {
+        "text": "định lượng bilirubin máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "phân tích nước tiểu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh thiếu men g6pd",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "test coombs",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hỏi bác sĩ mắt liệu những ống kính đặc biệt , ống kính băng hoặc lá chắn giác mạc là một lựa chọn .",
+    "entities": [
+      {
+        "text": "ống kính băng hoặc lá chắn giác mạc là một lựa chọn",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ống kính đặc biệt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hãy hỏi bác sĩ về phương pháp điều trị thay thế có thể giúp đối phó với cơn đau , chẳng hạn như : bấm huyệt .",
+    "entities": [
+      {
+        "text": "bấm huyệt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hẹp van hai lá mức độ nặng , can thiệp khi có ≥ 1 điều kiện sau : có bất kỳ triệu chứng nào nếu tình trạng van phù hợp để nong bóng qua da ( cân nhắc ở bệnh nhân không có triệu chứng ) ; cần phẫu thuật tim vì nguyên nhân khác .",
+    "entities": [
+      {
+        "text": "hẹp van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân bị đau ngực cấp tính , điện tâm đồ ( ecg ) thay đổi gợi ý nhồi máu cơ tim thành dưới cấp tính và tiếng thổi do suy động mạch chủ ( ai ) có thể do phình tách động mạch chủ type i lan vào động mạch vành phải ( gây nhồi máu cơ tim thành dưới ) và van động mạch chủ ( gây ra ai ) .",
+    "entities": [
+      {
+        "text": "phình tách động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiếng thổi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể dùng thuốc trở thành phổi từ tuần 34 trở đi thiểu ối 3 tháng cuối : nghỉ ngơi , uống nhiều nước mỗi ngày trung bình 3l nước/ngày , có thể nhập viện truyền dịch .",
+    "entities": [
+      {
+        "text": "thiểu ối",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

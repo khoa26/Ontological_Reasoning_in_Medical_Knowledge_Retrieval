@@ -1,0 +1,399 @@
+[
+  {
+    "text": "thuốc thường có thể giảm bớt kích thước của polyp mũi hoặc loại bỏ chúng , nhưng đôi khi cần thiết phẫu thuật để loại bỏ chúng .",
+    "entities": [
+      {
+        "text": "phẫu thuật để loại bỏ chúng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "polyp mũi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi dấu hiệu hoặc triệu chứng xảy ra , chúng thường bao gồm : liên tục đau bụng , có thể lan tới lưng .",
+    "entities": [
+      {
+        "text": "liên tục đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tăng nguy cơ xơ vữa động mạch nếu lớn tuổi hơn 50, nếu hút thuốc , hoặc nếu có huyết áp cao , tiểu đường hoặc cholesterol cao .",
+    "entities": [
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc mặc dù một số người có thể mất hàng tháng và thậm chí cả năm để phục hồi , hầu hết trường hợp hội chứng guillain - barre theo các giai đoạn : sau khi triệu chứng đầu tiên , tình trạng có xu hướng dần dần xấu đi trong khoảng hai tuần .",
+    "entities": [
+      {
+        "text": "hội chứng guillain - barre",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "điều trị và thuốc",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tùy vào mức độ nặng nhẹ , bệnh trĩ nội được phân thành 4 độ : bệnh trĩ nội độ 1, bệnh trĩ nội độ 2, bệnh trĩ nội độ 3 và bệnh trĩ nội độ 4 là khi búi trĩ đã sa thường trực bên ngoài hậu môn , đẩy cũng không co lên , lúc này biến chứng xuất hiện nhiều như viêm nhiễm , hoại tử , …búi trĩ .",
+    "entities": [
+      {
+        "text": "bệnh trĩ nội",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh trĩ nội",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu trẻ được điều trị kịp thời bằng kháng sinh để loại bỏ vi khuẩn streptococcus sẽ có rất ít nguy cơ bị sốt thấp khớp .",
+    "entities": [
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm thực quản do thuốc điều trị viêm thực quản do thuốc gây ra , chủ yếu là tránh các loại thuốc có vấn đề khi có thể và giảm nguy cơ với thuốc thói quen dùng .",
+    "entities": [
+      {
+        "text": "viêm thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng khó khăn khi nuốt có thể chỉ ra một vấn đề y tế nghiêm trọng , chẳng hạn như ung thư thực quản .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hai hình ảnh phổ biến là vi tính cắt lớp ( ct ) và hình ảnh cộng hưởng từ ( mri ) .",
+    "entities": [
+      {
+        "text": "hình ảnh cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "vi tính cắt lớp",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu kết quả đo huyết áp cao hơn so với mức bình thường , bệnh nhân sẽ được chỉ định kiểm tra huyết áp tại nhà trong một khoảng thời gian liên tục mà bác sĩ đưa ra .",
+    "entities": [
+      {
+        "text": "đo huyết áp",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nội soi màng nhầy giải phẩu mang một nguy cơ biến chứng , chẳng hạn như chảy máu , rách thực quản và thu hẹp của thực quản .",
+    "entities": [
+      {
+        "text": "nội soi màng nhầy giải phẩu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trong khi bác sĩ có thể chỉ định các xét nghiệm này , phát hiện dương tính không có nghĩa là có bệnh crohn và âm tính không có nghĩa là đang không có bệnh .",
+    "entities": [
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "để cứu trợ thường xuyên , thử thuốc nhuận tràng mặn như sữa magiê , việc này sẽ kéo nước vào ruột già để bôi trơn phân .",
+    "entities": [
+      {
+        "text": "thuốc nhuận tràng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh thoái hóa võng mạc những người mang các đặc điểm sau có nguy cơ mắc bệnh thoái hóa võng mạc cao hơn : mắc phải các tật khúc xạ ở mắt như cận thị hút thuốc lá dinh dưỡng kém béo phì tiền sử gia đình có người mắc bệnh thoái hóa võng mạc đái tháo đường tăng huyết áp nữ giới có nguy cơ mắc bệnh cao hơn nam giới , đặc biệt trong bệnh thoái hóa hoàng điểm .",
+    "entities": [
+      {
+        "text": "bệnh thoái hóa hoàng điểm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh thoái hóa võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cận thị",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "béo phì",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong khi u lympho hodgkin , chỉ chiếm một tỷ lệ thấp đối với trẻ em và thanh thiếu niên thì u lympho không hodgkin lại chiếm một tỷ lệ cao ở nhóm trẻ em dưới 15 tuổi gọi là u lympho không hodgkin trẻ em .",
+    "entities": [
+      {
+        "text": "u lympho không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u lympho hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "theo globocan 2018, tại việt nam ung thư gan đứng hàng thứ nhất kể cả về tỷ lệ tử vong và số ca mới mắc .",
+    "entities": [
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , bạn càng có nhiều dấu hiệu và triệu chứng , thì khả năng bạn đang bị đau tim càng lớn .",
+    "entities": [
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các mảng bám xảy ra trong não của những người có cholesterol cao là một trong những nguyên nhân gây sa sút trí tuệ mạch máu .",
+    "entities": [
+      {
+        "text": "sút trí tuệ mạch máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số bài kiểm tra đo lường định hướng kỹ năng trí tuệ nói chung , kỹ năng học thuật , kỹ năng ngôn ngữ , kỹ năng không gian , sự chú ý , bộ nhớ , lý luận và phán quyết .",
+    "entities": [
+      {
+        "text": "bài kiểm tra đo lường định hướng kỹ năng trí tuệ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "lý luận và phán quyết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "kỹ năng không gian",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "kỹ năng học thuật",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "kỹ năng ngôn ngữ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sự chú ý",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bộ nhớ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật hoặc thủ thủ thuật khác tùy thuộc vào mức độ nghiêm trọng của bệnh mà bác sĩ sẽ đưa ra những phương pháp phẫu thuật khác nhau : sửa chữa van hai lá : bác sĩ sẽ rạch một vết rách trên van , sau đó định hình lại hoặc loại bỏ mô để giúp cho van có thể đóng chặt hơn .",
+    "entities": [
+      {
+        "text": "sửa chữa van hai lá",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đối với một số người , huyết khối tĩnh mạch sâu và thuyên tắc phổi có thể trở thành một bệnh mãn tính; khoảng 30% những người đã từng bị huyết khối tĩnh mạch sâu hoặc thuyên tắc phổi có nguy cơ bị một đợt khác .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuyên tắc phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nghiên cứu cho thấy kháng insulin - có thể tăng huyết áp và béo phì liên kết với nhãn áp tăng cao .",
+    "entities": [
+      {
+        "text": "nhãn áp tăng cao",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "béo phì",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa hội chứng ruột kích thích ( ibs ) là một rối loạn thường gặp có ảnh hưởng đến ruột già ( đại tràng ) .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ibs",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị ban đầu để kiểm soát chứng ợ nóng phương pháp điều trị có thể giúp kiểm soát ợ nóng bao gồm : thuốc kháng acid là trung hòa acid dạ dày .",
+    "entities": [
+      {
+        "text": "thuốc kháng acid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ợ nóng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một số bằng chứng cho thấy loại thuốc cox - 2 có thể giảm nguy cơ khối u tiền ung thư ở những người đã được chẩn đoán với các khối u trong quá khứ .",
+    "entities": [
+      {
+        "text": "khối u tiền ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng khác của cơn đau tim có thể bao gồm mệt mỏi bất thường hoặc không rõ nguyên nhân và buồn nôn hoặc nôn .",
+    "entities": [
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "theo đó , mổ nội soi ít xâm lấn hơn và thời gian bình phục nhanh hơn nhưng cần phải mổ hở nếu có áp xe hoặc viêm phúc mạc .",
+    "entities": [
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mổ nội soi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "áp xe",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng các biến chứng của hội chứng guillan - barre có thể bao gồm : khó thở một biến chứng có khả năng gây chết người của hội chứng guillain - barre là yếu hoặc liệt có thể lan đến các cơ điều khiển thở .",
+    "entities": [
+      {
+        "text": "yếu hoặc liệt có thể lan đến các cơ điều khiển thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hội chứng guillain - barre",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng guillan - barre",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "liên cầu khuẩn họng thường gặp nhất trong độ tuổi từ 5 đến 15, nhưng nó ảnh hưởng đến mọi người thuộc mọi lứa tuổi .",
+    "entities": []
+  },
+  {
+    "text": "bệnh rỗng tủy sống ( syringomyelia ) - tình trạng mà u nang chứa đầy dịch phát triển trong tủy sống .",
+    "entities": [
+      {
+        "text": "bệnh rỗng tủy sống",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "syringomyelia",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

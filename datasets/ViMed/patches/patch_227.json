@@ -1,0 +1,359 @@
+[
+  {
+    "text": "nếu m ột miếng vá màu đỏ tươi xuất hiện trên mắt , liên hệ với bác sĩ để chắc chắn rằng vấn đề không nghiêm trọng hơn so với xuất huyết mạch máu trong mắt .",
+    "entities": [
+      {
+        "text": "ột miếng vá màu đỏ tươi xuất hiện trên mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xuất huyết mạch máu trong mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu gặp một chuyên gia về mắt ( nhãn khoa ) ngay sau khi xuất hiện dấu hiệu cảnh báo , phát hiện sớm bệnh và điều trị bong võng mạc có thể tiết kiệm được tầm nhìn .",
+    "entities": [
+      {
+        "text": "bong võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong khu vực địa lý của thế giới mà nhiễm h . pylori và biến chứng của nó , chẳng hạn như ung thư dạ dày phổ biến , các bác sĩ đôi khi kiểm tra những người khỏe mạnh để tìm h . pylori .",
+    "entities": [
+      {
+        "text": "nhiễm h . pylori",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống mặc dù không có cách nào chứng minh để ngăn ngừa ung thư tuyến tụy , có thể thực hiện các bước để giảm nguy cơ , bao gồm : bỏ hút thuốc .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , các bác sĩ thường cho là giảm ý thức sau chấn thương đầu là do xuất huyết bên trong hộp sọ cho đến khi chứng minh khác .",
+    "entities": [
+      {
+        "text": "xuất huyết bên trong hộp sọ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "giảm ý thức",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , điều trị này chỉ được sử dụng khi có một nhu cầu cấp thiết để điều trị viêm thanh quản - ví dụ , khi cần sử dụng giọng nói để hát hoặc đưa ra một bài trình bày , bài phát biểu hoặc bằng miệng , hoặc trong một số trường hợp khi trẻ đã viêm thanh quản kết hợp .",
+    "entities": [
+      {
+        "text": "viêm thanh quản kết hợp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thêm các hình thức phổ biến của bức xạ , như trường điện từ đường dây điện và bức xạ sóng radia từ điện thoại di động và lò vi sóng , chưa được chứng minh là liên kết với các khối u não .",
+    "entities": [
+      {
+        "text": "khối u não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng chứng ợ nóng xảy ra thường xuyên và ảnh hưởng thường ngày được xem là bệnh trào ngược dạ dày thực quản ( gerd ) .",
+    "entities": [
+      {
+        "text": "bệnh trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chứng ợ nóng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gerd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh u tuyến yên tùy thuộc vào kích thước cũng như mức độ ảnh hưởng của khối u mà lựa chọn phác đồ , phương pháp điều trị thích hợp .",
+    "entities": [
+      {
+        "text": "bệnh u tuyến yên",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong buồng trên bên phải của tim ( tâm nhĩ phải ) là một nhóm các tế bào được gọi là nút xoang .",
+    "entities": []
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh thấp tim bệnh tim do thấp hay bệnh thấp tim có thể xảy ra ở bất kỳ tuổi nào , tuy nhiên bệnh thường gặp ở trẻ nhỏ và người trẻ , có độ tuổi từ 5 tuổi đến 15 tuổi .",
+    "entities": [
+      {
+        "text": "bệnh tim do thấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tác dụng phụ vắc - xin tác dụng phụ có thể có của các vắc - xin hib bao gồm đỏ , nóng hoặc sưng tại chỗ tiêm và sốt .",
+    "entities": [
+      {
+        "text": "vắc - xin hib",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thuốc chẹn kênh canxi , có thể gây rối loạn tiêu hóa , sưng bàn chân hoặc huyết áp thấp digoxin , được sử dụng để điều trị rung tâm nhĩ và có thể gây buồn nôn , nôn mửa và tiêu chảy .",
+    "entities": [
+      {
+        "text": "thuốc chẹn kênh canxi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sưng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bởi vì bệnh huntington ảnh hưởng đến khả năng nhận thức , sẽ cần lập di chúc và di chúc sớm trong quá trình của bệnh .",
+    "entities": [
+      {
+        "text": "ảnh hưởng đến khả năng nhận thức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "huyết khối tĩnh mạch sâu có nhiều khả năng xảy ra hơn nếu bạn : trên 60 tuổi; thừa cân; hút thuốc; đã bị huyết khối tĩnh mạch sâu trước đây; uống thuốc tránh thai hoặc liệu pháp hormon thay thế; bị ung thư hoặc suy tim ; bị giãn tĩnh mạch .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "giãn tĩnh mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục để đối phó với bệnh tiêu chảy , cố gắng : uống nhiều chất lỏng .",
+    "entities": [
+      {
+        "text": "bệnh tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vì lý do không rõ ràng , nếu có hội chứng ruột kích thích có thể phản ứng mạnh với các kích thích mà không làm phiền người khác .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "block tim cấp độ một hiếm khi gây ra các triệu chứng và thường không cần điều trị nếu không có vấn đề gì khác về tín hiệu điện .",
+    "entities": [
+      {
+        "text": "block tim cấp độ một",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu bạn bị đau ngực không rõ nguyên nhân , hãy nên liên hệ ngay với bác sĩ để được kiểm tra và tư vấn .",
+    "entities": [
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh ung thư gan những người có biểu hiện xơ gan , nghiện rượu nhiều năm , nhiễm virus viêm gan b , virus viêm gan c cần phải khám sức khỏe định kỳ để phát hiện sớm ung thư gan nhằm điều trị kịp thời .",
+    "entities": [
+      {
+        "text": "bệnh ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "virus viêm gan b",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "virus viêm gan c",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu các thủ tục khác đã không thành công hoặc có trĩ lớn , bác sĩ có thể khuyên nên tiến hành phẫu thuật .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hội chứng raynaud thường kéo dài vài phút , nhưng đôi khi có thể kéo dài đến vài giờ , được kích hoạt bởi lạnh hay cảm xúc căng thẳng .",
+    "entities": [
+      {
+        "text": "hội chứng raynaud",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chụp x - quang nếu có khối u hoặc sưng ở hàm , bác sĩ có thể yêu cầu chụp x - quang hàm và răng để tìm khối u . nếu đã được chẩn đoán mắc bệnh ung thư , chụp x - quang ngực có thể được thực hiện để xem liệu ung thư đã lan đến phổi hay chưa .",
+    "entities": [
+      {
+        "text": "chụp x - quang hàm và răng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp x - quang ngực",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sưng ở hàm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một phần của tròng trắng được lấy ra trong khi phẫu thuật này , có hoặc không loại bỏ một phần của bức thành của mắt ( sclerouvectomy ) .",
+    "entities": [
+      {
+        "text": "loại bỏ một phần của bức thành của mắt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "rụng tóc nhiều và tăng dần mỗi ngày cảm giác khó chịu , ngứa ngáy khắp đầu , bệnh nhân luôn cảm thấy muốn gội đầu nhưng sau khi gội vẫn cảm thấy ngứa và bứt rứt .",
+    "entities": [
+      {
+        "text": "ngứa ngáy khắp đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rụng tóc nhiều",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bứt rứt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các dấu hiệu và triệu chứng của sốc bao gồm da lạnh , da nhẽo có thể màu nhạt hoặc màu xám .",
+    "entities": [
+      {
+        "text": "da nhẽo có thể màu nhạt hoặc màu xám",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "da lạnh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ít hoạt động có thể làm tăng nguy cơ sỏi mật , do đó , kết hợp hoạt động thể chất .",
+    "entities": [
+      {
+        "text": "sỏi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc này trong cùng một gia đình như penicillin , nhưng thường là một lựa chọn ưa thích dành cho trẻ em vì nó có vị tốt hơn và có sẵn như là viên .",
+    "entities": [
+      {
+        "text": "penicillin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của sa van hai lá chế độ sinh hoạt : tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị; duy trì lối sống tích cực , hạn chế sự căng thẳng; liên hệ ngay với bác sĩ khi cơ thể có những bất thường trong quá trình điều trị; thăm khám định kỳ để được theo dõi tình trạng sức khỏe , diễn tiến của bệnh và để bác sĩ tìm hướng điều trị phù hợp trong thời gian tiếp theo nếu bệnh chưa có dấu hiệu thuyên giảm .",
+    "entities": [
+      {
+        "text": "sa van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù chỉ có một tỷ lệ phần trăm nhỏ những khối u thực sự trở thành ung thư , khối u ác tính gần như tất cả là u tuyến .",
+    "entities": [
+      {
+        "text": "khối u ác tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u tuyến",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

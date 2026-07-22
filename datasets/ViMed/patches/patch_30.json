@@ -1,0 +1,342 @@
+[
+  {
+    "text": "liên cầu khuẩn họng xảy ra phổ biến nhất ở trẻ em trong độ tuổi từ 5 đến 15. thời gian trong năm .",
+    "entities": []
+  },
+  {
+    "text": "bởi vì nhiều người nhấp nháy ít hơn bình thường khi làm việc trước máy tính , khô mắ t có thể là do sử dụng máy tính kéo dài .",
+    "entities": [
+      {
+        "text": "khô mắ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phụ nữ có thai rung nhĩ rất hiếm gặp ở phụ nữ có thai và thường là hậu quả của bệnh lý tim mạch có từ trước khi mang thai .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù nguyên nhân gây ra bệnh thoát vị não màng não chưa được xác định nhưng các nhà nghiên cứu đã tìm ra được một số yếu tố nguy cơ sau : thiếu folate .",
+    "entities": [
+      {
+        "text": "bệnh thoát vị não màng não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh ung thư phổi tổng quan bệnh ung thư phổi bệnh ung thư hay gặp , khó phát hiện nhất và kết quả điều trị hiệu quả thấp , gây tử vong nhiều nhất hiện nay là ung thư phổi .",
+    "entities": [
+      {
+        "text": "bệnh ung thư phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh thống kinh tổng quan bệnh thống kinh đối với phụ nữ , hàng tháng có hiện tượng hành kinh được gọi là chu kỳ kinh nguyệt .",
+    "entities": [
+      {
+        "text": "bệnh thống kinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh tăng tiết mồ hôi để chẩn đoán tăng tiết mồ hôi , bác sĩ sẽ tiến hành : khai thác về tiền sử và các triệu chứng của bệnh nhân .",
+    "entities": [
+      {
+        "text": "bệnh tăng tiết mồ hôi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật 2 thì thường cho teo thực quản nhóm c có 2 đầu xa nhau hoặc nhóm không có lỗ dò ( nhóm a ) do 2 đầu xa nhau không thể nối được .",
+    "entities": [
+      {
+        "text": "teo thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thuốc này ( nasalcrom ) có sẵn như là một thuốc xịt mũi toa , phải được sử dụng nhiều lần trong ngày .",
+    "entities": [
+      {
+        "text": "một thuốc xịt mũi toa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nasalcrom",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tác động của rối loạn nhịp tim đối với sức khỏe ngừng tim : rối loạn nhịp tim có thể khiến tim bạn ngừng đập đột ngột và bất ngờ .",
+    "entities": [
+      {
+        "text": "ngừng đập đột ngột",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngừng tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong thử nghiệm này , những lớp màng của ruột được phủ chất nhuộm màu tương phản ( barium ) để trực tràng , đại tràng và đôi khi là một phần của ruột non có thể thấy rõ trên x quang .",
+    "entities": [
+      {
+        "text": "x quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "khi viêm tuyến tụy được kiểm soát , có thể bắt đầu uống các chất lỏng và ăn thức ăn nhạt .",
+    "entities": [
+      {
+        "text": "viêm tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tăng đường máu đáng kể hơn gây ra glucose nước tiểu và lợi tiểu thẩm thấu , dẫn tới tiểu thường xuyên , tiểu nhiều , và khát nhiều , có thể tiến triển tới hạ huyết áp tư thế và mất nước .",
+    "entities": [
+      {
+        "text": "hạ huyết áp tư thế",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiểu thường xuyên",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiểu nhiều",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khát nhiều",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mất nước",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong x quang , nuốt chất lỏng màu trắng ( có chứa bari ) phủ áo đường tiêu hóa và làm cho loét rõ hơn .",
+    "entities": [
+      {
+        "text": "x quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , chúng gây ra không nhiều hơn một trong những điều sau đây : nhạy cảm với ánh sáng hoặc âm thanh .",
+    "entities": [
+      {
+        "text": "nhạy cảm với ánh sáng hoặc âm thanh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều trị rung nhĩ có thể bao gồm thuốc và can thiệp khác để cố gắng làm thay đổi hệ thống điện của tim .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "uống một lít hoặc nhiều hơn bất kỳ chất lỏng nào trong thời gian ngắn tạm thời có thể làm tăng nhãn áp .",
+    "entities": [
+      {
+        "text": "tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "siêu âm và chụp cộng hưởng từ có vai trò trong việc : phân biệt khối u máu trên da với các tổn thương khác như u nang bạch huyết , hạch bạch huyết .",
+    "entities": [
+      {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "u nang bạch huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u máu trên da",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "những điều cần biết về siêu âm tim các biện pháp điều trị bệnh thấp tim ở trẻ em mục tiêu của điều trị thấp tim ở trẻ em là tiêu diệt vi khuẩn liên cầu nhóm a , làm giảm triệu chứng , kiểm soát viêm và ngăn ngừa tái phát .",
+    "entities": [
+      {
+        "text": "bệnh thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , hãy nói cho thành viên trong gia đình hoặc bạn thân nếu đã có trải nghiệm bất kỳ loại hình chấn thương đầu .",
+    "entities": []
+  },
+  {
+    "text": "tình trạng cơ thể thiếu nước sẽ khiến bệnh nhân có biểu hiện bên ngoài như cổ họng khô rát và khát nước , môi khô , độ đàn hồi của da không bình thường , mắt trũng xuống do thiếu nước .",
+    "entities": [
+      {
+        "text": "cổ họng khô rát",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mắt trũng xuống",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khát nước",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "môi khô",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều này ảnh hưởng đến sự chuyển động bình thường các thành phần qua đường tiêu hóa và có thể dẫn đến đau và co thắt .",
+    "entities": [
+      {
+        "text": "co thắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "có thể sử dụng thuốc giảm đau , thuốc giãn cơ kết hợp với mở khí quản hoặc đặt ống nội khí quản , hỗ trợ hô hấp bằng thở máy để cấp cứu bệnh nhân .",
+    "entities": [
+      {
+        "text": "hỗ trợ hô hấp bằng thở máy",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đặt ống nội khí quản",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sau đó , bác sĩ có thể yêu cầu các xét nghiệm chuyên sâu hơn : chụp x quang ngực , siêu âm tim để xem hình dạng tim và xem có tràn dịch không .",
+    "entities": [
+      {
+        "text": "chụp x quang",
+        "type": "THUỐC"
+      },
+      {
+        "text": "siêu âm tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , chúng có thể giúp làm giảm sự l o lắng từ đó giảm yếu tố làm nặng thêm tình trạng tăng tiết .",
+    "entities": [
+      {
+        "text": "o lắng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của phình tách động mạch chủ chế độ sinh hoạt : tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị .",
+    "entities": [
+      {
+        "text": "phình tách động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "lỗ trong thành tim trong kênh truyền nhĩ thất một phần , lỗ tồn tại trong vách ngăn phân tách các khoang phía trên ( tâm nhĩ ) của tim .",
+    "entities": [
+      {
+        "text": "kênh truyền nhĩ thất một phần",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các nguyên nhân gây ra đau mắt đỏ thường bị nhiễm trùng do vi khuẩn hay virus , dị ứng hay phản ứng - ở trẻ , mở không đầy đủ ống dẫn lệ mắt .",
+    "entities": [
+      {
+        "text": "đau mắt đỏ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể yêu cầu ngừng dùng thuốc chống trào ngược dạ dày thực quản ( gerd ) để chuẩn bị cho thử nghiệm này .",
+    "entities": [
+      {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gerd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù hầu hết mọi người cuối cùng hồi phục hoàn toàn , chẩn đoán hội chứng guillain - barre có nghĩa là đối mặt với khả năng tàn tật lâu dài hoặc tê liệt .",
+    "entities": [
+      {
+        "text": "hội chứng guillain - barre",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tê liệt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

@@ -1,0 +1,367 @@
+[
+  {
+    "text": "u nang tuyến huyết thanh thường xuyên xảy ra nhất ở phụ nữ trung niên và hiếm khi trở thành ung thư .",
+    "entities": [
+      {
+        "text": "u nang tuyến huyết thanh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những người có hnpcc có xu hướng phát triển ung thư đại tràng trước tuổi 50. cả hai fap và hnpcc có thể được phát hiện qua kiểm tra di truyền .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hnpcc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "fap",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay đổi lối sống và dùng thuốc theo quy định để kiểm soát huyết áp cao , tiểu đường và cholesterol cao .",
+    "entities": [
+      {
+        "text": "cholesterol cao",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu mắt bình thường , có thể phân biệt được hàng trăm pha trộn của màu sắc , nhưng nếu v õng mạc thiếu một hay nhiều hóa chất nhạy sáng , có thể thấy chỉ hai trong số các màu cơ bản .",
+    "entities": []
+  },
+  {
+    "text": "viêm màng ngoài tim thường là viêm thanh huyết có ít tơ huyết và không bao giờ hóa mủ , hay gặp ở trẻ em và chiếm tỷ lệ khoảng 85% .",
+    "entities": [
+      {
+        "text": "viêm màng ngoài tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số biểu hiện khác cũng cần được chú ý như : sốt vã mồ hôi , run rẩy , kiệt sức thường xuyên thở dài hoặc ngáp nhiễm trùng , chảy máu suy giảm thị lực như n hìn mờ hoặc tầm nhìn đường hầm , nhìn thấy ảo ảnh .",
+    "entities": [
+      {
+        "text": "tầm nhìn đường hầm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngáp nhiễm trùng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhìn thấy ảo ảnh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt vã mồ hôi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "run rẩy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thở dài",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hìn mờ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thời điểm can thiệp hẹp van hai lá mức độ trung bình , can thiệp khi có ≥ 1 điều kiện sau : cần phẫu thuật tim vì nguyên nhân khác; có triệu chứng và chênh áp trung binh qua van khi gắng sức &gt; 15mmhg hoặc áp lực mao mạch phổi bít &gt; 25mmhg .",
+    "entities": [
+      {
+        "text": "hẹp van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thiếu máu cục bộ thoáng qua , một cơn đột quỵ tạm thời có tất cả các triệu chứng của cơn đột quỵ , thiếu máu cục bộ mà không gây thiệt hại lâu dài .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ thoáng qua",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ở người lớn : hầu hết là các khối u hạch bạch huyết hoặc u tuyến ức ác tính , thường mắc u trung thất khu vực phía trước .",
+    "entities": [
+      {
+        "text": "u tuyến ức ác tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u trung thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ cũng có thể đề nghị sử dụng xét nghiệm và thủ tục để chẩn đoán trào ngược dạ dày thực quản , bao gồm : x quang hệ thống tiêu hóa trên .",
+    "entities": [
+      {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "x quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa đau nhức đầu khi vận động xảy ra trong hoặc sau khi vận động hoặc tập thể dục căng thẳng kéo dài .",
+    "entities": [
+      {
+        "text": "đau nhức đầu khi vận động",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị não úng thủy bằng phương pháp mổ nội soi – phẫu thuật tiết kiệm , ít biến chứng , ít di chứng và tái lập tuần hoàn nước não tủy một cách sinh lý hơn .",
+    "entities": [
+      {
+        "text": "não úng thủy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mổ nội soi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh ung thư tuyến nước bọt các khối u tuyến nước bọt là rất hiếm , chiếm ít hơn 10% của tất cả các khối u đầu và cổ .",
+    "entities": [
+      {
+        "text": "bệnh ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu vấn đề kích hoạt rung nhĩ có thể được điều trị , có thể không có vấn đề về nhịp tim nữa - hoặc ít nhất có một thời gian khá tốt .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tùy thuộc vào tình trạng người bệnh mà bác sĩ có thể thực hiện thông tim , thuốc nhuộm ( được nhìn thấy trên tia x ) sẽ được tiêm vào động mạch của tim bằng một ống thông đã được luồn vào mạch máu ở cổ , cánh tay hay đùi trên của người bệnh .",
+    "entities": [
+      {
+        "text": "thông tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "bởi vì các loại khác của ung thư dạ dày là rất hiếm , khi sử dụng chẩn đoán \" ung thư dạ dày \" thường được đề cập đến adenocarcinoma .",
+    "entities": [
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "adenocarcinoma",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "siêu âm sử dụng sóng âm để tạo ra hình ảnh của các cơ quan nội tạng , bao gồm cả tuyến tụy .",
+    "entities": [
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của nhiễm trùng huyết nhiễm trùng huyết là một tình trạng nhiễm trùng rất nghiêm trọng có thể để lại nhiều biến chứng nguy hiểm .",
+    "entities": [
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra khi vận động : để đánh giá block nhĩ thất có xấu đi hoặc cải thiện khi tập thể dục .",
+    "entities": [
+      {
+        "text": "block nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán bệnh bạch hầu bác sĩ có thể nghi ngờ bệnh bạch hầu khi gặp trẻ bị viêm họng kèm giả mạc xám bao phủ amidan và cổ họng .",
+    "entities": [
+      {
+        "text": "bệnh bạch hầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm họng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "giả mạc",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "crest có thể ảnh hưởng nhiều hệ thống cơ thể , bao gồm cả thực quản và mạch máu , đường tiêu hóa và đôi khi phổi và tim .",
+    "entities": [
+      {
+        "text": "crest",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa sốt thấp khớp hiệu quả để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : điều trị sớm bệnh viêm họng hạt và ban đỏ là điều cần thiết , có thể ngăn ngừa sốt thấp khớp .",
+    "entities": [
+      {
+        "text": "bệnh viêm họng hạt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ban đỏ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "corticosteroid có thể làm giảm viêm kết hợp với các phản ứng dị ứng và cho phép chữa lành thực quản .",
+    "entities": [
+      {
+        "text": "corticosteroid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hở van ba lá 3/4 : mức độ nặng , nếu điều trị với thuốc mà không đáp ứng thì cần phải phẫu thuật .",
+    "entities": [
+      {
+        "text": "hở van ba lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng sẽ dễ bị tiêu chảy liên quan đến kháng sinh nếu : trước đây có tiền sử tiêu chảy liên quan đến dùng thuốc kháng sinh .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mất nước : sốt , nôn mửa , tiêu chảy nặng , lạm dụng thuốc lợi tiểu và tập thể dục gắng sức có thể dẫn đến mất nước .",
+    "entities": [
+      {
+        "text": "mất nước",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục bất kể nguyên nhân gây ra đau họng , chiến lược chăm sóc tại nhà thường giúp đỡ tạm thời .",
+    "entities": [
+      {
+        "text": "đau họng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa tái chảy máu mãn tính ( phòng ngừa thứ phát ) : nsbbs và ebl làm giảm tỷ lệ chảy máu lại ở một mức độ tương tự , nhưng thuốc chẹn beta làm giảm tỷ lệ tử vong , trong khi elb thì không .",
+    "entities": [
+      {
+        "text": "thuốc chẹn beta",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nsbbs",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ebl",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hóa chất có chức năng thu nhỏ các khối u , nhưng nó không có khả năng chữa khỏi loại ung thư này .",
+    "entities": [
+      {
+        "text": "hóa chất",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với v iêm xoang cấp tính , một số câu hỏi cơ bản để yêu cầu bác sĩ bao gồm - những gì có thể gây ra triệu chứng hoặc tình trạng bệnh ?",
+    "entities": [
+      {
+        "text": "iêm xoang cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

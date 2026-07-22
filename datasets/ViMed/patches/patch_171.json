@@ -1,0 +1,371 @@
+[
+  {
+    "text": "can thiệp mạch vành qua da - pci pci được chỉ định khi bệnh nhân mắc hội chứng mạch vành cấp ( acs ) hay bệnh tim thiếu máu cục bộ ổn đinh có đau thắt ngực dù đã điều trị nội khoa đến liều tối ưu .",
+    "entities": [
+      {
+        "text": "bệnh tim thiếu máu cục bộ ổn đinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "can thiệp mạch vành qua da",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hội chứng mạch vành cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "pci",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù chính nó là khối u không phải là một mối đe dọa lớn , viêm loét đại tràng hoặc bệnh crohn đại tràng làm tăng nguy cơ ung thư đại tràng .",
+    "entities": [
+      {
+        "text": "bệnh crohn đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm loét đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ một loạt các bệnh và vấn đề có thể làm tăng nguy cơ mắc bệnh gan nhiễm mỡ không do rượu , bao gồm : một số thuốc .",
+    "entities": [
+      {
+        "text": "bệnh gan nhiễm mỡ không do rượu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số nghiên cứu đã tìm thấy trường hợp , do đó , bác sĩ có thể khuyên nên hóa trị , xạ trị hoặc kết hợp cả hai sau khi phẫu thuật .",
+    "entities": [
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tinh hoàn đi lên hay tinh hoàn ẩn mắc phải : nghĩa là tinh hoàn quay trở lại bẹn và không thể dùng tay để xuống bìu lại được .",
+    "entities": [
+      {
+        "text": "tinh hoàn ẩn mắc phải",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân nên trao đổi với bác sĩ về bất kỳ loại thực phẩm hoặc chất dinh dưỡng nào người bệnh nên tránh .",
+    "entities": [
+      {
+        "text": "chất dinh dưỡng nào người bệnh nên tránh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "loại thực phẩm",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng tiêu chảy do kháng sinh có thể gây ra các dấu hiệu và triệu chứng từ nhẹ đến nặng .",
+    "entities": [
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị không phẫu thuật : nhiều trường hợp viêm ruột thừa cấp không biến chứng có thể điều trị với kháng sinh tỷ lệ thành công hơn 90% .",
+    "entities": [
+      {
+        "text": "viêm ruột thừa cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trong cắt bỏ , một thủ tục gọi là tần số radio , dòng điện được sử dụng để làm nóng và tiêu diệt tế bào ung thư .",
+    "entities": [
+      {
+        "text": "cắt bỏ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : 3 mốc siêu âm dị tật thai nhi thai phụ cần nhớ lần đầu tiên chữa rối loạn đại tiểu tiện do thoát vị màng não tủy bằng tế bào gốc viêm màng não do siêu vi : chẩn đoán và điều trị chủ đề : nhi não mang thai dị tật thai nhi thoát vị não thoát vị não ở thai nhi",
+    "entities": [
+      {
+        "text": "thoát vị màng não tủy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thoát vị não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "hỏi bác sĩ mắt về ưu và nhược điểm của từng loại và có kính áp tròng có thể là tốt nhất .",
+    "entities": [
+      {
+        "text": "kính áp tròng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sa sút trí tuệ tiến triển một số loại chính của chứng sa sút trí tuệ mất trí nhớ tiến triển - sa sút trí tuệ sẽ xấu đi với thời gian .",
+    "entities": [
+      {
+        "text": "sa sút trí tuệ tiến triển",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mất trí nhớ tiến triển",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chứng sa sút trí tuệ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của block nhĩ thất block nhĩ thất độ i thường không có triệu chứng .",
+    "entities": [
+      {
+        "text": "block nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư dạ dày nhiều hơn là phổ biến ở các khu vực khác của thế giới , đặc biệt là nhật bản .",
+    "entities": [
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những thuốc dự phòng có thể bao gồm : indomethacin - thuốc chống viêm acetazolamide - thuốc lợi tiểu làm giảm việc sản xuất dịch .",
+    "entities": [
+      {
+        "text": "thuốc lợi tiểu làm giảm việc sản xuất dịch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chống viêm acetazolamide",
+        "type": "THUỐC"
+      },
+      {
+        "text": "indomethacin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tiền mãn kinh thường bắt đầu trong khoảng tuổi từ 40 đến 50, những trường hợp mãn kinh trước tuổi 40 được coi là sớm và những trường hợp mãn kinh sau tuổi 55 được coi là muộn .",
+    "entities": [
+      {
+        "text": "tiền mãn kinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "với thời gian , sẹo có thể trở nên nghiêm trọng mà gan không còn chức năng đầy đủ ( suy gan ) .",
+    "entities": [
+      {
+        "text": "suy gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhức đầu có thể là do chính khối u , hoặc có thể do chất lỏng tạo thành trong não ( tràn dịch não ) .",
+    "entities": [
+      {
+        "text": "tràn dịch não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhức đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khối u",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu có các biến chứng của viêm túi mật , chẳng hạn như hoại tử hoặc thủng túi mật , có thể cần phải phẫu thuật ngay lập tức .",
+    "entities": [
+      {
+        "text": "viêm túi mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "run có thể ảnh hưởng hầu hết các phần của cơ thể , nhưng run xảy ra thường xuyên nhất ở tay - đặc biệt là khi cố gắng để làm nhiệm vụ đơn giản , chẳng hạn như uống ly nước , buộc dây giày , viết hoặc cạo râu .",
+    "entities": [
+      {
+        "text": "run",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hiện tượng ứ đọng phân làm tăng quá trình thối rữa và lên men , sinh nhiều hơi , làm bụng chướng đồng thời cũng tăng bài tiết chất nhầy ở ruột , những chất nhầy này sẽ làm tiêu lỏng với phân lẫn chất nhầy và đôi khi có máu .3. phân lẫn máu người bệnh đi tiêu , phân thường có máu do chảy máu ở vị trí ung thư ( bên phải bị nhiều hơn bên trái ) .",
+    "entities": [
+      {
+        "text": "phân lẫn chất nhầy và đôi khi có máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phân thường có máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phân lẫn máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bụng chướng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiêu lỏng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với một số người , sự không chắc chắn về việc liệu họ có mang gen bị lỗi là căng thẳng và mất tập trung .",
+    "entities": []
+  },
+  {
+    "text": "phương pháp phòng ngừa đường huyết cao hiệu quả để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : kiểm soát dinh dưỡng : các bữa ăn nên được chia nhỏ thành các bữa chính và bữa phụ , để tránh tăng đường huyết nhiều sau khi ăn .",
+    "entities": [
+      {
+        "text": "kiểm soát dinh dưỡng : các bữa ăn nên được chia nhỏ thành các bữa chính và bữa phụ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "những thiết bị này ngày càng được sử dụng để điều trị lâu dài cho những người bị suy tim nhưng không đủ điều kiện g hép tim .",
+    "entities": [
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hép tim",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tổn thương nội mạc có thể do các tổn thương cơ học do dòng máu xoáy mạnh , do các điện cực hoặc do catheter , do viêm nhiễm như viêm tim do thấp tim , hoặc do các biến đổi thoái hóa ở người già , các biến đổi thoái hóa này đi kèm với tình trạng viêm nhiễm , các ổ loét nhỏ và các mẩu huyết khối nhỏ .",
+    "entities": [
+      {
+        "text": "thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thừa kế đột biến gen không làm cho ung thư không thể tránh khỏi , nhưng có thể làm tăng nguy cơ đáng kể một cá nhân với bệnh ung thư .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán để chẩn đoán ung thư cổ họng , bác sĩ có thể khuyên nên : nội soi .",
+    "entities": [
+      {
+        "text": "ung thư cổ họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ung thư tuyến tụy thường lây lan nhanh và hiếm khi được phát hiện ở giai đoạn đầu , đó là một lý do chính tại sao nó là nguyên nhân tử vong hàng đầu ung thư .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài các lỗi chủ yếu của thân chung động mạch , các van điều khiển lưu lượng máu từ tâm thất đến thân chung thường bị lỗi , cho phép máu chảy ngược vào tim .",
+    "entities": [
+      {
+        "text": "thân chung động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc nhỏ dãn mắt cũng bảo vệ phát triển dính mống mắt từ bên dưới , có thể dẫn đến biến chứng tiềm năng , bao gồm cả bệnh tăng nhãn áp .",
+    "entities": [
+      {
+        "text": "thuốc nhỏ dãn mắt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

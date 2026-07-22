@@ -1,0 +1,436 @@
+[
+  {
+    "text": "các xét nghiệm được sử dụng trong ung thư thực quản bao gồm chụp cắt lớp vi tính ( ct ) và chụp cắt lớp phát xạ positron ( pet ) .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp phát xạ positron",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "pet",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "đây có thể bao gồm thuốc kháng histamine để điều trị dị ứng , thuốc kháng sinh để điều trị một hoặc định kỳ nhiễm trùng mãn tính , hoặc thuốc kháng nấm để điều trị các triệu chứng của dị ứng do nấm .",
+    "entities": [
+      {
+        "text": "thuốc kháng histamine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhiễm trùng mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc kháng nấm",
+        "type": "THUỐC"
+      },
+      {
+        "text": "dị ứng do nấm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "teo thực quản có thể được chẩn đoán sớm ngay từ trước khi sinh bằng phương pháp siêu âm ở 24 tuần tuổi .",
+    "entities": [
+      {
+        "text": "teo thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "cơn đau thường xảy ra với thời điểm đều đặn trong một ngày 24 giờ , và chu kỳ của cơn đau thường sau các mùa trong năm .",
+    "entities": [
+      {
+        "text": "cơn đau thường xảy ra với thời điểm đều đặn trong một ngày 24 giờ , và chu kỳ của cơn đau thường sau các mùa trong năm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và các thủ tục được sử dụng để xác định giai đoạn ung thư túi mật , bao gồm : phẫu thuật thăm dò .",
+    "entities": [
+      {
+        "text": "phẫu thuật thăm dò",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khuyết tật vách liên nhĩ thất , xảy ra khi có lỗ giữa các buồng tim và các vấn đề với van tim , điều chỉnh lưu lượng máu trong tim .",
+    "entities": [
+      {
+        "text": "khuyết tật vách liên nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa đau bụng hiệu quả để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : nếu cơn đau dữ dội ở bụng và xảy ra sau bữa ăn , thuốc kháng axit có thể giúp ích , đặc biệt nếu cảm thấy ợ chua hoặc khó tiêu .",
+    "entities": [
+      {
+        "text": "cơn đau dữ dội ở bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thuốc kháng axit",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó tiêu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ợ chua",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng nitrates khi cần làm giãn động mạch vành , làm giảm hoạt động của tim và giảm đau thắt ngực một cách nhanh chóng ( nhưng không làm giảm tỷ lệ tử vong ) .",
+    "entities": [
+      {
+        "text": "nitrates",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "cơ tim phì đại có thể gây ra ngất và có khả năng không thể chẩn đoán được trước khi giải phẫu tử thi .",
+    "entities": [
+      {
+        "text": "cơ tim phì đại",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ngất",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu màng nhĩ thủng không hàn gắn hoặc không sửa chữa , có thể dễ bị tổn thương liên tục ( mãn tính ) bị nhiễm trùng có thể gây ra mất thính lực vĩnh viễn .",
+    "entities": [
+      {
+        "text": "mất thính lực vĩnh viễn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "màng nhĩ thủng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh ung thư thực quản tổng quan bệnh ung thư thực quản ung thư thực quản là gì ?",
+    "entities": [
+      {
+        "text": "bệnh ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trào ngược dạ dày thực quản kéo dài làm tổn thương khí quản nguyên nhân bệnh teo thực quản bệnh teo thực quản là hậu quả của quá trình tạo phôi bất thường giữa tuần thứ 4 và tuần thứ 6 thai kỳ , điều này giải thích cho hiện tượng teo thực quản thường kèm theo nhiều dị tật bẩm sinh phối hợp khác ở cột sống , thận , cơ quan sinh dục , tim mạch , tiêu hóa .",
+    "entities": [
+      {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh teo thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những loại thuốc này , trong đó có sẵn cả thuốc theo toa , bao gồm aspirin , ibuprofen ( advil , motrin , những loại khác ) , naproxen ( aleve ) , ketoprofen và những loại khác .",
+    "entities": [
+      {
+        "text": "ketoprofen",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ibuprofen",
+        "type": "THUỐC"
+      },
+      {
+        "text": "naproxen",
+        "type": "THUỐC"
+      },
+      {
+        "text": "aspirin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "motrin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "advil",
+        "type": "THUỐC"
+      },
+      {
+        "text": "aleve",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sinh thiết gan thường được thực hiện bằng cách sử dụng cây kim dài đưa qua da và vào gan để loại bỏ các tế bào gan ( kim sinh thiết ) .",
+    "entities": [
+      {
+        "text": "sinh thiết gan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "mất tầm nhìn , nó phải xảy ra thường phát triển trong quá trình một ngày đến hai tuần và có thể trở nên tồi tệ bởi nhiệt hoặc tập thể dục .",
+    "entities": [
+      {
+        "text": "mất tầm nhìn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "do ảnh hưởng đến não bộ : tê yếu tay chân ; lơ mơ , suy giảm nhận thức ; không cử động được cơ mặt và cơ thể; mất thăng bằng ; nhức đầu dữ dội ; nhìn mờ .",
+    "entities": [
+      {
+        "text": "suy giảm nhận thức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tê yếu tay chân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhức đầu dữ dội",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mất thăng bằng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "không cử động",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhìn mờ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lơ mơ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "người đã bị thoái hóa khớp háng có thể phòng ngừa , hạn chế các cơn đau bằng cách tập thể dục nhẹ nhàng hằng ngày , ăn nhiều thực phẩm giàu canxi như sữa , tôm , ốc , cua , dầu cá , .",
+    "entities": [
+      {
+        "text": "thoái hóa khớp háng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cơn đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng nội soi , bác sĩ xem xét thực quản tìm kiếm ung thư hoặc các khu vực kích thích .",
+    "entities": [
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một nhóm các xét nghiệm máu được gọi là xét nghiệm chức năng gan có thể được sử dụng để chẩn đoán các vấn đề về gan .",
+    "entities": [
+      {
+        "text": "xét nghiệm chức năng gan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "can thiệp bằng phẫu thuật : đôi khi cần sử dụng các thiết bị điều trị ( như cấy máy khử rung , máy tái đồng bộ tim , hỗ trợ tuần hoàn cơ học ) .",
+    "entities": [
+      {
+        "text": "máy tái đồng bộ tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cấy máy khử rung",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một phần của thăm khám , bác sĩ có thể thu thập nước tiểu hay mẫu máu , kiểm tra huyết áp và xem xét những thuốc gì đang sử dụng .",
+    "entities": [
+      {
+        "text": "kiểm tra huyết áp và xem xét những thuốc gì đang sử dụng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bác sĩ có thể thu thập nước tiểu hay mẫu máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tùy thuộc vào loại tắc nghẽn , bác sĩ phẫu thuật có thể đề nghị xây dựng lại toàn bộ hệ thống thoát nước mắt .",
+    "entities": [
+      {
+        "text": "phẫu thuật có thể đề nghị xây dựng lại toàn bộ hệ thống thoát nước mắt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các yếu tố nguy cơ có thể kiểm soát được bao gồm : hạn chế hút thuốc và uống rượu quá nhiều hạn chế các thức ăn chứa nhiều dầu mỡ , chất béo hạn chế thức ăn chứa nhiều đường , nước ngọt chế độ tập luyện thể dục thể thao phù hợp các biện pháp chẩn đoán bệnh ung thư tụy dựa vào hỏi bệnh sử , tiền sử và khám lâm sàng , bác sĩ cũng có thể có một số gợi ý về bệnh .",
+    "entities": [
+      {
+        "text": "bệnh ung thư tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau đó các nốt này tiến triển thành những mụn nước , bọng nước , rồi khô đi , bong vảy và tự khỏi hoàn toàn sau 4 đến 5 ngày .",
+    "entities": [
+      {
+        "text": "bọng nước",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mụn nước",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bong vảy",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "u có thể xâm lấn tới tuyến tiền liệt và cổ bàng quang , có thể có các triệu chứng của di căn xa ( phổi , xương . . ) đối tượng nguy cơ bệnh ung thư dương vật không cắt bao quy đầu : việc cắt bao quy đầu dẫn đến không tồn đọng bựa sinh dục , không bị hẹp bao quy đầu về sau khi dương vật bị kích thích mạn tính , đặc biệt khi vệ sinh cá nhân không tốt .",
+    "entities": [
+      {
+        "text": "bệnh ung thư dương vật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu nghe tạm thời hoặc vĩnh viễn kém ở trẻ sơ sinh và trẻ mới biết đi , có thể bị chậm trễ nói , kỹ năng xã hội và phát triển .",
+    "entities": [
+      {
+        "text": "bị chậm trễ nói",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể sẽ dạy thực hiện các thủ tục tự phục hồi chức năng tiền đình để có thể làm điều đó ở nhà trước khi kiểm tra lại .",
+    "entities": [
+      {
+        "text": "thủ tục tự phục hồi chức năng tiền đình",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu chưa mổ ngay được thì có thể làm băng ép bên bị thoát vị và mổ sớm theo chương trình bán cấp cứu hiện nay , các bệnh viện trong nước đang áp dụng kỹ thuật mổ thoát vị bẹn ở trẻ em bằng cách sử dụng kim endo trong phẫu thuật nội soi .",
+    "entities": [
+      {
+        "text": "phẫu thuật nội soi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thoát vị bẹn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "theo hiệp hội ung thư hoa kỳ , ung thư da đầu có tỷ lệ mắc thấp hơn so với các loại u ác tính khác nhưng nguy hiểm hơn và tỷ lệ tử vong cao gần gấp 2 lần .",
+    "entities": [
+      {
+        "text": "ung thư da đầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng nghiêm trọng , chẳng hạn như đột quỵ , nhồi máu cơ tim và suy thận , cũng phổ biến hơn ở những người gốc phi .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

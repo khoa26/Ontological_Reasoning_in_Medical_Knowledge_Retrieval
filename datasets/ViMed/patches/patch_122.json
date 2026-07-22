@@ -1,0 +1,346 @@
+[
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải hội chứng marfan yếu tố di truyền làm tăng nguy cơ mắc hội chứng marfan .",
+    "entities": [
+      {
+        "text": "hội chứng marfan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu con không kế thừa các gene bị lỗi , sẽ không bị bệnh huntington và không thể truyền nó cho thế hệ sau .",
+    "entities": [
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân nguyên nhân của viêm họng là vi khuẩn được gọi là liên cầu khuẩntococcus pyogenes , hoặc liên cầu nhóm a . vi khuẩn liên cầu khuẩn rất dễ lây .",
+    "entities": [
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các liều thuốc - cũng như thời gian điều trị bao lâu phụ thuộc vào mức độ nghiêm trọng của nhiễm trùng và làm thế nào nhanh chóng cải thiện các triệu chứng .",
+    "entities": [
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "giống như nhiều loại phẫu thuật khác , phẫu thuật khai thông ống dẫn trứng có thể có một số tác dụng không mong muốn .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc suy tim nghiện rượu dẫn đến ngộ độc rượu; béo phì ; phụ nữ sau sinh , … phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán suy tim chẩn đoán dựa trên lâm sàng như khó thở khi gắng sức hoặc mệt mỏi , phù , nhịp nhanh , rales phổi , tiếng s3 , tĩnh mạch cổ nổi thường gợi ý chẩn đoán suy tim , nhưng ít khi biểu hiện sớm .",
+    "entities": [
+      {
+        "text": "tĩnh mạch cổ nổi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhịp nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rales phổi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiếng s3",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phù",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chủ đề : hóa trị xạ trị ung thư ung thư da da tia cực tím ánh nắng mặt trời tia uv ung thư da đầu",
+    "entities": [
+      {
+        "text": "ung thư da đầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng các biến chứng của u hắc tố mắt có thể bao gồm : tăng áp suất bên trong mắt ( nhãn áp ) .",
+    "entities": [
+      {
+        "text": "u hắc tố mắt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhãn áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số men gan tăng cao ở hầu hết mọi người với xơ gan mật , đặc biệt là phosphatase kiềm , được sản xuất trong đường mật .",
+    "entities": [
+      {
+        "text": "xơ gan mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "với phương pháp này , các trường hợp tắc ống phóng tinh do nang có tiên lượng tốt hơn các trường hợp tắc không do nang ( tắc hậu viêm ) .",
+    "entities": [
+      {
+        "text": "tắc ống phóng tinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật ngoại khoa đối với động mạch chủ đi xuống , có thể chỉ cần điều trị bằng thuốc khi phình tách ổn định , không biến chứng và giới hạn ở động mạch chủ đi xuống ( type b ) .",
+    "entities": [
+      {
+        "text": "phẫu thuật ngoại khoa",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "viêm thực quản trào ngược điều trị viêm thực quản trào ngược cho có thể bao gồm những điều sau đây : thuốc ức chế bơm proton .",
+    "entities": [
+      {
+        "text": "viêm thực quản trào ngược",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc ức chế bơm proton",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân đau tim , bệnh suyễn nặng , ngộ độc carbon monoxide , tiếp xúc liều cao hoặc quá liều thuốc gây mê .",
+    "entities": [
+      {
+        "text": "bệnh suyễn nặng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguy cơ mắc phải những ai có nguy cơ mắc phải hội chứng qt kéo dài hội chứng qt kéo dài có thể xảy ra ở bất cứ ai , bất cứ độ tuổi nào .",
+    "entities": [
+      {
+        "text": "hội chứng qt kéo dài",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "lối sống và các biện pháp khắc phục có thể cần phải thay đổi lối sống để cải thiện sức khỏe tổng thể của tim , đặc biệt là để ngăn ngừa hoặc điều trị các vấn đề như huyết áp cao .",
+    "entities": [
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm thực quản truyền nhiễm các yếu tố nguy cơ chính đối với viêm thực quản truyền nhiễm là người có chức năng hệ thống miễn dịch yếu kém do vấn đề như hiv / aids , một số bệnh ung thư , điều trị ung thư nhất định , các loại thuốc ức chế phản ứng của hệ miễn dịch với các bộ phận cấy ghép ( ức chế miễn dịch ) và rối loạn hệ miễn dịch khác nhau .",
+    "entities": [
+      {
+        "text": "viêm thực quản truyền nhiễm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "aids",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hiv",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể có xấu đi nếu thấy rằng nó khó hơn để hiểu tất cả mọi thứ nói trong cuộc trò chuyện , đặc biệt là khi có nền tảng tiếng ồn , nếu âm thanh dường như bị bóp nghẹt , hoặc nếu thấy mình nghe được khi bật mức âm thanh cao hơn khi nghe nhạc , đài phát thanh hoặc truyền hình .",
+    "entities": [
+      {
+        "text": "nghe được khi bật mức âm thanh cao hơn khi nghe nhạc",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "âm thanh dường như bị bóp nghẹt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mang thiết bị an toàn thích hợp và đúng cách phù hợp trong quá trình thể thao , bao gồm một mũ bảo hiểm khi đi xe đạp , xe máy , trượt tuyết , cưỡi ngựa , trượt băng hoặc làm bất kỳ hoạt động nào có thể dẫn đến chấn thương đầu .",
+    "entities": []
+  },
+  {
+    "text": "đôi khi , điều này có thể đủ để giải quyết tình trạng hoặc ít nhất là dấu hiệu , chẳng hạn như tiêu chảy .",
+    "entities": [
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh u não ở trẻ em bệnh ung thư não ở trẻ em là nguyên nhân gây tử vong ở trẻ em nhiều nhất hiện nay , những trẻ sau có nguy cơ cao mắc bệnh : trẻ có tiền sử người trong gia đình đã từng bị bệnh; trẻ sống trong môi trường hoặc thường xuyên tiếp xúc với môi trường độc hại .",
+    "entities": [
+      {
+        "text": "bệnh ung thư não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh u não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hỗ trợ người chăm sóc chăm sóc cho một người với chứng sa sút trí tuệ mất trí nhớ là yêu cầu thể chất và cảm xúc .",
+    "entities": [
+      {
+        "text": "chứng sa sút trí tuệ mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bởi vì công suất giảm đối với việc ra quyết định và giải quyết một số tình huống hàng ngày có thể gây ra các vấn đề an toàn cho người mất trí nhớ .",
+    "entities": [
+      {
+        "text": "mất trí nhớ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một ống nhỏ được đặt trong cửa để giúp thông cho tai giữa và ngăn ngừa sự tích tụ các chất lỏng nhiều hơn nữa .",
+    "entities": [
+      {
+        "text": "một ống nhỏ được đặt trong cửa để giúp thông cho tai giữa và ngăn ngừa sự tích tụ các chất lỏng nhiều hơn nữa",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đối phó và hỗ trợ mặc dù không có câu trả lời dễ dàng cho người đối phó với bệnh ung thư tuyến tụy , một số các đề nghị sau đây có thể giúp : tìm hiểu những gì cần biết về bệnh tật .",
+    "entities": [
+      {
+        "text": "bệnh ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "lạm dụng thuốc xịt mũi thuốc thông mũi có thể gây ra một loại viêm mũi không dị ứng gọi là viêm mũi medicamentosa .",
+    "entities": [
+      {
+        "text": "viêm mũi medicamentosa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh trĩ nội để phòng ngừa bệnh trĩ nội , cách tốt nhất là giữ cho phân mềm khi đi qua lỗ hậu môn .",
+    "entities": [
+      {
+        "text": "bệnh trĩ nội",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm mồ hôi một số xét nghiệm mồ hôi để xác định chính xác các vị trí đổ mồ hôi và ước tính mức độ nghiêm trọng của tình trạng của bạn , bao gồm xét nghiệm iốt , độ dẫn điện của da .",
+    "entities": [
+      {
+        "text": "độ dẫn điện của da",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xét nghiệm mồ hôi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xét nghiệm iốt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "theo dõi hơi thở hoặc thử nghiệm phân có thể xác nhận vi khuẩn h . pylori không còn hiện diện trong cơ thể và điều trị đã thành công .",
+    "entities": []
+  },
+  {
+    "text": "dùng thuốc nhất định , bao gồm cả thuốc an thần , chất ma tuý hoặc một số thuốc giảm huyết áp .",
+    "entities": [
+      {
+        "text": "thuốc giảm huyết áp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc an thần",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "viêm đại tràng màng giả có thể trải nghiệm đau đớn , các triệu chứng báo động và thậm chí có thể trở thành đe dọa tính mạng .",
+    "entities": [
+      {
+        "text": "viêm đại tràng màng giả",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau đớn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

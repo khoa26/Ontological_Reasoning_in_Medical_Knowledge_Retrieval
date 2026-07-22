@@ -1,0 +1,395 @@
+[
+  {
+    "text": "nó có thể làm suy yếu cơ thắt thực quản dưới cho phép acid trào vào thực quản và gây ra các triệu chứng và biến chứng tương tự như của gerd .",
+    "entities": [
+      {
+        "text": "gerd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật bác sĩ có thể đề nghị phẫu thuật để loại bỏ cục máu đông huyết khối tĩnh mạch sâu ở cánh tay hoặc chân .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , cùng cắt giảm này có thể được thực hiện với một laser cắt đặc biệt để khắc hình dạng của giác mạc .",
+    "entities": [
+      {
+        "text": "laser",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh tiền mãn kinh nguyên nhân chính dẫn đến tình trạng này là do hoạt động của buồng trứng bắt đầu suy giảm dẫn tới sự mất cân bằng hoặc rối loạn nồng độ các nội tiết tố nữ ( estrogen và progesterone ) .",
+    "entities": [
+      {
+        "text": "bệnh tiền mãn kinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hạn chế lớn của ôxy là cần phải có nguồn thuận tiện và điều tiết với oxy , có thể làm cho việc điều trị bất tiện và không thể tiếp cận .",
+    "entities": [
+      {
+        "text": "ôxy",
+        "type": "THUỐC"
+      },
+      {
+        "text": "oxy",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nó cũng có thể xảy ra ở người lớn do nhiều nguyên nhân và điều kiện , chẳng hạn như nhiễm trùng và các bệnh tim khác .",
+    "entities": []
+  },
+  {
+    "text": "nguy cơ mắc phải những ai có nguy cơ mắc phải sởi sởi có thể xảy ra ở bất cứ ai , bất cứ độ tuổi nào .",
+    "entities": [
+      {
+        "text": "sởi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hệ tuần hoàn : phần lớn do các thói quen không lành mạnh như hút thuốc lá , uống nhiều rượu bia hay mắc chứng tăng huyết áp hoặc đái tháo đường .",
+    "entities": [
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật ung thư đại tràng giai đoạn đầu nếu ung thư nhỏ , trong polip và trong giai đoạn rất sớm , bác sĩ có thể loại bỏ nó hoàn toàn bằng nội soi .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu quan sát thấy một khối u tụy trên siêu âm , chụp ct scan vẫn cần thiết để có thêm nhiều thông tin hơn nữa .",
+    "entities": [
+      {
+        "text": "chụp ct scan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu mảng xơ vữa đột ngột nứt vỡ , quá trình đông máu khởi động , tạo ra các cục huyết khối lấp kín lòng mạch vành , lúc ấy nhồi máu cơ tim sẽ xảy ra .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh cơ tim phì đại đôi khi giống với nhồi máu cơ tim cũ vùng vách do tạo ra một phức hợp qrs trong v1 và v2.",
+    "entities": [
+      {
+        "text": "bệnh cơ tim phì đại",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bạn cũng có thể cảm thấy như tim mình đang loạn nhịp , rung rinh , đập thình thịch hoặc đập quá mạnh hoặc quá nhanh .",
+    "entities": [
+      {
+        "text": "đập thình thịch",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đập quá mạnh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "loạn nhịp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rung rinh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "quá nhanh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu nhận thấy bất kỳ dấu hiệu cảnh báo về bong võng mạc , đặc biệt nếu đang ở độ tuổi trên 40, hoặc một thành viên trong gia đình đã có võng mạc tách ra , hoặc đang cận thị rất nặng , liên hệ với bác sĩ nhãn khoa ngay lập tức .",
+    "entities": [
+      {
+        "text": "liên hệ với bác sĩ nhãn khoa ngay lập tức",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "võng mạc tách ra",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cận thị rất nặng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bong võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "apixaban là t huốc chống đông đường uống thế hệ mới thứ 3 thông qua cơ chế ức chế trực tiếp yếu tố xa .",
+    "entities": [
+      {
+        "text": "huốc chống đông",
+        "type": "THUỐC"
+      },
+      {
+        "text": "apixaban",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tắc ruột sơ sinh là hội chứng cấp cứu ngoại khoa phổ biến nhất ở trẻ sơ sinh do tắc ruột gây nên .",
+    "entities": [
+      {
+        "text": "tắc ruột sơ sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay thế thuốc không có phương pháp điều trị thay thế thuốc đã được chứng minh để điều trị bệnh xơ gan .",
+    "entities": [
+      {
+        "text": "bệnh xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thăm khám định kỳ để được theo dõi tình trạng sức khỏe , diễn tiến của bệnh và để bác sĩ tìm hướng điều trị phù hợp trong thời gian tiếp theo nếu bệnh chưa có dấu hiệu thuyên giảm hay có bất kỳ cơn đau ngực nào .",
+    "entities": [
+      {
+        "text": "cơn đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "siêu âm bìu : phát hiện được 75% khối u , xác định có hay không tràn dịch màng tinh hoàn .",
+    "entities": [
+      {
+        "text": "tràn dịch màng tinh hoàn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "siêu âm bìu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "uốn ván sơ sinh thường bắt nguồn từ nhiễm trùng do cắt dây rốn ở trẻ sơ sinh không đảm bảo nguyên tắc vô khuẩn .",
+    "entities": [
+      {
+        "text": "uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ một số yếu tố nguy cơ làm tăng nguy cơ phát triển cận thị , như : lịch sử gia đình .",
+    "entities": [
+      {
+        "text": "cận thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh ung thư lưỡi tổng quan bệnh ung thư lưỡi ung thư lưỡi là một bệnh lý ác tính rất nguy hiểm thường gặp ở vùng miệng - lưỡi .",
+    "entities": [
+      {
+        "text": "bệnh ung thư lưỡi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị bằng thuốc , tuỳ theo mức độ suy tim mà bác sỹ cân nhắc lựa chọn thuốc điều trị cho phù hợp , các nhóm thuốc điều trị suy tim bao gồm : t huốc ức chế men chuyển ( acei ) / thuốc chẹn thụ thể angiotensin ii ( arb ) ; thuốc beta - blocker ; thuốc lợi tiểu ; thuốc đối kháng aldosteron ; ivabradin ; arni ( angiotensin receptor neprilysin inhibitor ) ; digoxin ; hydralazine và isosorbide dinitrat .",
+    "entities": [
+      {
+        "text": "angiotensin receptor neprilysin inhibitor",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chẹn thụ thể angiotensin ii",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc đối kháng aldosteron",
+        "type": "THUỐC"
+      },
+      {
+        "text": "huốc ức chế men chuyển",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc beta - blocker",
+        "type": "THUỐC"
+      },
+      {
+        "text": "isosorbide dinitrat",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc lợi tiểu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hydralazine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ivabradin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "digoxin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "arni",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù gần đây đã có những tiến bộ trong điều trị phẫu thuật và nội khoa ung thư tuyến tụy , tiên lượng bệnh vẫn còn tương đối kém .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "xạ trị : xạ trị sử dụng các chùm năng lượng mạnh , như tia x và proton , để tiêu diệt các tế bào ung thư .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "viêm da mạn tính hoặc chấn thương da : ung thư có thể phát triển trên vùng da có tổn thương từ trước như da bỏng cũ , lỗ dẫn lưu , lỗ dò loét do nằm lâu , vết xăm da .",
+    "entities": [
+      {
+        "text": "viêm da mạn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết vt diễn ra ở những người bị một số vấn đề liên quan đến tim , chẳng hạn như những vết sẹo hay thiệt hại cơ tâm thất từ đau tim .",
+    "entities": [
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "vt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc một số người bị run có thể không cần điều trị nếu các triệu chứng đều nhẹ .",
+    "entities": [
+      {
+        "text": "không cần điều trị nếu các triệu chứng đều nhẹ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "run",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh thoát vị hoành ở trẻ em tổng quan bệnh thoát vị hoành ở trẻ em cơ hoành là cấu trúc cơ có hình vòm ngăn cách giữa ổ bụng và lồng ngực được hình thành vào tuần thứ 8 – 10 của thời kỳ bào thai .",
+    "entities": [
+      {
+        "text": "bệnh thoát vị hoành",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hiếm khi thực hiện trừ trường hợp bệnh không thể được điều trị chỉ bằng cách ghép tim hoặc ghép phổi .",
+    "entities": [
+      {
+        "text": "ghép phổi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ghép tim",
+        "type": "THUỐC"
+      }
+    ]
+  }
+]

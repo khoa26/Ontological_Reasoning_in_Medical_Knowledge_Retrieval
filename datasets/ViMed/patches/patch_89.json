@@ -1,0 +1,436 @@
+[
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của huyết áp thấp chế độ sinh hoạt : tùy thuộc vào lý do huyết áp thấp , các bước sau có thể giúp giảm hoặc ngăn ngừa các triệu chứng .",
+    "entities": [
+      {
+        "text": "huyết áp thấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bên cạnh xét nghiệm máu và chụp x quang phổi , các xét nghiệm để chẩn đoán bệnh tim có thể bao gồm : điện tâm đồ ( ecg hoặc ekg ) : một xét nghiệm nhanh chóng và không gây đau đớn để ghi lại các tín hiệu điện trong tim .",
+    "entities": [
+      {
+        "text": "chụp x quang phổi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ecg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ekg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phù bạch huyết do điều trị ung thư có thể không xảy ra cho đến vài tháng hoặc vài năm sau khi điều trị .",
+    "entities": [
+      {
+        "text": "phù bạch huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng khi ung thư thực quản tiến triển , nó có thể gây biến chứng như : cản trở thực quản .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị tái phát tái phát sau phẫu thuật ung thư da tế bào đáy có thể phẫu thuật lại lấy rộng u hoặc xạ trị , kết quả vẫn tương đối tốt .",
+    "entities": [
+      {
+        "text": "ung thư da tế bào đáy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh u máu u máu là một bệnh lý không ảnh hưởng nhiều đến sức khỏe của người bệnh .",
+    "entities": [
+      {
+        "text": "bệnh u máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "co thắt : nhiễm trùng do vi khuẩn thường gây ra cơn co thắt ở bụng , mỗi cơn sẽ thường kéo dài 3 - 4 phút một lần và có thể trở nên nặng hơn gây khó chịu cho người bệnh .",
+    "entities": [
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong suốt kiểm tra , bác sĩ sẽ cho dấu hiệu và triệu chứng của viêm họng , sốt và các hạch bạch huyết mở rộng , và có lẽ sẽ sử dụng để có được một cái nhìn tốt ở cổ họng và amiđan .",
+    "entities": [
+      {
+        "text": "sử dụng để có được một cái nhìn tốt ở cổ họng và amiđan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "các hạch bạch huyết mở rộng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các dấu hiệu và triệu chứng của viêm dây thần kinh thị giác có thể được chỉ dẫn của một rối loạn tự miễn dịch gọi là bệnh đa xơ cứng .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh đa xơ cứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu độ về cận thị đủ không thể thực hiện một nhiệm vụ như muốn , hoặc nếu chất lượng của tầm nhìn làm giảm đi sự thú vị của các hoạt động , gặp bác sĩ mắt .",
+    "entities": [
+      {
+        "text": "chất lượng của tầm nhìn làm giảm đi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cận thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm máu có thể giúp loại trừ các bệnh khác có thể gây ra các dấu hiệu và triệu chứng tương tự như đau bụng không viêm loét .",
+    "entities": [
+      {
+        "text": "đau bụng không viêm loét",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc các mục tiêu điều trị polyp mũi là để giảm kích thước của khối u hoặc loại bỏ khối u và điều trị các rối loạn , chẳng hạn như dị ứng , có thể góp phần vào tình trạng viêm mạn tính ở đường mũi và xoang .",
+    "entities": [
+      {
+        "text": "giảm kích thước của khối u hoặc loại bỏ khối u và điều trị các rối loạn",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm mạn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "polyp mũi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị ung thư hạch gây ra các dấu hiệu và triệu chứng có thể đề nghị điều trị , các phương pháp điều trị có thể bao gồm : hóa trị : hóa trị là một phương pháp điều trị bằng thuốc - bằng đường uống hoặc tiêm - giết chết các tế bào ung thư .",
+    "entities": [
+      {
+        "text": "ung thư hạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đeo kính bảo vệ mắt khi chơi thể thao , cắt cỏ khi sơn hoặc sử dụng các sản phẩm khác với khói độc hại .",
+    "entities": [
+      {
+        "text": "đeo kính bảo vệ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán viêm màng ngoài tim bác sĩ sẽ hỏi về tiền sử bệnh cũng như các triệu chứng của bệnh nhân .",
+    "entities": [
+      {
+        "text": "viêm màng ngoài tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thông thường , nếu sinh thiết cho thấy không có loạn sản , sẽ theo dõi nội soi một năm sau đó .",
+    "entities": [
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "đặc điểm của u : xuất hiện đã lâu , tiến triển chậm , có thể không đau , nếu đau ở vùng u gợi ý là khối u ác tính .",
+    "entities": [
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán rung nhĩ điện tâm đồ cần được sử dụng để chẩn đoán rung nhĩ ( mức độ bằng chứng c ) .",
+    "entities": [
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đau đầu với sốt , cứng cổ , rối loạn tâm thần , động kinh , tê hoặc nói khó mà có thể chỉ ra một số vấn đề , bao gồm đột quỵ , bệnh viêm màng não , viêm não hoặc u não .",
+    "entities": [
+      {
+        "text": "bệnh viêm màng não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rối loạn tâm thần",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "động kinh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cứng cổ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nói khó",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tê",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "kết quả là , có thể trải nghiệm chuyển động không kiểm soát được , rối loạn cảm xúc và suy sụp tinh thần .",
+    "entities": [
+      {
+        "text": "suy sụp tinh thần",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rối loạn cảm xúc",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , chảy máu trực tràng có thể xảy ra với các bệnh tiêu hóa khác , bao gồm ung thư đại trực tràng và ung thư hậu môn .",
+    "entities": [
+      {
+        "text": "ung thư đại trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy máu trực tràng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ung thư hậu môn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chỉ định tân bổ trợ trước phẫu thuật giúp khối u giảm kích thước , từ không thể phẫu thuật thành có thể phẫu thuật .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm máu cũng có thể được sử dụng để giúp chẩn đoán các đột biến di truyền khác , chẳng hạn như hội chứng loeys - dietz , gây ra các phát hiện về thể chất tương tự như hội chứng marfan .",
+    "entities": [
+      {
+        "text": "hội chứng loeys - dietz",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột biến di truyền",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng marfan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ viêm hạch bạch huyết mạc treo ruột - có hoặc không có triệu chứng - xảy ra chủ yếu ở trẻ em và thanh thiếu niên .",
+    "entities": [
+      {
+        "text": "viêm hạch bạch huyết mạc treo ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "u ác tính : u cứng , chắc , ranh giới không rõ , di động hạn chế hoặc cố định khi u xâm lấn vào cơ hoặc xương hàm dưới , có thể gây liệt nhẹ môi dướ i , xâm lấn da hoặc loét mặt da , có thể di căn hạch cổ hoặc di căn phổi , xương .",
+    "entities": [
+      {
+        "text": "liệt nhẹ môi dướ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "loét mặt da",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hạch cổ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , điều trị này có thể có biến chứng nghiêm trọng như chảy máu đường ruột hoặc tấn công bệnh suyễn nặng .",
+    "entities": [
+      {
+        "text": "chảy máu đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh suyễn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu và triệu chứng của bệnh trĩ có thể bao gồm : chảy máu nhưng không đau trong quá trình đi tiêu , có thể nhận thấy một lượng nhỏ máu màu đỏ tươi trên giấy vệ sinh hoặc trong bồn cầu .",
+    "entities": [
+      {
+        "text": "chảy máu nhưng không đau trong quá trình đi tiêu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đau nhức đầu do tập thể dục thứ phát những cơn đau đầu có thể gây ra cùng triệu chứng như : ói mửa .",
+    "entities": [
+      {
+        "text": "đau nhức đầu do tập thể dục thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cơn đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ói mửa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đường lây truyền bệnh u máu u mạch máu là bệnh lý không lây truyền từ người bệnh sang người lành .",
+    "entities": [
+      {
+        "text": "bệnh u máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u mạch máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "dấu hiệu và triệu chứng của nó cũng tương tự như các rối loạn khác về thần kinh và có thể thay đổi từ người sang người .",
+    "entities": [
+      {
+        "text": "rối loạn khác về thần kinh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

@@ -1,0 +1,412 @@
+[
+  {
+    "text": "nguyên nhân gây mất trí nhớ có thể được đảo ngược một số nguyên nhân của chứng mất trí hay các triệu chứng giống như chứng mất trí nhớ có thể được đảo ngược .",
+    "entities": [
+      {
+        "text": "chứng mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mất trí nhớ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh ung thư lưỡi ung thư lưỡi có thể được phòng tránh nhờ vào việc giữ gìn vệ sinh răng miệng .",
+    "entities": [
+      {
+        "text": "bệnh ung thư lưỡi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm xoang mãn tính có thể được gây ra bởi nhiễm trùng nhưng cũng có thể được gây ra bởi khối u trong xoang hoặc lệch vách ngăn mũi .",
+    "entities": [
+      {
+        "text": "viêm xoang mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh tự kỷ ở người trưởng thành được gọi là phổ tự kỷ vì sự đa dạng của các dấu hiệu và triệu chứng của nó và khác biệt về mức độ nghiêm trọng của chúng .",
+    "entities": [
+      {
+        "text": "bệnh tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phổ tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tiêu chảy : khi mầm bệnh di chuyển ra xa hơn trong đường tiêu hóa , chúng có thể gây tiêu chảy .",
+    "entities": [
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các tác dụng phụ chính là buồn ngủ và các t riệu chứng giống như cú m , thường biến mất trong một thời gian ngắn .",
+    "entities": [
+      {
+        "text": "riệu chứng giống như cú",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn ngủ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tắc ống phóng tinh : nguyên nhân , triệu chứng , chẩn đoán và điều trị chủ đề : hỗ trợ sinh sản vô sinh vô sinh nam tinh hoàn ống dẫn tinh",
+    "entities": [
+      {
+        "text": "tắc ống phóng tinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong thủ tục này , nuốt một viên nang có chứa dấu mốc mà hiển thị trên x quang trong vòng vài ngày .",
+    "entities": [
+      {
+        "text": "nuốt một viên nang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "x quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "che tai tương tự như tai nghe có thể bảo vệ đôi tai bằng cách đưa âm thanh lớn nhất xuống đến một mức độ chấp nhận được .",
+    "entities": [
+      {
+        "text": "che tai",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bệnh than đang là mối đe dọa hiện nay khi ngày càng bị lợi dụng căn bệnh này để làm vũ khí sinh học .",
+    "entities": [
+      {
+        "text": "bệnh than",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh hồng cầu hình liềm : cơ thể đáp ứng với bệnh hồng cầu hình liềm bằng cách tăng sinh các tế bào máu làm cho độ quánh của máu tăng lên .",
+    "entities": [
+      {
+        "text": "bệnh hồng cầu hình liềm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán sởi chẩn đoán phải dựa vào triệu chứng lâm sàng của sởi và xét nghiệm cần thiết : triệu chứng lâm sàng : sốt , phát ban , ho , mắt đỏ ( viêm kết mạc mắt ) hoặc chảy nước mũi .",
+    "entities": [
+      {
+        "text": "chảy nước mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phát ban",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mắt đỏ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sởi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong một số , người có dấu hiệu và triệu chứng của viêm dây thần kinh thị giác có thể là một dấu hiệu của bệnh đa xơ cứng , một tình trạng dẫn đến chứng viêm và tổn thương dây thần kinh trong não và tủy sống .",
+    "entities": [
+      {
+        "text": "viêm và tổn thương dây thần kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh đa xơ cứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau phẫu thuật ung thư da tế bào đáy mà diện cắt tiếp cận có thể xạ trị bổ trợ , nhất là mổ vùng sát xương .",
+    "entities": [
+      {
+        "text": "ung thư da tế bào đáy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "để được chẩn đoán là đau nửa đầu kinh niên , phải có nhức đầu - đau nửa đầu , kiểu căng thẳng hoặc cả hai 15 ngày hoặc hơn trong một tháng , ít nhất là ba tháng .",
+    "entities": [
+      {
+        "text": "đau nửa đầu kinh niên",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "kiểu căng thẳng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau nửa đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhức đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh u tuyến yên để chẩn đoán bệnh u tuyến yên trong não , ngoài thăm khám có thể dùng các phương pháp sau : đo lường mức độ hormone thông qua việc xét nghiệm máu hoặc nước tiểu để tìm ra khối u và đo kích thước của khối u , sử dụng phương pháp chụp cộng huởng từ .",
+    "entities": [
+      {
+        "text": "chụp cộng huởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh u tuyến yên",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải nhồi máu cơ tim một số yếu tố làm tăng nguy cơ mắc nhồi máu cơ tim , bao gồm : tuổi cao .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số biểu hiện khác như xuất hiện nút ban hồng là các ban đỏ hình vòng trên da đặc biệt quanh các khớp .",
+    "entities": [
+      {
+        "text": "ban đỏ hình vòng trên da",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nút ban hồng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù cấy icd đem lại hiệu quả ngăn ngừa đột tử do tim nhưng cũng có nguy cơ gây ra các biến chứng như tạo các các cú sốc không xác định , nhiễm trùng tái phát , việc thay đổi thiết bị hay những thủ thuật nhỏ như nhổ răng cũng gây ra nguy cơ nhiễm trùng điện cực .",
+    "entities": [
+      {
+        "text": "cấy icd",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra và chẩn đoán để chẩn đoán bệnh rung nhĩ , bác sĩ có thể làm các xét nghiệm có liên quan đến những điều sau đây : điện tâm đồ ( ecg ) .",
+    "entities": [
+      {
+        "text": "bệnh rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ecg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "vì có thể không phải luôn luôn được sẵn sàng rõ ràng đang gặp rắc rối với tầm nhìn , học viện mắt mỹ đề nghị khoảng thời gian sau đây để khám mắt thường xuyên : người lớn nếu không đeo kính , không có triệu chứng của rắc rối mắt và có nguy cơ thấp , các bệnh về mắt đang phát triển , chẳng hạn như bệnh tăng nhãn áp , đó là khuyến cáo có một bài kiểm tra mắt ở khoảng cách sau đây .",
+    "entities": [
+      {
+        "text": "khám mắt thường xuyên",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , không rõ ràng lý do tại sao một số người với tất cả các yếu tố nguy cơ không bao giờ phát triển ung thư , trong khi những người khác có yếu tố nguy cơ không rõ ràng lại có .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các nguyên nhân ít nghiêm trọng hơn gây đau bụng bao gồm : táo bón ; hội chứng ruột kích thích ; dị ứng hoặc không dung nạp thực phẩm ( chẳng hạn như không dung nạp lactose ) ; ngộ độc thực phẩm; cảm cúm ; chu kỳ kinh nguyệt ( nữ giới ) .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cảm cúm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh trào ngược dạ dày thực quản ngoài hỏi và khám thực thể , bác sĩ có thể chỉ định thêm một số xét nghiệm sau để chẩn đoán trào ngược dạ dày thực quản : nội soi dạ dày .",
+    "entities": [
+      {
+        "text": "bệnh trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra và chẩn đoán các xét nghiệm và thủ tục được sử dụng để chẩn đoán bệnh xơ gan bao gồm : xét nghiệm máu chẳng hạn như một số thành phần máu , xét nghiệm bilirubin và các xét nghiệm cụ thể để xác định nguyên nhân gây ra bệnh xơ gan .",
+    "entities": [
+      {
+        "text": "xét nghiệm bilirubin",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể khuyên nên siêu âm bụng hoặc chụp cắt lớp vi tính ( ct ) để tạo ra hình ảnh của túi mật .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng mỏi mắt không có hậu quả nghiêm trọng hoặc lâu dài , nhưng nó có thể rối và khó chịu .",
+    "entities": [
+      {
+        "text": "mỏi mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ví dụ về các biến chứng sức khỏe lâu dài của bệnh sán máng bao gồm : ảnh hưởng đến hệ tiêu hóa như đau và sưng bụng , tiêu chảy và có máu trong phân .",
+    "entities": [
+      {
+        "text": "có máu trong phân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh sán máng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sưng bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "quản lý stress , thông qua thư giãn phản hồi sinh học , điều trị hoặc tập thể dục , có thể cung cấp một số cứu trợ .",
+    "entities": [
+      {
+        "text": "thư giãn phản hồi sinh học",
+        "type": "THUỐC"
+      },
+      {
+        "text": "điều trị hoặc tập thể dục",
+        "type": "THUỐC"
+      },
+      {
+        "text": "quản lý stress",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "u máu có nguồn gốc từ các mạch máu sâu dưới da gọi là u máu thể hang , cần được can thiệp nếu gây ra các biến chứng .",
+    "entities": [
+      {
+        "text": "u máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

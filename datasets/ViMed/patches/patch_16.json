@@ -1,0 +1,364 @@
+[
+  {
+    "text": "cũng được gọi là viêm màng bồ đào trước , viêm mống mắt là một tình trạng nghiêm trọng , nếu không chữa trị , có thể dẫn đến mù lòa .",
+    "entities": [
+      {
+        "text": "viêm màng bồ đào trước",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm mống mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đặc biệt là nếu rung nhĩ không được kiểm soát , có thể làm suy yếu tim , dẫn đến suy tim - tình trạng trong đó tim không thể bơm máu đủ để đáp ứng nhu cầu của cơ thể .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu trẻ bị một hoặc nhiều đợt viêm họng liên cầu khuẩn hoặc mắc bệnh tinh hồng nhiệt ( scarlet fever ) mà không được điều trị hoặc không được điều trị hoàn toàn , trẻ có thể bị sốt thấp khớp .",
+    "entities": [
+      {
+        "text": "bệnh tinh hồng nhiệt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh ung thư tụy việc điều trị tốt nhất ung thư tụy tùy thuộc vào mức độ lan rộng của khối u . mức độ của ung thư có thể được phân loại như sau : ung thư tại chỗ : ung thư chỉ khu trú giới hạn trong tuyến tụy .",
+    "entities": [
+      {
+        "text": "bệnh ung thư tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặt khác , nếu máu xuất hiện trong phân , có thể là kết quả của tình trạng trĩ hoặc một vấn đề đường ruột khác hơn là ung thư .",
+    "entities": [
+      {
+        "text": "trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh trĩ các tĩnh mạch xung quanh hậu môn có xu hướng kéo dài ra dưới áp lực và có thể phình ra hoặc sưng lên .",
+    "entities": [
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu có viêm phúc mạc , kiểm tra chất lỏng này có thể hiển thị tăng tế bào bạch cầu , thường chỉ ra nhiễm trùng hoặc viêm .",
+    "entities": [
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau khi phẫu thuật nếu kênh nhĩ thất đã được sửa chữa thành công bằng phẫu thuật , có khả năng sẽ có cuộc sống bình thường , thường không có hạn chế hoạt động .",
+    "entities": [
+      {
+        "text": "kênh nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "không giống như chứng đau nửa đầu và đau đầu căng thẳng , đau đầu cơn thường không liên quan yếu tố gây ra như : thực phẩm , thay đổi kích thích tố hoặc căng thẳng .",
+    "entities": [
+      {
+        "text": "đau đầu căng thẳng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chứng đau nửa đầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau đầu cơn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ sẽ lưu ý thị lực bằng cách sử dụng một biểu đồ mắt và kiểm tra tiêu chuẩn khác .",
+    "entities": [
+      {
+        "text": "kiểm tra tiêu chuẩn khác",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sử dụng một biểu đồ mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ung thư túi mật bao gồm các khối u của bất kỳ kích thước mà đã lan ra các vùng xa của cơ thể .",
+    "entities": [
+      {
+        "text": "ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngứa ( pruritus ) : thường kèm với vàng da nhưng nhiều trường hợp lại xuất hiện trước khi có vàng da .",
+    "entities": [
+      {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngứa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ngừng tim đột ngột : tình trạng mất chức năng tim , nhịp thở và ý thức đột ngột , thường do hệ thống điện của tim có vấn đề .",
+    "entities": [
+      {
+        "text": "ngừng tim đột ngột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cách phòng bệnh cấp hai là khi phát hiện bị bệnh thấp tim thì cần tim phòng thấp đều đặn nhằm tránh những biến chứng trầm trọng đến van tim .",
+    "entities": [
+      {
+        "text": "bệnh thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chụp x - quang ngực trong trường hợp nghi ngờ bệnh phổi hoặc suy tim và nghi có giãn các buồng tim .",
+    "entities": [
+      {
+        "text": "x - quang ngực",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "với tùy chọn này , mặc một ống kính liên hệ với bifocal trong mắt nondominant và liên lạc với ống kính đặt cho khoảng cách chi phối trong mắt .",
+    "entities": [
+      {
+        "text": "một ống kính liên hệ với bifocal",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng trong giai đoạn đầu , ung thư vòm họng có thể không gây ra bất kỳ triệu chứng .",
+    "entities": [
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm đại tràng màng giả cũng có thể phát triển ở những người bị bệnh có ảnh hưởng đến đại tràng , viêm loét đại tràng như bệnh crohn .",
+    "entities": [
+      {
+        "text": "viêm đại tràng màng giả",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm loét đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với xét nghiệm này , bác sĩ sẽ tiêm một lượng nhỏ vi khuẩn gây bệnh phong không hoạt động ngay bên dưới da cánh tay và kiểm tra vị trí tiêm 3 ngày sau đó và 28 ngày sau đó một lần nữa để xem có phản ứng hay không .",
+    "entities": [
+      {
+        "text": "bệnh phong",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ yếu tố nguy cơ mỏi mắt bao gồm : các hoạt động có yêu cầu sử dụng chuyên sâu hay mở rộng đôi mắt cho công việc như sử dụng máy tính , nghiên cứu các tài liệu in hoặc lái xe .",
+    "entities": [
+      {
+        "text": "mỏi mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hiện nay , các nhà khoa học vẫn chưa tìm ra được nguyên nhân gây ra khối u tuyến nước bọt .",
+    "entities": [
+      {
+        "text": "u tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc kháng sinh nếu bị viêm họng , bác sĩ có thể sẽ kê toa thuốc kháng sinh uống như : penicillin .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh uống",
+        "type": "THUỐC"
+      },
+      {
+        "text": "penicillin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số loại thuốc , bao gồm thuốc an thần , opioid và thuốc được sử dụng để điều trị rối loạn nhịp tim , huyết áp cao và một số rối loạn sức khỏe tâm thần nhất định .",
+    "entities": [
+      {
+        "text": "rối loạn sức khỏe tâm thần",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc an thần",
+        "type": "THUỐC"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "opioid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phát ban nhẹ , mờ nhanh , sau khi khỏi ban biến mất hoàn toàn; sốt nhẹ; không có giai đoạn tiền triệu chứng .",
+    "entities": [
+      {
+        "text": "phát ban",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hô hấp nhân tạo có thể giúp phục hồi lưu lượng máu trong cơ thể bằng cách bắt chước những chuyển động bơm của tim .",
+    "entities": [
+      {
+        "text": "hô hấp nhân tạo",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sự lão hóa thay đổi liên quan đến phá vỡ và cụm cùng nhau các mô gây ra mờ ống kính , u ám khu vực nhỏ của ống kính .",
+    "entities": [
+      {
+        "text": "u ám",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "viên trĩ trixbye có tác dụng tỏ ra vượt trội nhất trong nhóm sản phẩm thường được chỉ định cho những người bệnh trĩ .",
+    "entities": [
+      {
+        "text": "viên trĩ trixbye",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong thủ tục , chặn động mạch gan cung cấp máu cho ung thư , và các loại thuốc hóa trị liệu được tiêm vào làm cho tắc nghẽn .",
+    "entities": [
+      {
+        "text": "chặn động mạch gan cung cấp máu cho ung thư",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc hóa trị liệu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể khuyên nên thường xuyên đo nhiều hơn nếu bị huyết áp cao hoặc có tiền sử bệnh động mạch vành .",
+    "entities": [
+      {
+        "text": "bệnh động mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những phụ nữ có tiền sử bệnh như trên chính là những đối tượng nguy cơ của tình trạng tắc ống dẫn trứng .",
+    "entities": [
+      {
+        "text": "tắc ống dẫn trứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

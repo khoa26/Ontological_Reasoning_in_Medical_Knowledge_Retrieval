@@ -1,0 +1,411 @@
+[
+  {
+    "text": "bong võng mạc để lâu không được điều trị , càng có nhiều nguy cơ mất thị lực vĩnh viễn mắt bị ảnh hưởng .",
+    "entities": [
+      {
+        "text": "mất thị lực vĩnh viễn mắt bị ảnh hưởng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bong võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tìm kiếm sự trợ giúp y tế ngay lập tức nếu trải nghiệm : cảm giác nặng hoặc đau bụng liên tục .",
+    "entities": [
+      {
+        "text": "cảm giác nặng hoặc đau bụng liên tục",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu dùng đơn độc hoặc phối hợp các thuốc chẹn beta , chẹn kênh canxi loại nondihydropyridine và digoxin mà không có hiệu quả , ta có thể chuyển sang dùng amiodarone .",
+    "entities": [
+      {
+        "text": "amiodarone",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân trở nên thờ ơ , vụng về ; tiếp theo là lẫn lộn , dễ kích thích , đôi khi gặp ảo giác , và cuối cùng là hôn mê .",
+    "entities": [
+      {
+        "text": "dễ kích thích",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "vụng về",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lẫn lộn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ảo giác",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hôn mê",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thờ ơ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "khó khăn trong một hoặc nhiều lãnh vực có thể cung cấp manh mối về một phần của bộ não mà có thể bị ảnh hưởng bởi một khối u não .",
+    "entities": [
+      {
+        "text": "khối u não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số biện pháp phòng ngừa ung thư vòm họng : không hút thuốc lá không uống rượu bia hạn chế ăn các thực phẩm lên men , muối chua , … tập luyện thể dục thể thao đều đặn các biện pháp chẩn đoán bệnh ung thư vòm họng các xét nghiệm chẩn đoán ung thư vòm họng : nội soi tai mũi họng : giúp quan sát , phát hiện và đánh giá khối u đồng thời bấm sinh thiết sinh thiết tổn thương : bấm sinh thiết qua đường mũi hoặc họng miệng .",
+    "entities": [
+      {
+        "text": "bệnh ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nội soi tai mũi họng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "đó là khả năng có thể giảm nguy cơ ung thư đại tràng bằng các liều lớn aspirin trong một khoảng thời gian dài .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "aspirin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "khi nào đi khám bác sĩ thông thường , trẻ bị thoát vị não màng não được chẩn đoán trước hoặc ngay sau khi sinh tại các cơ sở y tế .",
+    "entities": [
+      {
+        "text": "thoát vị não màng não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tinh hoàn ẩn và tinh hoàn lạc chỗ là hai thuật ngữ thường dễ bị nhầm lẫn với nhau : tinh hoàn ẩn : tinh hoàn không nằm trong bìu mà nằm dọc theo đường đi của tinh hoàn ( trong bụng , lỗ bẹn sâu , ống bẹn , lỗ bẹn nông ) .",
+    "entities": [
+      {
+        "text": "tinh hoàn lạc chỗ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tinh hoàn ẩn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nitroglycerin có thể được dùng dưới dạng viên uống tác dụng kéo dài hàng ngày để ngăn ngừa đau thắt ngực hoặc có thể dùng ở dạng ngậm dưới lưỡi để điều trị cắt cơn khi cơn đau thắt ngực xảy ra .",
+    "entities": [
+      {
+        "text": "nitroglycerin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều này có thể gây ra một số người có chế độ ăn kiêng quá mức , dẫn đến rối loạn ăn uống .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của chướng bụng các nguyên nhân gây căng tức bụng có thể bao gồm : thai kỳ .",
+    "entities": [
+      {
+        "text": "chướng bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thông liên thất lỗ rộng với lưu lượng máu lên phổi cao là một trong những nguyên nhân hàng đầu của suy tim ứ huyết và bội nhiễm phổi có thể gây tử vong ở lứa tuổi sơ sinh .",
+    "entities": [
+      {
+        "text": "thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim ứ huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bội nhiễm phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "soi mạch : bác sĩ sẽ quan sát và phát hiện các mạch máu bất thường ở vị trí nếp gấp móng dưới kính hiển vi .",
+    "entities": [
+      {
+        "text": "soi mạch",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh thoát vị rốn các triệu chứng chung của thoát vị rốn gồm có : tại vùng rốn hoặc gần rốn xuất hiện một khối u mềm và phồng lên .",
+    "entities": [
+      {
+        "text": "bệnh thoát vị rốn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng thủ tục xâm lấn thông thường , bác sĩ phẫu thuật cắt một phần dây thần kinh sinh ba - dây thần kinh phục vụ khu vực phía sau và xung quanh mắt bằng dao mổ hoặc sử dụng nhiệt để tiêu diệt một phần thần kinh .",
+    "entities": [
+      {
+        "text": "bác sĩ phẫu thuật cắt một phần dây thần kinh sinh ba - dây thần kinh phục vụ khu vực phía sau và xung quanh mắt bằng dao mổ hoặc sử dụng nhiệt để tiêu diệt một phần thần kinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sử dụng thủ tục xâm lấn thông thường",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thuốc , bao gồm thuốc ăn kiêng , thuốc thông mũi , thuốc hít hen suyễn và một số loại thuốc được sử dụng để ngăn ngừa loạn nhịp tim hoặc điều trị suy giáp .",
+    "entities": [
+      {
+        "text": "loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy giáp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải hạ thân nhiệt một số yếu tố làm tăng nguy cơ mắc hạ thân nhiệt , bao gồm : kiệt sức : khả năng chịu lạnh của con người giảm đi khi mệt mỏi .",
+    "entities": [
+      {
+        "text": "hạ thân nhiệt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "kiệt sức",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "túi dưới mắt thường là một mối quan tâm thẩm mỹ và hiếm khi là một dấu hiệu của một tình trạng y tế cơ bản nghiêm trọng .",
+    "entities": [
+      {
+        "text": "túi dưới mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng khác bao gồm : cảm giác yếu chi ; mất lông ở vùng cẳng chân/chân; móng chân giòn , mọc chậm ; loét da vùng cẳng chân /chân khó lành; thay đổi màu sắc da vùng chân ; da vùng chân bóng loáng ; ở nam giới có thể có rối loạn cương dương ; teo cơ vùng chân .",
+    "entities": [
+      {
+        "text": "thay đổi màu sắc da vùng chân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "da vùng chân bóng loáng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "loét da vùng cẳng chân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rối loạn cương dương",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "teo cơ vùng chân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "móng chân giòn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mất lông",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mọc chậm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "yếu chi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "để tạo điều kiện chữa bệnh , một ống kính liên hệ với băng có thể được đeo vài ngày sau phẫu thuật .",
+    "entities": [
+      {
+        "text": "một ống kính liên hệ với băng có thể được đeo vài ngày sau phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "việc tốt mặc dù tập yoga vẫn chưa được nghiên cứu như điều trị cho người bị rối loạn ăn uống , một số nghiên cứu đã phát hiện ra rằng yoga có thể có ích như là điều trị bổ sung .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xạ trị được chỉ định bổ trợ sau phẫu thuật hoặc xạ trị điều trị triệu chứng ( giảm đau , ung thư dương vật di căn xương… ) hóa xạ trị đồng thời trong trường hợp khối u lan rộng không phẫu thuật được , làm giảm đau , cải thiện thời gian sống .",
+    "entities": [
+      {
+        "text": "ung thư dương vật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hóa xạ trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "giảm đau",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu trải nghiệm đau ép ngực và không chắc chắn những gì gây ra các triệu chứng , đi khám lập tức .",
+    "entities": [
+      {
+        "text": "đau ép ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "toa thuốc uống kháng histamine , chẳng hạn như diphenhydramine ( benadryl ) , clemastine ( tavist ) và loratadin ( claritin ) , thông thường gần như không tác dụng cho viêm mũi không dị ứng .",
+    "entities": [
+      {
+        "text": "thuốc uống kháng histamine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "diphenhydramine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "clemastine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "loratadin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "benadryl",
+        "type": "THUỐC"
+      },
+      {
+        "text": "claritin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tavist",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hóa trị hóa trị là một điều trị bằng thuốc có sử dụng hóa chất để tiêu diệt tế bào ung thư .",
+    "entities": [
+      {
+        "text": "sử dụng hóa chất",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng dấu hiệu của chứng hẹp môn vị thường xuất hiện trong vòng 3 - 5 tuần sau khi sinh .",
+    "entities": [
+      {
+        "text": "hẹp môn vị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh ung thư túi mật tổng quan bệnh ung thư túi mật ung thư túi mật là ung thư xuất phát từ các tế bào ở túi mật .",
+    "entities": [
+      {
+        "text": "bệnh ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vi khuẩn thường gặp nhất ở giai đoạn sớm ( &lt;1 năm sau mổ ) gây nhiễm trùng van nhân tạo là cns và s . aureus .",
+    "entities": []
+  },
+  {
+    "text": "phương pháp điều trị để ngăn ngừa chảy máu phương pháp điều trị để giảm áp lực máu trong tĩnh mạch cửa có thể làm giảm nguy cơ chảy máu do giãn tĩnh mạch thực quản .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

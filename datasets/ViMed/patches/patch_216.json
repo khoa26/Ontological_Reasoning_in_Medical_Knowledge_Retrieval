@@ -1,0 +1,384 @@
+[
+  {
+    "text": "bác sĩ cũng có thể kê toa thuốc chống trầm cảm ba vòng , như amitripxylin , imipramine ( tofranil ) và trazodone để giảm đau .",
+    "entities": [
+      {
+        "text": "thuốc chống trầm cảm ba vòng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "amitripxylin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "imipramine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "trazodone",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tofranil",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trong số những người lớn tuổi với mất thính lực , phổ biến báo cáo các vấn đề bao gồm : trầm cảm .",
+    "entities": [
+      {
+        "text": "mất thính lực",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "trầm cảm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu đang mang thai và bị táo bón hãy thử ăn nhiều chất xơ thực phẩm , chẳng hạn như hoa quả , rau và ngũ cốc .",
+    "entities": [
+      {
+        "text": "táo bón",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tối ưu hóa tầm nhìn có đeo kính được quy định cụ thể đối với các tác động của bong võng mạc .",
+    "entities": [
+      {
+        "text": "bong võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đeo kính",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sỏi mật có thể gây ra sự tắc nghẽn ống tụy , có thể dẫn đến viêm tuyến tụy ( viêm tụy ) .",
+    "entities": [
+      {
+        "text": "viêm tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thiết bị này truyền các xung điện không gây đau , làm gián đoạn các tín hiệu từ đồi não có thể gây ra run .",
+    "entities": [
+      {
+        "text": "làm gián đoạn các tín hiệu từ đồi não có thể gây ra run",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các công việc liên quan đến khối u tuyến nước bọt bao gồm những công việc liên quan đến sản xuất cao su , khai thác amiăng và hệ thống ống nước .",
+    "entities": [
+      {
+        "text": "u tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi phẫu thuật cắt thực quản được thực hiện bởi bác sĩ phẫu thuật giàu kinh nghiệm , sẽ giảm nguy cơ biến chứng .",
+    "entities": [
+      {
+        "text": "phẫu thuật cắt thực quản",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải giãn tĩnh mạch một số yếu tố làm tăng nguy cơ mắc giãn tĩnh mạch , bao gồm : nghiện rượu; viêm gan siêu vi ; viêm gan b /c ; sán máng ; kích thước của các biến thể; sự thay đổi càng lớn thì khả năng bị phá vỡ càng lớn; phân loại child cũng làm tăng nguy cơ xuất huyết; sự hiện diện của các dấu màu đỏ trên các tĩnh mạch trong khi nội soi cũng có liên quan đến khả năng bị vỡ .",
+    "entities": [
+      {
+        "text": "dấu màu đỏ trên các tĩnh mạch",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm gan siêu vi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "giãn tĩnh mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm gan b /c",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sán máng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của viêm màng ngoài tim chế độ sinh hoạt : tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị .",
+    "entities": [
+      {
+        "text": "phòng ngừa những thói quen sinh hoạt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm màng ngoài tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chế độ sinh hoạt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh thấp tim ở trẻ em triệu chứng bệnh thấp tim rất đa dạng , trẻ có thể xuất hiện một vài triệu chứng thay đổi trong quá trình bệnh .",
+    "entities": [
+      {
+        "text": "bệnh thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh tiểu đường thai kỳ hầu như tiểu đường thai kỳ không có triệu chứng gì đặc biệt vậy xét nghiệm t iểu đường thai kỳ khi nào ?",
+    "entities": [
+      {
+        "text": "bệnh tiểu đường thai kỳ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặt khác , đau nhức đầu tập thể dục thứ phát là do một vấn đề cơ bản , thường nghiêm trọng trong não - chẳng hạn như chảy máu hoặc khối u , hay ngoài não - chẳng hạn như bệnh mạch vành .",
+    "entities": [
+      {
+        "text": "đau nhức đầu tập thể dục thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy máu hoặc khối u",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tiền sử gia đình mắc bệnh tim : tiền sử gia đình mắc bệnh tim làm tăng nguy cơ mắc bệnh mạch vành , đặc biệt nếu cha hoặc mẹ mắc bệnh này khi còn nhỏ ( trước 55 tuổi đối với người thân nam - cha hoặc anh em trai và 65 tuổi đối với người thân nữ - mẹ hoặc chị em gái ) .",
+    "entities": [
+      {
+        "text": "bệnh mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hạn chế sử dụng kháng sinh và không sử dụng thuốc kháng sinh , trừ khi bác sĩ cảm thấy thực sự cần thiết .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị sa van hai lá hiệu quả thông thường , sa van hai lá không cần phải điều trị .",
+    "entities": [
+      {
+        "text": "sa van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu nguyên nhân gây ra đau nhức đầu vẫn không chắc chắn , có thể cần xét nghiệm máu hoặc nước tiểu để xác định bất kỳ vấn đề y tế cơ bản .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu hoặc nước tiểu để xác định bất kỳ vấn đề y tế cơ bản",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đau nhức đầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tiêu chuẩn chuẩn đoán để được chẩn đoán mắc một chứng rối loạn ăn uống , phải đáp ứng các tiêu chí nêu ra trong hướng dẫn chẩn đoán và thống kê các rối loạn tâm thần ( dsm ) được công bố bởi hiệp hội tâm thần mỹ .",
+    "entities": [
+      {
+        "text": "rối loạn tâm thần",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "dsm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh thấp tim gây tổn thương tim , ngoài ra bệnh còn gây tổn thương khớp , tổ chức liên kết dưới da và đôi khi thấy tổn thương não .",
+    "entities": [
+      {
+        "text": "bệnh thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hiệp hội ung thư hoa kỳ khuyến cáo điều trị capecitabine ( xeloda ) 6 tháng sau phẫu thuật xem thêm : túi mật nằm ở đâu và có chức năng gì ?",
+    "entities": [
+      {
+        "text": "capecitabine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thoái hóa khớp háng do từ khi sinh ra đã có cấu tạo bất thường ở khớp háng hoặc chi dưới .",
+    "entities": [
+      {
+        "text": "thoái hóa khớp háng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu chụp động mạch được thực hiện để chẩn đoán các vấn đề , có thể đồng thời loại bỏ cục máu đông hoặc mở động mạch hẹp - nong mạch .",
+    "entities": [
+      {
+        "text": "chụp động mạch",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nong mạch",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể kiểm tra thể chất và thực hiện các xét nghiệm khác để chẩn đoán bệnh trĩ và loại trừ nhiều bệnh nghiêm trọng .",
+    "entities": [
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chấn thương đầu nhẹ hơn có thể gây ra một khối máu tụ nếu là một người cao niên , đặc biệt là nếu đang dùng một thuốc chống đông máu hoặc thuốc chống tiểu cầu , chẳng hạn như aspirin .",
+    "entities": [
+      {
+        "text": "một khối máu tụ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đặc biệt , nghiên cứu của trung tâm ung thư rosswell park , hoa kỳ cho thấy nam giới mắc bệnh lý răng lợi mạn tính , dù có hút thuốc lá hay không , cũng làm tăng nguy cơ ung thư lưỡi .",
+    "entities": [
+      {
+        "text": "ung thư lưỡi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có dấu hiệu và triệu chứng của viêm mũi không dị ứng mà không thuyên giảm do thuốc otc hoặc tự chăm sóc .",
+    "entities": [
+      {
+        "text": "viêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khám mắt thường xuyên có thể giúp phát hiện đục thủy tinh thể và các vấn đề về mắt khác ở các giai đoạn sớm nhất .",
+    "entities": [
+      {
+        "text": "đục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khám mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "bệnh ung thư họng là một thuật ngữ chung áp dụng cho ung thư phát triển trong họng hoặc ung thư thanh quản .",
+    "entities": [
+      {
+        "text": "ung thư phát triển trong họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ung thư họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu có nguy cơ truyền các khiếm khuyết di truyền - nguyên nhân gây bệnh huntington cho trẻ em , có thể xem xét một số hình thức hỗ trợ sinh sản .",
+    "entities": [
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tổng hợp những điều bạn cần biết về bệnh trĩ nội chủ đề : bệnh trĩ trĩ ngoại trĩ nội chích xơ búi trĩ cắt trĩ ngoại",
+    "entities": [
+      {
+        "text": "chích xơ búi trĩ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cắt trĩ ngoại",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh trĩ nội",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "trĩ ngoại",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

@@ -1,0 +1,428 @@
+[
+  {
+    "text": "các vitamin và chất chống oxy hóa trong hoa quả và rau có thể làm giảm nguy cơ ung thư cổ họng .",
+    "entities": [
+      {
+        "text": "chất chống oxy hóa trong hoa quả và rau",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư cổ họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vitamin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "rung nhĩ là một rối loạn nhịp trên thất với đặc trưng bởi tình trạng mất đồng bộ điện học và sự co bóp cơ tâm nhĩ với các đặc điểm điện tâm đồ .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp trên thất",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "giai đoạn iv : đây là ung thư đại tràng giai đoạn cuối , các tế bào ung thư di căn tới các cơ quan khác của cơ thể .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xoang bị nhiễm bệnh và không thể thoát dịch sẽ trở thành đầy mủ , dẫn đến các triệu chứng , dịch mũi màu vàng hoặc hơi xanh và các triệu chứng khác của nhiễm trùng .",
+    "entities": [
+      {
+        "text": "dịch mũi màu vàng hoặc hơi xanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đầy mủ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , nếu t hiếu tầm nhìn màu sắc , hoặc là sẽ thấy khó khăn để xem bất cứ điều gì trong số các dấu chấm , hoặc sẽ không thấy gì cả .",
+    "entities": [
+      {
+        "text": "hiếu tầm nhìn màu sắc",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nói chuyện với người khác , những người có bệnh huntington có thể giúp cảm thấy bớt cô đơn , và có thể nhận được một số lời khuyên hữu ích về sống chung với bệnh .",
+    "entities": [
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "giai đoạn ii : trong giai đoạn này , các tế bào ung thư bắt đầu lan ra và xâm lấn tới các khu vực khác trong đại tràng , nhưng chưa di căn tới các cơ quan khác của cơ thể .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thăm khám định kỳ để được theo dõi tình trạng sức khỏe , diễn tiến của bệnh u trung thất thường âm thầm ít hoặc không có triệu chứng và để có thể làm chậm lại sự tiến triển của bệnh nếu được phát hiện và điều trị sớm , cũng như để bác sĩ tìm hướng điều trị mới nếu bệnh của bạn chưa có dấu hiệu thuyên giảm .",
+    "entities": [
+      {
+        "text": "bệnh u trung thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một điều kiện được gọi là hội chứng nevus dysplastic gây nốt ruồi bình thường , cũng có thể làm tăng nguy cơ u ác tính phát triển trên da và trong mắt .",
+    "entities": [
+      {
+        "text": "hội chứng nevus dysplastic",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u ác tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sẽ cần toa cho ống kính lão thị khi đeo kính toa - là không đầy đủ hoặc nếu đã yêu cầu điều chỉnh ống kính theo toa cho viễn thị , cận thị hoặc loạn thị .",
+    "entities": [
+      {
+        "text": "điều chỉnh ống kính theo toa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ống kính lão thị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đeo kính toa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viễn thị",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "loạn thị",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cận thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "lây từ mẹ sang con khi mẹ mắc thủy đậ u trong khi mang thai thời gian lây bệnh của thủy đậu kéo dài từ trước khi nổi ban đỏ 1 - 2 ngày cho đến khi các bọng nước đóng vảy hoàn toàn .",
+    "entities": [
+      {
+        "text": "thủy đậu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các lỗi khúc xạ khác ngoài viễn thị , các lỗi khác khúc xạ bao gồm : cận thị ( cận thị ) .",
+    "entities": [
+      {
+        "text": "viễn thị",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cận thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục những bước này có thể giúp giảm triệu chứng viêm xoang : nghỉ ngơi nhiều .",
+    "entities": [
+      {
+        "text": "viêm xoang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng nếu có một nhiễm trùng do vi khuẩn - một nguyên nhân hiếm gặp của viêm thanh quản - bác sĩ có thể khuyên nên thuốc kháng sinh .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phụ nữ nhiễm rubella trong 3 tháng đầu thai kỳ có thể : sinh non , sẩy thai hoặc thai lưu .",
+    "entities": [
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc như thuốc chống trầm cảm và thuốc chống lo âu cũng có thể giúp đỡ với các triệu chứng của trầm cảm hoặc lo lắng - thường xuyên liên kết với rối loạn ăn uống .",
+    "entities": [
+      {
+        "text": "thuốc chống trầm cảm",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chống lo âu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "trầm cảm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lo lắng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu các triệu chứng của bệnh sán máng cấp tính ( sốt katayama ) nghiêm trọng , bác sĩ sẽ kê thêm corticosteroid cho bệnh nhân .",
+    "entities": [
+      {
+        "text": "corticosteroid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh sán máng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu giãn tĩnh mạch thực quản xuất hiện có nguy cơ rất cao bị chảy máu , bác sĩ có thể đề nghị một số phương pháp điều trị cầm máu .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ở nữ độ tuổi dậy thì , cơn đau này có thể liên quan đến kinh nguyệt , sẩy thai hoặc các biến chứng sinh sản .",
+    "entities": [
+      {
+        "text": "cơn đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các toa thuốc chống dị ứng xịt mũi azelastine ( astelin , astepro ) và olopatadine ( patanase ) có thể làm giảm triệu chứng ở mũi .",
+    "entities": [
+      {
+        "text": "toa thuốc chống dị ứng xịt mũi azelastine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "triệu chứng ở mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "olopatadine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "patanase",
+        "type": "THUỐC"
+      },
+      {
+        "text": "astelin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "astepro",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "khám răng định kỳ khi có bệnh van tim hay bệnh tim bẩm sinh ; tăng huyết áp : cần kiểm tra thường xuyên huyết áp để phòng hở van động mạch chủ .",
+    "entities": [
+      {
+        "text": "hở van động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tim bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh van tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài viêm và loét ở đường tiêu hóa , crohn có thể gây ra vấn đề trong các bộ phận khác của cơ thể , chẳng hạn như viêm khớp , viêm mắt hoặc da , móng tay hình trùy , sỏi thận , sỏi mật và đôi khi viêm ống dẫn mật .",
+    "entities": [
+      {
+        "text": "móng tay hình trùy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm ống dẫn mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm mắt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sỏi thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sỏi mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các trường hợp nhiễm p . vivax hoặc p . knowlesi đơn thuần cũng có thể gây sốt rét ác tính .",
+    "entities": [
+      {
+        "text": "sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cảnh giác chờ đợi một u nang lành tính - ngay cả lớn , có thể ở không cần điều trị miễn là nó không làm phiền .",
+    "entities": [
+      {
+        "text": "u nang lành tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây rung thất không phải luôn luôn biết những gì gây ra rung thất , nhưng hầu hết các trường hợp rung thất bắt đầu như là nhịp tim nhanh thất được gọi là nhịp tim nhanh thất ( vt ) .",
+    "entities": [
+      {
+        "text": "nhịp tim nhanh thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , ở những người bị bệnh ung thư , hóa trị đôi khi có thể phá hoại các vi khuẩn trong ruột và kích hoạt sự phát triển của viêm đại tràng màng giả .",
+    "entities": [
+      {
+        "text": "viêm đại tràng màng giả",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của cơn đau thắt ngực chế độ sinh hoạt : tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị .",
+    "entities": [
+      {
+        "text": "cơn đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "rituximab làm giảm số lượng tế bào b , bao gồm cả tế bào b khỏe mạnh của bạn , nhưng cơ thể bạn tạo ra các tế bào b khỏe mạnh mới để thay thế những tế bào này .",
+    "entities": [
+      {
+        "text": "rituximab",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trường hợp mãn tính có thể được điều trị bổ sung bằng thuốc lợi tiểu ( đối với tích trữ dịch chất lỏng ) , thuốc nhuận tràng ( đối với táo bón ) hoặc viên nang than hoạt ( đối với khí ) .",
+    "entities": [
+      {
+        "text": "viên nang than hoạt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc nhuận tràng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc lợi tiểu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trẻ em và người lớn chưa tiêm chủng vaccine ngừa bạch hầu; những người sống trong môi trường đông đúc hoặc mất vệ sinh; người du lịch đến khu vực mà bệnh bạch hầu phổ biến .",
+    "entities": [
+      {
+        "text": "bệnh bạch hầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

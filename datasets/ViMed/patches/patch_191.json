@@ -1,0 +1,387 @@
+[
+  {
+    "text": "nếu kênh nhĩ thất không được điều trị , có thể có bệnh viêm phổi - bệnh nhiễm trùng phổi nghiêm trọng tái phát .",
+    "entities": [
+      {
+        "text": "bệnh nhiễm trùng phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh viêm phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "kênh nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số loại thuốc có thể gây ra huyết áp thấp , bao gồm : thuốc lợi tiểu ; thuốc chẹn alpha ; thuốc chẹn beta ; thuốc điều trị bệnh parkinson ; một số loại thuốc chống trầm cảm ( thuốc chống trầm cảm ba vòng ) ; thuốc điều trị rối loạn cương dương .",
+    "entities": [
+      {
+        "text": "huyết áp thấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "rối loạn nội mạc mạch máu được xem là nguyên nhân gây ra đau thắt ngực không có hẹp mạch vành hoặc co thắt mạch vành .",
+    "entities": [
+      {
+        "text": "đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu các triệu chứng khó chịu hoặc nếu điều này là cơn đầu tiên của rung nhĩ , bác sĩ có thể cố gắng để thiết lập lại nhịp điệu của tim .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đái tháo đường là nguyên nhân phổ biến nhất gây bệnh thoái hóa võng mạc ở mỹ trong năm 2008. thoái hóa võng mạc có nguy hiểm không ?",
+    "entities": [
+      {
+        "text": "bệnh thoái hóa võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . hơn nữa những trẻ này cũng có nhiều khả năng mắc các bệnh về đường tiêu hóa do như trào ngược dạ dày , tắc ruột , xoắn ruột do các bất thường về sai vị trí trong ổ bụng .",
+    "entities": [
+      {
+        "text": "trào ngược dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xoắn ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tắc ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các bệnh ảnh hưởng đến vi tuần hoàn cửa như tăng sản tái tạo dạng nốt và bệnh u hạt dạng sợi lan tỏa như bệnh sarcoidosis .",
+    "entities": [
+      {
+        "text": "bệnh sarcoidosis",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh u hạt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu các xét nghiệm dương tính với vi khuẩn liên cầu khuẩn , điều trị kháng sinh có thể bắt đầu ngay lập tức .",
+    "entities": [
+      {
+        "text": "điều trị kháng sinh có thể bắt đầu ngay lập tức",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "viêm túi mật có thể xảy ra đột ngột ( viêm túi mật cấp tính ) , hoặc nó có thể phát triển chậm theo thời gian ( viêm túi mật mãn tính ) .",
+    "entities": [
+      {
+        "text": "viêm túi mật cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm túi mật mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số người tốt hơn với chất xơ và hãy bổ sung chất xơ để khí và đầy hơi ít hơn .",
+    "entities": [
+      {
+        "text": "bổ sung chất xơ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đầy hơi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh teo thực quản chẩn đoán tiền sản : siêu âm thai thấy túi cùng thực quản trên dãn lớn , đa ối , dạ dày thai nhỏ .",
+    "entities": [
+      {
+        "text": "bệnh teo thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm thai",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu xét nghiệm nghe khác là bất phân thắng bại , bác sĩ có thể tự khám thính lực , một loạt các xét nghiệm để đo lường nghe âm thanh tại các khối lượng khác nhau và các nốt nhạc .",
+    "entities": [
+      {
+        "text": "một loạt các xét nghiệm để đo lường nghe âm thanh tại các khối lượng khác nhau và các nốt nhạc",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "khám thính lực",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "u xương ác tính : nguyên nhân , triệu chứng , chẩn đoán và điều trị pet/ct giúp phát hiện sớm và hỗ trợ điều trị ung thư như thế nào ?",
+    "entities": [
+      {
+        "text": "u xương ác tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "pet/ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tác động của hội chứng brugada đối với sức khỏe hội chứng brugada được xem là tình trạng rối loạn nhịp nghiêm trọng , hiếm gặp nhưng rất nguy hiểm vì có thể gây ngất hoặc đột tử về đêm .",
+    "entities": [
+      {
+        "text": "hội chứng brugada",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , u lành tính có thể tiến triển thành ung thư thực quản nếu không có biện pháp điều trị và theo dõi hợp lý .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân khác teo dây thần kinh thị giác có thể do thiếu hụt dinh dưỡng ( protein , vitamin b , vitamin b12, axit folic ) ; hoặc do chất độc hại như thuốc lá , methyl alcohol , ethylene glycol , xyanua , chì và carbon mono oxide… triệu chứng bệnh teo dây thần kinh thị giác triệu chứng teo dây thần kinh thị giác khá dễ nhận thấy , bao gồm : giảm thị lực trong vài giờ đến vài ngày , có khi xảy ra đột ngột chỉ sau một đêm .",
+    "entities": [
+      {
+        "text": "bệnh teo dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khối máu tụ dưới màng cứng bán cấp , mất nhiều thời gian để xuất hiện dấu hiệu và triệu chứng , đôi khi sau hàng ngày hoặc hàng tuần sau chấn thương .",
+    "entities": [
+      {
+        "text": "khối máu tụ dưới màng cứng bán cấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xạ trị : xạ trị thường không được sử dụng là biện pháp điều trị chính trong ung thư ruột non xạ trị được chỉ định trong điều trị triệu chứng khi bệnh ở giai đoạn muộn .",
+    "entities": [
+      {
+        "text": "ung thư ruột non",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trạng thái này được đặc trưng bởi sự suy giảm sự quan tâm , nhận thức và tinh thần tỉnh táo .",
+    "entities": [
+      {
+        "text": "suy giảm sự quan tâm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh chụp cắt lớp có thể bao gồm máy vi tính ( ct ) , chụp cộng hưởng từ ( mri ) , chụp cắt lớp phát xạ positron ( pet ) và x - quang .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp phát xạ positron",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "máy vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "x - quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "pet",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "viêm dây thần kinh thị viêm dây thần kinh thị gây phù nề và tổn thương bao myelin bao quanh sợi thần kinh .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phù nề",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sau khi phẫu thuật để loại bỏ khối u , bác sĩ có thể đề nghị phẫu thuật tái tạo để sửa chữa khu vực .",
+    "entities": [
+      {
+        "text": "phẫu thuật tái tạo",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thuốc nhỏ mắt có chứa kháng sinh áp có thể giúp kiểm soát viêm bờ mi do nhiễm trùng bởi vi khuẩn gây ra .",
+    "entities": [
+      {
+        "text": "thuốc nhỏ mắt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm bờ mi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "việc phát hiện sớm và điều trị thoái hóa võng mạc kịp thời giúp cải thiện tiên lượng bệnh , làm chậm diễn tiến của bệnh và bảo tồn được thị lực của người bệnh .",
+    "entities": [
+      {
+        "text": "thoái hóa võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị các bệnh lý như viêm ruột hoặc bệnh lý tự miễn dịch liên quan đến nội tiết như bệnh tiểu đường , tuyến giáp để giảm nguy cơ thiếu máu do thiếu vitamin b12 .",
+    "entities": [
+      {
+        "text": "bệnh tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiếu máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "h . pylori sống và nhân lên trong lớp niêm mạc bao phủ và bảo vệ các mô đường dạ dày và ruột non .",
+    "entities": []
+  },
+  {
+    "text": "tâm lý học trị liệu có thể giúp tìm hiểu kỹ thuật đối phó làm cho các triệu chứng ù tai ít khó chịu .",
+    "entities": [
+      {
+        "text": "tâm lý học trị liệu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ yếu tố nguy cơ viêm thanh quản , bao gồm : có một bệnh nhiễm trùng đường hô hấp , chẳng hạn như v iêm phế quản , cảm lạnh , hoặc viêm xoang .",
+    "entities": [
+      {
+        "text": "bệnh nhiễm trùng đường hô hấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "iêm phế quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm xoang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cảm lạnh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc nhuận tràng trong một số trường hợp , bệnh có thể gây sưng thu hẹp ruột dẫn đến táo bón .",
+    "entities": [
+      {
+        "text": "thuốc nhuận tràng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "càng biết về bệnh ung thư thực quản , càng có nhiều sẽ cảm thấy tự tin khi nói đến việc ra quyết định về việc điều trị .",
+    "entities": [
+      {
+        "text": "bệnh ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

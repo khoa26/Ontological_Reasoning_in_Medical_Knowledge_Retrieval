@@ -1,0 +1,364 @@
+[
+  {
+    "text": "+ hầu hết các trường hợp di căn hạch , sau vét hạch cũng cần xạ trị bổ trợ với liều xạ khoảng 55 - 60 gy .",
+    "entities": [
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tiền sử tiền sản giật : tình trạng này gây ra huyết áp cao trong thai kỳ và làm tăng nguy cơ mắc bệnh tim suốt đời .",
+    "entities": [
+      {
+        "text": "tiền sản giật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị khác đối với bệnh trào ngược dạ dày ( gerd ) có thể làm giảm triệu chứng gerd , nhưng nói chung có ít ảnh hưởng lên thực quản .",
+    "entities": [
+      {
+        "text": "bệnh trào ngược dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gerd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm chẩn đoán vi trùng gây bệnh : cấy máu ; các kỹ thuật miễn dịch học hoặc tổ chức học và kỹ thuật sinh học phân tử .",
+    "entities": [
+      {
+        "text": "kỹ thuật sinh học phân tử",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "kỹ thuật miễn dịch học",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "tổ chức học",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "cấy máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ung thư gan tiên phát , bắt đầu trong tế bào gan , được chia thành các loại khác nhau dựa trên các loại tế bào trở thành ung thư .",
+    "entities": [
+      {
+        "text": "ung thư gan tiên phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , trong khi thông ở vị trí hẹp , bác sĩ có thể điều trị tắc nghẽn bằng cách nong mạch vành , còn được gọi là bóng giãn nở động mạch vành , nong mạch bóng và can thiệp mạch vành qua da .",
+    "entities": [
+      {
+        "text": "nong mạch bóng và can thiệp mạch vành qua da",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bóng giãn nở động mạch vành",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nong mạch vành",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu bác sĩ nghi ngờ viêm họng có liên quan đến dị ứng , có thể được xét nghiệm dị ứng bổ sung .",
+    "entities": [
+      {
+        "text": "xét nghiệm dị ứng bổ sung",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mri có thể được thực hiện để loại trừ u thần kinh - khối của dây thần kinh mang âm thanh và thông tin từ tai trong đến não , hoặc tổn thương khác mà có thể là nguyên nhân gây chóng mặt .",
+    "entities": [
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù cấy ghép gan thường thành công , số người đang chờ cấy ghép đến nay vượt quá các cơ quan có sẵn .",
+    "entities": [
+      {
+        "text": "ghép gan",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thuốc chống viêm không steroid ( nsaid ) có thể gây kích ứng hoặc viêm niêm mạc dạ dày và ruột non .",
+    "entities": [
+      {
+        "text": "thuốc chống viêm không steroid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nsaid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh uốn ván các yếu tố nguy cơ làm tăng khả năng mắc bệnh uốn ván : suy giảm hệ miễn dịch , không tiêm vắc xin uốn ván không được thuốc tiêm phòng tig kịp thời để chống lại bệnh uốn ván ; sự xuất hiện của vi khuẩn gây nhiễm bệnh khác; mô bị tổn thương nhiều tình trạng sưng tấy xung quanh vết thương .",
+    "entities": [
+      {
+        "text": "bệnh uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sưng tấy",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , một số người được chẩn đoán barrett thực quản đã không bao giờ có dấu hiệu ợ nóng hay acid trào ngược .",
+    "entities": [
+      {
+        "text": "barrett thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ợ nóng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "có thể quản lý hầu hết các trường hợp viêm thanh quản cấp tính với các bước tự chăm sóc , như nghỉ ngơi và uống nhiều chất lỏng .",
+    "entities": [
+      {
+        "text": "viêm thanh quản cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "giai đoạn muộn : bệnh nhân đau kể cả khi nghỉ ngơi , đau nhiều vào ban đêm , đặc biệt là khi thời tiết chuyển mùa đột ngột .",
+    "entities": [
+      {
+        "text": "đau kể cả khi nghỉ ngơi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau nhiều vào ban đêm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh ung thư thực quản những đối tượng sau có nguy cơ mắc bệnh ung thư thực quản cao : đa số những người bị ung thư thực quản là những người có tiền sử nghiện rượu và thuốc lá .",
+    "entities": [
+      {
+        "text": "bệnh ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải phong một số yếu tố làm tăng nguy cơ mắc phong , bao gồm : tiếp xúc gần và nhiều lần với các giọt nước mũi và miệng từ người bị bệnh phong chưa được điều trị .",
+    "entities": [
+      {
+        "text": "bệnh phong",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm để tìm nguyên nhân gây thai chết lưu : khác nhau tùy từng trường hợp những xét nghiệm cần làm nếu muốn mang thai sau lần thai chết lưu các biện pháp điều trị bệnh thai chết lưu thai chết lưu phải làm sao ?",
+    "entities": [
+      {
+        "text": "bệnh thai chết lưu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thai chết lưu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu nhiều hơn một thành viên trong gia đình có ung thư đại tràng hoặc ung thư trực tràng , nguy cơ còn lớn hơn .",
+    "entities": [
+      {
+        "text": "ung thư trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khối máu tụ dưới màng cứng chảy máu mãn tính có thể chậm hơn nhiều , và các triệu chứng có khả năng có thể mất hàng tuần để xuất hiện .",
+    "entities": [
+      {
+        "text": "khối máu tụ dưới màng cứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết mọi người có nhiều đợt đau đầu , có nghĩa là những cơn đau đầu xảy ra trong một tuần đến một năm , theo sau là một giai đoạn đau thuyên giảm có thể kéo dài chừng 06 đến 12 tháng trước khi đợt đau đầu khác phát triển .",
+    "entities": [
+      {
+        "text": "cơn đau đầu xảy ra trong một tuần đến một năm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "theo sau là một giai đoạn đau thuyên giảm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đợt đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của u trung thất khối u trung thất thường tiến triển một cách âm thầm lặng lẽ , vì vậy giai đoạn đầu bệnh nhân gần như không có triệu chứng .",
+    "entities": [
+      {
+        "text": "u trung thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm thực quản bạch cầu ái toan xảy ra với nồng độ cao của các tế bào bạch cầu trong thực quản , nhiều khả năng để đáp ứng với tác nhân gây dị ứng .",
+    "entities": [
+      {
+        "text": "viêm thực quản bạch cầu ái toan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh alzheimer thay đổi cấu trúc não theo thời gian và cũng có thể được nhìn thấy với hình ảnh não .",
+    "entities": [
+      {
+        "text": "bệnh alzheimer",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hình ảnh não",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh tự kỷ ở người lớn không có cách nào để ngăn ngừa rối loạn phổ tự kỷ , nhưng có những lựa chọn điều trị .",
+    "entities": [
+      {
+        "text": "rối loạn phổ tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bạch hầu có thể gây ra các triệu chứng và biến chứng rất nghiêm trọng như khó thở , suy tim , liệt cơ và thậm chí tử vong .",
+    "entities": [
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "liệt cơ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các dấu hiệu và triệu chứng của thiếu máu cục bộ ruột bao gồm chảy máu trực tràng và bắt đầu đột ngột co cơ đau nhẹ ở phía bên trái của bụng .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy máu trực tràng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân có biểu hiện các triệu chứng ở tai , mũi , nổi hạch cổ với mức độ nặng hơn ung thư vòm họng giai đoạn cuối : u xâm lấn nội sọ , xâm lấn các dây thần kinh , hạ họng , hốc mắt kèm theo hạch cổ hai bên hoặc hạch cổ kích thước lớn hơn 6 cm .",
+    "entities": [
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân mắc bệnh crohn sẽ có nguy cơ mắc ung thư ruột non , ung thư đại trực tràng cao hơn .",
+    "entities": [
+      {
+        "text": "ung thư đại trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư ruột non",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "do bệnh quai bị lây truyền theo đường hô hấp nên dịch bệnh thường xảy ra nơi tập trung đông người : trường học , ký túc xá , doanh trại , khu tập thể , … tỷ lệ mắc ở nam giới thường cao hơn nữ giới .",
+    "entities": [
+      {
+        "text": "bệnh quai bị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số nghiên cứu cho thấy căng thẳng phổ biến hơn ở những người bị ung thư tuyến tụy hơn là ở những người bị các loại ung thư khác .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

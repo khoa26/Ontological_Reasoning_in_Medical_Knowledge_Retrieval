@@ -1,0 +1,395 @@
+[
+  {
+    "text": "ngoài ra , một số tình trạng có thể dẫn đến chướng bụng đầy hơi : ăn hoặc uống quá nhanh , hút thuốc .",
+    "entities": [
+      {
+        "text": "chướng bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đầy hơi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng của viêm mũi không dị ứng tương tự như bệnh sốt cỏ khô ( viêm mũi dị ứng ) , nhưng không có phản ứng dị ứng có liên quan .",
+    "entities": [
+      {
+        "text": "viêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh sốt cỏ khô",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm mũi dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "meibomian rối loạn chức năng phổ biến hơn ở những người bị viêm dọc theo cạnh của mí mắt blepharitis , bệnh da rosacea và các rối loạn khác .",
+    "entities": [
+      {
+        "text": "bệnh da rosacea",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sinh thiết được thực hiện theo các cách sau : sinh thiết qua da : bác sĩ thực hiện sinh thiết bằng cách xuyên một cây kim qua da để vào cơ thể .",
+    "entities": [
+      {
+        "text": "sinh thiết qua da",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu em bé có kênh truyền nhĩ thất hoàn toàn , cũng có thể phát triển các dấu hiệu và triệu chứng của suy tim , bao gồm : mệt mỏi .",
+    "entities": [
+      {
+        "text": "kênh truyền nhĩ thất hoàn toàn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh van tim cũng có thể do nguyên nhân như : thấp khớp ; nhiễm trùng ( viêm nội tâm mạc nhiễm trùng ) ; rối loạn mô liên kết .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rối loạn mô liên kết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh van tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư da giai đoạn đầu thường dễ nhầm với các tổn thương da lành tính khác như loét , sẹo cũ… ung thư da biểu mô tế bào đáy : thường gặp ở vùng mặt , mũi , má , thái dương .",
+    "entities": [
+      {
+        "text": "ung thư da biểu mô tế bào đáy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "loét",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "loại thuốc octreotide gọi là ( sandostatin ) thường sử dụng kết hợp với liệu pháp nội soi để điều trị chảy máu tĩnh mạch thực quản .",
+    "entities": [
+      {
+        "text": "chảy máu tĩnh mạch thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "liệu pháp nội soi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc octreotide",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sandostatin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "viêm hạch bạch huyết mạc treo ruột không gây ra triệu chứng không phải là một mối quan tâm và ít khi cần đánh giá thêm .",
+    "entities": [
+      {
+        "text": "viêm hạch bạch huyết mạc treo ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "huyết khối tĩnh mạch sâu là một tình trạng nghiêm trọng xảy ra khi một cục máu đông hình thành trong tĩnh mạch nằm sâu bên trong cơ thể .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những trường hợp như vậy gọi là thiếu máu cơ tim thầm lặng ngoài các cơn đau ngực , bệnh nhân thiếu máu cơ tim cục bộ thường không có triệu chứng gì đặc biệt .",
+    "entities": [
+      {
+        "text": "thiếu máu cơ tim cục bộ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tác dụng phụ của phẫu thuật có thể bao gồm các vấn đề với điều khiển động cơ hoặc lời nói , vấn đề cân đối và tạm thời hoặc vĩnh viễn suy giảm nhận thức , chẳng hạn như khó khăn học tập , hoặc các vấn đề với tầm nhìn .",
+    "entities": [
+      {
+        "text": "vấn đề cân đối và tạm thời hoặc vĩnh viễn suy giảm nhận thức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "vấn đề với điều khiển động cơ hoặc lời nói",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "vấn đề với tầm nhìn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó khăn học tập",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân hẹp van hai lá không triệu chứng chỉ cần điều trị dự phòng để ngừa tái phát thấp tim .",
+    "entities": [
+      {
+        "text": "hẹp van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều này có thể xảy ra do sự tích tụ chất lỏng vẫn còn ngay cả sau khi bị nhiễm trùng tai đã được giải quyết .",
+    "entities": [
+      {
+        "text": "nhiễm trùng tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , thời điểm xuất hiện đau bụng kéo dài hơn , có thể có trước khi kinh xuất hiện từ một tuần cho đến khi đã hết kinh rồi mà vẫn còn đau bụng .",
+    "entities": [
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân chủ yếu của bệnh tim mắc phải ở trẻ em từ 5 tuổi đến 15 tuổi là do bệnh tim do thấp .",
+    "entities": [
+      {
+        "text": "bệnh tim do thấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong bệnh viêm động mạch takayasu , viêm tổn thương động mạch chủ - động mạch lớn mang máu từ tim tới phần còn lại của cơ thể - và các nhánh chính của động mạch chủ .",
+    "entities": [
+      {
+        "text": "bệnh viêm động mạch takayasu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong trường hợp hiếm gặp , hội chứng di truyền như polyp u tuyến gia đình , hoặc bệnh viêm ruột như viêm loét đại tràng , bác sĩ có thể khuyên nên loại bỏ toàn bộ đại tràng và trực tràng để ngăn ngừa ung thư xảy ra trong tương lai .",
+    "entities": [
+      {
+        "text": "polyp u tuyến gia đình",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng di truyền",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm loét đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chúng bao gồm tiêu chảy và phân nhờn mỡ , phân có mùi tanh là kết quả của sự tiêu hóa chất béo kém .",
+    "entities": [
+      {
+        "text": "phân có mùi tanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phân nhờn mỡ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không giống với viêm xoang cấp tính , sốt không phải là một dấu hiệu thường gặp của viêm xoang mãn tính .",
+    "entities": [
+      {
+        "text": "viêm xoang cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm xoang mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "có 3 yếu tố chính liên quan đến ung thư vòm họng là nhiễm vi - rút epstein - barr , yếu tố di truyền và yếu tố môi trường .",
+    "entities": [
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một cách tiếp cận theo dõi các triệu chứng của b ệnh nhiễm trùng tai thường cải thiện trong vài ngày đầu , và hầu hết các bệnh nhiễm trùng tự cải thiện trong vòng 1 - 2 tuần mà không cần điều trị .",
+    "entities": [
+      {
+        "text": "ệnh nhiễm trùng tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong đa số những người không có mặt u hạt crohn và chẩn đoán được thực hiện thông qua sinh thiết .",
+    "entities": [
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "u hạt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trẻ có các bất thường về nhiễm sắc thể như thể tam bội nhiễm sắc thể số 21 ( hội chứng down ) , thể tam bội nhiễm sắc thể số 13 ( hội chứng patau ) hoặc thể tam bội nhiễm sắc thể số 18 ( hội chứng edwards ) cha hoặc mẹ lớn tuổi : cha càng lớn tuổi càng có nguy cơ cao sinh con mắc bệnh teo thực quản mẹ có sử dụng các kỹ thuật hỗ trợ sinh sản ( như thụ tinh trong ống nghiệm , bơm tinh trùng , . . ) có nguy cơ sinh con mắc bệnh cao hơn người không sử dụng .",
+    "entities": [
+      {
+        "text": "bệnh teo thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng edwards",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng patau",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng down",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với nhiều người , nhiễm h . pylori không có dấu hiệu hoặc triệu chứng và không dẫn đến bất kỳ biến chứng .",
+    "entities": [
+      {
+        "text": "nhiễm h . pylori",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hãy gặp bác sĩ nếu các triệu chứng đầy hơi của bạn ngày càng trở nên nghiêm trọng như : tần suất bị đầy hơi xảy ra thường xuyên gây cảm giác khó chịu .",
+    "entities": [
+      {
+        "text": "đầy hơi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều trị sốt rét ở bệnh nhân có bệnh lý kèm theo thì phải điều trị kết hợp bệnh lý kèm theo .",
+    "entities": [
+      {
+        "text": "sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đột quỵ : do thiếu máu cục bộ xảy ra khi các động mạch đến não bị thu hẹp hoặc tắc nghẽn .",
+    "entities": [
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những bệnh nhân có tiền sử mắc các bệnh : viêm thực quản barrett ( loét thực quản kéo dài ) ; các bệnh lý gây hoại tử niêm mạc ( nuốt phải chất acide hoặc các chất phụ gia ) , các bệnh nhân đã từng bị ung thư vùng cổ .",
+    "entities": [
+      {
+        "text": "viêm thực quản barrett",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "loét thực quản kéo dài",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư vùng cổ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "về sau , khi tiếp xúc với chất này , các kháng thể nhận ra nó và tín hiệu của hệ miễn dịch để phát hành hóa chất như histamine vào máu .",
+    "entities": []
+  }
+]

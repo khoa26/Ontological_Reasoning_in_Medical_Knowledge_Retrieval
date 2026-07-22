@@ -1,0 +1,432 @@
+[
+  {
+    "text": "can thiệp bít thông liên thất chỉ áp dụng đối với thể quanh màng hoặc thông liên thất phần cơ ( cũng là hai thể thường gặp nhất ) .",
+    "entities": [
+      {
+        "text": "can thiệp bít thông liên thất",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một số biểu hiện bệnh viêm mạch nghiêm trọng hoặc tổn thương cơ quan cần điều trị ngay như : xuất huyết phế nang , viêm cầu thận tiến triển nhanh , đường tiêu hóa ( thiếu máu mạc treo : sự gián đoạn dòng máu nuôi ruột ) , mất thị lực ở bệnh nhân viêm mạch tế bào khổng lồ .",
+    "entities": [
+      {
+        "text": "viêm mạch tế bào khổng lồ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xuất huyết phế nang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiếu máu mạc treo",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm cầu thận",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết những người bị hội chứng guillain - barre trải nghiệm điểm yếu quan trọng nhất trong vòng ba tuần sau khi các triệu chứng bắt đầu .",
+    "entities": [
+      {
+        "text": "hội chứng guillain - barre",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "siêu âm sử dụng sóng âm thanh để tạo ra hình ảnh động mạch và tĩnh mạch của bạn để xem cách máu chảy qua chúng .",
+    "entities": [
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ các yếu tố sau đây có thể làm tăng nguy cơ viêm túi mật : sỏi mật .",
+    "entities": [
+      {
+        "text": "viêm túi mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sỏi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tiêu chuẩn chẩn đoán hội sản phụ khoa hoa kỳ và anh khuyến cáo 4 tiêu chuẩn chẩn đoán tắc mạch ối như sau : tụt huyết áp hay sốc tim thiếu oxy cấp tính và suy hô hấp hôn mê hoặc co giật đông máu nội mạch lan tỏa ( dic ) các triệu chứng trên thường xảy ra trong chuyển dạ , lúc sinh hoặc trong vòng 30 phút sau sinh mà không có các lý giải khác cho các dấu hiệu này .",
+    "entities": [
+      {
+        "text": "đông máu nội mạch lan tỏa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tụt huyết áp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tắc mạch ối",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy hô hấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốc tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "co giật",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hôn mê",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng một dung dịch nước muối toa mũi hoặc chuẩn bị giải pháp nước mặn của bằng cách sử dụng khoảng 1 / 4 muỗng cà phê muối pha với 2 ly ( 473 ml ) nước ấm .",
+    "entities": [
+      {
+        "text": "dung dịch nước muối",
+        "type": "THUỐC"
+      },
+      {
+        "text": "giải pháp nước mặn",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh u tuyến nước bọt triệu chứng cơ năng triệu chứng u tuyến nước bọt thường nghèo nàn , biểu hiện là một khối u vùng dưới hàm , cổ ( tuyến dưới hàm ) , ở góc hàm hay ở mặt ( tuyến mang tai ) , khối sưng lên ở sàn miệng ( tuyến dưới lưỡi ) .",
+    "entities": [
+      {
+        "text": "khối sưng lên ở sàn miệng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh u tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u vùng dưới hàm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thủ tục này được gọi là mở khí quản , cho phép không khí vào phổi trong khi bỏ qua thanh quản .",
+    "entities": [
+      {
+        "text": "mở khí quản",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sau khi phẫu thuật , sẽ có thể sử dụng t huốc xịt mũi corticosteroid để giúp ngăn ngừa sự tái phát polyp mũi .",
+    "entities": [
+      {
+        "text": "huốc xịt mũi corticosteroid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "polyp mũi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống các bước sau để giảm nguy cơ mắc viêm xoang mãn tính : tránh nhiễm trùng hô hấp trên .",
+    "entities": [
+      {
+        "text": "nhiễm trùng hô hấp trên",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm xoang mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ví dụ , độc tố có thể tổn thương cơ tim , gây ra các biến chứng như viêm cơ tim có thể dẫn đến suy tim và đột tử .",
+    "entities": [
+      {
+        "text": "viêm cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hóa trị liệu : là phương pháp sử dụng các hóa chất kháng u để tiêu diệt tế bào ung thư .",
+    "entities": [
+      {
+        "text": "hóa chất kháng u",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hóa trị liệu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hãy thay đổi lối sống để giảm nguy cơ có thể thực hiện các bước để giảm nguy cơ ung thư đại tràng bằng cách làm thay đổi trong cuộc sống hàng ngày .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chụp x - quang tĩnh mạch nếu siêu âm không kết luận được , bác sĩ có thể yêu cầu chụp x - quang ảnh tĩnh mạch .",
+    "entities": [
+      {
+        "text": "chụp x - quang ảnh tĩnh mạch",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp x - quang tĩnh mạch",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh thấp tim tổng quan bệnh thấp tim bệnh tim do thấp hay còn gọi là thấp tim , hay thấp khớp cấp hoặc sốt thấp khớp là một bệnh viêm nhiễm toàn thể , được biểu hiện ở nhiều cơ quan như tim , não , da , khớp .",
+    "entities": [
+      {
+        "text": "bệnh thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thấp khớp cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh ung thư gan xơ gan : ung thư gan hay gặp trên nền gan xơ , chiếm tỷ lệ đến 80% .",
+    "entities": [
+      {
+        "text": "bệnh ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gan xơ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều trị viêm thực quản bạch cầu ái toan chủ yếu là tránh các chất gây dị ứng và giảm các phản ứng dị ứng với thuốc .",
+    "entities": [
+      {
+        "text": "viêm thực quản bạch cầu ái toan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi nguyên nhân gây ra có thể được xác định , chóng mặt lành tính tư thế thường kết hợp với chấn thương đầu nghiêm trọng thời vị thành niên .",
+    "entities": [
+      {
+        "text": "chóng mặt lành tính tư thế",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật sau sinh phẫu thuật nhằm để đặt màng não trở lại vị trí và đóng lỗ mở của túi thoát vị .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "chẩn đoán , thuốc men , phẫu thuật và các thủ tục khác và các ngày được điều trị , và bất kỳ thông tin khác quan trọng về chăm sóc .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "suy tuyến tụy , làm suy giảm tiêu hóa do tuyến tụy không thể sản xuất đủ các enzym tiêu hóa .",
+    "entities": [
+      {
+        "text": "suy tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên với tiến bộ của xạ trị và hóa chất thì các bệnh nhân ung thư hậu môn giai đoạn muộn không có chỉ định phẫu thuật mà thay bằng hóa xạ trị đồng thời trường hợp khối u tiến triển hoặc tái phát bệnh nhân có thể được chỉ định làm hậu môn nhân tạo .",
+    "entities": [
+      {
+        "text": "hậu môn nhân tạo",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư hậu môn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hóa xạ trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hóa chất",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "loại đau nhức đầu - căng thẳng mãn tính loại đau nhức đầu - căng thẳng mãn tính có ít nhất hai trong số những đặc điểm sau : đau ở hai bên đầu .",
+    "entities": [
+      {
+        "text": "đau nhức đầu - căng thẳng mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau ở hai bên đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "viêm màng ngoài tim tái phát : khoảng 30% số người bị viêm màng ngoài tim cấp sẽ bị tái phát .",
+    "entities": [
+      {
+        "text": "viêm màng ngoài tim tái phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm màng ngoài tim cấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cơn đau thắt ngực không ổn định diễn tiến nghiêm trọng hcó thể là chỉ dấu của tình trạng nhồi máu cơ tim .",
+    "entities": [
+      {
+        "text": "cơn đau thắt ngực không ổn định",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay vào đó , các bác sĩ sử dụng phương pháp điều trị có thể làm giảm các dấu hiệu và triệu chứng của bệnh ung thư và làm cho thoải mái như có thể .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tác dụng phụ dài hạn của corticosteroid bao gồm đục thủy tinh thể , lượng đường trong máu cao , nguy cơ tăng các bệnh nhiễm trùng , mất canxi xương , kinh nguyệt không đều , ức chế tuyến thượng thận sản xuất hormone , mỏng da , béo phì , dễ bị bầm tím và chậm lành vết thương .",
+    "entities": [
+      {
+        "text": "lượng đường trong máu cao",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "kinh nguyệt không đều",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chậm lành vết thương",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "corticosteroid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "mỏng da",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "béo phì",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bầm tím",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một số yếu tố như do di truyền hay gia đình : cha mẹ hay anh , chị em mắc bệnh tim bẩm sinh trong đó có bệnh thông liên thất thì có nguy cơ mắc bệnh cao hơn .",
+    "entities": [
+      {
+        "text": "bệnh thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tim bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tránh các chất gây dị ứng khi có thể , và hỏi bác sĩ về loại thuốc dị ứng theo toa .",
+    "entities": [
+      {
+        "text": "loại thuốc dị ứng theo toa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tránh các chất gây dị ứng",
+        "type": "THUỐC"
+      }
+    ]
+  }
+]

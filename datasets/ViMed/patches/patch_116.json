@@ -1,0 +1,380 @@
+[
+  {
+    "text": "neuromyelitis optica không giống như đa xơ cứng , bởi vì neuromyelitis optica không gây thiệt hại cho các dây thần kinh trong não thường xuyên như đa xơ cứng .",
+    "entities": [
+      {
+        "text": "neuromyelitis optica",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đa xơ cứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cơ thể mệt mỏi , cảm thấy không còn sức lực , tê cứng mặt hoặc một nửa mặt , miệng , nụ cười bị méo mó .",
+    "entities": [
+      {
+        "text": "nụ cười bị méo mó",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tê cứng mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ống , dụng cụ chiếu sáng ( đèn nội soi ) được truyền xuống cổ họng để bác sĩ có thể xem dạ dày , thực quản , và một phần ruột non ( tá tràng ) .",
+    "entities": [
+      {
+        "text": "đèn nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "dùng chung kim tiêm và có quan hệ tình dục không an toàn có thể làm tăng nguy cơ viêm gan b và c . bảo vệ bản thân bằng cách kiêng quan hệ tình dục hoặc sử dụng bao cao su nếu có quan hệ tình dục .",
+    "entities": [
+      {
+        "text": "viêm gan b",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những người bị rối loạn ăn uống có thể có vấn đề tâm lý và tình cảm góp phần vào rối loạn .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm máu kiểm tra nồng độ của các enzym có thể cho biết bệnh gan khi ống mật thương tích và tổng hợp đặc biệt .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hay là phẫu thuật tạo hậu môn nhân tạo có thể được tạo ra cho phép chất thải qua nơi mở .",
+    "entities": [
+      {
+        "text": "phẫu thuật tạo hậu môn nhân tạo",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trì hoãn hoặc bỏ qua chủng ngừa có thể để lại một đứa trẻ dễ bị hib và làm tăng nguy cơ viêm nắp thanh quản .",
+    "entities": [
+      {
+        "text": "viêm nắp thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu điều trị nội soi không thành công , xem xét đặt stent kim loại thực quản tự giãn nở hoặc đặt ống loại sengstaken - blakemore qua đường nội soi lên đến 24 giờ để ổn định bệnh nhân cho tips .",
+    "entities": [
+      {
+        "text": "đặt ống loại sengstaken - blakemore",
+        "type": "THUỐC"
+      },
+      {
+        "text": "stent kim loại thực quản",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu điều trị bằng thuốc không làm giảm các dấu hiệu và triệu chứng , bác sĩ có thể đề nghị phẫu thuật để loại bỏ phần bị hư hỏng của đường tiêu hóa .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu như tình trạng của người bệnh nghiêm trọng hơn như nôn trớ nghiêm trọng hay suy giảm chức năng tim .",
+    "entities": [
+      {
+        "text": "suy giảm chức năng tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nôn trớ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thủ tục liên quan đến whipple loại bỏ đầu tuyến tụy , cũng như một phần của ( tá tràng ) ruột non , túi mật và một phần ống mật .",
+    "entities": [
+      {
+        "text": "whipple",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bởi vì các nguy cơ của hội chứng reye , một bệnh có khả năng đe dọa tính mạng , không được dùng aspirin cho trẻ nhỏ và thanh thiếu niên .",
+    "entities": [
+      {
+        "text": "hội chứng reye",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thời kỳ tiền mãn kinh có thể ngắn từ 5 đến 7 tháng nhưng cũng có thể kéo dài từ 5 - 15 năm .",
+    "entities": [
+      {
+        "text": "tiền mãn kinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh viện đa khoa quốc tế vinmec central park : phẫu thuật thành công bệnh tim thông liên nhĩ vinmec có thể thực hiện những can thiệp cấu trúc tim mạch hiện đại nhất [vinmec central park] 15 năm làm cha , lần đầu đủ sức chơi đùa với hai cô con gái nhỏ dấu hiệu nhận biết sớm bệnh tim bẩm sinh trẻ em chủ đề : tim mạch tim bẩm sinh thông liên nhĩ thông liên thất dị tật thai nhi c òn ống động mạch",
+    "entities": [
+      {
+        "text": "tim bẩm sinh thông liên nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tim thông liên nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tim bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "òn ống động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sốt - hoặc đau hoặc sưng khớp , khó thở hoặc phát ban - sau khi bị bệnh , ngay cả khi ba tuần sau khi nhiễm bệnh; có thể có chỉ số của sốt thấp khớp .",
+    "entities": [
+      {
+        "text": "đau hoặc sưng khớp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phát ban",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh thai ngoài tử cung triệu chứng lâm sàng : chậm kinh , đau bụng , ra huyết âm đạo khám lâm sàng : thăm khám vùng chậu , đánh giá kích thước tử cung , dấu hiệu thai ngoài tử cung các cận lâm sàng chẩn đoán siêu âm : đánh giá tử cung , ống dẫn trứng , vị trí của thai nằm trong hay ngoài buồng tử cung .",
+    "entities": [
+      {
+        "text": "bệnh thai ngoài tử cung",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ra huyết âm đạo",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chậm kinh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "xạ phẫu thuật thường được thực hiện trong điều trị và trong hầu hết trường hợp , có thể về nhà cùng ngày .",
+    "entities": [
+      {
+        "text": "xạ phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ít gặp hơn là những người có tầm nhìn màu nghèo không thể phân biệt giữa các sắc thái của màu xanh và màu vàng .",
+    "entities": [
+      {
+        "text": "không thể phân biệt giữa các sắc thái",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tầm nhìn màu nghèo",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "gọi là nang dịch tụy , những túi chất lỏng ( lành tính ) không phải ung thư không được lót bằng các loại tế bào được tìm thấy trong các u nang thực sự , thay vào đó , với mô viêm hoặc sẹo .",
+    "entities": [
+      {
+        "text": "nang dịch tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u nang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau khi đã thực hiện qua hệ tiêu hóa , thoát máy ảnh qua cơ thể không đau đớn trong phân .",
+    "entities": [
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "có thể có nhiều đợt của viêm xoang cấp tính kéo dài ít hơn bốn tuần , trước khi phát triển thành viêm xoang mãn tính .",
+    "entities": [
+      {
+        "text": "viêm xoang cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm xoang mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tự chăm sóc thường được chỉ dẫn và cần thiết để tăng tốc độ phục hồi và cải thiện triệu chứng .",
+    "entities": [
+      {
+        "text": "tự chăm sóc",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "theo hội tim mạch châu âu ( esc ) cũng như hội tim mạch việt nam , gọi là tăng huyết áp khi huyết áp tâm thu trên 140mmhg hoặc huyết áp tâm trương trên 90mmhg hoặc cả hai .",
+    "entities": [
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên khi thay khớp háng toàn phần , phần khớp háng nhân tạo không thể hoàn thiện như khớp háng thật của con người , do đó để bảo vệ tốt khớp nhân tạo và phòng ngừa những tai biến có thể xảy ra trước mắt cũng như lâu dài , việc phục hồi chức năng sớm là vô cùng quan trọng và cần thiết .",
+    "entities": [
+      {
+        "text": "thay khớp háng toàn phần",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của thiếu máu cơ tim những triệu chứng của thiếu máu cơ tim phụ thuộc vào tình trạng của người bệnh .",
+    "entities": [
+      {
+        "text": "thiếu máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "định lượng glucose huyết tương lúc đói ( fpg ) từ 8 – 12 giờ hoặc sau 2 giờ uống dung dịch glucose đậm đặc ( nghiệm pháp dung nạp glucose đường uống ( ogtt ) ) là tốt nhất .",
+    "entities": [
+      {
+        "text": "sau 2 giờ uống dung dịch glucose đậm đặc",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "định lượng glucose huyết tương lúc đói",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm trùng dai dẳng hoặc chất lỏng liên tục trong tai giữa có thể dẫn đến việc mất thính giác nhiều hơn đáng kể .",
+    "entities": [
+      {
+        "text": "mất thính giác",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ở bệnh nhân viêm màng ngoài tim , bác sĩ dùng ống nghe sẽ có thể nghe được các dấu hiệu do tràn dịch màng tim và tiếng cọ xát của màng ngoài với tim cũng sẽ khác với bình thường .",
+    "entities": [
+      {
+        "text": "viêm màng ngoài tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tràn dịch màng tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiếng cọ xát",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh cơ tim giai đoạn đầu của bệnh cơ tim có thể không gây ra các triệu chứng đáng chú ý . khi tình trạng xấu đi , các triệu chứng có thể bao gồm : chóng mặt , choáng váng và ngất xỉu .",
+    "entities": [
+      {
+        "text": "bệnh cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "choáng váng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngất xỉu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

@@ -1,0 +1,351 @@
+[
+  {
+    "text": "công cụ này được gọi là đèn khe bởi vì nó sử dụng một dòng mạnh mẽ của ánh sáng - một chùm khe - để thắp sáng giác mạc , mống mắt , ống kính và không gian giữa mống mắt và giác mạc .",
+    "entities": [
+      {
+        "text": "đèn khe",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng nếu một độ lệch trong vách ngăn mũi là trẻ vị thành niên có thể không có triệu chứng và có thể thậm chí không biết có vách ngăn lệch .",
+    "entities": [
+      {
+        "text": "vách ngăn lệch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "lưu ý là , nhiễm khuẩn huyết không chỉ xảy ra sau các thủ thuật xâm lấn mà còn là hậu quả của sự nhai thức ăn , chải răng .",
+    "entities": [
+      {
+        "text": "nhiễm khuẩn huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "căn bệnh này chiếm tới 95% trên tổng số người bị bệnh tăng huyết áp và thường gặp ở những người trong độ tuổi 40 hoặc 50 trở lên .5% còn lại thuộc về bệnh tăng huyết áp thứ phát hay tăng huyết áp có nguyên nhân .",
+    "entities": [
+      {
+        "text": "bệnh tăng huyết áp thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một khối u mô đệm đường tiêu hóa ( gist ) bắt đầu trong các tế bào hệ thống thần kinh cụ thể được tìm thấy trong dạ dày .",
+    "entities": [
+      {
+        "text": "u mô đệm đường tiêu hóa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gist",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù nguyên nhân và hiệu lực chưa được chứng minh , các nghiên cứu đã báo cáo sự phát triển của bệnh viêm ruột với việc sử dụng isotretinoin .",
+    "entities": [
+      {
+        "text": "bệnh viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng do điều trị các phương pháp điều trị ngoại khoa có thể gây nên những biến chứng nhất định như chảy máu trong khi mổ , nhiễm trùng sau mổ , hay nặng nề hơn là hẹp thực quản .",
+    "entities": [
+      {
+        "text": "nhiễm trùng sau mổ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hẹp thực quản",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đối với những người các triệu chứng khô mắt trung bình đến nặng , người không thể sử dụng nước mắt nhân tạo , một trong những tùy chọn có thể là một chèn mắt nhỏ trông giống như một hạt gạo .",
+    "entities": [
+      {
+        "text": "một chèn mắt nhỏ trông giống như một hạt gạo",
+        "type": "THUỐC"
+      },
+      {
+        "text": "triệu chứng khô mắt trung bình đến nặng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "những người bị viễn thị nặng có thể thấy rõ các đối tượng chỉ một khoảng cách rất xa , trong khi những người có viễn thị nhẹ có thể t hấy rõ các đối tượng được gần gũi hơn .",
+    "entities": [
+      {
+        "text": "thấy rõ các đối tượng chỉ một khoảng cách rất xa",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hấy rõ các đối tượng được gần gũi hơn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viễn thị nặng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viễn thị nhẹ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể mua thuốc xịt nước muối phản giao hoặc bộ dụng cụ rửa mũi với các thiết bị , chẳng hạn như ống chích bóng .",
+    "entities": [
+      {
+        "text": "thuốc xịt nước muối",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "do trải qua một phẫu thuật nào đó ở hệ sinh dục làm ống dẫn tinh bị tổn thương và tắc nghẽn .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng uốn ván toàn thân là nhiều cơ bị căng cứng và xuất hiện những cơn co giật đau đớn trong vòng 7 ngày từ khi vi khuẩn xâm nhập .",
+    "entities": [
+      {
+        "text": "cơ bị căng cứng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "co giật",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đớn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các tổn thương này chưa phải là ung thư nhưng có nguy cơ chuyển thành ung thư khi có các tác nhân sinh ung thư tác động vào .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể kê toa thuốc làm loãng máu ( chống đông máu ) như : warfarin ( coumadin ) .",
+    "entities": [
+      {
+        "text": "thuốc làm loãng máu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "warfarin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "coumadin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trong khi chụp động mạch của mắt , một loại thuốc nhuộm màu được tiêm vào mạch máu trên cánh tay .",
+    "entities": [
+      {
+        "text": "chụp động mạch của mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu các triệu chứng khô mắt liên tục và nghiêm trọng hơn , các lựa chọn điều trị sẽ phụ thuộc vào nguyên nhân gây khô mắt .",
+    "entities": [
+      {
+        "text": "các lựa chọn điều trị sẽ phụ thuộc vào nguyên nhân gây khô mắt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "triệu chứng khô mắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu không có vấn đề y tế cơ bản được tìm thấy gây ra lồng ruột , không cần thiết điều trị thêm .",
+    "entities": [
+      {
+        "text": "lồng ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều này xảy ra khi giác mạc cong quá nhiều hoặc mắt dài hơn bình thường , làm cho các đối tượng xa mờ và các đối tượng gần rõ ràng .",
+    "entities": [
+      {
+        "text": "các đối tượng xa mờ và các đối tượng gần rõ ràng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu ung thư hoạt động mạnh có khả năng phát triển và lan rộng nhanh chóng hoặc nếu nó đã lan đến các hạch bạch huyết , các hạch bạch huyết từ cùng một bên cổ có thể được bóc tách .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài khả năng xác định vị trí khởi phát và mức độ bóc tách , mức độ nghiêm trọng của hở van động mạch chủ và mức độ liên quan của các nhánh chính của động mạch chủ , chụp động mạch chủ giúp xác định xem có cần phẫu thuật bắc cầu động mạch vành đồng thời hay không .",
+    "entities": [
+      {
+        "text": "phẫu thuật bắc cầu động mạch vành",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hở van động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mang vớ nén : còn được gọi là vớ hỗ trợ , những loại vớ đàn hồi này thường được sử dụng để giảm đau và sưng do giãn tĩnh mạch .",
+    "entities": [
+      {
+        "text": "vớ nén",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đối với viêm nội tâm mạc van nhân tạo do tụ cầu , nên dùng phối hợp thêm rifampin kể cả khi mới chỉ nghi ngờ chủng này gây bệnh .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc van nhân tạo",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rifampin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , kiểm tra mắt mầm non , đó là một ý tưởng tốt để đảm bảo cho xét nghiệm tầm nhìn màu sắc cũng như cho thị lực .",
+    "entities": [
+      {
+        "text": "xét nghiệm tầm nhìn màu sắc",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "kiểm tra mắt mầm non",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": ". . bệnh nhân từng có tiền sử mắc các bệnh ung thư ở vùng đầu cổ triệu chứng bệnh ung thư thực quản một số dấu hiệu , biểu hiện của bệnh ung thư thực quản như sau : dấu hiệu thường gặp nhất là nuốt có cảm giác nghẹn , vướng sau xương ức khi ăn thức ăn đặc , khi bệnh tiến triển , bệnh nhân uống nước , sử dụng các chất lỏng cũng có cảm giác bị nghẹn .",
+    "entities": [
+      {
+        "text": "sử dụng các chất lỏng cũng có cảm giác bị nghẹn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "vướng sau xương ức khi ăn thức ăn đặc",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nuốt có cảm giác nghẹn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "không thể nhận ra có xuất huyết mạch máu trong mắt cho đến khi nhìn vào gương và tìm thấy những phần trắng của mắt có màu đỏ tươi .",
+    "entities": [
+      {
+        "text": "xuất huyết mạch máu trong mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những tổn hại xảy ra sau chấn thương có nghĩa tổn thương sợi trục thần kinh trong chất trắng của não .",
+    "entities": []
+  },
+  {
+    "text": "rất may mắn là để điều trị bệnh trĩ có rất nhiều cách hiệu quả nhằm giúp người bệnh giảm triệu chứng bằng các biện pháp điều trị có thể thực hiện được tại nhà và thay đổi lối sống .",
+    "entities": [
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng mặc dù chóng mặt lành tính ( bppv ) gây khó chịu , nó hiếm khi gây ra biến chứng .",
+    "entities": [
+      {
+        "text": "chóng mặt lành tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số loại thuốc có thể làm trầm trọng thêm hoặc làm tăng nguy cơ tiến triển các tình trạng như huyết áp cao , cholesterol cao , ung thư hoặc tiểu đường .",
+    "entities": [
+      {
+        "text": "tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cơn đau xảy ra khi cơ tim không nhận được đủ máu nuôi mà nó cần và điều này thường xảy ra do một hoặc nhiều động mạch vành nuôi tim bị hẹp hoặc tắc nghẽn dẫn đến hiện tượng được gọi là thiếu máu cục bộ cơ tim .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cơn đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

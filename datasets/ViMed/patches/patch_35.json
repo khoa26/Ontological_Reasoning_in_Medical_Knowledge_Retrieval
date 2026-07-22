@@ -1,0 +1,369 @@
+[
+  {
+    "text": "sẽ nhận được hướng dẫn về việc làm thế nào để hút chất lỏng ra ngoài qua ống tai trước khi hành nhỏ giọt kháng sinh .",
+    "entities": [
+      {
+        "text": "kháng sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân của nhiễm trùng tim nhiễm trùng tim , chẳng hạn như viêm nội tâm mạc , xảy ra khi vi khuẩn đến tim hoặc van tim .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vùng da tiếp xúc thường xuyên với ánh nắng ở cường độ mạnh và trong một thời gian dài là yếu tố bệnh sinh quan trọng nhất gây ung thư da .",
+    "entities": [
+      {
+        "text": "ung thư da",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa viêm đại tràng màng giả là viêm đại tràng xảy ra ở một số người đã được dùng thuốc kháng sinh .",
+    "entities": [
+      {
+        "text": "viêm đại tràng màng giả",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên trong trường hợp cần phải dùng thuốc thì phải dừng cho con bú giải tỏa áp lực : không gây áp lực cho bản thân , không kì vọng quá nhiều vào người khác , không cố gắng để đạt mọi thứ hoàn hảo , không làm những việc vượt quá khả năng của mình tránh cô lập : chia sẻ với chồng , gia đình , bạn bè những suy nghĩ cảm xúc của mình giúp hòa mình trở lại với cuộc sống điều trị dùng thuốc việc sử dụng thuốc điều trị trầm cảm mang lại hiệu quả cao tuy nhiên không phải trong trường hợp nào cũng có chỉ định dùng thuốc .",
+    "entities": [
+      {
+        "text": "trầm cảm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau khi phẫu thuật , cần theo dõi chăm sóc cả đời với một bác sĩ tim mạch để theo dõi sức khỏe tim .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tăng huyết áp luôn được ví như “kẻ giết người thầm lặng” vì nó gây ra nhiều hậu quả lâu dài cho người bệnh nếu không được điều trị .",
+    "entities": [
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật tuyến nước bọt có thể khó khăn vì một số dây thần kinh quan trọng nằm trong và xung quanh các tuyến .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ nguy cơ phát triển làm tăng viêm mống mắt nếu : mang hla - b27 kiểu gen .",
+    "entities": [
+      {
+        "text": "viêm mống mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư tụy giai đoạn 2 : khối u đã có kích thước &gt; 2cm và &lt; 4cm , xâm lấn đến các mô lân cận tuyến tụy nhưng chưa ảnh hưởng đến các mạch máu ung thư tụy giai đoạn 3 : khối u có thể đạt kích thước trên 6cm , tế bào ung thư xâm lấn vào các mạch máu và di căn tới nhiều hạch bạch huyết cũng như các cơ quan lân cận .",
+    "entities": [
+      {
+        "text": "ung thư tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ sử dụng kết hợp kháng sinh để điều trị h . pylori vì một kháng sinh không phải lúc nào cũng đủ để giết chết các sinh vật .",
+    "entities": []
+  },
+  {
+    "text": "nguyên nhân khác : viêm dương vật ( đặc biệt vùng quy đầu , rãnh quy đầu ) bệnh lây truyền qua đường tình dục như giang mai khối u lành tính ở dương vật ( u mạch máu . . ) triệu chứng bệnh ung thư dương vật triệu chứng ung thư dương vật phụ thuộc vào giai đoạn của bệnh , bệnh tại chỗ hay đã tiến triển di căn xa , có di căn hạch hay không .",
+    "entities": [
+      {
+        "text": "bệnh ung thư dương vật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm dương vật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u mạch máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "giang mai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chảy máu tiền mãn kinh và chảy máu sau mãn kinh : những điều cần biết chủ đề : phụ khoa phụ nữ kinh nguyệt tiền mãn kinh mãn kinh rối loạn kinh nguyệt estrogen nội tiết tố nữ",
+    "entities": [
+      {
+        "text": "tiền mãn kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thuốc xịt mũi kháng acetylcholin chống nhỏ giọt các ipratropium theo toa ( atrovent ) thường được sử dụng như một loại thuốc xịt hen suyễn .",
+    "entities": [
+      {
+        "text": "thuốc xịt mũi kháng acetylcholin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc xịt hen suyễn",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp tự chăm sóc có thể là điều trị duy nhất cần thiết cho hầu hết các trường hợp viêm bờ mi .",
+    "entities": [
+      {
+        "text": "viêm bờ mi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không lạm dụng dùng quá đà các loại sản phẩm chứa hóa chất như thuốc xịt , keo vuốt tóc , thuốc nhuộm tóc các biện pháp chẩn đoán bệnh ung thư da đầu chẩn đoán ung thư da dựa vào triệu chứng lâm sàng và kết quả giải phẫu bệnh dấu hiệu ung thư da đầu sớm bao gồm : ổ loét lâu liền hoặc rớm máu ổ dày sừng có loét , nổi cục và dễ chảy máu ổ loét hoặc u trên nền sẹo cũ nốt đỏ mạn tính có loét sinh thiết tổn thương chẩn đoán mô bệnh học : là tiêu chuẩn chẩn đoán xác định bệnh .",
+    "entities": [
+      {
+        "text": "bệnh ung thư da đầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "giải phẫu bệnh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mô bệnh học",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng quá mức giọng nói , bằng cách nói quá nhiều , nói quá to , la hét hoặc hát .",
+    "entities": []
+  },
+  {
+    "text": "tuy nhiên , cũng có các trường hợp nghiêm trọng hơn , khi màng tim bị tràn dịch , co thắt , gây chèn ép tim , có thể dẫn đến suy tim nếu không điều trị kịp thời .",
+    "entities": [
+      {
+        "text": "suy tim nếu không điều trị kịp thời",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "màng tim bị tràn dịch",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "gây chèn ép tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "co thắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh ung thư bàng quang tổng quan bệnh ung thư bàng quang ung thư bàng quang là gì ?",
+    "entities": [
+      {
+        "text": "bệnh ung thư bàng quang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh gan nhiễm mỡ không do rượu xảy ra khi có sự cố phá bỏ chất béo , gây tích tụ trong các mô gan .",
+    "entities": [
+      {
+        "text": "bệnh gan nhiễm mỡ không do rượu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cơ thể giải phóng histamin có thể gây ra một số dấu hiệu và triệu chứng dị ứng , bao gồm cả đôi mắt đỏ .",
+    "entities": [
+      {
+        "text": "triệu chứng dị ứng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cả đôi mắt đỏ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "rò rỉ phình động mạch : trong một số trường hợp , chứng phình động mạch có thể bị rò rỉ một lượng nhỏ máu .",
+    "entities": [
+      {
+        "text": "rò rỉ phình động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tạo ra hình ảnh của lá gan , chẳng hạn như chụp cắt lớp vi tính ( ct ) , hình ảnh cộng hưởng từ ( mri ) và siêu âm , có thể tiết lộ vấn đề về gan .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ví dụ , các nghiên cứu sử dụng dầu cá và chế phẩm sinh học để điều trị crohn đã không tìm thấy lợi ích .",
+    "entities": [
+      {
+        "text": "crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu đồng thời mắc phải bệnh tim cấu trúc có thể gây suy tim , suy nhược , đau ngực , lú lẫn và ngất .",
+    "entities": [
+      {
+        "text": "suy nhược",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lú lẫn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngất",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "rượu và đồ uống có chứa caffeine kích thích ruột và có thể làm cho tiêu chảy nặng hơn , trong khi đồ uống có ga thường xuyên tạo ra khí .",
+    "entities": [
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tai biến mạch máu não là căn bệnh cực kỳ nguy hiểm , cần thiết phải trao đổi với bác sĩ nếu gặp phải các dấu hiệu và triệu chứng ở trên .",
+    "entities": [
+      {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh u nguyên bào thần kinh triệu chứng u nguyên bào thần kinh thường có khởi đầu âm thầm , u có thể xuất hiện bất cứ vị trí nào của hệ thần kinh giao cảm : khối u ở ổ bụng : thường gặp ở tuyến thượng thận , bệnh nhân đến vì bụng to kèm theo sốt , tiêu chảy , da xanh xao .",
+    "entities": [
+      {
+        "text": "bệnh u nguyên bào thần kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khối u ở ổ bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "da xanh xao",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bụng to",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các loại ung thư dạ dày bao gồm : ung thư bắt đầu trong các tế bào tuyến ( adenocarcinoma ) .",
+    "entities": [
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "adenocarcinoma",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi sóng âm thanh tấn công , màng nhĩ rung - bước đầu tiên các cấu trúc của tai giữa và bên trong dịch các sóng âm thanh thành các xung thần kinh .",
+    "entities": []
+  }
+]

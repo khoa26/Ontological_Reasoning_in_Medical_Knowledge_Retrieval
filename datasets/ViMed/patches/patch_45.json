@@ -1,0 +1,347 @@
+[
+  {
+    "text": "các triệu chứng theo định nghĩa , đau nhức đầu mãn tính hàng ngày phải xảy ra 15 ngày hoặc hơn trong một tháng , ít nhất là ba tháng .",
+    "entities": [
+      {
+        "text": "đau nhức đầu mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra để sửa chữa túi dưới mắt , blepharoplasty cũng có thể sửa chữa : da võng hoặc mí mắt trên sưng húp .",
+    "entities": [
+      {
+        "text": "blepharoplasty",
+        "type": "THUỐC"
+      },
+      {
+        "text": "túi dưới mắt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sưng húp",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguy cơ mắc phải yếu tố làm tăng nguy cơ xảy ra cơn đau thắt ngực một số yếu tố làm tăng nguy cơ xảy ra cơn đau thắt ngực , bao gồm : hút thuốc lá; uống rượu bia; hoạt động thể chất nặng/tình trạng gắng sức; cảm xúc mạnh/ hồi hộp; tiếp xúc với thời tiết quá lạnh hoặc quá nóng .",
+    "entities": [
+      {
+        "text": "cơn đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chụp tĩnh mạch có cản quang : bệnh nhân được tiêm cản quang vào tĩnh mạch , sau đó được thận thải ra và đến bàng quang .",
+    "entities": [
+      {
+        "text": "chụp tĩnh mạch có cản quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , viêm xơ đường mật là hiếm trong số những người bị bệnh viêm ruột , và hầu hết sẽ không phát triển viêm xơ đường mật .",
+    "entities": [
+      {
+        "text": "viêm xơ đường mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị xâm lấn tối thiểu : đóng tần số vô tuyến : một ống thông được đặt vào tĩnh mạch hiển lớn - tĩnh mạch nông lớn nhất dọc theo đùi giữa , và năng lượng tần số vô tuyến sẽ làm nóng mô tĩnh mạch .",
+    "entities": [
+      {
+        "text": "đóng tần số vô tuyến",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "động kinh thùy trán có thể đặc biệt xấu hổ vì đôi khi tính năng phát âm tiếng hay những động tác giới tính .",
+    "entities": [
+      {
+        "text": "động kinh thùy trán",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các bác sĩ biết rằng ung thư túi mật khi các tế bào khỏe mạnh phát triển thay đổi đột biến trong dna .",
+    "entities": [
+      {
+        "text": "ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiều loại kính áp tròng có sẵn - cứng , mềm , mở rộng , dùng một lần , cứng nhắc và hai tiêu điểm thấm khí .",
+    "entities": [
+      {
+        "text": "kính áp tròng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ghi nhận được các trường hợp mắc bệnh uốn ván sau phẫu thuật , hay sau nạo thai trong những điều kiện không đảm bảo vệ sinh .",
+    "entities": [
+      {
+        "text": "bệnh uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "khi trẻ bị u não ở hố sau , trẻ có dấu hiệu đứng không vững hay không đi được , đi lại loạng choạng , mất điều hòa động tác như quá tầm , sai hướng .",
+    "entities": [
+      {
+        "text": "mất điều hòa động tác",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đi lại loạng choạng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đứng không vững",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "không đi được",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sai hướng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "quá tầm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "u não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân mắc bệnh tiểu đường tuýp 1 thường xuất hiện với triệu chứng của tăng đường máu và đôi khi đái tháo đường toan ceton ( dka ) .",
+    "entities": [
+      {
+        "text": "bệnh tiểu đường tuýp 1",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "loại viêm nội tâm mạc luôn có cấy âm tính là viêm nội tâm mạc cấy máu âm tính thực sự loại viêm nội tâm mạc này thường do các vi khuẩn nội bào như coxiella burnetii , bartonella , chlamydia , và tropheryma whipplei – vi khuẩn gây bệnh whipple .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng nghiêm trọng của cục máu đông có thể gây phình hoặc vỡ động mạch chủ có thể gây tử vong nếu không xử lý kịp thời .",
+    "entities": []
+  },
+  {
+    "text": "nguyên nhân viêm mũi không dị ứng xảy ra khi mạch máu ở mũi mở rộng ( giãn ra ) , làm niêm mạc mũi với máu và chất lỏng .",
+    "entities": [
+      {
+        "text": "viêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiều nguyên nhân được đề cập trong bệnh thoái hóa võng mạc không tăng sinh cũng có thể gây ra bệnh thoái hóa võng mạc tăng sinh ở giai đoạn sau .",
+    "entities": [
+      {
+        "text": "bệnh thoái hóa võng mạc không tăng sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh thoái hóa võng mạc tăng sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù bệnh tự kỷ thường được chẩn đoán ở trẻ mới biết đi , nhưng có thể đến khi trưởng thành thì rối loạn phổ tự kỷ mới được phát hiện và được chẩn đoán .",
+    "entities": [
+      {
+        "text": "rối loạn phổ tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "siêu âm phương pháp này được xem là tin cậy và rất chính xác trong việc chẩn đoán lồng ruột ( độ nhạy 98 - 100% ) .",
+    "entities": [
+      {
+        "text": "lồng ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa hầu hết mọi người đã từng có đau nhức đầu .",
+    "entities": [
+      {
+        "text": "đau nhức đầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm xơ đường mật có thể xảy ra ở mọi lứa tuổi , nhưng nó thường được chẩn đoán ở lứa tuổi 25 - 45. giới tính .",
+    "entities": [
+      {
+        "text": "viêm xơ đường mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngăn ngừa cục máu đông hầu hết những người bị rung nhĩ hoặc những người đang trải qua phương pháp điều trị nhất định đối với rung nhĩ có nguy cơ đặc biệt cao cục máu đông có thể dẫn đến đột quỵ .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng khi có tuổi , các ống kính trở nên ít linh hoạt và cuối cùng có thể sẽ cần điều chỉnh ống kính để cải thiện tầm nhìn gần .",
+    "entities": [
+      {
+        "text": "điều chỉnh ống kính để cải thiện tầm nhìn gần",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thuốc ức chế phosphodiesterase - 5 ngày càng được sử dụng nhiều trong rp liên quan đến xơ cứng bì hệ thống .",
+    "entities": [
+      {
+        "text": "thuốc ức chế phosphodiesterase - 5",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xơ cứng bì hệ thống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các tổn thương tiền ung thư : viêm dạ dày mãn tính kéo dài nếu không được điều trị sẽ dẫn đến viêm teo mãn tính niêm mạc dạ dày .",
+    "entities": [
+      {
+        "text": "viêm teo mãn tính niêm mạc dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm dạ dày mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể làm tăng nguy cơ phát triển của virus và viêm giác mạc , nếu bị nhiễm virus nào xảy ra , có thể làm cho nó trầm trọng hơn .",
+    "entities": [
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau khi trải qua nhiều chu kỳ kinh nguyệt , người phụ nữ đã thích nghi và làm quen dần với những khó chịu mà thống kinh vô căn gây ra .",
+    "entities": [
+      {
+        "text": "thống kinh vô căn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị đau đầu cơn là tập trung hơn vào công tác phòng chống , với các tùy chọn thuốc có sẵn nhiều hơn để lựa chọn .",
+    "entities": [
+      {
+        "text": "tập trung hơn vào công tác phòng chống",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau đầu cơn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu đang gặp phải căng thẳng , cần thư giãn , thực hiện các biện pháp thực hành để giúp giảm căng thẳng .",
+    "entities": [
+      {
+        "text": "căng thẳng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thay thế thuốc không có phương pháp điều trị thay thế đã chứng tỏ hữu ích trong điều trị ung thư cổ họng .",
+    "entities": [
+      {
+        "text": "ung thư cổ họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tùy thuộc vào tần số và thời gian của cơn co giật , động kinh thùy trán có thể ảnh hưởng đến trí nhớ , kỹ năng vận động và chức năng não khác .",
+    "entities": [
+      {
+        "text": "ảnh hưởng đến trí nhớ , kỹ năng vận động và chức năng não khác",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "động kinh thùy trán",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cơn co giật",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

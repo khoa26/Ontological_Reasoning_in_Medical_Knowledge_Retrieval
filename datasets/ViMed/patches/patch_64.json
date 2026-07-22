@@ -1,0 +1,328 @@
+[
+  {
+    "text": "bởi vì có rất nhiều các trang web quảng cáo ăn kiêng như là một sự lựa chọn lối sống hơn là rối loạn ăn uống , điều quan trọng để giám sát sử dụng máy tính của con em .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trầm cảm : những người bị nhiễm trùng nấm men có thể gặp nguy cơ cao mắc trầm cảm , cơ thể mệt mỏi gây tác động tiêu cực đến tâm lý .",
+    "entities": [
+      {
+        "text": "trầm cảm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "những người làm công việc xử lý da , lông động vật trong các khu vực có nguy cơ bị bệnh than .",
+    "entities": [
+      {
+        "text": "bệnh than",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư thựa quản giai đoạn 2 : là khi tế bào ung thư đã xâm lấn đến tổ chức bạch huyết lân cận , tuy nhiên chưa ảnh hưởng đến các bộ phận khác của cơ thể .",
+    "entities": [
+      {
+        "text": "ung thư thựa quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị bổ xung cho viêm tụy mãn tính viêm tụy mãn tính có thể yêu cầu xử lý bổ sung , tùy thuộc vào tình hình .",
+    "entities": [
+      {
+        "text": "viêm tụy mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiều nghiên cứu cho thấy những vận động viên bóng đá chuyên nghiệp có nguy cơ tử vong vì bệnh xơ cứng cột bên teo cơ , bệnh alzheimer và những bệnh lý thoái hóa thần kinh khác .",
+    "entities": [
+      {
+        "text": "bệnh xơ cứng cột bên teo cơ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh alzheimer",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của bệnh thông liên nhĩ đa số người bệnh không có triệu chứng , do đó không được phát hiện cho đến tuổi trưởng thành .",
+    "entities": [
+      {
+        "text": "thông liên nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số điều kiện có thể làm tăng nguy cơ bị nhiễm trùng xoang gây viêm xoang , hoặc có thể làm tăng nguy cơ viêm xoang không phải là do một nhiễm trùng tiềm ẩn .",
+    "entities": [
+      {
+        "text": "viêm xoang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cách để đối phó với thay đổi tầm nhìn có thể bao gồm : hỏi bác sĩ mắt để kiểm tra kính mắt .",
+    "entities": [
+      {
+        "text": "kiểm tra kính mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hở van động mạch chủ là tình trạng van động mạch chủ không đóng kín trong thời kỳ tâm trương , làm cho dòng máu dội ngược từ động mạch chủ về thất trái dẫn đến làm giảm cung lượng tim và quá tải thể tích thất trái .",
+    "entities": [
+      {
+        "text": "hở van động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "rối loạn y tế khác có ảnh hưởng đến máu , chẳng hạn như viêm mạch máu ( viêm mạch ) , lupus hay bệnh thiếu máu hồng cầu hình liềm .",
+    "entities": [
+      {
+        "text": "bệnh thiếu máu hồng cầu hình liềm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm mạch máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lupus",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "huyết khối gây tắc mạch hệ thống ( ví dụ như động mạch vành , động mạch thận , động mạch mạc treo , động mạch mắt , động mạch chi ) có thể gây ra hoại tử và rối loạn chức năng các cơ quan .",
+    "entities": [
+      {
+        "text": "tắc mạch hệ thống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán sốt hồi quy chẩn đoán bệnh sốt hồi quy bắt đầu bằng tiền sử bệnh và những triệu chứng lâm sàng .",
+    "entities": [
+      {
+        "text": "sốt hồi quy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục những bước này tự giúp đỡ có thể giúp giảm triệu chứng viêm xoang : nghỉ ngơi nhiều .",
+    "entities": [
+      {
+        "text": "viêm xoang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , có thể thảo luận với bác sĩ những lợi ích tiềm năng của kiểm tra nếu có : một cha mẹ hoặc anh chị em đã có chứng phình động mạch não vỡ .",
+    "entities": [
+      {
+        "text": "chứng phình động mạch não vỡ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống để giảm nguy cơ viêm niêm mạc trực tràng , thực hiện các bước để bảo vệ mình khỏi các bệnh qua đường tình dục .",
+    "entities": [
+      {
+        "text": "viêm niêm mạc trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "quan hệ tình dục an toàn , không dùng chung kim tiêm , dao cạo râu và tránh tiếp xúc với máu và các chất dịch cơ thể khác của người bị viêm gan .",
+    "entities": [
+      {
+        "text": "viêm gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "do ảnh hưởng đến tứ chi : đau chân khi đi bộ , tê tay chân hoặc bất cứ nơi nào bị tắc nghẽn .",
+    "entities": [
+      {
+        "text": "tê tay chân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau chân",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đó là lý do tại sao ngay sau khi sinh , thuốc mỡ kháng sinh được áp dụng cho mỗi mắt của trẻ sơ sinh .",
+    "entities": [
+      {
+        "text": "thuốc mỡ kháng sinh được áp dụng cho mỗi mắt của trẻ sơ sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục một số cơn động kinh có thể được kích hoạt bởi lượng rượu quá mức hoặc thiếu ngủ .",
+    "entities": [
+      {
+        "text": "cơn động kinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau khi uống dung dịch chứa bari , thu thập hình ảnh x quang , ct hoặc mri của ruột non .",
+    "entities": [
+      {
+        "text": "x quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục nếu được thẩm phân phúc mạc , bác sĩ có thể cung cấp các hướng dẫn về tự chăm sóc viêm phúc mạc và cung cấp thuốc kháng sinh và các vật tư khác để điều trị viêm phúc mạc ở nhà .",
+    "entities": [
+      {
+        "text": "thẩm phân phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi điều kiện y tế khác dẫn đến nhiễm trùng là nguyên nhân gây viêm phúc mạc , nó được gọi là viêm phúc mạc thứ phát .",
+    "entities": [
+      {
+        "text": "viêm phúc mạc thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khoảng 50% teo thực quản bẩm sinh có kết hợp với những dị tật bẩm sinh khác , trong đó chiếm tỷ lệ cao nhất là vacterl ( chứng bệnh gồm nhiều dị tật bẩm sinh cùng lúc như dị dạng đốt sống , bất sản hậu môn , dị tật tim , dị dạng khí quản , dị dạng thực quản , bất thường về thận và bất thường về chi ) .",
+    "entities": [
+      {
+        "text": "teo thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đôi khi bị đè ép làm cho búi trĩ bị sa xuống hậu môn , được gọi là trĩ lỗi hoặc trĩ tăng sản gây đau và kích thích đi vệ sinh .",
+    "entities": [
+      {
+        "text": "kích thích đi vệ sinh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "những người đã t iếp xúc với một loại bức xạ được gọi là bức xạ ion hóa có tăng nguy cơ u não .",
+    "entities": [
+      {
+        "text": "u não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "gây nên các triệu chứng viêm mũi không dị ứng khác nhau từ người sang người và có thể bao gồm một số mùi hoặc chất kích thích trong không khí , thay đổi về thời tiết , một số loại thuốc , thực phẩm nhất định , và điều kiện sức khỏe mãn tính .",
+    "entities": [
+      {
+        "text": "viêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sự giảm natri trong máu ( hyponatremia ) có thể gây phù các tế bào não và tổn thương vĩnh viễn .",
+    "entities": [
+      {
+        "text": "phù các tế bào não và tổn thương vĩnh viễn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hyponatremia",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các vi khuẩn là nguyên nhân gây nên hầu hết các trường hợp viêm đại tràng giả và nhiều trường hợp tiêu chảy nghiêm trọng liên quan đến kháng sinh là c . difficile .",
+    "entities": [
+      {
+        "text": "viêm đại tràng giả",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa nhiễm h . pylori xảy ra khi loại vi khuẩn gọi là helicobacter pylori ( h . pylori ) lây nhiễm vào dạ dày hay một phần đầu của ruột non .",
+    "entities": [
+      {
+        "text": "nhiễm h . pylori",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

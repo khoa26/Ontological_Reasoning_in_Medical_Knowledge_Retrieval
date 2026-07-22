@@ -1,0 +1,360 @@
+[
+  {
+    "text": "để xác định xem liệu cơ thể có đang từ chối trái tim mới hay không , phải sinh thiết tim thường xuyên trong năm đầu tiên sau khi cấy ghép .",
+    "entities": [
+      {
+        "text": "sinh thiết tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "cấy ghép",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một số thuốc có thể làm tăng nguy cơ thiếu máu cục bộ đường ruột , bao gồm cả thuốc tránh thai và thuốc làm mạch máu giãn rộng hoặc co , chẳng hạn như thuốc dị ứng và thuốc đau nửa đầu .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các dấu hiệu và triệu chứng có thể bao gồm : hình ảnh biến dạng , chẳng hạn như đường thẳng xuất hiện lượn sóng hoặc quanh co , dấu hiệu ô cửa hoặc đường tìm kiếm lệch , hoặc các đối tượng xuất hiện nhỏ hơn hoặc xa hơn so với thực .",
+    "entities": [
+      {
+        "text": "hoặc các đối tượng xuất hiện nhỏ hơn hoặc xa hơn so với thực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hình ảnh biến dạng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra vị trí bị che lấp bởi gan tự nhiên của túi mật tạo điều kiện cho ung thư túi mật phát triển mà không bị phát hiện .",
+    "entities": [
+      {
+        "text": "ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau khi phẫu thuật , bé có thể nhận được dịch trong một vài giờ hoặc cho đến khi có thể ăn .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến hội chứng brugada nguyên nhân của hội chứng này là do một số đột biến gene khác nhau nhưng chủ yếu là đột biến gene scn5a – gene mã hóa tiểu đơn vị alpha của kênh natri .",
+    "entities": [
+      {
+        "text": "hội chứng brugada",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bởi vì thường xuyên tái phát viêm túi mật , hầu hết mọi người chẩn đoán viêm túi mật cuối cùng yêu cầu loại bỏ túi mật .",
+    "entities": [
+      {
+        "text": "viêm túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhịp nhanh thất không dai dẳng : không cần điều trị ngay ( trừ khi cơn xuất hiện thường xuyên và thời gian đủ lâu để gây ra triệu chứng ) .",
+    "entities": [
+      {
+        "text": "nhịp nhanh thất",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp tự chăm sóc có thể giúp từng lúc , nhưng đục thủy tinh thể tiến triển , tầm nhìn có thể xấu đi hơn nữa .",
+    "entities": [
+      {
+        "text": "tầm nhìn có thể xấu đi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc tai biến mạch máu não tai biến mạch máu não gây tổn thương cho người bệnh lâu dài hay không phụ thuộc vào mức độ nghiêm trọng của bệnh và người bệnh có được điều trị kịp thời hay không .",
+    "entities": [
+      {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhiễm sắc tố sắt mô ( hemochromatosis ) do dư thừa sắt trong cơ thể , gây tích tụ ở tim và làm sưng buồng tim bên trái .",
+    "entities": [
+      {
+        "text": "bệnh nhiễm sắc tố sắt mô",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hemochromatosis",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc thay thế một số nghiên cứu sơ bộ đã cho rằng omega - 3 fatty acid có thể giúp giảm các triệu chứng khô mắt .",
+    "entities": [
+      {
+        "text": "omega - 3 fatty acid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "triệu chứng khô mắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sau đó x - quang , chụp cắt lớp vi tính ( ct ) hoặc chụp cộng hưởng từ ( mri ) , hình ảnh được lấy để tìm địa điểm và nguyên nhân gây ra tắc nghẽn .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính ( ct )",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp cộng hưởng từ ( mri )",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "x - quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "hội chứng qt kéo dài do di truyền thường phát hiện ở giai đoạn trẻ em hoặc thanh niên; hội chứng qt kéo dài thường gặp ở phụ nữ hơn nam giới; trẻ em bị điếc bẩm sinh cũng có nguy cơ mắc hội chứng qt kéo dài cao hơn .",
+    "entities": [
+      {
+        "text": "hội chứng qt kéo dài",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các tuyến nước bọt tham gia tích cực nhiều quá trình , chức năng quan trọng như : tiêu hoá thức ăn , bài tiết , điều tiết môi trường miệng , chống quá trình lên men , viêm nhiễm .",
+    "entities": [
+      {
+        "text": "viêm nhiễm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thuốc phổ biến nhất là nitroglycerin có thể giúp giảm đau bằng cách làm giãn mạch máu ở tim và cho phép lưu lượng máu đến cơ tim nhiều hơn và giảm khối lượng công việc của tim .",
+    "entities": [
+      {
+        "text": "nitroglycerin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thủ tục phẫu thuật mới hơn sử dụng một ống thông tim chèn vào mạch máu ở chân , sau đó được luồn lên đến tim để thay thế các ống dẫn mà không cần phẫu thuật tim truyền thống .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "để xác định giai đoạn của ung thư tuyến tụy , bác sĩ có thể khuyên nên : nội soi để xem bên trong cơ thể .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa ung thư tuyến tụy bắt đầu trong các mô của tuyến tụy - một cơ quan ở bụng nằm theo chiều ngang phía sau phần dưới của dạ dày .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị bằng thuốc thuốc được sử dụng điều trị hở van ba lá thường dùng là : thuốc lợi tiểu : loại bỏ chất lỏng dư thừa ra khỏi cơ thể .",
+    "entities": [
+      {
+        "text": "thuốc lợi tiểu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hở van ba lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh có thể bao gồm x quang , siêu âm , chụp cắt lớp vi tính ( ct ) và chụp cộng hưởng từ ( mri ) .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "x quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nhưng các bước sau đây có thể kiểm soát tái phát viêm giác mạc do virus : nếu có lạnh , đau hoặc một nốt phồng rộp herpes , tránh chạm vào mắt , mi mắt và da quanh mắt trừ khi đã rửa tay kỹ lưỡng .",
+    "entities": [
+      {
+        "text": "nốt phồng rộp herpes",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lạnh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thay thế thuốc một số người sử dụng soi tai , một kỹ thuật có liên quan đến việc đặt ánh sáng hình nón vào tai , để cố gắng loại bỏ ráy tai .",
+    "entities": [
+      {
+        "text": "soi tai",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra và chẩn đoán các xét nghiệm và thủ tục được sử dụng để chẩn đoán viêm xơ đường mật bao gồm : xét nghiệm chức năng gan .",
+    "entities": [
+      {
+        "text": "xét nghiệm chức năng gan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm xơ đường mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi xem qua nội soi , một số tĩnh mạch hiện dài , vệt màu đỏ hoặc những đốm màu đỏ .",
+    "entities": [
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh ung thư da nguyên tắc điều trị dựa vào loại mô bệnh học , vị trí u , mức độ lan rộng , giai đoạn bệnh .",
+    "entities": [
+      {
+        "text": "bệnh ung thư da",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mô bệnh học",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , táo bón kinh niên có thể dẫn đến biến chứng hoặc là triệu chứng của một rối loạn tiềm ẩn nghiêm trọng .",
+    "entities": [
+      {
+        "text": "táo bón kinh niên",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên có thể sẽ có táo bón , nếu gặp hai trong số những dấu hiệu hoặc triệu chứng sau đây : ít hơn ba lần đi tiêu một tuần phân cứng .",
+    "entities": [
+      {
+        "text": "phân cứng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "táo bón",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hoàn cảnh xuất hiện cơn đau không theo một quy luật nào : có thể đau bất kỳ lúc nào trong ngày , không liên quan đến bữa ăn , vị trí đau thường ở vùng bị ung thư .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "biện pháp điều trị : hiện nay , chưa có thuốc đặc trị bệnh quai bị mà chủ yếu là điều trị triệu chứng , chăm sóc người bệnh và phòng ngừa các biến chứng của bệnh , nằm nghỉ tuyệt đối khi có sưng tinh hoàn .",
+    "entities": [
+      {
+        "text": "sưng tinh hoàn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh quai bị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

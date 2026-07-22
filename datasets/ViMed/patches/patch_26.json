@@ -1,0 +1,386 @@
+[
+  {
+    "text": "một số đột biến gen có thể làm tăng nguy cơ phát triển viêm dây thần kinh thị giác hoặc bệnh đa xơ cứng .",
+    "entities": [
+      {
+        "text": "phát triển viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh đa xơ cứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tập thể dục đều đặn các môn thể thao an toàn cho phụ nữ có thai ví dụ như bơi , đi bộ… mỗi ngày , nên đi bộ 20 - 30 phút sau ăn các bữa mỗi ngày giúp kiểm soát đường máu kiểm soát đường huyết : đối với tiểu đường thai kỳ thì kiểm soát bằng chế độ ăn và luyện tập thể dục cũng là điều trị kiểm soát đường huyết .",
+    "entities": [
+      {
+        "text": "tiểu đường thai kỳ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị hội chứng marfan hiệu quả không có cách chữa khỏi hội chứng marfan , việc điều trị tập trung vào việc ngăn ngừa các biến chứng khác nhau của bệnh .",
+    "entities": [
+      {
+        "text": "hội chứng marfan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu tình trạng không đáp ứng tốt với corticosteroid hoặc gặp khó khăn khi giảm dần thuốc , có thể cần điều trị với các thuốc gây độc tế bào , chẳng hạn như methotrexate ( trexall , rheumatrex ) hoặc azathioprine ( imuran , azasan ) .",
+    "entities": [
+      {
+        "text": "điều trị với các thuốc gây độc tế bào",
+        "type": "THUỐC"
+      },
+      {
+        "text": "methotrexate",
+        "type": "THUỐC"
+      },
+      {
+        "text": "azathioprine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rheumatrex",
+        "type": "THUỐC"
+      },
+      {
+        "text": "trexall",
+        "type": "THUỐC"
+      },
+      {
+        "text": "imuran",
+        "type": "THUỐC"
+      },
+      {
+        "text": "azasan",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "những người cảm thấy không an toàn trong gia đình , có cha mẹ và anh chị em có thể quá quan trọng hoặc trêu chọc về sự xuất hiện của họ có nguy cơ cao hơn về rối loạn ăn uống .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc men nếu bệnh trĩ chỉ khó chịu nhẹ , bác sĩ có thể đề xuất các loại kem toa , thuốc mỡ nhét hoặc tấm lót .",
+    "entities": [
+      {
+        "text": "khó chịu nhẹ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các loại thuốc này có thể làm giảm co thắt , việc mở rộng và thu hẹp thất thường của mạch máu có thể là một biến chứng của chứng phình động mạch vỡ .",
+    "entities": [
+      {
+        "text": "các loại thuốc này có thể làm giảm co thắt , việc mở rộng và thu hẹp thất thường của mạch máu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chứng phình động mạch vỡ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khung chậu co giãn ít trong quá trình sinh đẻ có thể do thừa cân , ho nhiều , táo bón , gắng sức khi đại tiện hoặc nâng vật nặng lên .",
+    "entities": [
+      {
+        "text": "gắng sức khi đại tiện",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thừa cân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ho nhiều",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh trĩ bệnh trĩ và các phương pháp điều trị chữa bệnh trĩ như thế nào cho hiệu quả ?",
+    "entities": [
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu và triệu chứng co thắt thực quản bao gồm : đau ép ngực , thường xuyên căng thẳng , có thể nhầm lẫn với đau thắt ngực .",
+    "entities": [
+      {
+        "text": "co thắt thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau ép ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "căng thẳng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu mất thính lực là do tổn thương tai trong , một trợ thính có thể hữu ích bằng cách làm cho âm thanh mạnh mẽ hơn và dễ dàng hơn để nghe .",
+    "entities": [
+      {
+        "text": "mất thính lực",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "một trợ thính",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "viêm nhiễm lớp nội mạc mà không có tổn thương van tim vẫn có thể gây viêm nội tâm mạc , thường do s . aureus và các vi trùng nội bào khác .",
+    "entities": [
+      {
+        "text": "viêm nhiễm lớp nội mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "như một sự xuất hiện có thể là kết quả của đột biến di truyền đã xảy ra trong quá trình phát triển tinh trùng người cha .",
+    "entities": []
+  },
+  {
+    "text": "nếu một người bị say và bất tỉnh trong thời tiết lạnh , người đó có khả năng bị hạ thân nhiệt .",
+    "entities": [
+      {
+        "text": "hạ thân nhiệt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh ung thư tuyến nước bọt yếu tố rủi ro là bất cứ điều gì ảnh hưởng đến khả năng mắc bệnh như ung thư .",
+    "entities": [
+      {
+        "text": "bệnh ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ mắt có thể xác định mức độ loạn thị và tư vấn các lựa chọn để có tầm nhìn đúng .",
+    "entities": [
+      {
+        "text": "loạn thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sốt cỏ khô có thể làm cho đau khổ và ảnh hưởng đến hiệu suất tại nơi làm việc hay trường học , và cản trở hoạt động giải trí .",
+    "entities": [
+      {
+        "text": "sốt cỏ khô",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kháng thể là các protein trong máu có thể trợ giúp tiêu diệt vi khuẩn và các mầm bệnh có hại khác .",
+    "entities": []
+  },
+  {
+    "text": "mục tiêu dài hạn : điều chỉnh huyết áp , ngăn ngừa nhồi máu cơ tim và vữa xơ động mạch ; cải thiện chức năng tim , giảm tỷ lệ nhập viện , tử suất và bệnh suất; cải thiện thời gian sống và chất lượng cuộc sống .",
+    "entities": [
+      {
+        "text": "vữa xơ động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ví dụ , nhiễm trùng mãn tính với virus viêm gan siêu vi nào đó có thể gây ra ung thư gan .",
+    "entities": [
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa thoái hóa điểm vàng ướt là bệnh về mắt mãn tính là nguyên nhân gây mất thị lực ở trung tâm của lĩnh vực tầm nhìn .",
+    "entities": [
+      {
+        "text": "thoái hóa điểm vàng ướt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh về mắt mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một khối u nhú nang - còn được biết đến như là một khối u nang nhú , và khối u rắn - xảy ra thường xuyên nhất ở phụ nữ trẻ và thường nằm trong thân hoặc đuôi của tụy .",
+    "entities": [
+      {
+        "text": "u nhú nang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u nang nhú",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "uống nhiều nước để tránh mất nước - huyết khối tĩnh mạch sâu có nhiều khả năng xảy ra nếu bạn bị mất nước .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mất nước",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh thiếu máu do thiếu vitamin b12 tổng quan bệnh thiếu máu do thiếu vitamin b12 thiếu máu do thiếu vitamin b12 là tình trạng cơ thể không đủ vitamin b12 cần thiết cho quá trình tạo hồng cầu và biệt hóa nguyên bào hồng cầu , từ đó sẽ khiến cơ thể thiếu máu do không tạo đủ hồng cầu .",
+    "entities": [
+      {
+        "text": "bệnh thiếu máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng tăng nguy cơ phù bạch huyết như : bệnh nhân ung thư ; bệnh nhân hạn chế cử động; tiền sử gia đình có rối loạn gen hiếm gặp; lớn tuổi; thừa cân ( béo phì ) ; mắc bệnh lý thấp khớp hoặc viêm khớp vẩy nến .",
+    "entities": [
+      {
+        "text": "viêm khớp vẩy nến",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phù bạch huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay đổi lối sống : tập thể dục thường xuyên , ăn uống đúng cách để giữ cho mạch máu luôn khỏe mạnh có thể giúp ngăn ngừa chứng ù tai liên quan đến rối loạn mạch máu .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng khác như trào ngược dạ dày thực quản , loét dạ dày , đại tiện phân đen , phân có nhầy máu , … khám thực thể đánh giá các dấu hiệu sốt , nhịp tim nhanh , vàng da , phát ban và phù ngoại vi .",
+    "entities": [
+      {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đại tiện phân đen",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phân có nhầy máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhịp tim nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phù ngoại vi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "loét dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phát ban",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân nguyên nhân gây hẹp môn vị không rõ , nhưng yếu tố di truyền có thể đóng một vai trò .",
+    "entities": [
+      {
+        "text": "hẹp môn vị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiều chuyên gia cho rằng nên đổi sang thuật ngữ “optic neuropathy” , có nghĩa là bệnh thần kinh thị giác để tránh hiểu lầm .",
+    "entities": [
+      {
+        "text": "bệnh thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể nội soi toàn bộ đại tràng nếu : các dấu hiệu và triệu chứng của người bệnh cho thấy có thể mắc bệnh khác thuộc hệ thống tiêu hóa .",
+    "entities": [
+      {
+        "text": "nội soi toàn bộ đại tràng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  }
+]

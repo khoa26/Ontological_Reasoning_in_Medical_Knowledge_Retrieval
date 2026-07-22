@@ -1,0 +1,321 @@
+[
+  {
+    "text": "các giai đoạn của ung thư gan là : giai đoạn i . ở giai đoạn này , ung thư gan là một khối u đơn hạn chế trong gan mà không phát triển xâm nhập bất kỳ mạch máu .",
+    "entities": [
+      {
+        "text": "ung thư gan là",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chỉ có một số nhỏ những người bị hội chứng ruột kích thích có các dấu hiệu và triệu chứng nghiêm trọng .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nó cũng có thể là cần thiết để sử dụng thuốc nhỏ mắt corticosteroid để giảm sưng viêm giác mạc do vi khuẩn .",
+    "entities": [
+      {
+        "text": "sử dụng thuốc nhỏ mắt corticosteroid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sưng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "rượu cũng làm giảm khả năng run , đây là một phản ứng tự nhiên để tăng nhiệt độ cơ thể .",
+    "entities": []
+  },
+  {
+    "text": "thay thế thuốc không có thuốc thay thế được chứng minh để điều trị trào ngược dạ dày thực quản ( gerd ) hoặc để đảo ngược thiệt hại cho thực quản .",
+    "entities": [
+      {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gerd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc kháng histamin là những thuốc giúp ngăn ngừa cảm lạnh và nhiều triệu chứng dị ứng , bao gồm sổ mũi .",
+    "entities": [
+      {
+        "text": "thuốc kháng histamin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cảm lạnh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sổ mũi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các trường hợp phẫu thuật nối thực quản một thì tỉ lệ sống cao nếu được can thiệp sớm khi chưa có biến chứng viêm phổi .",
+    "entities": [
+      {
+        "text": "phẫu thuật nối thực quản",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính ổ bụng đánh giá vị trí , kích thước và mức độ xâm lấn xung quanh của ung thư túi mật siêu âm ổ bụng phương pháp đơn giản , dễ thực hiện giúp đánh giá sơ bộ túi mật và đường mật cũng như cơ quan trong ổ bụng các biện pháp điều trị bệnh ung thư túi mật điều trị ung thư túi mật bao gồm các phương pháp sau : phẫu thuật cắt túi mật : cắt bỏ túi mật đơn giản .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "phẫu thuật cắt túi mật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "có thể có các gen làm cho một số người dễ bị tổn thương nhiều hơn để phát triển các chứng rối loạn ăn uống .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chụp phim cắt lớp vi tính hay cộng hưởng từ : phát hiện những khối u xâm lấn vào các cơ lưỡi hoặc ở các vị trí khó khám bằng lâm sàng .",
+    "entities": [
+      {
+        "text": "chụp phim cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "cần nhiều nghiên cứu hơn để hiểu mối liên hệ có thể có giữa thuốc trừ sâu và sự phát triển của ung thư hạch không hodgkin .",
+    "entities": [
+      {
+        "text": "ung thư hạch không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa co thắt thực quản là các cơn co thắt cơ có ảnh hưởng đến thực quản .",
+    "entities": [
+      {
+        "text": "co thắt thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm dây thần kinh thị giác thường xuất hiện do một rối loạn tự miễn dịch có thể được kích hoạt bởi một nhiễm virus .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vấn đề quan trọng nhất là sự tái phát và tiến triển dẫn gây ra những tổn thương không phục hồi chức năng của van tim trong thấp tim dẫn tới bệnh tim do thấp .",
+    "entities": [
+      {
+        "text": "bệnh tim do thấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các trường hợp ở giai đoạn muộn , hóa chất chỉ có tác dụng giảm nhẹ triệu chứng và kéo dài sự sống .",
+    "entities": [
+      {
+        "text": "hóa chất",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh thiểu sản men răng men răng không được hình thành đầy đủ , men mềm , mỏng , dễ bị vỡ gây lộ lớp ngà răng bên dưới .",
+    "entities": [
+      {
+        "text": "bệnh thiểu sản men răng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tia bức xạ ngoài có thể tập trung chỉ trên diện tích não nơi khối u có vị trí , hoặc nó có thể được áp dụng cho toàn bộ não .",
+    "entities": [
+      {
+        "text": "khối u",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay thế thuốc nếu có sỏi mật mà không gây ra dấu hiệu hoặc triệu chứng , có thể lo lắng rằng sẽ trải nghiệm đau hoặc các triệu chứng khác của sỏi mật trong tương lai .",
+    "entities": [
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hãy chắc chắn thảo luận về những việc này với bác sĩ : tìm máu trong phân thử nghiệm này không xâm lấn , tìm máu trong mẫu phân .",
+    "entities": [
+      {
+        "text": "tìm máu trong mẫu phân",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "tìm máu trong phân",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh thoát vị đùi để chẩn đoán thoát vị đùi , ngoài những biểu hiện triệu chứng lâm sàng là khối phình to và gây đau ở đùi như trên , cần làm thêm các cận lâm sàng như : xét nghiệm máu .",
+    "entities": [
+      {
+        "text": "bệnh thoát vị đùi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đau ở đùi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "virus sởi sau khi xâm nhập qua niêm mạc đường hô hấp hoặc kết mạc , bắt đầu nhân lên ở tế bào biểu mô và lây lan đến các hạch bạch huyết .",
+    "entities": []
+  },
+  {
+    "text": "nguy cơ ung thư là thấp , nhưng bác sĩ sẽ khuyên nên thường xuyên nội soi để tìm những dấu hiệu cảnh báo sớm của ung thư thực quản .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi l àm việc với hóa chất , cho dù trong công việc hoặc xung quanh ngôi nhà , cẩn thận làm theo hướng dẫn .",
+    "entities": []
+  },
+  {
+    "text": "chăm sóc trẻ sau phẫu thuật thoát vị hoành mặc dù phẫu thuật thành công , tuy nhiên rất nhiều trẻ sau phẫu thuật mắc các bệnh lý về đường hô hấp như bệnh phổi , lồng ngực biến dạng , chức năng hô hấp của cơ hoành giảm .",
+    "entities": [
+      {
+        "text": "thoát vị hoành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu đang mang thai , bác sĩ có thể chỉ định kháng nguyên rubella ( hyperimmune globulin ) giúp mẹ tự đề kháng với virus rubella nhưng con vẫn có nguy cơ dị tật bẩm sinh .",
+    "entities": [
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong u nguyên bào thần kinh tế bào ác tính phát triển từ các mô thần kinh gần tủy sống như cổ , ngực , bụng hoặc khung chậu nhưng đa số ở tuyến thượng thận ( tuyến thượng thận là một tuyến nhỏ nằm ở cực trên của thận có chức năng tiết các hormon điều chỉnh chức năng quan trọng của cơ thể như nhịp tim hay huyết áp ) .",
+    "entities": [
+      {
+        "text": "u nguyên bào thần kinh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một số loại thuốc và các thủ tục y tế có sẵn để cầm máu do giãn tĩnh mạch thực quản .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "với địa chỉ monovision , đeo kính áp tròng chi phối cho tầm nhìn xa trong mắt và liên lạc với ống kính để nhìn cận cảnh vào mắt nondominant .",
+    "entities": [
+      {
+        "text": "đeo kính áp tròng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ngay cả giữa các thành viên trong cùng một gia đình , các dấu hiệu và triệu chứng của hội chứng marfan rất khác nhau - cả về đặc điểm và mức độ nghiêm trọng của chúng .",
+    "entities": [
+      {
+        "text": "hội chứng marfan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau khi sinh , vách ngăn lệch phổ biến nhất gây ra bởi một chấn thương mà vách ngăn mũi ra khỏi chỗ .",
+    "entities": [
+      {
+        "text": "vách ngăn lệch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

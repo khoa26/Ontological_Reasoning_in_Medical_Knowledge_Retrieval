@@ -1,0 +1,360 @@
+[
+  {
+    "text": "thai nhi đã chết lưu cần được lấy ra khỏi cơ thể người mẹ ngay vì nếu để thai chết lưu trong bụng mẹ thời gian dài sẽ gây ra nhiều biến chứng nguy hiểm cho mẹ và ảnh hưởng đến khả năng mang thai trong những lần sau .",
+    "entities": [
+      {
+        "text": "thai chết lưu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "vì thuốc ức chế miễn dịch khiến cơ thể dễ bị nhiễm trùng hơn , bác sĩ cũng có thể kê đơn thuốc kháng sinh , kháng virus và kháng nấm .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "kháng virus",
+        "type": "THUỐC"
+      },
+      {
+        "text": "kháng nấm",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , nếu có lịch sử đau đầu , hãy gặp bác sĩ nếu mô hình đau hay đau đầu đột nhiên cảm thấy khác nhau .",
+    "entities": [
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa ung thư dạ dày là bệnh ung thư xảy ra trong dạ dày - túi cơ nằm ở giữa phía trên của bụng , ngay dưới xương sườn .",
+    "entities": [
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các bài tập được chuyên gia hướng dẫn dành riêng cho bệnh nhân thoái hóa khớp háng bao gồm : bài tập nâng chân cao : nằm sấp , hai tay chống thẳng lên , hai mũi chân chạm mặt sàn .",
+    "entities": [
+      {
+        "text": "thoái hóa khớp háng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị bệnh tim mạch hiệu quả điều trị bệnh tim phụ thuộc vào nguyên nhân và loại tổn thương tim .",
+    "entities": [
+      {
+        "text": "bệnh tim mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thể vàng da ở trẻ sơ sinh : tiền sử có anh chị em ruột bị vàng da tương tự sau sinh trẻ sơ sinh sinh ra có biểu hiện vàng da , thiếu máu diễn tiến nhanh .",
+    "entities": [
+      {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh tắc ống dẫn tinh khi phát hiện bản thân mắc một số dị tật bẩm sinh ở cơ quan sinh dục cần thăm khám để được can thiệp kịp thời và có biện pháp xử lý sớm để tránh bị tắc ống dẫn tinh .",
+    "entities": [
+      {
+        "text": "bệnh tắc ống dẫn tinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu phẫu thuật không thành công , bác sĩ có thể tư vấn phương pháp thụ tinh trong ống nghiệm ( ivf ) .",
+    "entities": [
+      {
+        "text": "thụ tinh trong ống nghiệm",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng hội chứng guillain - barre thường bắt đầu với sự yếu , ngứa hoặc mất cảm giác bắt đầu từ chân và bàn chân và lan đến trên thân và cánh tay .",
+    "entities": [
+      {
+        "text": "ngứa hoặc mất cảm giác bắt đầu từ chân và bàn chân và lan đến trên thân và cánh tay",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hội chứng guillain - barre",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "yếu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu bệnh nhân bị tiểu đường mà mắc thêm các bệnh lí khác như nhiễm trùng , chấn thương , nhồi máu cơ tim …tiên lượng sẽ xấu hơn nhiều so với người không mắc tiểu đường .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có ba cơ chế tổn thương chính trong bệnh võng mạc không tăng sinh : phá hủy mạch máu , tổn thương võng mạc trực tiếp và tắc nghẽn mạch máu .",
+    "entities": [
+      {
+        "text": "bệnh võng mạc không tăng sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đi khám bác sĩ nếu đã có dấu hiệu và triệu chứng kéo dài , khô mắt bao gồm đỏ , bị kích thích , mệt mỏi hoặc đau mắt .",
+    "entities": [
+      {
+        "text": "mệt mỏi hoặc đau mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bị kích thích",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khô mắt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đỏ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh teo dây thần kinh thị giác những người mắc các bệnh lý hoặc các yếu tố thuận lợi như tăng áp lực nội nhãn , chèn ép mạch máu , viêm nhiễm làm mất tế bào sợi trục và teo bao myelin đều là những đối tượng nguy cơ của bệnh teo dây thần kinh thị giác .",
+    "entities": [
+      {
+        "text": "bệnh teo dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng áp lực nội nhãn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư thực quản giai đoạn 3 : trong vùng cạnh thực quản , tế bào ung thư đã xấm lấn tổ chức và bạch huyết , ảnh hưởng đến lớp sâu hơn của thành thực quản .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , khi bệnh đã trở nặng mà không kịp thời điều trị sẽ gây ra một số biến chứng nguy hiểm như : suy tim ; rung nhĩ ; đột quỵ ; tử vong .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tử vong",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật nội soi có thể nhanh hơn và ít đau hơn phẫu thuật truyền thống bằng cách sử dụng duy nhất một vết mổ lớn .",
+    "entities": [
+      {
+        "text": "phẫu thuật nội soi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù nó có thể không thoải mái để mở mắt cho khám , điều quan trọng là việc kiểm tra mắt được thực hiện .",
+    "entities": [
+      {
+        "text": "kiểm tra mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tắc mạch hệ thống rất thường gặp , chiếm 6 – 20% các ca viêm nội tâm mạc nhiễm khuẩn , nguy cơ tắc mạch cao nhất trong 2 tuần đầu điều trị kháng sinh và có liên quan rõ ràng với kích thước ( &gt;10mm ) và mức độ di động của mảnh sùi .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc nhiễm khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán bệnh hẹp van hai lá siêu âm tim thông thường , siêu âm tim 2 chiều cho thấy bất thường cấu trúc van và ổ dưới van , mức độ vôi hóa và hẹp van tim , kích thước nhĩ trái .",
+    "entities": [
+      {
+        "text": "hẹp van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra và chẩn đoán nếu bị xơ gan hoặc một căn bệnh gan nghiêm trọng , bác sĩ có thể cần chẩn đoán giãn tĩnh mạch thực quản .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật rối loạn nhịp tim phẫu thuật để loại bỏ rối loạn nhịp tim nhanh ngày càng trở nên ít cần thiết hơn khi các kỹ thuật cắt bỏ ít xâm lấn ngày càng phát triển .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đôi khi u đại tràng lớn có thể cản trở một phần ruột , dẫn đến đau bụng , buồn nôn , nôn và táo bón nặng .",
+    "entities": [
+      {
+        "text": "táo bón nặng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "u đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": ". . van động mạch chủ tổn thương do bệnh viêm nội tâm mạc , sốt thấp khớp , hoặc hẹp van động mạch chủ cũng có thể làm máu dội ngược lại từ động mạch chủ về tim; bị khuyết tật van tim bẩm sinh .",
+    "entities": [
+      {
+        "text": "bệnh viêm nội tâm mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ sẽ kiểm tra mắt với một dụng cụ đặc biệt gọi là đèn khe cung cấp một nguồn sáng của ánh sáng và độ phóng đại .",
+    "entities": [
+      {
+        "text": "kiểm tra mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đèn khe",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "có thể cần giảm hoặc loại bỏ các thức uống chứa caffeine và cồn từ chế độ ăn uống , bởi vì đôi khi nó có thể kích hoạt cơn rung nhĩ .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "việc phát hiện bệnh sớm có vai trò vô cùng quan trọng trong điều trị , nếu phát hiện muộn , hoại tử ruột có thể gây ra nguy hiểm cho bệnh nhi .",
+    "entities": [
+      {
+        "text": "hoại tử ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân bị hẹp van hai lá do thấp tim cũng có thể bị tổn thương van động mạch chủ , van ba lá hoặc cả hai .",
+    "entities": [
+      {
+        "text": "hẹp van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với một số trường hợp tắc ống dẫn tinh , các bác sĩ chuyên khoa sẽ thăm khám cụ thể , có thể cần phẫu thuật tắc ống dẫn tinh kết hợp với các biện pháp điều trị khác .",
+    "entities": [
+      {
+        "text": "tắc ống dẫn tinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trước khi phẫu thuật , em bé có thể được cho tiêm tĩnh mạch ( iv ) dịch để điều trị mất nước và phục hồi điện .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  }
+]

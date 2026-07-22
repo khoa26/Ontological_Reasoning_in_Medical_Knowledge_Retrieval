@@ -1,0 +1,402 @@
+[
+  {
+    "text": "bệnh nhân thường có triệu chứng trong trường hợp tiền sản giật : đau đầu kéo dài , dữ dội rối loạn thị lực ( nhìn đôi , nhìn mờ , mất thị lực thoáng qua … ) đau vùng thượng vị thay đổi ý thức khó thở , đau ngực sau xương ức khi có các triệu chứng này thì bệnh tương đối nặng , cần xử trí khẩn cấp , có thể phải chấm dứt thai kỳ .",
+    "entities": [
+      {
+        "text": "mất thị lực thoáng qua",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau ngực sau xương ức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đầu kéo dài",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiền sản giật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhìn đôi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhìn mờ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh ung thư gan tiêm phòng vacxin ngừa virus viêm gan b có thể giảm thiểu nguy cơ nhiễm virus viêm gan b gây ung thư gan .",
+    "entities": [
+      {
+        "text": "bệnh ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "virus viêm gan b",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong q uá trình blepharoplasty , bác sĩ phẫu thuật cắt ngay dưới lông mi mắt tại nếp nhăn tự nhiên hoặc bên trong mí mắt .",
+    "entities": [
+      {
+        "text": "uá trình blepharoplasty",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tiền sử gia đình : nếu ai đó trong gia đình đã từng bị sốt thấp khớp , các thành viên khác trong gia đình có thể dễ bị mắc bệnh này hơn .",
+    "entities": [
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "giai đoạn i : đây là giai đoạn sớm nhất của ung thư đại tràng , được gọi là ung thư biểu mô tại chỗ , lúc này ung thư vẫn chỉ giới hạn trong đại tràng .",
+    "entities": [
+      {
+        "text": "ung thư biểu mô tại chỗ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "áp kem hoặc thuốc đạn có chứa hydrocortisone , hoặc sử dụng miếng có chứa nước hazel hoặc chất gây tê .",
+    "entities": [
+      {
+        "text": "sử dụng miếng có chứa nước hazel hoặc chất gây tê",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc đạn có chứa hydrocortisone",
+        "type": "THUỐC"
+      },
+      {
+        "text": "áp kem",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "cách thức và thời gian điều trị kháng sinh phụ thuộc vào mức độ nghiêm trọng của tình trạng và loại viêm màng bụng .",
+    "entities": [
+      {
+        "text": "viêm màng bụng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù chủ yếu được sử dụng làm thuốc alzheimer , chúng cũng được sử dụng để điều trị sa sút trí tuệ mất trí nhớ mạch , parkinson , dementias và lewy .",
+    "entities": [
+      {
+        "text": "điều trị sa sút trí tuệ mất trí nhớ mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc alzheimer",
+        "type": "THUỐC"
+      },
+      {
+        "text": "parkinson",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "dementias",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lewy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị cho những người không có loạn sản hoặc loạn sản cấp thấp nếu sinh thiết cho thấy các tế bào không có loạn sản hoặc loạn sản tế bào thấp , bác sĩ có thể đề nghị : định kỳ nội soi để theo dõi các tế bào trong thực quản .",
+    "entities": [
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , can thiệp là hữu ích ở mọi lứa tuổi , mặc dù trẻ thường không hết hẳn các triệu chứng rối loạn phổ tự kỷ nhưng chúng có thể học cách hoạt động tốt , giao tiếp tốt hơn với người khác .",
+    "entities": [
+      {
+        "text": "rối loạn phổ tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ct có thể chỉ ra xuất huyết não hoặc xung quanh não và thường được sử dụng nếu xảy ra nhức đầu ít hơn 48 giờ trước .",
+    "entities": [
+      {
+        "text": "xuất huyết não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các loại thuốc thông thường được sử dụng để điều trị cao huyết áp bao gồm : thuốc lợi tiểu ; thuốc ức chế men chuyển ( acei ) ; thuốc ức chế thụ thể ( arb ) ; thuốc chẹn kênh calci ( ccb ) .",
+    "entities": [
+      {
+        "text": "thuốc ức chế men chuyển",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chẹn kênh calci",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc ức chế thụ thể",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc lợi tiểu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "acei",
+        "type": "THUỐC"
+      },
+      {
+        "text": "arb",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ccb",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "theo một nghiên cứu , trên 50% trường hợp ung thư đại tràng phát sinh trên cơ sở của polyp đại tràng .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "polyp đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "di căn thể thâm nhiễm lan tỏa : tổn thương lan tỏa dạng bè , cấu trúc khó xác định thường thấy trong ung thư thận .",
+    "entities": [
+      {
+        "text": "ung thư thận",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các kỹ thuật xét nghiệm xác định ký sinh trùng sốt rét : kỹ thuật xét nghiệm chẩn đoán nhanh phát hiện kháng nguyên sốt rét ( rapid diagnostic tests - rdts ) .",
+    "entities": [
+      {
+        "text": "kỹ thuật xét nghiệm chẩn đoán nhanh phát hiện kháng nguyên sốt rét",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu đường kính động mạch chủ đạt khoảng 50 mm hoặc nếu nó to ra nhanh chóng , đề nghị phẫu thuật thay thế một phần động mạch chủ bằng một ống làm bằng vật liệu tổng hợp .",
+    "entities": [
+      {
+        "text": "phẫu thuật thay thế một phần động mạch chủ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , cần lưu ý một số yếu tố nguy cơ dẫn đến hở van động mạch chủ : sốt thấp khớp : viêm họng nếu không được điều trị có thể dẫn đến sốt thấp khớp ; đánh răng sau ăn , giữ vệ sinh răng miệng .",
+    "entities": [
+      {
+        "text": "hở van động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh tiểu đường không được quản lý tốt có thể làm tăng nguy cơ khuyết tật bẩm sinh , bao gồm dị tật tim .",
+    "entities": [
+      {
+        "text": "bệnh tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi chúng ta già đi , những thay đổi trong tim như sẹo và ảnh hưởng của các bệnh mãn tính khác có thể làm tăng nguy cơ rối loạn nhịp tim .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "người lớn tuổi mắc các bệnh liên quan đến tim mạch như tăng huyết áp có nguy cơ bị chậm nhịp tim .",
+    "entities": [
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chậm nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh tự kỷ ở người lớn rối loạn phổ tự kỷ ảnh hưởng đến người bệnh thuộc mọi chủng tộc và quốc tịch , nhưng một số yếu tố nhất định làm tăng nguy cơ bao gồm : giới tính .",
+    "entities": [
+      {
+        "text": "rối loạn phổ tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ yếu tố có thể làm tăng nguy cơ ung thư tuyến tụy bao gồm : lớn tuổi , đặc biệt là trên 60 tuổi .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết ung thư hạch không hodgkin phát sinh từ các tế bào b . các loại phụ của u lympho không hodgkin liên quan đến các tế bào b bao gồm u lympho tế bào b lớn lan tỏa , u lympho nang , u lympho tế bào lớp vỏ và u lympho burkitt .",
+    "entities": [
+      {
+        "text": "u lympho tế bào b lớn lan tỏa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư hạch không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u lympho không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u lympho tế bào lớp vỏ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u lympho burkitt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u lympho nang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hoặc phẫu thuật có thể nội soi , có nghĩa là các bác sĩ phẫu thuật làm ba hoặc bốn vết mổ nhỏ ở bụng và chèn dụng cụ , bao gồm một ống với một máy ảnh nhỏ , qua các vết mổ .",
+    "entities": [
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp , các dấu hiệu duy nhất của rối loạn này có thể là xét nghiệm máu bất thường cho thấy gan không hoạt động tốt .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật cho giai đoạn đầu bệnh ung thư có thể được thực hiện bằng cách sử dụng nội soi thông và đi vào thực quản để truy cập vào ung thư .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng bảo vệ thính giác : tiếp xúc với âm thanh lớn có thể làm hỏng dây thần kinh trong tai , gây mất thính lực và ù tai .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật để giúp chữa lành một vết loét chỉ cần thiết khi các vết loét không đáp ứng với điều trị bằng thuốc .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các nguyên nhân khác bao gồm : rối loạn mạch máu , chẳng hạn như dị dạng động tĩnh mạch ( avm ) hay phình mạch .",
+    "entities": []
+  },
+  {
+    "text": "kháng thể igm tăng tối đa sau vài ngày nhiễm virus , giảm dần và kéo dài trong vài tuần sau đó .",
+    "entities": []
+  }
+]

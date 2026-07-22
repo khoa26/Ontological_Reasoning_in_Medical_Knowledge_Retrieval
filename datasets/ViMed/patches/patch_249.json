@@ -1,0 +1,392 @@
+[
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc tim to một số yếu tố làm tăng nguy cơ mắc tim to : tiền sử gia đình mắc bệnh cơ tim .",
+    "entities": [
+      {
+        "text": "bệnh cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đường lây truyền bệnh tăng huyết áp nguyên phát bệnh tăng huyết áp nguyên phát là bệnh lý không lây truyền .",
+    "entities": [
+      {
+        "text": "bệnh tăng huyết áp nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa bong võng mạc mô tả một tình huống khẩn cấp khi một lớp quan trọng của mô ( võng mạc ) ở mặt sau của mắt kéo ra khỏi lớp của các mạch máu cung cấp cho nó với oxy và chất dinh dưỡng .",
+    "entities": [
+      {
+        "text": "bong võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư hậu môn là tình trạng các tế bào ở ống hậu môn bị đột biến , phát triển không kiểm soát tạo nên các khối u . ung thư hậu môn có nguy hiểm không ?",
+    "entities": [
+      {
+        "text": "ung thư hậu môn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mỗi lần khám định kỳ cần chú ý : khám lâm sàng : chú ý các triệu chứng lâm sàng , hạch to , gan to , lách to .",
+    "entities": [
+      {
+        "text": "hạch to",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lách to",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "gan to",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tiêu chuẩn chẩn đoán đái tháo đường dựa vào 1 trong 4 tiêu chí sau đây : glucose huyết tương lúc đói ≥ 126 mg/dl ( hay 7 mmol/l ) .",
+    "entities": [
+      {
+        "text": "glucose huyết tương lúc đói ≥ 126 mg/dl",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "7 mmol/l",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc không có tiêu chuẩn điều trị bệnh gan nhiễm mỡ không do rượu tồn tại .",
+    "entities": [
+      {
+        "text": "bệnh gan nhiễm mỡ không do rượu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không phải tất cả các liệu pháp bổ sung hoặc thay thế đã được nghiên cứu là phương pháp điều trị đau đầu , và những người khác cần nghiên cứu thêm .",
+    "entities": [
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể yêu cầu xét nghiệm máu và nước tiểu , cũng như xét nghiệm phân , trong đó kiểm tra máu trong phân .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu và nước tiểu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xét nghiệm phân",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "octreotide truyền tĩnh mạch để giảm áp lực tĩnh mạch cửa như một chất hỗ trợ cho xử trí nội soi : truyền tĩnh mạch liều 50 microgam sau đó nhỏ giọt 50 microgam/giờ .",
+    "entities": [
+      {
+        "text": "truyền tĩnh mạch liều 50 microgam",
+        "type": "THUỐC"
+      },
+      {
+        "text": "octreotide truyền tĩnh mạch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhỏ giọt 50 microgam/giờ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán để chẩn đoán khối u ác tính mắt , bác sĩ có thể khuyên nên : khám mắt .",
+    "entities": [
+      {
+        "text": "khám mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "những người không được điều trị fap có nguy cơ phát triển ung thư đại tràng tăng lên rất nhiều trước tuổi 40. ung thư đại trực tràng không polyp di truyền ( hnpcc ) .",
+    "entities": [
+      {
+        "text": "ung thư đại trực tràng không polyp di truyền",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hnpcc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "fap",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh thống kinh thống kinh nguyên phát phần lớn phụ nữ đều đã từng trải qua thống kinh nguyên phát .",
+    "entities": [
+      {
+        "text": "thống kinh nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh thống kinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc làm tan huyết khối hoạt động bằng cách phá vỡ các cục máu đông , chúng được dùng qua đường tĩnh mạch .",
+    "entities": [
+      {
+        "text": "thuốc làm tan huyết khối",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "điều trị miễn dịch : sử dụng các thuốc tác động vào hệ miễn dịch của bệnh nhân , làm hệ miễn dịch có khả năng tiêu diệt được tế bào ung thư .",
+    "entities": [
+      {
+        "text": "điều trị miễn dịch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa chóng mặt lành tính chỉ những ngày bị chóng mặt bộc phát ( bppv ) , là một trong những nguyên nhân phổ biến nhất của chóng mặt , những cảm giác bất ngờ quay quay hay quay bên trong đầu .",
+    "entities": [
+      {
+        "text": "cảm giác bất ngờ quay quay hay quay bên trong đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chóng mặt lành tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chóng mặt bộc phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , bác sĩ có thể yêu cầu xét nghiệm để giúp chẩn đoán , bao gồm : xét nghiệm máu .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "điều trị không triệt căn với ung thư da nhằm giảm triệu chứng , chống chảy máu , hạn chế nhiễm khuẩn , chống đau .",
+    "entities": [
+      {
+        "text": "nhiễm khuẩn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ung thư da",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thực hiện một lịch nhắc nhở ghi không chỉ là các sự kiện , điều xảy ra và các hoạt động cần phải hoàn thành trên cơ sở hàng ngày .",
+    "entities": [
+      {
+        "text": "thực hiện một lịch nhắc nhở",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng nếu không điều trị , viêm phúc mạc có thể mở rộng ra ngoài phúc mạc : nhiễm trùng .",
+    "entities": [
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "suy giảm lưu lượng máu dẫn đến huyết áp thấp do sốc , suy tim , thuốc nhất định hoặc suy thận mãn tính .",
+    "entities": [
+      {
+        "text": "suy thận mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp thấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhịp nhanh thất bền bỉ luôn có triệu chứng và biểu hiện lâm sàng đầu tiên là đánh trống ngực , sau có là rối loạn huyết động hay đột tử .",
+    "entities": [
+      {
+        "text": "nhịp nhanh thất",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đánh trống ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của viêm cơ tim biểu hiện của bệnh viêm cơ tim rất đa dạng .",
+    "entities": [
+      {
+        "text": "bệnh viêm cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật ung thư đại tràng xâm lấn nếu ung thư đại tràng đã phát triển qua thành đại tràng , bác sĩ phẫu thuật có thể đề nghị một phẫu thuật để loại bỏ các phần đại tràng chứa ung thư , cùng với các mô bình thường ở hai bên cạnh ung thư .",
+    "entities": [
+      {
+        "text": "phẫu thuật ung thư đại tràng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : dấu hiệu tiền mãn kinh sớm phụ nữ cần biết giai đoạn tiền mãn kinh kéo dài bao lâu ?",
+    "entities": [
+      {
+        "text": "tiền mãn kinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngay cả với phát hiện và điều trị sớm , tuy nhiên , bệnh viêm động mạch takayasu có thể là thách thức để quản lý .",
+    "entities": [
+      {
+        "text": "bệnh viêm động mạch takayasu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "uống nhiều nước : các u hạch thần kinh hay u nguyên bào thần kinh sẽ dễ dẫn đến tình trạng rối loạn tiêu hóa , thường là tiêu chảy .",
+    "entities": [
+      {
+        "text": "u nguyên bào thần kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u hạch thần kinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng khó nuốt dai dẳng có thể chỉ ra một điều kiện y tế nghiêm trọng đòi hỏi phải điều trị .",
+    "entities": [
+      {
+        "text": "khó nuốt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể kết luận triệu chứng là do viêm mũi không dị ứng nếu có nghẹt mũ i , mũi chảy nước hoặc nhỏ giọt mũi sau , và thử nghiệm cho các điều kiện khác không tiết lộ nguyên nhân tiềm ẩn như bệnh dị ứng hay một vấn đề xoang .",
+    "entities": [
+      {
+        "text": "viêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhỏ giọt mũi sau",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "một vấn đề xoang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mũi chảy nước",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nghẹt mũ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc bệnh bệnh động mạch ngoại biên bệnh động mạch ngoại biên không đe dọa tính mạng ngay lập tức nhưng quá trình xơ vữa động mạch có thể dẫn đến các vấn đề nghiêm trọng và có khả năng gây tử vong .",
+    "entities": [
+      {
+        "text": "bệnh động mạch ngoại biên",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

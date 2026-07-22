@@ -1,0 +1,351 @@
+[
+  {
+    "text": "phẫu thuật để sửa chữa tim và các mạch máu nói chung là thành công , đặc biệt là nếu sửa chữa xảy ra trước khi bé được 2 tháng tuổi .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nam giới có nguy cơ bị nhồi máu cơ tim cao hơn sau 45 tuổi và phụ nữ có nguy cơ bị đau tim cao hơn sau 55 tuổi .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị thay thế thuốc có cả hậu quả tiêu cực và tích cực khi nói đến rối loạn ăn uống .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân bị block nhĩ thất nên hạn chế hoạt động để giảm nguy cơ chấn thương cho đến khi được đánh giá và điều trị thích hợp .",
+    "entities": [
+      {
+        "text": "block nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mọi hình thức sử dụng thuốc lá đều làm tăng nguy cơ mắc ung thư khoang miệng ( dạng xì gà , tẩu , thuốc lá dạng nhai ( chewing ) , thuốc lá dạng hít ( snuff ) và hút thuốc lá ngược đầu ) .",
+    "entities": [
+      {
+        "text": "ung thư khoang miệng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các tùy chọn làm ấm trung tâm bao gồm : thở không khí ấm ; truyền tĩnh mạch ; rửa ; sưởi ấm ngoài cơ thể ( ecr ) .",
+    "entities": [
+      {
+        "text": "sưởi ấm ngoài cơ thể",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thở không khí ấm",
+        "type": "THUỐC"
+      },
+      {
+        "text": "truyền tĩnh mạch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rửa",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "những người sống ở các nước đang phát triển , điều kiện sống đông đúc và mất vệ sinh có thể có nguy cơ cao nhiễm h . pylori phổ biến hơn .",
+    "entities": [
+      {
+        "text": "nhiễm h . pylori",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi được chẩn đoán mắc bệnh ung thư thực quản , bác sĩ làm việc để xác định mức độ ( giai đoạn ) của ung thư .",
+    "entities": [
+      {
+        "text": "bệnh ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp hạn chế các nguyên nhân này sẽ góp phần phòng tránh tắc ống dẫn trứng như : quan hệ tình dục an toàn , điều trị kịp thời viêm ruột thừa … triệu chứng bệnh tắc ống dẫn trứng dấu hiệu tắc ống dẫn trứng thường không rõ ràng .",
+    "entities": [
+      {
+        "text": "bệnh tắc ống dẫn trứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm ruột thừa",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến thiếu máu cơ tim thông thường có rất nhiều nguyên nhân khác nhau gây ra thiếu máu cơ tim cụ thể : bệnh động mạch vành : đây là sự tích tụ của cholesterol và mảng bám bên trong động mạch vành cung cấp máu cho cơ tim của bạn .",
+    "entities": [
+      {
+        "text": "bệnh động mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiếu máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù nguyên nhân chính xác không được biết , hai loại tế bào não ( neuron ) thiệt hại là phổ biến ở những người có bệnh alzheime r .",
+    "entities": [
+      {
+        "text": "bệnh alzheime",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong viêm hạch bạch huyết mạc treo ruột , các hạch bạch huyết trong màng ruột gắn vào thành bụng bị viêm - thường là do kết quả của một bệnh nhiễm trùng đường ruột .",
+    "entities": [
+      {
+        "text": "viêm hạch bạch huyết mạc treo ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh nhiễm trùng đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tính chất giả mạc khá đặc trưng là giả mạc màu trắng ngà hoặc vàng nhạt; giả mạc dai , không tan trong nước và dính chặt vào niêm mạc nên nếu bóc tách giả mạc có thể gây chảy máu .",
+    "entities": [
+      {
+        "text": "giả mạc",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết những người mắc hội chứng marfan đều thừa hưởng gen bất thường từ cha hoặc mẹ mắc chứng rối loạn này .",
+    "entities": [
+      {
+        "text": "hội chứng marfan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "do đó , các bác sĩ thường sử dụng các phương pháp sau để hỗ trợ chẩn đoán tắc ruột sơ sinh : chụp x - quang chụp x - quang bụng : phương pháp này có thể đánh giá mức độ tắc ruột phía trên chỗ lồng .",
+    "entities": [
+      {
+        "text": "chụp x - quang bụng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "tắc ruột sơ sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến sốt thấp khớp sốt thấp khớp là một phản ứng quá mức của hệ thống miễn dịch của cơ thể khiến nó chống lại các mô khỏe mạnh .",
+    "entities": [
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những người có hội chứng lynch có xu hướng phát triển các khối u đại tràng tương đối ít , nhưng những khối u có thể nhanh chóng trở thành ác tính .",
+    "entities": [
+      {
+        "text": "khối u đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng lynch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bọc răng sứ : bọc răng sứ là phương pháp khắc phục thiểu sản toàn diện , mang đến hiệu quả lâu dài nhất cho bệnh nhân bị thiểu sản men răng , đặc biệt trong trường hợp nặng .",
+    "entities": [
+      {
+        "text": "thiểu sản men răng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bọc răng sứ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa loét dạ dày tá tràng là có vết loét phát triển trên lớp lót bên trong của dạ dày , ruột non phía trên hoặc thực quản .",
+    "entities": [
+      {
+        "text": "loét dạ dày tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh ung thư tinh hoàn điều trị ung thư tinh hoàn phụ thuộc vào loại ung thư ( u dòng tinh , u không phải dòng tinh ) và giai đoạn của bệnh .",
+    "entities": [
+      {
+        "text": "bệnh ung thư tinh hoàn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu thử nghiệm trên da không thể thực hiện , bác sĩ có thể yêu cầu xét nghiệm máu cho các kháng thể đặc trưng cho chất gây dị ứng khác nhau .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu cho các kháng thể đặc trưng cho chất gây dị ứng khác nhau",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "thử nghiệm trên da",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "thuốc thay thế không có trị liệu bổ sung hoặc thay thế đã được tìm thấy để chữa bệnh ung thư đại tràng .",
+    "entities": [
+      {
+        "text": "bệnh ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh tim bẩm sinh ebstein tổng quan bệnh tim bẩm sinh ebstein van tim là những lá mỏng , tính chất mềm dẻo được cấu tạo bởi tổ chức liên kết được bao quanh bởi nội tâm mạc .",
+    "entities": [
+      {
+        "text": "bệnh tim bẩm sinh ebstein",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể chỉ dùng nó điều trị ung thư gan , hoặc nó có thể được sử dụng cùng với phẫu thuật , hóa trị hoặc điều trị khác .",
+    "entities": [
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm chẩn đoán có thể bao gồm : siêu âm tim ; điện tâm đồ ( ecg ) ; chụp xquang lồng ngực ; mri tim ; bài kiểm tra vận động hoặc bài kiểm tra căng thẳng; thủ thuật đặt ống thông tim .",
+    "entities": [
+      {
+        "text": "đặt ống thông tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xquang lồng ngực",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra hình ảnh chụp cắt lớp khác có thể bao gồm cắt lớp vi tính ( c t ) và chụp cắt lớp phát xạ positron ( pet ) .",
+    "entities": [
+      {
+        "text": "kiểm tra hình ảnh chụp cắt lớp khác",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp cắt lớp phát xạ positron",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "pet",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "điều này là phổ biến hơn ở những người có bệnh nghiêm trọng khác và những người có mức độ xơ vữa động mạch cao .",
+    "entities": [
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra này cho thấy bao nhiêu âm thanh phát ra từ một thiết bị được phản xạ trở lại từ màng nhĩ , một biện pháp gián tiếp của chất dịch trong tai giữa .",
+    "entities": [
+      {
+        "text": "biện pháp gián tiếp của chất dịch trong tai giữa",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "thoát vị màng não tủy - tủy ( meningomyelocele ) : trong túi thoát vị có chứa một phần tủy , dịch não tủy và màng cứng .",
+    "entities": [
+      {
+        "text": "thoát vị màng não tủy - tủy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu một phụ huynh có gen duy nhất bị lỗi , các cơ hội mà con cái sẽ có các khuyết tật là 50 phần trăm .",
+    "entities": []
+  }
+]

@@ -1,0 +1,343 @@
+[
+  {
+    "text": "trong một thủ tục gọi là liệu pháp tiêm nội soi , các tĩnh mạch chảy máu được tiêm co chúng lại .",
+    "entities": [
+      {
+        "text": "liệu pháp tiêm nội soi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nghiên cứu chứng minh rằng thuốc kháng vegf khi được sử dụng kết hợp với liệu pháp laser để điều trị bệnh võng mạc do sinh non mang lại hiệu quả cao hơn .",
+    "entities": [
+      {
+        "text": "bệnh võng mạc do sinh non",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "liệu pháp laser",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nhưng nếu đang bị táo bón , ăn số lượng lớn các loại thực phẩm giàu chất xơ có thể giúp thực phẩm di chuyển qua đường ruột .",
+    "entities": [
+      {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "vì thế triệu chứng lâm sàng thay đổi tùy theo dạng lâm sàng : thông liên thất lỗ nhỏ : vì không có rối loạn hoặc ít rối loạn huyết động học nên hầu hết các bệnh nhi có thông liên thất lỗ nhỏ bề ngoài có vẻ khỏe mạnh : mạch bình thường , ổ đập ở mỏm bình thường , sờ thường có rung miu tâm thu dọc bờ trái xương ức trừ khi lỗ thông rất nhỏ .",
+    "entities": [
+      {
+        "text": "thông liên thất lỗ nhỏ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rung miu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hướng điều trị : không phẫu thuật , theo dõi tiến triển bệnh , chính yếu là điều trị nội như tăng cường dinh dưỡng , ngừa nhiễm trùng , phòng viêm nội tâm mạc nhiễm khuẩn bằng kháng sinh khi có viêm hay cắt amygdales , nhổ răng , thủ thuật… nhóm ii thông liên thất lỗ vừa và to có rối loạn huyết động với tăng tuần hoàn phổi , tăng áp động mạch phổi , tăng gánh thất trái .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc nhiễm khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thông liên thất lỗ vừa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng áp động mạch phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rối loạn huyết động",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tăng tuần hoàn phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng gánh thất trái",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tai biến mạch máu não để lại nhiều di chứng liên quan đến các cơ quan , hệ cơ quan : hệ hô hấp : nếu các tổn thương não xảy ra tại trung tâm điều khiển các hoạt động hô hấp có thể dẫn đến ngừng hô hấp , tử vong .",
+    "entities": [
+      {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "với chụp cản quang thực quản , phim chụp x - quang ngực bên sẽ cho thấy nhĩ trái giãn ra làm dịch chuyển thực quản ra sau .",
+    "entities": [
+      {
+        "text": "x - quang ngực",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa nôn hiệu quả để phòng ngừa nôn hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : tránh ăn quá no hoặc các thức ăn có mùi khó chịu .",
+    "entities": [
+      {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trẻ sinh non có nhiều khả năng có điều kiện mắt , có thể ảnh hưởng đến hình dáng của mắt , tăng nguy cơ cận thị .",
+    "entities": [
+      {
+        "text": "cận thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bên cạnh đó cũng có thể sử dụng các phương pháp khác : xét nghiệm tìm máu trong phân , soi đại tràng sigma , soi hậu môn để kiểm tra tình trạng bệnh .",
+    "entities": [
+      {
+        "text": "xét nghiệm tìm máu trong phân",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh tiền mãn kinh vì là quá trình diễn ra tự nhiên nên hầu hết các trường hợp không cần sự can thiệp y tế hay điều trị .",
+    "entities": [
+      {
+        "text": "bệnh tiền mãn kinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa rung nhĩ là nhịp tim bất thường và thường có nhịp thất nhanh , và thường gây giảm lượng máu đến mô cơ thể .",
+    "entities": [
+      {
+        "text": "nhịp tim bất thường",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhịp thất nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phụ nữ lớn tuổi nguy cơ cao nhất phát triển rách ống nước mắt do sự thay đổi liên quan đến tuổi .",
+    "entities": []
+  },
+  {
+    "text": "thăm dò chức năng tim , phổi như nghe tim phổi bệnh nhân phát hiện bất thường về tiếng tim của trẻ , làm điện tim , siêu âm tim phát hiện bất thường về van tim và các van động mạch .",
+    "entities": [
+      {
+        "text": "siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "điện tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "protein được sử dụng trong ung thư tuyến tụy được gọi là ca19 - 9. một vài nghiên cứu chỉ ra rằng mức ca19 - 9 cao hơn , bệnh ung thư cao hơn .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư vòm họng rất khó phát hiện sớm , có lẽ bởi vì vòm họng không dễ dàng để kiểm tra và triệu chứng của ung thư vòm họng bắt chước trong nhiều điều kiện khác .",
+    "entities": [
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thách thức lớn nhất của quá trình chẩn đoán được xác định liệu các u nang tụy là ung thư hay không .",
+    "entities": [
+      {
+        "text": "u nang tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra và chẩn đoán bác sĩ có khả năng chẩn đoán bệnh crohn chỉ sau khi loại trừ các nguyên nhân khác có thể có các dấu hiệu và triệu chứng , bao gồm hội chứng ruột kích thích ( ibs ) , viêm túi thừa và ung thư ruột kết .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư ruột kết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm túi thừa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ibs",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các lựa chọn hình ảnh tim khác bao gồm chụp cắt lớp vi tính ( ct ) và chụp cộng hưởng từ ( mri ) .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "siêu âm doppler , có khả năng tạo ra hình ảnh có độ phân giải cao của thành động mạch nhất định , chẳng hạn như động mạch cảnh và động mạch dưới đòn .",
+    "entities": [
+      {
+        "text": "siêu âm doppler",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù các thuốc này có thể giúp duy trì nhịp tim bình thường ở nhiều người , nó có thể gây ra các tác dụng phụ , bao gồm : buồn nôn .",
+    "entities": [
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một số em bé với kênh nhĩ thất một phần có thể không có bất kỳ dấu hiệu hoặc triệu chứng ở tuần , tháng hoặc thậm chí nhiều năm , tùy thuộc vào mức độ của khuyết tật .",
+    "entities": [
+      {
+        "text": "kênh nhĩ thất một phần",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng nếu suy giảm tầm nhìn cản trở hoạt động bình thường , có thể cần phẫu thuật đục thủy tinh thể .",
+    "entities": [
+      {
+        "text": "suy giảm tầm nhìn cản trở hoạt động bình thường",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phẫu thuật đục thủy tinh thể",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "có thể lo lắng về những rủi ro của hoạt động mạnh , ngay cả sau khi đã phẫu thuật khắc phục .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "khi các bác sĩ nghi ngờ một người có rối loạn ăn uống , họ thường chỉ định nhiều xét nghiệm hoặc kiểm tra .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chụp mri có thể giúp xác định vị trí và phạm vi chính xác của khối u , đồng thời cho thấy bất kỳ hạch bạch huyết nào bị phì đại hoặc nếu các cơ quan khác có những điểm đáng ngờ , có thể là do sự lây lan của ung thư .",
+    "entities": [
+      {
+        "text": "chụp mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các yếu tố hướng bệnh mới nổi lên là van tim nhân tạo , xơ van do thoái hóa , tiêm chích ma túy , cùng với tăng tần suất các thăm dò xâm lấn gây nguy cơ nhiễm khuẩn huyết , các thủ thuật chăm sóc sức khỏe .",
+    "entities": [
+      {
+        "text": "nhiễm khuẩn huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc làm việc cùng bác sỹ để đưa ra một kế hoạch điều trị dựa trên nhiều yếu tố , chẳng hạn như các giai đoạn của bệnh ung thư , mục tiêu điều trị , sức khỏe tổng thể và các tác dụng phụ chấp nhận được .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm máu để kiểm tra chức năng gan , bao gồm cả mức men gan , có thể cung cấp manh mối về bệnh .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa mỏi mắt xảy ra khi mắt cảm thấy mệt mỏi từ việc sử dụng cường độ cao , chẳng hạn như lái xe trong thời gian dài , đọc sách hoặc làm việc với máy tính .",
+    "entities": [
+      {
+        "text": "mắt cảm thấy mệt mỏi từ việc sử dụng cường độ cao",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mỏi mắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

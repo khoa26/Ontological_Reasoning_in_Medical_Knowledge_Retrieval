@@ -1,0 +1,447 @@
+[
+  {
+    "text": "phương pháp điều trị rubella việc điều trị rubella mang tính chất hỗ trợ , không có liệu pháp kháng virus rubella cụ thể được chấp thuận để điều trị bệnh rubella .",
+    "entities": [
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "với l oại kính áp tròng , có thể đeo kính áp tròng bifocal trong mắt nondominant và ống kính liên hệ với quy định đối với khoảng cách mắt chi phối .",
+    "entities": [
+      {
+        "text": "đeo kính áp tròng bifocal",
+        "type": "THUỐC"
+      },
+      {
+        "text": "oại kính áp tròng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ống kính liên hệ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân của màng nhĩ thủng , còn được gọi là tympanic , có thể bao gồm : viêm tai giữa .",
+    "entities": [
+      {
+        "text": "màng nhĩ thủng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm tai giữa",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh than xảy ra qua da bệnh xảy ra qua một vết cắt trên da bao gồm những biểu hiện sau : một số vết giộp và u nhỏ có thể gây ngứa sưng vùng xung quanh vết thương vết thương có thể không đau , loét , tâm đen xuất hiện sau vết giộp và u nhỏ , vị trí ở mặt , cổ , cánh tay , bàn tay .",
+    "entities": [
+      {
+        "text": "bệnh than",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ngứa",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sưng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "loét",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "cắt bỏ khối u di căn xa ( nếu có thể ) giúp cải thiện triệu chứng lâm sàng ung thư thận giai đoạn cuối : điều trị phẫu thuật giải phóng chèn ép nếu có xạ trị giảm đau , xạ trị chống chèn ép điều trị giảm đau điều trị đích và điều trị miễn dịch xem thêm : những tiến bộ trong điều trị ung thư thận ung thư thận có thể phòng ngừa bệnh viêm cầu thận được chẩn đoán thế nào ?",
+    "entities": [
+      {
+        "text": "phẫu thuật giải phóng chèn ép",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cắt bỏ khối u di căn xa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị chống chèn ép",
+        "type": "THUỐC"
+      },
+      {
+        "text": "điều trị miễn dịch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh viêm cầu thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "điều trị giảm đau",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị giảm đau",
+        "type": "THUỐC"
+      },
+      {
+        "text": "điều trị đích",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư thận",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "giai đoạn toàn phát : sau khi khởi phát 24 – 48 giờ , xuất hiện dấu hiệu viêm tuyến nước bọt ( tuyến mang tai ) , là một triệu chứng thường gặp ở trẻ bị quai bị .",
+    "entities": [
+      {
+        "text": "viêm tuyến nước bọt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù tên của nó , sốt cỏ khô là gần như không bao giờ kích hoạt bằng cỏ khô , và nó không gây ra một cơn sốt .",
+    "entities": [
+      {
+        "text": "không gây ra một cơn sốt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt cỏ khô",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu bất kỳ khu vực đáng ngờ được tìm thấy , một mảnh mô có thể được thu thập để phân tích ( sinh thiết ) .",
+    "entities": [
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "điều trị trong trường hợp này là chọc dẫn lưu thông qua thành bụng đến ổ áp xe để dẫn mủ ra ngoài phối hợp với điều trị kháng sinh theo phác đồ .",
+    "entities": [
+      {
+        "text": "chọc dẫn lưu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "chứng mất trí nhớ có thể làm bối rối và không thể nhớ tên ngườ i , cũng có thể trải nghiệm những thay đổi trong tính cách và hành vi xã hội .",
+    "entities": [
+      {
+        "text": "thay đổi trong tính cách và hành vi xã hội",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "không thể nhớ tên ngườ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mất trí nhớ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu một virus gây ra nhiễm trùng , thuốc nhỏ mắt kháng virus và thuốc kháng virus răng miệng có thể có hiệu quả .",
+    "entities": [
+      {
+        "text": "thuốc nhỏ mắt kháng virus",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc kháng virus",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các tác nhân có thể kích thích hệ thống miễn dịch gây ra các phản ứng như : nhiễm trùng như viêm gan b và viêm gan c ; ung thư máu ; các bệnh về hệ thống miễn dịch như viêm khớp dạng thấp , xơ cứng bì và lupus ban đỏ ; phản ứng với một số loại thuốc .",
+    "entities": [
+      {
+        "text": "viêm khớp dạng thấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lupus ban đỏ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm gan b",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm gan c",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ cứng bì",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu thẩm phân phúc mạc , có thể giúp ngăn ngừa viêm phúc mạc bằng vệ sinh tốt trước , trong và sau khi lọc máu .",
+    "entities": [
+      {
+        "text": "thẩm phân phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lọc máu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một số thay đổi có thể được gây ra bởi sự suy thoái thực sự xảy ra trong não , trong khi các thay đổi hành vi nhân cách có thể phản ứng với những thách thức cảm xúc đối phó với những thay đổi xấu đi .",
+    "entities": []
+  },
+  {
+    "text": "tiếng thổi giữa tâm trương do u nhầy gây tắc nghẽn tâm nhĩ trái hoặc huyết khối ( hiếm gặp ) .",
+    "entities": [
+      {
+        "text": "tiếng thổi giữa tâm trương",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thai ngoài tử cung là một bệnh lý cấp tính , nếu không được chẩn đoán và điều trị kịp thời túi thai vỡ có thể gây chảy máu ồ ạt nguy hiểm đến tính mạng người mẹ .",
+    "entities": [
+      {
+        "text": "thai ngoài tử cung",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm chỉ điểm khối u : αfp , β - hcg nên làm để phát hiện các trường hợp ác tính .",
+    "entities": [
+      {
+        "text": "xét nghiệm chỉ điểm khối u",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "sau phẫu thuật cho một ống dẫn nước mắt bị chặn , sẽ sử dụng một loại thuốc xịt mũi để ngăn chặn và giảm viêm nhiễm sau phẫu thuật , sẽ tiếp tục các loại thuốc này 2 - 3 lần một ngày trong 2 - 3 tuần sau thủ thuật .",
+    "entities": [
+      {
+        "text": "sử dụng một loại thuốc xịt mũi để ngăn chặn và giảm viêm nhiễm sau phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "một ống dẫn nước mắt bị chặn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "giống như bất kỳ thuốc chống đông máu khác , hãy làm theo hướng dẫn dùng thuốc của bác sĩ một cách cẩn thận và không ngừng dùng rivaroxaban mà không nói chuyện với bác sĩ đầu tiên .",
+    "entities": [
+      {
+        "text": "thuốc chống đông máu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rivaroxaban",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị da truyền thống thực hiện để điều trị nếp nhăn , chẳng hạn như tia laser tái tạo bề mặt hoặc mặt nạ hóa học , có thể cải thiện màu da và chặt da .",
+    "entities": [
+      {
+        "text": "điều trị da truyền thống",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tia laser tái tạo bề mặt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "điều trị nếp nhăn",
+        "type": "THUỐC"
+      },
+      {
+        "text": "mặt nạ hóa học",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hở van động mạch chủ mạn tính : điều trị bằng thuốc : thuốc chẹn beta giao cảm ( metoprolol , bisoprolol , .",
+    "entities": [
+      {
+        "text": "hở van động mạch chủ mạn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc chẹn beta giao cảm",
+        "type": "THUỐC"
+      },
+      {
+        "text": "metoprolol",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bisoprolol",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "giả mạc ở họng lan tràn một hoặc cả hai bên amidan hoặc nặng hơn lan tràn ra khắp màn hầu và lưỡi gà .",
+    "entities": [
+      {
+        "text": "giả mạc",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đối với phụ nữ mang thai : rubella đặc biệt nguy hiểm với phụ nữ mang thai , nhất là 3 tháng đầu của thai kỳ – khi các bộ phận của thai nhi đang hình thành .",
+    "entities": [
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thông thường , điều này khi có một số khiếm khuyết còn lại sau khi phẫu thuật , van nhân tạo hoặc đã sửa chữa với chất liệu nhân tạo .",
+    "entities": [
+      {
+        "text": "van nhân tạo",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "khám sức khỏe định kỳ , phát hiện và điều trị sớm các bệnh đái tháo đường , tăng huyết áp … thực hiện chế độ dinh dưỡng đầy đủ , hợp lý giàu rau xanh , trái cây .",
+    "entities": [
+      {
+        "text": "bệnh đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "liệu pháp miễn dịch tự thân : đột phá trong điều trị ung thư - bao gồm ung thư phổi , giúp nâng cao hiệu quả điều trị cũng như chất lượng sống của người bệnh .",
+    "entities": [
+      {
+        "text": "liệu pháp miễn dịch tự thân",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuyên tắc phổi là tình trạng tắc động mạch phổi thường do huyết khối từ hệ tĩnh mạch sâu chi dưới .",
+    "entities": [
+      {
+        "text": "thuyên tắc phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "rotavirus là một căn bệnh nghiêm trọng ở trẻ em là nguyên nhân gây tiêu chảy , nôn , sốt , mất nước .",
+    "entities": [
+      {
+        "text": "rotavirus",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mất nước",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "em bé uống chai , đặc biệt là khi nằm xuống có xu hướng bị nhiễm trùng tai nhiều hơn em bé bú sữa mẹ .",
+    "entities": [
+      {
+        "text": "nhiễm trùng tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nôn mửa mãn tính có thể dẫn đến suy dinh dưỡng , giảm cân và các bất thường về trao đổi chất .",
+    "entities": [
+      {
+        "text": "suy dinh dưỡng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "giảm cân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nôn mửa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

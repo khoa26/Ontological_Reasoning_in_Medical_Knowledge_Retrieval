@@ -1,0 +1,339 @@
+[
+  {
+    "text": "rối loạn ăn uống đặc biệt phổ biến trong nữ diễn viên múa , vận động viên thể dục , và đô vật .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : thoát vị bẹn ở trẻ em : biểu hiện và biến chứng thường gặp phẫu thuật nội soi điều trị thoát vị bẹn cho trẻ em tại vinmec có gì đặc biệt ?",
+    "entities": [
+      {
+        "text": "phẫu thuật nội soi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thoát vị bẹn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu nhận thấy bất kỳ triệu chứng của ung thư đại tràng , chẳng hạn như máu trong phân hoặc thay đổi thói quen dai dẳng trong ruột , hãy gặp bác sĩ .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng này cũng có thể xảy ra khi bệnh nhân đang sốt hoặc uống một số thuốc như thuốc chẹn beta , chẹn kênh natri , chống trầm cảm ba vòng , cocain và lithium .",
+    "entities": [
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ăn thức ăn mềm , nhạt và tránh các loại thực phẩm nhiều gia vị hay thức ăn có dầu mỡ có thể làm nặng thêm tiêu chảy .",
+    "entities": [
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "béo phì trước khi mang thai có liên quan đến việc tăng nguy cơ dị tật bẩm sinh ống thần kinh , bao gồm cả thoát vị não màng não ở thai nhi .",
+    "entities": [
+      {
+        "text": "thoát vị não màng não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "béo phì",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cho đến nay bệnh thấp tim vẫn còn là bệnh quan trọng ở các nước thứ ba vốn có nền kinh tế thấp .",
+    "entities": [
+      {
+        "text": "bệnh thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống trong hầu hết trường hợp , không thể làm bất cứ điều gì để ngăn chặn thông liên thất .",
+    "entities": [
+      {
+        "text": "thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa phình tách động mạch chủ hiệu quả để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : kiểm soát huyết áp .",
+    "entities": [
+      {
+        "text": "phình tách động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu trẻ sốt cao , có thể cho trẻ uống nhiều nước , chỉ sử dụng thuốc hạ sốt khi thực sự cần thiết và không nên dùng aspirin .",
+    "entities": [
+      {
+        "text": "thuốc hạ sốt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "kính áp tròng cũng được sử dụng trong một thủ tục gọi là orthokeratology hoặc ortho - k . trong orthokeratology , đeo kính áp tròng cứng nhắc trong vài giờ một ngày cho tới khi độ cong của mắt được cải thiện .",
+    "entities": [
+      {
+        "text": "kính áp tròng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ mắt có thể sẽ đưa giọt thuốc trong mắt để làm đồng tử , có thể làm cho mắt thêm nhạy cảm ánh sáng trong một vài giờ sau đó .",
+    "entities": [
+      {
+        "text": "đưa giọt thuốc trong mắt để làm đồng tử",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "khi không phải là một lựa chọn , trọng tâm có thể về phòng chống phát triển ung thư tuyến tụy , và biến chứng .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nôi soi thực quản : đây là phương pháp chính trong chẩn đoán u thực quản , qua nội soi bác sĩ còn có thể lấy mẫu bệnh phẩm làm sinh thiết .",
+    "entities": [
+      {
+        "text": "nôi soi thực quản",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "u thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ví dụ : dùng methylprednisolone 16 mg/kg hoặc 1g truyền tĩnh mạch một lần/ngày trong 3 ngày , sau đó dùng prednisone 1 mg/kg hoặc methylprednisolone đường uống .",
+    "entities": [
+      {
+        "text": "methylprednisolone",
+        "type": "THUỐC"
+      },
+      {
+        "text": "prednisone",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc lựa chọn điều trị ung thư túi mật có sẵn phụ thuộc vào giai đoạn của ung thư , sức khỏe tổng thể và sở thích .",
+    "entities": [
+      {
+        "text": "ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phù bạch huyết thứ phát : do tổn thương hệ thống bạch huyết hoặc các vấn đề với sự di chuyển và thoát chất lỏng trong hệ thống bạch huyết; nó có thể là kết quả của việc điều trị ung thư , nhiễm trùng , chấn thương , viêm chi hoặc thiếu cử động của chi .",
+    "entities": [
+      {
+        "text": "phù bạch huyết thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chấn thương",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm chi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến sởi sởi là bệnh truyền nhiễm cấp tính qua đường hô hấp do virus thuộc giống morbillivirus , họ paramyxoviridae gây ra .",
+    "entities": [
+      {
+        "text": "sởi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ct scan bụng và xương chậu có thể giúp bác sĩ chỉ ra các nguyên nhân khác của các triệu chứng .",
+    "entities": [
+      {
+        "text": "ct scan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm dị ứng bác sĩ có thể đề nghị xét nghiệm dị ứng da để xác định dị ứng góp phần vào tình trạng viêm mãn tính .",
+    "entities": [
+      {
+        "text": "xét nghiệm dị ứng da",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các dấu hiệu và triệu chứng của hội chứng horner thường xảy ra một bên mặt bởi vì các dây thần kinh giao cảm điều khiển riêng biệt mỗi bên .",
+    "entities": []
+  },
+  {
+    "text": "yếu tố nguy cơ một số yếu tố có thể làm tăng nguy cơ mắc bệnh viêm họng : trẻ tuổi .",
+    "entities": [
+      {
+        "text": "bệnh viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm mạch có thể xuất hiện ở bất kỳ mạch máu nào như các động mạch , tiểu động mạch , tĩnh mạch , tiểu tĩnh mạch hoặc các mao mạch .",
+    "entities": [
+      {
+        "text": "viêm mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "rửa mí mắt để kiểm soát viêm đối với những người có viêm mí mắt ( blepharitis ) và điều kiện khác gây viêm mí mắt chặn dòng chảy của dầu cho mắt , thường xuyên rửa mí mắt có thể giúp đỡ .",
+    "entities": [
+      {
+        "text": "viêm mí mắt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "blepharitis",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rửa mí mắt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "xạ trị nếu u đã lan sang các hạch bạch huyết lân cân hóa chất nếu bệnh đã di căn xa .",
+    "entities": [
+      {
+        "text": "hóa chất",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "u não tiên phát bắt đầu khi các tế bào bình thường có các lỗi ( đột biến ) trong dna .",
+    "entities": [
+      {
+        "text": "u não tiên phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với tăng huyết áp nguyên phát nhẹ không cần sử dụng thuốc thay đổi lối sống khoa học , lành mạnh , đề phòng tăng huyết áp đột ngột .",
+    "entities": [
+      {
+        "text": "tăng huyết áp nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư hạch không hodgkin giai đoạn iv cũng có thể ảnh hưởng đến các bộ phận khác của cơ thể , chẳng hạn như gan , phổi hoặc xương .",
+    "entities": [
+      {
+        "text": "ung thư hạch không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "dấu hiệu nhận biết có thể thông qua việc bệnh nhi khóc thét đột ngộ t , kéo đầu gối vào ngực khi khóc , ưỡn người , xoắn vặn .",
+    "entities": [
+      {
+        "text": "kéo đầu gối vào ngực khi khóc",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khóc thét đột ngộ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ưỡn người",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xoắn vặn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "viêm nội tâm mạc là tổn thương nặng và hay gặp nhất , các biến đổi rõ nhất trong viêm nội tâm mạc là ở nội tâm mạc phủ lên các van của tim trái như van hai lá và van động mạch chủ .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

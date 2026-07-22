@@ -1,0 +1,356 @@
+[
+  {
+    "text": "nghe kém đến và đi khá phổ biến với một n hiễm trùng tai , nhưng nó thường trở lại bình thường sau khi bị nhiễm được loại bỏ .",
+    "entities": [
+      {
+        "text": "hiễm trùng tai",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nghe kém",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thuốc kháng histamine có thể giúp giảm ngứa , hắt hơi và chảy nước mũi , nhưng có hiệu lực ít hơn vào tình trạng tắc nghẽn .",
+    "entities": [
+      {
+        "text": "thuốc kháng histamine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chảy nước mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hắt hơi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngứa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hãy dành thời gian để xem xét những lợi ích và rủi ro của phẫu thuật đục thủy tinh thể với bác sĩ .",
+    "entities": [
+      {
+        "text": "phẫu thuật đục thủy tinh thể",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù rối loạn ăn uống có thể xảy ra trên một phạm vi tuổi rộng , từ vị thành niên đến người lớn tuổi , phổ biến hơn nhiều trong thanh thiếu niên và 20 tuổi .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong trường hợp điều kiện là nhẹ và chỉ ảnh hưởng đến một vài khớp , viêm mống mắt có thể là một trong những dấu hiệu đầu tiên của tình trạng này .",
+    "entities": [
+      {
+        "text": "viêm mống mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng nếu có đau nhức đầu mãn tính , có nhiều khả năng trầm cảm , lo âu , rối loạn giấc ngủ , và các vấn đề khác về tâm lý và thể chất .",
+    "entities": [
+      {
+        "text": "đau nhức đầu mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong trường hợp hiếm hoi , c ác vi khuẩn có thể gây ra phát triển một hình thức nghiêm trọng của viêm kết mạc trẻ sơ sinh được gọi là viêm mắt , cần điều trị không chậm trễ để bảo vệ mắt .",
+    "entities": [
+      {
+        "text": "được gọi là viêm mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật thoát vị đùi với đường mổ có thể ở tam giác scarpa , dọc theo mặt trước khối phình và trên khung đùi , có thể mổ theo đường thoát bị bẹn , từ phía trên cung đùi .",
+    "entities": [
+      {
+        "text": "thoát vị đùi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến đau thắt ngực đau thắt ngực thường khởi phát khi bệnh nhân có những hoạt động thể chất hoặc cảm xúc mạnh/hồi hộp .",
+    "entities": [
+      {
+        "text": "đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nhức đầu khi ho trung bình nếu có đau nhức đầu khi ho trung bình , phẫu thuật thường cần thiết để khắc phục sự cố tiềm ẩn .",
+    "entities": [
+      {
+        "text": "phẫu thuật thường cần thiết để khắc phục sự cố tiềm ẩn",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau nhức đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhức đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh thoát vị não thoát vị não không phải lúc nào cũng phòng được tuy nhiên tầm soát các yếu tố nguy cơ có thể làm giảm tỷ lệ mắc bệnh : bổ sung đầy đủ acid folic : bổ sung axit folic được bắt đầu thực hiện ít nhất một tháng trước khi thụ thai và tiếp tục trong ba tháng đầu của thai kỳ , giúp giảm đáng kể nguy cơ mắc bệnh thoát vị não và các khuyết tật ống thần kinh khác .",
+    "entities": [
+      {
+        "text": "bệnh thoát vị não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vấn đề này được gọi là rối loạn chức năng sàn chậu và nó làm cho căng thẳng với đi tiêu nhiều nhất , ngay cả những người phân mềm .",
+    "entities": [
+      {
+        "text": "rối loạn chức năng sàn chậu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đi tiêu nhiều",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong thời gian ghép gan , bác sĩ phẫu thuật loại bỏ gan bệnh và thay thế bằng một lá gan khỏe mạnh từ các nhà tài trợ .",
+    "entities": [
+      {
+        "text": "ghép gan",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nhiều dấu hiệu và triệu chứng của bệnh viêm động mạch takayasu tương tự như những điều kiện khác , có thể làm cho chẩn đoán đầy thách thức .",
+    "entities": [
+      {
+        "text": "bệnh viêm động mạch takayasu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xương bênh trong tai bị cứng ( otosclerosis ) có thể gây ù tai - pitched thấp có thể sẽ liên tục , hoặc có thể đến và đi .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh thống kinh đối với các trường hợp thống kinh nguyên phát hay thứ phát gây ảnh hưởng đến chất lượng cuộc sống của người phụ nữ đều được khuyến cáo nên tới cơ sở y tế chuyên khoa để được khám bệnh ( phụ khoa hay sản khoa ) và chẩn đoán nguyên nhân bằng các xét nghiệm chuyên khoa như siêu âm ổ bụng , nội soi tử cung , … dựa vào các kết quả xét nghiệm và thăm khám , bác sĩ sẽ tìm ra nguyên nhân và đưa ra được phác đồ điều trị phù hợp .",
+    "entities": [
+      {
+        "text": "thống kinh nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh thống kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nội soi tử cung",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp các dấu hiệu và triệu chứng mỏi mắt có thể chỉ ra một điều kiện cơ bản mắt cần điều trị .",
+    "entities": [
+      {
+        "text": "triệu chứng mỏi mắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "viêm tim : nghe tim có tiếng thổi tâm trương hay tâm thu hoặc có thêm tiếng cọ màng tim , mạnh nhanh mà nhỏ và gõ tim thấy diện tim to .",
+    "entities": [
+      {
+        "text": "viêm tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị hạ thân nhiệt hiệu quả sấy khô và cách nhiệt ; hồi sức bằng dịch ; làm ấm lại chủ động trừ khi hạ thân nhiệt nhẹ , tình cờ và không biến chứng .",
+    "entities": [
+      {
+        "text": "hạ thân nhiệt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cách nhiệt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sấy khô",
+        "type": "THUỐC"
+      },
+      {
+        "text": "dịch",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "viêm xơ đường mật tiến triển chậm , nhưng thường kết thúc với xơ gan và sự cần thiết phải ghép gan .",
+    "entities": [
+      {
+        "text": "viêm xơ đường mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ghép gan",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh celiac ( nontropical sprue ) nhạy cảm với protein lúa mì cũng có thể gây ra các dấu hiệu và triệu chứng giống như những người có hội chứng ruột kích thích .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nontropical sprue",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh celiac",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các cơn đau tim làm tăng nguy cơ ngừng tim đột ngột , có thể gây tử vong nếu không được điều trị ngay lập tức .",
+    "entities": [
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một số phương pháp điều trị bổ sung và thay thế có thể giúp đối phó với sự lo lắng và căng thẳng .",
+    "entities": [
+      {
+        "text": "căng thẳng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lo lắng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "polyp mũi có thể phát triển bất cứ nơi nào trên khắp đường mũi , xoang , nhưng xuất hiện thường xuyên nhất ở gần các lỗ cho các xoang .",
+    "entities": [
+      {
+        "text": "polyp mũi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hãy hỏi bác sĩ hoặc nhà cung cấp sức khỏe tâm thần giới thiệu một nhóm hỗ trợ đối phó với hội chứng guillain - barre .",
+    "entities": [
+      {
+        "text": "hội chứng guillain - barre",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các dấu hiệu và triệu chứng của hội chứng guillain - barre có thể bao gồm ngứa hoặc mất cảm giác ở ngón tay , ngón chân hoặc cả hai .",
+    "entities": [
+      {
+        "text": "mất cảm giác ở ngón tay , ngón chân hoặc cả hai",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hội chứng guillain - barre",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ngứa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "vì lý do đó , thử nghiệm ama dương tính được coi là một chỉ số rất đáng tin cậy của bệnh .",
+    "entities": [
+      {
+        "text": "thử nghiệm ama",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "để tìm hiểu thống kinh là gì và thống kinh có nguy hiểm không , chúng ta hãy đi lần lượt nguyên nhân đến các biện pháp điều trị .",
+    "entities": [
+      {
+        "text": "thống kinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ví dụ , một số mẫu tế bào máu có thể tiết lộ một số bất thường tế bào máu trắng ( tăng bạch cầu ) , có thể chỉ ra viêm đại tràng màng giả .",
+    "entities": [
+      {
+        "text": "viêm đại tràng màng giả",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục đôi khi có thể cảm thấy bất lực khi phải đối mặt với bệnh crohn .",
+    "entities": [
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

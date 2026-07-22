@@ -1,0 +1,431 @@
+[
+  {
+    "text": "tăng aspartate aminotransferase ( ast ) , alanin aminotransferase ( alt ) , phosphatase kiềm , bilirubin ; pt kéo dài , albumin thấp gợi ý xơ gan .",
+    "entities": [
+      {
+        "text": "tăng aspartate aminotransferase",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "alanin aminotransferase",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "phosphatase kiềm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "pt kéo dài",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bilirubin",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "albumin",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những đột biến này cho phép tế bào phát triển và phân chia ở mức tăng và tiếp tục sống khi tế bào khỏe mạnh chết .",
+    "entities": []
+  },
+  {
+    "text": ". . ) chứa nhiều chất béo bão hòa và muối gây tăng nguy cơ mắc các bệnh tim mạch , rối loạn lipid , tăng huyết áp , ung thư … khi uống nhiều rượu bia , các chất chuyển hóa của rượu có khuynh hướng tổng hợp thành chất béo dẫn đến tăng huyết áp , bệnh tim mạch , rối loạn lipid máu , tổn thương tế bào gan , tế bào thần kinh , đột quỵ .",
+    "entities": [
+      {
+        "text": "rối loạn lipid máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tim mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hãy nhận biết các dấu hiệu và triệu chứng của nhiễm trùng tai giữa , bao gồm cả đau tai , sốt , nghẹt mũi và nghe giảm .",
+    "entities": [
+      {
+        "text": "nhiễm trùng tai giữa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nghẹt mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nghe giảm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau tai",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù nó có vẻ xa lạ đối với sử dụng thuốc kháng sinh để điều trị chứng rối loạn gây ra bởi thuốc kháng sinh , điều trị bằng thuốc kháng sinh khác để tiêu diệt c . difficile cho phép các vi khuẩn bình thường phát triển trở lại , phục hồi sự cân bằng của vi khuẩn trong đại tràng .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh tắc ống phóng tinh nguyên nhân gây ra hiện tượng tắc ống phóng tinh có thể là bẩm sinh hoặc thứ phát ( xuất hiện về sau trong quá trình trưởng thành ) : tắc bẩm sinh : thường là bế tắc do sự tồn tại của nang ống mueller hay nang xoang niệu dục - ống phóng tinh .",
+    "entities": [
+      {
+        "text": "bệnh tắc ống phóng tinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm xoang thường xuyên làm tăng nguy cơ đau họng , bởi vì hệ thống thoát nước mũi có thể gây kích ứng họng hoặc nhiễm trùng lây lan .",
+    "entities": [
+      {
+        "text": "viêm xoang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau họng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm chẩn đoán tiêu chuẩn cho các xơ nang là một thử nghiệm không xâm lấn , mà là các biện pháp lượng natri và clo trong mồ hô i .",
+    "entities": [
+      {
+        "text": "biện pháp lượng natri và clo trong mồ hô",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xơ nang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc ( bị ) thông liên thất trẻ có cha hoặc mẹ nghiện rượu hoặc thuốc gây nghiện .",
+    "entities": [
+      {
+        "text": "thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngay cả sau khi các triệu chứng đã được cải thiện , hãy chắc chắn sử dụng tất cả các thuốc kháng sinh theo chỉ dẫn .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh theo chỉ dẫn",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa bệnh trĩ ( hemorrhoids ) được mô tả khi sưng và viêm tĩnh mạch ở hậu môn và vùng thấp của trực tràng .",
+    "entities": [
+      {
+        "text": "hemorrhoids",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "epstein - barr virus virus này thường tạo ra phổ biến các dấu hiệu và triệu chứng nhẹ , chẳng hạn như bị cảm lạnh .",
+    "entities": [
+      {
+        "text": "cảm lạnh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng chống tiêu chảy thận trọng và chỉ sau khi tham khảo ý kiến bác sĩ , bởi vì chúng làm tăng nguy cơ độc hại megacolon , viêm nhiễm ruột già đe dọa tính mạng .",
+    "entities": [
+      {
+        "text": "viêm nhiễm ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết các bác sĩ đề nghị xem xét phẫu thuật đục thủy tinh thể khi đục thủy tinh thể bắt đầu ảnh hưởng đến chất lượng sống hay cản trở khả năng để thực hiện các hoạt động bình thường hàng ngày , chẳng hạn như đọc sách hoặc lái xe vào ban đêm .",
+    "entities": [
+      {
+        "text": "phẫu thuật đục thủy tinh thể",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp này có thể được sử dụng đơn thuần hoặc kết hợp hóa chất như một biện pháp điều trị khởi đầu cho phẩu thuật đặc biệt khi khối u lớn và ở những vị trí không thuận lợi cho phẫu thuật .",
+    "entities": [
+      {
+        "text": "phẩu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hóa chất",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đường lây truyền bệnh u tuyến yên cũng giống như các bệnh bệnh liên quan đến khối u khác , u tuyến yên là bệnh không thể lây nhiễm .",
+    "entities": [
+      {
+        "text": "bệnh u tuyến yên",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các yếu tố nguy cơ chính gây ung thư tuyến tụy bao gồm : hút thuốc lá người lớn tuổi nam giới - tỷ lệ nam/nữ của ung thư tuyến tụy là 1,3/1 viêm tụy mạn : do rượu , sỏi mật … đái tháo đường chế độ ăn chứa nhiều dầu mỡ , chất béo , đường , uống nhiều nước ngọt có gas tiền sử gia đình bị ung thư tụy nhóm máu : theo một nghiên cứu của viện ung thư quốc gia mỹ , những người thuộc nhóm máu a và b có nguy cơ mắc ung thư tụy cao hơn .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm tụy mạn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sỏi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nội soi kết hợp với sinh thiết có giá trị lớn trong chẩn đoán xác định và chẩn đoán phân biệt ung thư đại tràng .4. các xét nghiệm khác : chụp x - quang bụng , chụp ct scanner , chụp mri , chụp pet , … có giá trị đánh giá giai đoạn bệnh 5. xét nghiệm sàng lọc ung thư đại tràng : xét nghiệm máu ẩn trong phân ( fobt ) : máu trong phân có thể do nhiều nguyên nhân như polyp , ung thư , viêm loét đại trực tràng , trĩ … vì vậy , nếu xét nghiệm dương tính cần nội soi đại trực tràng bằng ống mềm để kiểm tra .",
+    "entities": [
+      {
+        "text": "nội soi đại trực tràng bằng ống mềm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm loét đại trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chụp x - quang bụng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chụp ct scanner",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp pet",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "polyp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đi khám bác sĩ càng sớm càng tốt nếu có ù tai xảy ra bất ngờ hoặc không có một nguyên nhân rõ ràng , hoặc nếu có nghe kém hay chóng mặt với chứng ù tai này .",
+    "entities": [
+      {
+        "text": "nghe kém",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những hóa chất này hệ thống miễn dịch gây ra một phản ứng dẫn đến những dấu hiệu khó chịu và các triệu chứng của bệnh sốt cỏ khô .",
+    "entities": [
+      {
+        "text": "bệnh sốt cỏ khô",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm túi thừa có thể gây viêm phúc mạc , nếu một trong những túi vỡ , đổ chất thải đường ruột vào bụng .",
+    "entities": [
+      {
+        "text": "viêm túi thừa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị để đối phó với kháng sinh liên quan đến tiêu chảy nhẹ nếu bị tiêu chảy nhẹ , triệu chứng có thể hết trong vòng một vài ngày sau khi điều trị kháng sinh kết thúc .",
+    "entities": [
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay đổi ở các cấp độ của một số các hóa chất mang xung trong não ( dẫn truyền thần kinh ) như serotonin , có thể đóng một vai trò trong sự phát triển của đau đầu cơn .",
+    "entities": [
+      {
+        "text": "đau đầu cơn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ cũng có thể lấy mẫu từ các chất tiết từ kết mạc mắt để phân tích trong phòng thí nghiệm để xác định hình thức lây nhiễm có và làm thế nào tốt nhất để điều trị nó .",
+    "entities": [
+      {
+        "text": "lấy mẫu từ các chất tiết từ kết mạc mắt để phân tích trong phòng thí nghiệm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xác định hình thức lây nhiễm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "thực phẩm và đồ uống viêm mũi không dị ứng có thể xảy ra khi ăn , đặc biệt là khi ăn các loại thực phẩm cay nóng .",
+    "entities": [
+      {
+        "text": "viêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi đã sẵn sàng để bắt đầu điều trị dự phòng , bác sĩ có thể khuyên nên : thuốc chống trầm cảm .",
+    "entities": [
+      {
+        "text": "thuốc chống trầm cảm",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc quản trị triệu chứng bước đầu điều trị lệch vách ngăn có thể được hướng vào quản lý các triệu chứng , chẳng hạn như nghẹt mũi và nhỏ giọt mũi sau .",
+    "entities": [
+      {
+        "text": "nhỏ giọt mũi sau",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lệch vách ngăn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nghẹt mũi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh khởi đầu là vết loét nhỏ , bờ nông , đáy nhẵn , đóng vảy mỏng , mặt đáy giãn mao mạch , có thể nhiễm màu đen dễ nhầm với ung thư hắc tố .",
+    "entities": [
+      {
+        "text": "ung thư hắc tố",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vết loét nhỏ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , nếu lo ngại về nguy cơ ung thư vòm họng , có thể xem xét tránh những thói quen đã được liên kết với bệnh .",
+    "entities": [
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng của thiếu ối – cách chẩn đoán và xử trí chỉ số nước ối afi thấp có thể điều trị được không ?",
+    "entities": [
+      {
+        "text": "thiếu ối",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

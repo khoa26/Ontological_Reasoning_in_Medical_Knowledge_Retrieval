@@ -1,0 +1,409 @@
+[
+  {
+    "text": "phương pháp điều trị và thuốc điều trị rối loạn ăn uống phụ thuộc vào loại hình cụ thể rối loạn ăn uống .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đôi khi được gây ra bởi sự tích tụ của protein amyloid trong tim ( bệnh amyloidosis tim ) hoặc rối loạn mô liên kết .",
+    "entities": [
+      {
+        "text": "bệnh amyloidosis tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài thiếu máu , việc thiếu hụt vitamin b12 cũng khiến cơ thể dễ bị tổn thương thần kinh , giảm thị lực , suy giảm trí nhớ , viêm lưỡi và các vấn đề khác .",
+    "entities": [
+      {
+        "text": "suy giảm trí nhớ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "giảm thị lực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thiếu máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm lưỡi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thông khí nhân tạo : chỉ định đặt nội khí quản , thở máy cho bệnh nhân thuyên tắc phổi cấp có sốc , suy hô hấp .",
+    "entities": [
+      {
+        "text": "thuyên tắc phổi cấp có sốc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thông khí nhân tạo",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đặt nội khí quản",
+        "type": "THUỐC"
+      },
+      {
+        "text": "suy hô hấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân điều gì xảy ra trong viêm tụy viêm tụy xảy ra khi men tiêu hoá sản xuất trong tuyến tụy trở nên kích hoạt quá sớm .",
+    "entities": [
+      {
+        "text": "viêm tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "dùng thuốc nhất định , đặc biệt là thuốc kháng viêm không steroid ( nsaid ) , chẳng hạn như aspirin và ibuprofen ( advil , motrin … ) , có thể gây ra vấn đề dạ dày .",
+    "entities": [
+      {
+        "text": "thuốc kháng viêm không steroid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ibuprofen",
+        "type": "THUỐC"
+      },
+      {
+        "text": "aspirin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "motrin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nsaid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "advil",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "lịch sử gia đình hội chứng di truyền có thể làm tăng nguy cơ ung thư , trong đó có đột biến gen brca2 , hội chứng peutz - jeghers , hội chứng lynch và u ác nốt ruồi lành tính không điển hình gia đình ( fammm ) cá nhân hay tiền sử gia đình mắc bệnh ung thư tuyến tụy .",
+    "entities": [
+      {
+        "text": "u ác nốt ruồi lành tính không điển hình gia đình",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng peutz - jeghers",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng di truyền",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng lynch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "fammm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau khi xâm nhập vào cơ thể , virus rubella nhân lên trong các tế bào đường hô hấp , lan đến các hạt lympho rồi vào máu .",
+    "entities": []
+  },
+  {
+    "text": "các triệu chứng động kinh thùy trán thường kéo dài ít hơn 30 giây và thường xảy ra trong khi ngủ .",
+    "entities": [
+      {
+        "text": "động kinh thùy trán",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tập thể dục giúp làm giảm trầm cảm và căng thẳng , kích thích các cơn co thắt bình thường của ruột và có thể giúp cảm thấy tốt hơn về chính mình .",
+    "entities": [
+      {
+        "text": "căng thẳng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "trầm cảm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu sống ở một khu vực đô thị hoặc ở một nước công nghiệp , có nhiều khả năng phát triển bệnh crohn .",
+    "entities": [
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh lý tim bẩm sinh có thể gặp rất nhiều ở các bệnh tim bẩm sinh khác như trong tứ chứng fallot , kèm thông liên nhĩ , … cũng như phối hợp trong các bệnh tim bẩm sinh khác .",
+    "entities": [
+      {
+        "text": "bệnh lý tim bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tim bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tứ chứng fallot",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thông liên nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể khám bao gồm các bước sau : kiểm tra sưng ở chân hoặc bàn chân , đó có thể là dấu hiệu của tim to hoặc suy tim .",
+    "entities": [
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tim to",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sưng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mri là kỹ thuật sử dụng từ trường và sóng radio để tạo ra hình ảnh chi tiết của các cơ quan và mô trong cơ thể .",
+    "entities": [
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "suy tim giai đoạn d : bệnh nhân suy tim giai đoạn cuối , suy tim kháng trị , cần can thiệp đặc biệt .",
+    "entities": [
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù nó có thể trở nên tồi tệ hơn theo tuổi tác , nhưng đối với nhiều người , chứng ù ta i có thể cải thiện khi điều trị .",
+    "entities": [
+      {
+        "text": "ù ta",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chụp x - quang ngực : bác sĩ sẽ kiểm tra những thay đổi trong phổi có thể do các vấn đề về tim .",
+    "entities": [
+      {
+        "text": "chụp x - quang ngực",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tim mạch : độc tố bạch hầu có thể theo đường máu và làm tổn thương các mô khác trong cơ thể .",
+    "entities": []
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa cũng được gọi là viêm mũi dị ứng , gây ra các dấu hiệu giống như cảm lạnh và các triệu chứng như chảy nước mũi , sung huyết , hắt hơi và áp lực xoang .",
+    "entities": [
+      {
+        "text": "viêm mũi dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy nước mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "áp lực xoang",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sung huyết",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cảm lạnh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hắt hơi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật cắt nửa lưỡi + cắt nửa sàn miệng + cắt xương hàm dưới + vét hạch cổ + tạo hình .",
+    "entities": [
+      {
+        "text": "phẫu thuật cắt nửa lưỡi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cắt xương hàm dưới",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cắt nửa sàn miệng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "vét hạch cổ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "những điều thú vị về lưỡi chủ đề : hóa trị xạ trị ung bướu ung thư ung thư lưỡi lưỡi sinh thiết",
+    "entities": [
+      {
+        "text": "ung thư lưỡi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nhiều người bị bệnh ung thư chuyển sang thuốc bổ sung và thay thế khi y học thông thường cung cấp rất ít cơ hội chữa khỏi bệnh .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chất lỏng có chứa carbon phóng xạ như là một phần của một chất ( urê ) sẽ được chia nhỏ theo h . pylori .",
+    "entities": []
+  },
+  {
+    "text": "điều trị sỏi mật gây ra các dấu hiệu và triệu chứng lựa chọn điều trị sỏi mật bao gồm : phẫu thuật cắt bỏ túi mật .",
+    "entities": [
+      {
+        "text": "phẫu thuật cắt bỏ túi mật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sỏi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sinh thiết các triệu chứng và kết quả kiểm tra hoặc xét nghiệm hình ảnh có thể gợi ý bạn bị ung thư tuyến nước bọt , nhưng chẩn đoán ung thư được thực hiện bằng cách lấy các tế bào từ khu vực bất thường và nhìn chúng dưới kính hiển vi để xác định chắc chắn đó có phải là tế bào ung thư hay không .",
+    "entities": [
+      {
+        "text": "ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "một điều kiện mũi hoặc xoang thường được định nghĩa như là mãn tính nếu các dấu hiệu và triệu chứng của viêm nhiễm kéo dài hơn 12 tuần .",
+    "entities": [
+      {
+        "text": "viêm nhiễm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "người lớn nên gặp bác sĩ nếu có những vấn đề sau đây liên quan đến đau họng xảy ra , theo viện hàn lâm tai mũi họng mỹ : cổ họng đau nghiêm trọng hoặc kéo dài hơn một tuần .",
+    "entities": [
+      {
+        "text": "cổ họng đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một số biện pháp giúp làm chậm/ ngăn ngừa tiến trình tăng nhãn áp : tăng nhãn áp thứ cấp : triệu chứng tương tự như trên , bệnh nhân có kèm theo các bệnh như tăng huyết áp , tiểu đường , bệnh tim mạch , chấn thương mắt .",
+    "entities": [
+      {
+        "text": "tăng nhãn áp thứ cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu có khàn tiếng mãn tính , bác sĩ có thể muốn nghe giọng nói và để kiểm tra các dây thanh âm , và có thể giới thiệu đến một bác sỹ tai mũi họng và các chuyên gia .",
+    "entities": [
+      {
+        "text": "kiểm tra các dây thanh âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "có khàn tiếng mãn tính",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh trầm cảm sau sinh tất cả các phụ nữ sau sinh đều có nguy cơ bị rối loạn khí sắc về trầm cảm , đặc biệt chú ý các đối tượng có nguy cơ cao hơn như : đã từng bị trầm cảm trong khi mang thai , trầm cảm ở lần mang thai trước hoặc bất kì thời điểm nào .",
+    "entities": [
+      {
+        "text": "bệnh trầm cảm sau sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

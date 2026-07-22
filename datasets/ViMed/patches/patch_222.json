@@ -1,0 +1,403 @@
+[
+  {
+    "text": "phòng chống dịch virus một số hình thức của viêm giác mạc do virus , chẳng hạn như viêm giác mạc do virus herpes , không thể loại bỏ hoàn toàn .",
+    "entities": [
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những xét nghiệm thường thấy như : sinh thiết mô : phát hiện borrelia recurrentis bằng phương pháp ngấm bạc hoặc những phương pháp miễn dịch hóa học; xét nghiệm máu : thiếu máu , tiểu cầu giảm; xét nghiệm nước tiểu : xuất hiện protein niệu , trụ niệu; tìm xoắn khuẩn trong máu ở những thời kỳ sốt bằng phương pháp soi trực tiếp dưới kính hiển vi ; thực hiện phản ứng b . w ( bordet và wassermann ) : thường cho kết quả dương tính trong 10 - 20% tổng trường hợp; tiêm truyền cho chuột nhắt : xuất hiện xoắn khuẩn trong máu chuột nhắt trong khoảng 48 giờ .",
+    "entities": [
+      {
+        "text": "tìm xoắn khuẩn trong máu ở những thời kỳ sốt bằng phương pháp soi trực tiếp dưới kính hiển vi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "tiêm truyền cho chuột nhắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "thực hiện phản ứng b . w",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xét nghiệm nước tiểu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sinh thiết mô",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "có nguồn cung cấp nước đáng tin cậy có thể giúp giữ sạch khu vực sinh sống và giảm nguy cơ lây nhiễm h . pylori .",
+    "entities": [
+      {
+        "text": "nhiễm h . pylori",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , một số loại thuốc otc có thể có tương tác nguy hiểm với các thuốc chống loạn nhịp tim .",
+    "entities": [
+      {
+        "text": "thuốc chống loạn nhịp tim",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "mục đích là để xác định xem liệu chứng sa sút trí tuệ mất trí nhớ có đang hiện diện , nghiêm trọng thế nào và những gì là một phần của não bị ảnh hưởng .",
+    "entities": [
+      {
+        "text": "chứng sa sút trí tuệ mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kết quả của thân chung động mạch dẫn tới máu nghèo ôxy ( đi đến phổi ) và máu giàu oxy nên ( đi đến phần còn lại của cơ thể ) pha trộn với nhau .",
+    "entities": [
+      {
+        "text": "thân chung động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật là biện pháp chủ yếu điều trị triệt căn ung thư dương vật , bao gồm cắt u và vét hạch khu vực .",
+    "entities": [
+      {
+        "text": "ung thư dương vật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thuốc xịt mũi chống dị ứng thử phun thuốc kháng histamin như azelastine ( astelin ) và olopatadine hydrochloride ( patanase ) .",
+    "entities": [
+      {
+        "text": "thuốc xịt mũi chống dị ứng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "olopatadine hydrochloride",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc kháng histamin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "azelastine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "patanase",
+        "type": "THUỐC"
+      },
+      {
+        "text": "astelin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thuốc lá và rượu bia có thể làm tăng nguy cơ mắc một số bệnh ung thư vùng đầu và cổ , nhưng chúng không liên quan chặt chẽ với ung thư tuyến nước bọt trong hầu hết các nghiên cứu .",
+    "entities": [
+      {
+        "text": "ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật phẫu thuật cho khối u tuyến nước bọt có thể bao gồm : loại bỏ một phần của tuyến nước bọt bị ảnh hưởng .",
+    "entities": [
+      {
+        "text": "loại bỏ một phần của tuyến nước bọt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "u tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh thiểu sản men răng bổ sung các chất dinh dưỡng như canxi , các vitamin a , d , c để giúp răng phát triển chắc khỏe .",
+    "entities": [
+      {
+        "text": "bệnh thiểu sản men răng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm nuôi cấy vi khuẩn c . diphtheriae từ mẫu bệnh phẩm giả mạc ở họng giúp xác nhận chẩn đoán .",
+    "entities": [
+      {
+        "text": "nuôi cấy vi khuẩn c . diphtheriae",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "thêm nhiều loại trái cây nhiều màu sắc và rau để chế độ ăn uống đảm bảo rằng đang nhận được rất nhiều vitamin và chất dinh dưỡng .",
+    "entities": [
+      {
+        "text": "thêm nhiều loại trái cây nhiều màu sắc và rau",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "điều trị bức xạ ở vùng đầu và cổ vì những lý do bệnh khác làm tăng nguy cơ ung thư tuyến nước bọt .",
+    "entities": [
+      {
+        "text": "ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bức xạ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "còn được gọi là schwannoma tiền đình , tình trạng này thường gây ra chứng ù tai chỉ ở một tai .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "không thể sản xuất đủ nước mắt nếu : lớn tuổi hơn 50. nước mắt sản xuất có xu hướng giảm khi càng lớn tuổi .",
+    "entities": []
+  },
+  {
+    "text": "sử dụng một kính hiển vi đặc biệt với một ánh sáng trên đó , bác sĩ mắt xem bên trong mắt tìm kiếm dấu hiệu của viêm mống mắt , bao gồm cả sự hiện diện của các tế bào máu trắng hoặc điểm protein mờ .",
+    "entities": [
+      {
+        "text": "sử dụng một kính hiển vi đặc biệt với một ánh sáng trên đó",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm mống mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm hình ảnh : các xét nghiệm hình ảnh , chẳng hạn như chụp cộng hưởng từ ( mri ) và chụp cắt lớp vi tính ( ct ) , có thể giúp xác định kích thước và vị trí của khối u tuyến nước bọt sinh thiết : lấy một mẫu bệnh phẩm tại vị trí khối u để xét nghiệm trong phòng thí nghiệm để xác định xem khối u có phải là ung thư hay không .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "u tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "vệt lipid là tổn thương đầu tiên có thể nhìn thấy rõ trong quá trình xơ vữa động mạch phát triển .",
+    "entities": [
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết mọi người có thể tự quản lý những khó chịu của chứng ợ nóng với thay đổi lối sống và thuốc không kê đơn .",
+    "entities": [
+      {
+        "text": "chứng ợ nóng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong thời gian thắt tĩnh mạch , bác sĩ sử dụng một đèn nội soi để bẫy các tĩnh mạch và quấn chúng với một dụng cụ đàn hồi , trong đó chủ yếu là làm nghẹt các tĩnh mạch vì vậy không thể chảy máu .",
+    "entities": [
+      {
+        "text": "thắt tĩnh mạch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng biến chứng ung thư vòm họng có thể bao gồm : ung thư lây lan đến các khu vực khác của cơ thể ung thư vòm họng thường xuyên lây lan ( di căn ) ngoài vòm họng .",
+    "entities": [
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư lây lan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "di căn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán nếu các dấu hiệu và triệu chứng chỉ ra có thể có ung thư đại tràng , bác sĩ có thể khuyên nên có một trong những thử nghiệm thêm , thủ tục bao gồm : xét nghiệm máu .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xét nghiệm máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong hầu hết các trường hợp v iêm thanh quản , thuốc kháng sinh sẽ không có tác dụng bất kỳ bởi vì nguyên nhân là do virus .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "iêm thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đi khám bác sĩ nếu trải nghiệm khởi đầu táo bón không giải thích được hoặc sự thay đổi trong thói quen ruột , hoặc nếu các triệu chứng nghiêm trọng và kéo dài hơn ba tuần .",
+    "entities": [
+      {
+        "text": "táo bón",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các tình trạng gây mất ý thức , bất động hoặc cả hai ( ví dụ : chấn thương , hạ đường huyết , rối loạn co giật , đột quỵ , say rượu hoặc ma túy ) là những yếu tố dễ mắc phải .",
+    "entities": [
+      {
+        "text": "mất ý thức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bất động",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra có thể bao gồm xét nghiệm máu để xác định xem một người mang vi rút epstein - barr và các cấp của virus đang có , hoặc kiểm tra cẩn thận vòm họng bằng cách sử dụng một camera nhỏ xíu gắn vào phần cuối của một ống linh hoạt ( nội soi ) .",
+    "entities": [
+      {
+        "text": "kiểm tra cẩn thận vòm họng bằng cách sử dụng một camera nhỏ xíu gắn vào phần cuối của một ống linh hoạt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xác định xem một người mang vi rút epstein - barr và các cấp của virus đang có",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "bởi vì u tuyến huyết thanh rất hiếm khi phát triển thành ung thư , nó cũng có thể được theo dõi , trừ khi nó gây ra triệu chứng hoặc to ra .",
+    "entities": [
+      {
+        "text": "u tuyến huyết thanh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ cũng sẽ kiểm tra tê hoặc yếu trên khuôn mặt của người bệnh ( điều này có thể xảy ra khi ung thư lan vào dây thần kinh ) .",
+    "entities": [
+      {
+        "text": "yếu trên khuôn mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "loại thuốc gọi là thuốc chẹn beta thường được sử dụng ở những người có nguy cơ rung thất hoặc ngừng tim đột ngột .",
+    "entities": [
+      {
+        "text": "ngừng tim đột ngột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc chẹn beta",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

@@ -1,0 +1,359 @@
+[
+  {
+    "text": "yếu tố nguy cơ yếu tố nguy cơ u ác tính chủ yếu của mắt bao gồm : màu mắt ánh sáng .",
+    "entities": [
+      {
+        "text": "u ác tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm máu d - dimer cũng có thể là dấu hiệu của các yếu tố khác như thuyên tắc phổi , đột quỵ , mang thai hoặc nhiễm trùng , vì vậy bác sĩ có thể cần sử dụng các xét nghiệm khác để chẩn đoán chắc chắn .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu d - dimer",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "thuyên tắc phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phần lớn những người bị viêm xơ đường mật cũng có bệnh viêm ruột , bao gồm viêm loét đại tràng và bệnh crohn .",
+    "entities": [
+      {
+        "text": "viêm loét đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm xơ đường mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chương trình chuyên ngành rối loạn ăn uống có thể cung cấp điều trị chuyên sâu hơn trong một thời gian dài hơn .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các hoạt động kích thích tinh thần có thể làm tăng khả năng để đối phó hoặc bù đắp cho những thay đổi liên kết với chứng sa sút trí tuệ mất trí nhớ .",
+    "entities": [
+      {
+        "text": "chứng sa sút trí tuệ mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với viêm ruột thừa cấp tính thì việc chẩn đoán và mổ sớm có ý nghĩa rất quan trọng để làm giảm tỷ lệ biến chứng và tránh nguy cơ tử vong .",
+    "entities": [
+      {
+        "text": "viêm ruột thừa cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đôi khi được dùng để loại trừ nguyên nhân khác gây tắc nghẽn dòng chảy mật , chẳng hạn như sỏi mật hoặc các khối u . kháng thể chống ti thể ( amas ) .",
+    "entities": [
+      {
+        "text": "sỏi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng bắt đầu đột ngột , thường sau một cơn đột quỵ và có thể xảy ra ở những người bị huyết áp cao hay đột quỵ hoặc đau tim trước đó .",
+    "entities": [
+      {
+        "text": "triệu chứng bắt đầu đột ngột",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tình trạng này được gọi là huyết tán do thiếu men g6pd , nếu kéo dài sẽ gây thiếu máu huyết tán .",
+    "entities": [
+      {
+        "text": "thiếu máu huyết tán",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau khi chẩn đoán ung thư cổ họng , bước tiếp theo là xác định mức độ , hoặc giai đoạn của ung thư .",
+    "entities": [
+      {
+        "text": "ung thư cổ họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng hai phương pháp điều trị phục hồi tốc độ và giảm mức độ nghiêm trọng của hội chứng guillain - barre : điều trị bằng huyết tương tinh chế ( plasmapheresis ) .",
+    "entities": [
+      {
+        "text": "điều trị bằng huyết tương tinh chế",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hội chứng guillain - barre",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "plasmapheresis",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "viêm thanh quản mạn tính viêm thanh quản kéo dài hơn ba tuần được gọi là viêm thanh quản mạn tính .",
+    "entities": [
+      {
+        "text": "viêm thanh quản mạn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nước đang phát triển của châu á và châu phi , chẩn đoán ung thư gan có xu hướng xảy ra ở tuổi trẻ hơn - từ 20 đến 50. nhiễm hbv hoặc hcv mãn tính .",
+    "entities": [
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi các dấu hiệu và triệu chứng xuất hiện , có thể bao gồm : đau bụng trên có thể lan tới lưng .",
+    "entities": [
+      {
+        "text": "đau bụng trên có thể lan tới lưng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , bệnh nhân có biểu hiện đau ngực dữ dội , dấu hiệu nhiễm khuẩn trong viêm nội tâm mạc .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau ngực dữ dội",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhiễm khuẩn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh teo dây thần kinh thị giác chẩn đoán bệnh teo dây thần kinh thị giác cần phối hợp giữa việc khai thác tiền sử bệnh nhân , thăm khám lâm sàng và các xét nghiệm cận lâm sàng : tiền sử tiền sử của bệnh nhân có vai trò quan trọng , cần khai thác tiền sử dùng thuốc , các bệnh lý trước đây , thời gian xuất hiện các triệu chứng giảm thị lực và các triệu chứng kèm theo .",
+    "entities": [
+      {
+        "text": "bệnh teo dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "giảm thị lực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một số bệnh nhân có nguy cơ hẹp van hai lá cao có thể tiêm vaccine cúm để phòng ngừa mắc bệnh .",
+    "entities": [
+      {
+        "text": "hẹp van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vaccine cúm",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "điều này thường đòi hỏi bác sĩ phẫu thuật làm một vết mổ trong vòm miệng truy cập khu vực để loại bỏ các tế bào ung thư .",
+    "entities": [
+      {
+        "text": "bác sĩ phẫu thuật làm một vết mổ trong vòm miệng truy cập khu vực để loại bỏ các tế bào ung thư",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nhiều người thích nghi chịu đựng với rung nhĩ và thậm chí không biết nó - vì vậy có thể cần thuốc chống đông máu suốt đời ngay cả sau khi nhịp tim đã được khôi phục lại bình thường .",
+    "entities": [
+      {
+        "text": "thuốc chống đông máu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngay cả khi tiếp xúc với các vi khuẩn và nấm , một giác mạc khỏe mạnh là không thể bị nhiễm bệnh , trừ khi đã có một số sự cố vật lý của mô bề mặt của giác mạc ( biểu mô giác mạc ) .",
+    "entities": []
+  },
+  {
+    "text": "hở van động mạch chủ : khi van động mạch chủ hở , trong thì tâm trương một lượng máu từ động mạch chủ sẽ chảy trở lại tâm thất ( có khi tới 1/2 lượng máu , kết hợp với hở van 2 lá làm cho tâm thất trái phải chứa máu nhiều hơn do đó càng làm cho tâm thất trái giãn và làm cho tình trạng suy tim trái càng nhanh hơn .",
+    "entities": [
+      {
+        "text": "suy tim trái",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thời gian ủ bệnh lâu của bệnh phong khiến các bác sĩ rất khó xác định thời điểm và vị trí một người bị bệnh phong bị lây nhiễm .",
+    "entities": [
+      {
+        "text": "bệnh phong",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng của rung nhĩ , bao gồm : đánh trống ngực , mệt mỏi , yếu sức , giảm khả năng gắng sức , khó thở và thoáng ngất .",
+    "entities": [
+      {
+        "text": "giảm khả năng gắng sức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đánh trống ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "yếu sức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ một số yếu tố có thể làm tăng nguy cơ rung thất , bao gồm : tiền sử trước đó có rung thất .",
+    "entities": [
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các nguyên nhân không liên quan đến tim bao gồm : cảm xúc mạnh như lo lắng , sợ hãi hoặc căng thẳng .",
+    "entities": [
+      {
+        "text": "căng thẳng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lo lắng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sợ hãi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các loại chính của rối loạn ăn uống là chán ăn tâm thần , tâm thần và rối loạn ăn vô độ .",
+    "entities": [
+      {
+        "text": "rối loạn ăn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tâm thần",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số yếu tố làm tăng nguy cơ mắc bệnh bao gồm : bệnh crohn : bệnh viêm mạn tính đường tiêu hóa .",
+    "entities": [
+      {
+        "text": "bệnh viêm mạn tính đường tiêu hóa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "dù dùng thuốc hay phẫu thuật , cũng cần thay đổi một số thói quen không tốt giúp hạn chế tiến triển bệnh; tránh căng thẳng; tránh luyện tập thể dục thể thao quá sức , nên tham khảo ý kiến bác sĩ các bài tập thể thao bạn có thể tâp và không thể luyện tập; giảm tiếng ồn , tiếng động giật mình; tránh xa tình huống gây xúc cảm mạnh : phấn khích , tức giận , … phương pháp phòng ngừa hội chứng qt kéo dài có chế độ dinh dưỡng phù hợp , tập luyện thể dục thể thao .",
+    "entities": [
+      {
+        "text": "hội chứng qt kéo dài",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tiền sử gia đình : bạn có nhiều khả năng bị đau tim nếu bạn có tiền sử gia đình mắc bệnh tim sớm .",
+    "entities": [
+      {
+        "text": "đau tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh học chụp động mạch vành : được thực hiện trong các trường hợp bệnh cơ tim để xác định nguyên nhân gây ra rối loạn chức năng tim có thể phù hợp với các liệu pháp thông thường hay không .",
+    "entities": [
+      {
+        "text": "chụp động mạch vành",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  }
+]

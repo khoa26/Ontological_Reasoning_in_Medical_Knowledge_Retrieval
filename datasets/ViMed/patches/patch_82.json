@@ -1,0 +1,370 @@
+[
+  {
+    "text": "ct scan có thể xác định vị trí khối u nhỏ trong tuyến tụy đôi khi bị bỏ sót khi siêu âm .",
+    "entities": [
+      {
+        "text": "ct scan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán bác sĩ sẽ kiểm tra tai , và cổ để tìm nguyên nhân có thể của chứng ù tai .",
+    "entities": [
+      {
+        "text": "bác sĩ sẽ kiểm tra tai",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , bác sĩ có thể yêu cầu một số câu hỏi về sức khỏe chung , lấy huyết áp và có được một xét nghiệm máu định kỳ để đảm bảo rằng không có một rối loạn chảy máu nghiêm trọng .",
+    "entities": [
+      {
+        "text": "một xét nghiệm máu định kỳ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "lấy huyết áp",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "xạ trị ung thư vòm họng thường được quản lý trong thủ tục được gọi là tia bức xạ bên ngoài .",
+    "entities": [
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù có thể mất 2 - 4 tháng đối với các loại thuốc này để bắt đầu hiệu quả , nó giúp làm giảm các dấu hiệu và triệu chứng của ibd nói chung và có thể chữa lành đường dò do bệnh crohn nói riêng .",
+    "entities": [
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ibd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các chi yếu hơn , tê hoặc đau nhức mơ hồ dấu hiệu ung thư xương giai đoạn tiến triển : bệnh nhân mệt mỏi , gầy sút cân không rõ nguyên nhân , có thể sốt nhẹ đau xương tăng dần , cảm giác xương yếu đi rõ rệt .",
+    "entities": [
+      {
+        "text": "tê hoặc đau nhức mơ hồ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cảm giác xương yếu đi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau xương tăng dần",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ung thư xương",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gầy sút cân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt nhẹ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp , một vấn đề mắt tiềm ẩn như sự mất cân bằng cơ mắt hoặc nhìn lỗi khúc xạ có thể gây ra hoặc làm trầm trọng thêm máy tính mỏi mắt .",
+    "entities": []
+  },
+  {
+    "text": "có yếu tố nguy cơ , chẳng hạn như tiền sử gia đình mắc bệnh ung thư đại tràng , trong một số trường hợp , cá nhân có nguy cơ cao nên bắt đầu kiểm tra thường xuyên sớm hơn nhiều so với tuổi 50. nguyên nhân đường tiêu hóa trải dài từ miệng đến hậu môn .",
+    "entities": [
+      {
+        "text": "bệnh ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng muộn bao gồm tái phát phình mạch , hình thành phình động mạch khu trú trong động mạch chủ bị suy yếu và hở van động mạch chủ tiến triển .",
+    "entities": [
+      {
+        "text": "hở van động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng viêm niêm mạc trực tràng , dấu hiệu và triệu chứng có thể bao gồm : thường xuyên hoặc liên tục cảm giác cần phải đi tiêu .",
+    "entities": [
+      {
+        "text": "viêm niêm mạc trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sốc điện đồng bộ ( 100j , tiếp theo là 200j và 360j nếu cần ) có thể giúp chuyển nhịp xoang bình thường ở 75 - 90% bệnh nhân , mặc dù tỷ lệ tái phát cao .",
+    "entities": [
+      {
+        "text": "sốc điện đồng bộ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "siêu âm có thể phát hiện sỏi mật là một tình trạng có những triệu chứng tương tự với ung thư tuyến tụy thường gặp .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sỏi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống các bước này có thể giúp ngăn chặn hoặc giảm thiểu chấn thương đầu : sử dụng thiết bị giải trí an toàn .",
+    "entities": []
+  },
+  {
+    "text": "bệnh tim do thấp hay gặp nhất là hở van hai lá , hẹp van hai lá , hở van động mạch chủ , .",
+    "entities": [
+      {
+        "text": "bệnh tim do thấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải đau bụng một số yếu tố làm tăng nguy cơ mắc đau bụng , bao gồm : tổn thương đường tiêu hóa ( loét dạ dày ) .",
+    "entities": [
+      {
+        "text": "loét dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thuốc mỡ thường dễ dàng hơn để quản lý cho trẻ sơ sinh hoặc trẻ nhỏ hơn là thuốc nhỏ mắ t , mặc dù thuốc mỡ có thể làm mờ tầm nhìn cho đến 20 phút sau khi ứng dụng .",
+    "entities": [
+      {
+        "text": "thuốc nhỏ mắ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc mỡ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc điều trị u não phụ thuộc vào loại , kích thước và vị trí của khối u , cũng như sức khỏe tổng thể và sở thích .",
+    "entities": [
+      {
+        "text": "khối u",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một tùy chọn khác để phẫu thuật là cấy ghép một thiết bị tương tự như một máy điều hòa nhịp tim để kích thích dây thần kinh phế vị .",
+    "entities": [
+      {
+        "text": "phẫu thuật là cấy ghép một thiết bị tương tự như một máy điều hòa nhịp tim để kích thích dây thần kinh phế vị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh ung thư xương chẩn đoán ung thư xương dựa vào các cận lâm sàng sau : chụp xquang xương thẳng nghiêng : xác định số lượng , vị trí , ranh giới tổn thương và đánh giá sự xâm lấn phần mềm chụp cắt lớp vi tính : đánh giá mức độ lan rộng của tổn thương trong xương , trong tủy xương hay ngoài xương .",
+    "entities": [
+      {
+        "text": "chụp xquang xương thẳng nghiêng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh ung thư xương",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu nghiên cứu bệnh học xác định bệnh ung thư ở polip không liên quan đến gốc , nơi polip gắn vào thành ruột , loại bỏ polyp có nghĩa ung thư đã được hoàn toàn loại bỏ .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính lồng ngực để xác định vị trí , kích thướcc và mức độ phát triển của khối u ra ngoài phổi hay chưa .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính lồng ngực",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "lấy hẹn với bác sĩ nếu nhận thấy bất kỳ dấu hiệu hoặc triệu chứng mà nghĩ có thể có viêm kết mạc .",
+    "entities": [
+      {
+        "text": "viêm kết mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục bỏ hút thuốc lá ung thư họng gắn liền với hút thuốc lá .",
+    "entities": [
+      {
+        "text": "bỏ hút thuốc lá",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tổn thương tế bào sản xuất insulin ở tuyến tụy do viêm tụy mãn tính có thể dẫn đến bệnh tiểu đường , bệnh ảnh hưởng đến cách thức cơ thể sử dụng đường trong máu .",
+    "entities": [
+      {
+        "text": "viêm tụy mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc để điều trị viêm phúc mạc , bác sĩ có thể sẽ kê toa thuốc kháng sinh để chống nhiễm trùng và ngăn ngừa lây lan .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa ráy tai tắc nghẽn xảy ra khi ráy tai ( cerumen ) tích tụ trong tai và trở nên quá khó rửa sạch tự nhiên .",
+    "entities": [
+      {
+        "text": "ráy tai tắc nghẽn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "truyền dịch đường tĩnh mạch ( 1000ml dung dịch muối 0,9% , hoặc 20ml/kg ở trẻ em ) thường làm giảm triệu chứng .",
+    "entities": [
+      {
+        "text": "dung dịch muối 0,9%",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh teo thực quản không có cách nào hoàn toàn hiệu quả để phòng ngừa bệnh teo thực quản cho thai nhi trong quá trình mang thai .",
+    "entities": [
+      {
+        "text": "bệnh teo thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm giúp xác định các vấn đề y tế bao gồm : công thức máu ( cbc ) để loại trừ bệnh thiếu máu .",
+    "entities": [
+      {
+        "text": "bệnh thiếu máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "cbc",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : meniere ( rối loạn thính lực ) : nguyên nhân , triệu chứng , chẩn đoán và điều trị mất thính lực ( điếc tai ) : nguyên nhân , triệu chứng , chẩn đoán và điều trị sàng lọc mất thính lực bẩm sinh ở sơ sinh : phát hiện sớm &amp; can thiệp thính lực cho trẻ \\ ù tai kéo dài : chớ coi thường chủ đề : ù tai tai mũi họng sàng lọc thính lực rối loạn thính lực thính lực bệnh meniere điếc tai",
+    "entities": [
+      {
+        "text": "rối loạn thính lực",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mất thính lực",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh meniere",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "điếc tai",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

@@ -1,0 +1,334 @@
+[
+  {
+    "text": "phẫu thuật : các mạch máu có thể bị tổn thương trong quá trình phẫu thuật , có thể dẫn đến sự hình thành cục máu đông .",
+    "entities": []
+  },
+  {
+    "text": "những đột biến này khiến các tế bào phát triển không kiểm soát được và tiếp tục sống sau khi các tế bào khỏe mạnh bình thường sẽ chết .",
+    "entities": []
+  },
+  {
+    "text": "tránh sử dụng các vật sắc nhọn , ví dụ : cạo râu bằng dao cạo điện , đeo găng tay khi bạn làm vườn hoặc nấu ăn , … phương pháp phòng ngừa phù bạch huyết một số biện pháp có thể áp dụng : tránh nóng , tránh tập luyện cường độ cao .",
+    "entities": [
+      {
+        "text": "phù bạch huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cũng như một số bất thường bẩm sinh khác , đây có thể do các yếu tố di truyền kết hợp với môi trường , ví dụ như gia đình có tiền sử thoát vị màng não và thiếu folate .",
+    "entities": [
+      {
+        "text": "thoát vị màng não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh tắc ruột sơ sinh tổng quan bệnh tắc ruột sơ sinh tắc ruột ( tiếng anh là bowel obstruction hoặc intestinal obstruction ) là một thuật ngữ y khoa chỉ sự đình trệ của ống tiêu hoá khiến thức ăn bị tắc nghẽn tại đường ruột .",
+    "entities": [
+      {
+        "text": "bệnh tắc ruột sơ sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khám mắt định kì và đo nhãn áp ít nhất là mỗi 5 năm sau 40 tuổi , nhất là những người bị tiểu đường , nguy cơ mắc bệnh cao hơn 40% .",
+    "entities": [
+      {
+        "text": "tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trị liệu các vấn đề về thị lực liên quan đến thấu kính bị lệch trong mắt thường có thể được khắc phục bằng kính hoặc kính áp tròng .",
+    "entities": [
+      {
+        "text": "thấu kính bị lệch",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "kính áp tròng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "cắt polyp hoặc khối u nhỏ thường có thể được cô lập hoàn toàn loại bỏ bằng cách sử dụng một thiết bị hút khí nhỏ hoặc microdebrider - một công cụ cắt và chất chiết xuất từ các mô mềm .",
+    "entities": [
+      {
+        "text": "cắt polyp hoặc khối u nhỏ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh tắc ống dẫn tinh bệnh lý tắc ống dẫn tinh có thể xảy ra ở bất kỳ nam giới nào , ở mọi lứa tuổi khác nhau .",
+    "entities": [
+      {
+        "text": "bệnh tắc ống dẫn tinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa nhức đầu khi ho là một loại nhức đầu được kích hoạt khi ho và các loại căng thẳng - chẳng hạn như từ hắt hơi , hỉ mũi , cười , khóc , hát , cúi xuống hoặc đi tiêu .",
+    "entities": [
+      {
+        "text": "nhức đầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc điều trị viêm xơ đường mật tập trung chủ yếu vào việc giảm các dấu hiệu và triệu chứng và sự tiến triển của bệnh .",
+    "entities": [
+      {
+        "text": "viêm xơ đường mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong thoát vị não – màng não nền sọ tùy theo vị trí túi thoát vị mà có các loại sau : thoát vị ở tầng trước nền sọ bao gồm : thoát vị qua xoang trán , xoang sàng và xoang bướm , thoát vị não màng não tầng giữa nền sọ gồm : thoát vị qua xương đá và qua hố thái dương .",
+    "entities": [
+      {
+        "text": "thoát vị não – màng não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thoát vị não màng não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các bác sĩ phẫu thuật truy cập vào hệ thống thoát nước mắt , sau đó tạo ra một kết nối mới , trực tiếp giữa túi nước mắt và mũi .",
+    "entities": [
+      {
+        "text": "tạo ra một kết nối mới , trực tiếp giữa túi nước mắt và mũi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật truy cập vào hệ thống thoát nước mắt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm máu có thể đo được hệ thống miễn dịch phản ứng với chất gây dị ứng thông thường bằng cách đo lượng kháng thể nhất định trong máu , được gọi là globulin miễn dịch e ( ige ) kháng thể .",
+    "entities": [
+      {
+        "text": "đo được hệ thống miễn dịch phản ứng với chất gây dị ứng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đo lượng kháng thể nhất định trong máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "globulin miễn dịch e",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc phương pháp khẩn cấp điều trị rung thất tập trung vào việc khôi phục lưu lượng máu trong cơ thể càng nhanh càng tốt để tránh thiệt hại cho não và các cơ quan khác .",
+    "entities": [
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra và chẩn đoán bệnh viêm động mạch takayasu có thể được kiểm tra để phát hiện , và một số người không có một chẩn đoán chính xác .",
+    "entities": [
+      {
+        "text": "bệnh viêm động mạch takayasu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm niêm mạc trực tràng gây ra bởi bệnh viêm ruột điều trị viêm niêm mạc trực tràng liên quan đến bệnh crohn hoặc viêm loét đại tràng nhằm mục đích làm giảm viêm trong trực tràng .",
+    "entities": [
+      {
+        "text": "viêm niêm mạc trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm loét đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đây có thể bao gồm nhức đầu mà dần dần xấu đi , đặc biệt nghiêm trọng khi luôn luôn ở cùng một vị trí , hoặc có kèm theo buồn nôn hoặc nôn mửa hoặc bị mờ hoặc nhìn đôi .",
+    "entities": [
+      {
+        "text": "nhức đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhìn đôi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nôn mửa",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bị mờ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đối phó và hỗ trợ khi bệnh viêm động mạch takayasu được xác định và điều trị sớm , tiên lượng thường là tốt .",
+    "entities": [
+      {
+        "text": "bệnh viêm động mạch takayasu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến sốt rét sốt rét do các loại ký sinh trùng plasmodium gây ra : plasmodium vivax , plasmodium falciparum , plasmodium malariae , plasmodium ovale và plasmodium knowlesi .",
+    "entities": [
+      {
+        "text": "sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong trường hợp thông liên thất rộng có hẹp động mạch phổi do tăng sinh vùng phễu có thể có dạng hẹp nhẹ hoặc vừa đến nặng .",
+    "entities": [
+      {
+        "text": "thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các thủ tục bổ xung sau khi bác sĩ xác định gan to , các xét nghiệm khác , thủ tục có thể được đề nghị để tìm hiểu nguyên nhân .",
+    "entities": [
+      {
+        "text": "gan to",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , van hai lá trên và dưới bên buồng tim trái không thể đóng hoàn toàn ( hở van hai lá ) .",
+    "entities": [
+      {
+        "text": "hở van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "để bảo vệ mắt khỏi tia uv , các bác sĩ khuyên nên đeo kính đeo mắt để bảo vệ đôi mắt .",
+    "entities": [
+      {
+        "text": "đeo kính đeo mắt để bảo vệ đôi mắt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thiếu hụt folate làm tăng nguy cơ mắc bệnh thoát vị não màng não và các khuyết tật ống thần kinh khác .",
+    "entities": [
+      {
+        "text": "bệnh thoát vị não màng não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . triệu chứng bệnh thoái hóa khớp háng triệu chứng thoái hóa khớp háng bao gồm : bệnh nhân thường đi lại khó khăn , đi khập khiễng do khớp háng chịu trọng lực cơ thể nhiều nhất .",
+    "entities": [
+      {
+        "text": "bệnh thoái hóa khớp háng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đi lại khó khăn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đi khập khiễng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong kiểm tra bên ngoài , bác sĩ có thể sử dụng một penlight nhìn đồng tử , thực hiện các mô hình của mắt đỏ hoặc mắt và kiểm tra các dấu hiệu rử mắt .",
+    "entities": [
+      {
+        "text": "thực hiện các mô hình của mắt đỏ hoặc mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sử dụng một penlight nhìn đồng tử",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "kiểm tra các dấu hiệu rử mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "khám sàng lọc tiền hôn nhân : phát hiện người mang gen bệnh , hạn chế kết hôn giữa những người bị thiếu men g6pd nhưng chưa bộc lộ triệu chứng .",
+    "entities": [
+      {
+        "text": "thiếu men g6pd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân các nguyên nhân gây ra chảy máu nội sọ ( xuất huyết ) thường là một chấn thương vào đầu , thường là kết quả của một tai nạn ô tô hoặc xe gắn máy hay một sự kiện có vẻ tầm thường , chẳng hạn như va chạm đầu .",
+    "entities": [
+      {
+        "text": "chảy máu nội sọ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xuất huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biểu hiện của viêm mạch rất đa dạng trên lâm sàng , phụ thuộc vào kích thước và vị trí của các mạch , các cơ quan bị tổn thương , mức độ và loại tổn thương viêm .",
+    "entities": [
+      {
+        "text": "viêm mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

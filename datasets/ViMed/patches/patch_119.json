@@ -1,0 +1,408 @@
+[
+  {
+    "text": "đối phó và hỗ trợ những người bị bệnh động kinh có thể xấu hổ hay thất vọng bởi vấn đề của họ .",
+    "entities": [
+      {
+        "text": "bệnh động kinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu không điều trị , kênh nhĩ thất thường dẫn đến suy tim - tình trạng trong đó tim không thể bơm đủ máu để đáp ứng nhu cầu của cơ thể .",
+    "entities": [
+      {
+        "text": "kênh nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh tăng huyết áp thứ phát tổng quan bệnh tăng huyết áp thứ phát tăng huyết áp là bệnh của thời đại hiện nay , với tỉ lệ mắc trên 30% dân số .",
+    "entities": [
+      {
+        "text": "bệnh tăng huyết áp thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán viêm ruột thừa cấp khám lâm sàng : khoảng 70% bệnh nhân mắc viêm ruột thừa cấp có những triệu chứng lâm sàng điển hình .",
+    "entities": [
+      {
+        "text": "viêm ruột thừa cấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu không chắc chắn , hãy hỏi bác sĩ để được tư vấn về cách sử dụng loại bỏ ráy tai bằng phương pháp khác .",
+    "entities": [
+      {
+        "text": "sử dụng loại bỏ ráy tai bằng phương pháp khác",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bệnh ung thư tụy khiến người bệnh chịu những cơn đau đớn triền miên bởi khối u chèn ép lên các dây thần kinh và những bộ phận xung quanh .",
+    "entities": [
+      {
+        "text": "cơn đau đớn triền miên",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh ung thư tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra bệnh nhân còn có những triệu chứng sau : đau âm ỉ vùng bẹn bìu hoặc vùng bụng dưới bìu cảm giác nặng , tụ dịch gây khó chịu hoặc đau đau lưng có thể nổi hạch vùng bẹn đối tượng nguy cơ bệnh ung thư tinh hoàn các yếu tố nguy cơ mắc ung thư tinh hoàn bao gồm : người có tinh hoàn ẩn : nguy cơ mắc bệnh cao gấp 2.5 đến 11 lần so với người bình thường .",
+    "entities": [
+      {
+        "text": "bệnh ung thư tinh hoàn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau âm ỉ vùng bẹn bìu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tụ dịch gây khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bìu cảm giác nặng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hạch vùng bẹn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau lưng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "kháng histamin toa , chẳng hạn như diphenhydramine ( benadryl ) làm việc cũng như những loại mới hơn , nhưng một số loại có thể làm buồn ngủ .",
+    "entities": [
+      {
+        "text": "kháng histamin toa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "diphenhydramine",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một vài triệu chứng khác cũng có thể xảy ra như là : buồn nôn hoặc nôn ; đổ mồ hôi hoặc “ mồ hôi lạnh ”; đau hoặc khó chịu ở phần trên cơ thể , bao gồm cánh tay , vai trái , lưng , cổ , hàm hoặc dạ dày; cảm thấy đầy bụng , khó tiêu hoặc cảm giác nghẹt thở ( cảm giác như ợ chua ) .",
+    "entities": [
+      {
+        "text": "khó chịu ở phần trên cơ thể",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mồ hôi lạnh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đổ mồ hôi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nghẹt thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đầy bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó tiêu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ợ chua",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu bác sĩ nghi ngờ rằng tình trạng tim đập nhanh của bạn là do rối loạn nhịp tim hoặc tình trạng tim khác , các xét nghiệm có thể bao gồm : điện tâm đồ ( ecg ) : trong thử nghiệm không xâm lấn này , kỹ thuật viên đặt dây dẫn lên ngực của bạn để ghi lại các tín hiệu điện khiến tim bạn đập .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tim đập nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ecg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "hoàn thành hai mục tiêu yêu cầu sử dụng ít nhất hai , và đôi khi ba hoặc bốn , các loại thuốc sau đây : thuốc kháng sinh .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm máu : bệnh nhân đôi khi cần được làm xét nghiệm máu nếu bác sĩ phát hiện bất thường .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến bệnh hẹp van hai lá nguyên nhân trong đa số trường hợp mắc hẹp van hai lá là do thấp tim .",
+    "entities": [
+      {
+        "text": "bệnh hẹp van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số nguyên nhân được cho là gây ra thoát vị đùi là : cơ thành bụng yếu do mang thai nhiều lần .",
+    "entities": [
+      {
+        "text": "thoát vị đùi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "balloon giãn nở là một thủ tục trong đó bác sĩ chạy một ống mảnh với một quả bóng bơm hơi ở đầu thông qua nội soi và vào ống mật bị chặn .",
+    "entities": [
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ngừng tim đột ngột là một cấp cứu y tế , có thể dẫn đến đột tử do tim nếu không được điều trị ngay lập tức .",
+    "entities": [
+      {
+        "text": "ngừng tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhịp điệu chuyển động mắt bất thường ( nystagmus ) thường đi kèm với các triệu chứng chóng mặt lành tính .",
+    "entities": [
+      {
+        "text": "chóng mặt lành tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , việc sử dụng ống thông này có thể là giải pháp tình thế trong trường hợp chờ làm tips hoặc phẫu thuật .",
+    "entities": [
+      {
+        "text": "tips",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : các biện pháp chữa trị thoái hóa khớp háng hiện nay \"cứu cánh\" cho bệnh nhân thoái hóa khớp háng phòng ngừa trật khớp háng sau thay khớp háng thoái hóa khớp háng : phân loại , nguyên nhân , triệu chứng nhận biết chủ đề : phục hồi chức năng vật lý trị liệu cơ xương khớp trật khớp háng thoái hóa khớp háng khớp háng thay khớp háng",
+    "entities": [
+      {
+        "text": "vật lý trị liệu cơ xương khớp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thoái hóa khớp háng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "trật khớp háng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thay khớp háng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "có thể giúp giảm các triệu chứng ù tai , nhưng tác dụng phụ có thể bao gồm buồn ngủ và buồn nôn .",
+    "entities": [
+      {
+        "text": "buồn ngủ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ cũng có thể giúp tránh những biến chứng có thể từ các vấn đề như tiêu chảy mãn tính .",
+    "entities": [
+      {
+        "text": "tiêu chảy mãn tính",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu các triệu chứng không rõ ràng , hoặc có vẻ còn tồi tệ hơn , bác sĩ mắt có thể kê toa thuốc uống có thể bao gồm steroid hoặc các chất chống viêm khác .",
+    "entities": [
+      {
+        "text": "chất chống viêm khác",
+        "type": "THUỐC"
+      },
+      {
+        "text": "steroid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các bất thường nhiễm sắc thể 3p ,9p ,11q ,13a ,14q và 16q gây đột biến các gen ức chế khối u , dẫn đến hình thành ung thư .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ đang ở nguy cơ tăng mắc viêm xoang mãn tính hoặc tái phát nếu có : một bất thường mũi , như một vách ngăn mũi lệch , hoặc polip mũi .",
+    "entities": [
+      {
+        "text": "viêm xoang mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vách ngăn mũi lệch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bất thường mũi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "polip mũi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cắt lách là phương pháp điều trị ngoại khoa có hiệu quả trên một vài bệnh nhân vì lách là nơi các tế bào hồng cầu bị bắt giữ và phá hủy .",
+    "entities": [
+      {
+        "text": "cắt lách",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "với xơ gan nhẹ , gan có thể thực hiện sửa chữa và tiếp tục vai trò của nó trong cơ thể .",
+    "entities": [
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các bác sĩ có thể sẽ sử dụng một dụng cụ sáng để nhìn vào tai , cổ họng thông qua mũi .",
+    "entities": [
+      {
+        "text": "một dụng cụ sáng để nhìn vào tai",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "với điều kiện y tế nhất định , các tế bào miễn dịch gọi là eosinophils có thể gây viêm xoang .",
+    "entities": [
+      {
+        "text": "viêm xoang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tập thể dục thường xuyên , chẳng hạn như đi bộ , có thể giúp ngăn ngừa mất xương , huyết áp cao và tiểu đường .",
+    "entities": [
+      {
+        "text": "tập thể dục thường xuyên",
+        "type": "THUỐC"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có một số trường hợp có dấu hiệu bị chảy máu trong u tuyến yên dẫn đến đau đầu dữ dội , mắt nhìn mờ .",
+    "entities": [
+      {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "u tuyến yên",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mắt nhìn mờ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

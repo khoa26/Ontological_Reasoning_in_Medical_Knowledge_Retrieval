@@ -1,0 +1,419 @@
+[
+  {
+    "text": "theo truyền thống , các bác sĩ sử dụng x quang chụp mạch kiểm tra , là một trong các kiểm tra dứt khoát hơn để chẩn đoán bệnh viêm động mạch takayasu .",
+    "entities": [
+      {
+        "text": "bệnh viêm động mạch takayasu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "x quang chụp mạch",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : những cách giúp bạn giảm đau bụng kinh 20 câu hỏi thường gặp nhất về đau bụng kinh thống kinh là gì và có nguy hiểm không ?",
+    "entities": [
+      {
+        "text": "đau bụng kinh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thống kinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng khác : sự mất máu nhiều gây ảnh hưởng tới sức khỏe và tinh thần của sản phụ , có thể gây suy gan , suy thận , suy đa tạng , rối loạn đông máu , .",
+    "entities": [
+      {
+        "text": "rối loạn đông máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy đa tạng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư tụy xảy ra khi các tế bào trong tuyến tụy bắt đầu sản sinh quá mức vượt quá tầm kiểm soát và tạo thành một khối u . các loại ung thư tụy phổ biến nhất thường phát sinh từ tuyến ngoại tiết và được gọi là carcinom tuyến của tụy .",
+    "entities": [
+      {
+        "text": "carcinom tuyến của tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi giai đoạn đầu bệnh ung thư được tìm thấy và gỡ bỏ trong quá trình kiểm tra , tỷ lệ sống sót năm năm có thể cao tới 90 phần trăm .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , vì vị trí của u ở nông , trong nhiều trường hợp ung thư tuyến nước bọt có thể được phát hiện sớm .",
+    "entities": [
+      {
+        "text": "ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nghĩ nhiều tới chẩn đoán suy tim trên những bệnh nhân có tiền sử nhồi máu cơ tim , tăng huyết áp , bệnh van tim hoặc có tiếng thổi khi thăm khám tim , và cũng có thể nghĩ tới suy tim trên các đối tượng người cao tuổi hoặc mắc đái tháo đường .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh van tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiếng thổi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thông thường , các hạch bạch huyết bị tổn thương hoặc đôi khi các mạch bị tắc nghẽn làm dịch bạch huyết bị tích tụ gây phù bạch huyết .",
+    "entities": [
+      {
+        "text": "phù bạch huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu khó để có canxi từ chế độ ăn uống bởi vì không ăn các sản phẩm từ sữa , ví dụ , hãy nói chuyện với bác sĩ về bổ sung canxi , thường được kết hợp với vitamin d và có thể giúp chống loãng xương .",
+    "entities": [
+      {
+        "text": "bổ sung canxi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "loãng xương",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vitamin d",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tổn thương van tim hoặc các mô tim khác có thể dẫn đến nhịp tim không đều , hỗn loạn ( rung nhĩ ) hoặc suy tim sau này trong cuộc sống .",
+    "entities": [
+      {
+        "text": "tổn thương van tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhịp tim không đều",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số trường hợp bệnh huntington có thể tiến triển đến khi bạn bè và các thành viên trong gia đình không còn có thể chăm sóc đầy đủ .",
+    "entities": [
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán một số xét nghiệm được sử dụng để chẩn đoán mắt bị chặn ống dẫn bao gồm : - nhuộm fluorescein .",
+    "entities": [
+      {
+        "text": "nhuộm fluorescein",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu xét nghiệm dương tính với trẻ viêm họng , nên dùng thuốc kháng sinh trong ít nhất 24 giờ trước khi trở lại trường hoặc chăm sóc trẻ .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chủng ngừa viêm gan a và b . sử dụng hóa chất chăm sóc tại nhà và tại nơi làm việc .",
+    "entities": [
+      {
+        "text": "viêm gan a và b",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "suy tim : một cơn đau tim có thể làm tổn thương nhiều mô tim đến mức phần cơ tim còn lại không thể bơm đủ máu ra khỏi tim của bạn .",
+    "entities": [
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sa sút trí tuệ có thể do sốt hoặc tác dụng phụ của nỗ lực của cơ thể chống lại nhiễm trùng .",
+    "entities": [
+      {
+        "text": "sa sút trí tuệ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng của phẫu thuật bao gồm tử vong , đột quỵ ( do tắc mạch ) , liệt nửa người ( do thiếu máu cục bộ tủy sống ) , suy thận ( đặc biệt nếu phình tách bao gồm động mạch thận ) và endoleak ( rò rỉ máu trở lại túi phình ) .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ tủy sống",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "liệt nửa người",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "endoleak",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc can thiệp viêm thực quản để làm giảm triệu chứng , quản lý các biến chứng và điều trị nguyên nhân gây ra rối loạn .",
+    "entities": [
+      {
+        "text": "viêm thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sống hoặc làm việc tron g một môi trường liên tục cho thấy nhiều chất gây dị ứng - chẳng hạn như lông động vật .",
+    "entities": []
+  },
+  {
+    "text": "nguyên nhân chính xác của hội chứng guillain - barre là không rõ , nhưng thường đi trước bởi một căn bệnh truyền nhiễm như một nhiễm trùng hô hấp hoặc dạ dày .",
+    "entities": [
+      {
+        "text": "hội chứng guillain - barre",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật ngoại khoa đối với bệnh nhân đã được điều trị nội khoa tối ưu nhưng vẫn có triệu chứng đến chênh áp đường ra ( ≥ 50mmhg ) thì cần chỉ định điều trị xâm lấn .",
+    "entities": [
+      {
+        "text": "phẫu thuật ngoại khoa",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ưu điểm của phương pháp này là rút ngắn được thời gian điều trị mà kết quả thành công cũng tương tự như phương pháp stein .",
+    "entities": [
+      {
+        "text": "phương pháp stein",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng chính của bệnh phong là : biến dạng vết loét , cục u hoặc vết sưng tấy trên da , không biến mất sau vài tuần hoặc vài tháng .",
+    "entities": [
+      {
+        "text": "biến dạng vết loét",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "vết sưng tấy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh phong",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cục u",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu bệnh nhân chỉ bị ẩn tinh hoàn một bên thì vẫn có khả năng có con nhưng có nhiều rủi ro do nguy cơ bị ung thư bên tinh hoàn ẩn và nhiều nguy cơ khác .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán block nhĩ thất xét nghiệm nồng độ điện giải ( tăng kali máu ) và nồng độ thuốc ( ví dụ : digitalis ) : nếu nồng độ kali cao hoặc nghi ngờ do độc tính của thuốc .",
+    "entities": [
+      {
+        "text": "nồng độ điện giải",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "block nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nồng độ thuốc",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "bệnh này có thể dẫn đến tắc nghẽn hoặc hẹp động mạch , hoặc động mạch giãn nở bất thường , gọi là chứng phình động mạch .",
+    "entities": [
+      {
+        "text": "động mạch giãn nở bất thường",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chứng phình động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh ung thư tinh hoàn dấu hiệu ung thư tinh hoàn hay gặp nhất là bệnh nhân tự phát hiện thấy bìu to lên hoặc sờ thấy u ở trong bìu .",
+    "entities": [
+      {
+        "text": "bệnh ung thư tinh hoàn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thấy u ở trong bìu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bìu to lên",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một số thuốc có thể làm thay đổi nhìn màu sắc , chẳng hạn như một số loại thuốc dùng để điều trị bệnh tim , cao huyết áp , nhiễm trùng , rối loạn thần kinh và các vấn đề tâm lý .",
+    "entities": [
+      {
+        "text": "rối loạn thần kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "các vấn đề tâm lý",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư da tế bào đáy nhiều ổ phối hợp với xơ da , bất thường ở xương sườn và cột sống .",
+    "entities": [
+      {
+        "text": "ung thư da",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh tắc mạch ối chẩn đoán tắc mạch ối có thể còn gặp nhiều khó khăn do cần phân biệt với một số nguyên nhân khác như : tắc mạch do huyết khối , choáng nhiễm khuẩn , nhồi máu cơ tim , sốc phản vệ , rau bong non , .",
+    "entities": [
+      {
+        "text": "choáng nhiễm khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tắc mạch ối",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rau bong non",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốc phản vệ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

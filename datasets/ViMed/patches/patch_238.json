@@ -1,0 +1,392 @@
+[
+  {
+    "text": "hầu hết sự mất nhiệt là do nhiệt tỏa ra từ các bề mặt không được bảo vệ của cơ thể .",
+    "entities": [
+      {
+        "text": "mất nhiệt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu có viêm đại tràng màng giả , có thể hiển thị những mảng màu vàng hoặc tổn thương lớn cũng như sưng tấy trong đại tràng , .",
+    "entities": [
+      {
+        "text": "viêm đại tràng màng giả",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cố gắng ăn nhiều trái cây và rau lá xanh và các loại rau khác , những thực phẩm này thường chứa hàm lượng cao các c hất chống oxy hóa cũng như các vitamin a và beta carotene .",
+    "entities": [
+      {
+        "text": "hất chống oxy hóa",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi bị hở van ba lá nếu tình trạng ở mức độ nhẹ , bệnh chỉ ảnh hưởng tới chất lượng sống của người bệnh .",
+    "entities": [
+      {
+        "text": "hở van ba lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi viêm phúc mạc kết hợp với thẩm phân phúc mạc , các dấu hiệu và triệu chứng , đặc biệt là mây chất lỏng lọc , có thể là đủ cho bác sĩ chẩn đoán bệnh trạng .",
+    "entities": [
+      {
+        "text": "thẩm phân phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "được gọi là ức chế histamin h - 2, các loại thuốc này bao gồm cimetidine ( tagamet hb ) , famotidine ( pepcid ac ) , nizatidine ( axid ar ) hoặc ranitidine ( zantac 75 ) .",
+    "entities": [
+      {
+        "text": "cimetidine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tagamet hb",
+        "type": "THUỐC"
+      },
+      {
+        "text": "famotidine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nizatidine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ranitidine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "pepcid ac",
+        "type": "THUỐC"
+      },
+      {
+        "text": "zantac 75",
+        "type": "THUỐC"
+      },
+      {
+        "text": "axid ar",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": ". . ) ; tăng trương lực phế vị; bệnh van tim ; tim bẩm sinh , di truyền hoặc các rối loạn khác .",
+    "entities": [
+      {
+        "text": "bệnh van tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tim bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán nếu có kênh nhĩ thất một phần , bác sĩ có thể không phát hiện được bất cứ điều gì sai .",
+    "entities": [
+      {
+        "text": "kênh nhĩ thất một phần",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "với một thử nghiệm châm da , giọt nhỏ của các tác nhân gây dị ứng đâm vào da của cánh tay hoặc phía trên lưng .",
+    "entities": [
+      {
+        "text": "một thử nghiệm châm da",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa động kinh thùy trán là những cơn co giật có nguồn gốc ở phía trước của não .",
+    "entities": [
+      {
+        "text": "động kinh thùy trán",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cơn co giật",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "có thể dùng rosuvastatin , atorvastatin . . chẹn beta giao cảm : metoprolol , bisoprolol… là nhóm thuốc quan trọng trong điều trị , được dùng để tăng khả năng gắng sức , giảm tần số tim , cải thiện triệu chứng đau ngực thuốc nhóm nitrat : nitroglycerin có tác dụng giãn mạch vành tác dụng nhanh , ngắn , có thể dùng để giảm ngay cơn đau khi nó xuất hiện .",
+    "entities": [
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cơn đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "cử động chân tay một cách khó khăn hoặc không thể cử động được , cơ thể bị tê liệt một bên .",
+    "entities": [
+      {
+        "text": "cử động chân tay một cách khó khăn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tê liệt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng của bệnh xơ nang , trào ngược dạ dày thực ( ger ) hoặc rối loạn hệ thống miễn dịch có thể dẫn đến xoang bị chặn hoặc tăng nguy cơ nhiễm trùng .",
+    "entities": [
+      {
+        "text": "rối loạn hệ thống miễn dịch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "trào ngược dạ dày thực",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh xơ nang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những người này có tiên lượng tốt hơn cho tầm nhìn của họ trong thời gian dài hơn so với những người có optica neuromyelitis .",
+    "entities": [
+      {
+        "text": "optica neuromyelitis",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật cấy ghép gan có thể là một lựa chọn cho những người bị ung thư gan giai đoạn đầu có xơ gan .",
+    "entities": [
+      {
+        "text": "phẫu thuật cấy ghép gan",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên tiêu chảy nhiễm trùng trẻ sơ sinh và trẻ em là những trường hợp gia đình cần theo dõi kỹ lưỡng và đưa nhập viện ngay nếu cần thiết .",
+    "entities": [
+      {
+        "text": "tiêu chảy nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm gan a . viêm gan b . viêm gan c . viêm gan d . viêm gan e . u tuyến gan .",
+    "entities": [
+      {
+        "text": "u tuyến gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm gan a",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm gan b",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm gan c",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm gan d",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm gan e",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , đau bụng gây cảm giác khó chịu và bất tiện trong cuộc sống , chưa kể các biến chứng nguy hiểm có thể có của đau bụng liên quan đến các bệnh khác .",
+    "entities": [
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "vì lý do đó , bác sĩ có thể sử dụng một hoặc một số các xét nghiệm sau để kiểm tra sự hiện diện của vi khuẩn , bao gồm cả vi khuẩn liên cầu khuẩn : ngoáy họng .",
+    "entities": [
+      {
+        "text": "xét nghiệm sau để kiểm tra sự hiện diện của vi khuẩn",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ngoáy họng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "một loạt các bệnh và vấn đề có thể gây hại cho gan và dẫn đến xơ gan , bao gồm : nghiện rượu mãn tính .",
+    "entities": [
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không chỉ vậy , sự vỡ ra của các mảng xơ vữa này còn có thể gây ra cục máu đông , dẫn đến đột quỵ và nhiều bệnh lý khác .",
+    "entities": [
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tee đa bình diện có độ nhạy 97 - 99% và với siêu âm tim chế độ m , độ đặc hiệu gần như 100% , có thể thực hiện tại giường trong &lt; 20 phút và không cần chất cản quang .",
+    "entities": [
+      {
+        "text": "tee",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm máu ( đôi khi gọi là radioallergosorbent , hoặc rast ) có thể đo được phản ứng của hệ miễn dịch để một chất gây dị ứng cụ thể .",
+    "entities": [
+      {
+        "text": "đo được phản ứng của hệ miễn dịch để một chất gây dị ứng cụ thể",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "radioallergosorbent",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ù tai do tiếp xúc ngắn hạn , chẳng hạn như tham dự một buổi hòa nhạc lớn , kéo dài tiếp xúc với âm thanh to có thể gây tổn thương vĩnh viễn .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . đối với nam giới có thể phẫu thuật cắt bỏ tuyến tiền liệt , túi tinh và một phần ống dẫn tính , phụ nữ thì cắt bỏ tử cung , buồng trứng , vòi trứng và một phần âm đạo .",
+    "entities": [
+      {
+        "text": "tinh và một phần ống dẫn tính , phụ nữ thì",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cắt bỏ tuyến tiền liệt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu em bé trải nghiệm bất kỳ dấu hiệu và triệu chứng sau đây , tìm kiếm chăm sóc y tế khẩn cấp thở nông hoặc nhanh .",
+    "entities": [
+      {
+        "text": "thở nông hoặc nhanh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một số bệnh lý mãn tính mắc phải kèm theo như đái tháo đường , bệnh thận , hội chứng ngưng thở .",
+    "entities": [
+      {
+        "text": "hội chứng ngưng thở",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh thận",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa u nang tuyến tụy là bất thường , túi nang giống như chất lỏng trên hoặc bên trong tuyến tụy .",
+    "entities": [
+      {
+        "text": "u nang tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chỉ định can thiệp cho tất cả các bệnh nhân hẹp van hai lá rất nặng ( có hoặc không có triệu chứng ) thích hợp nong bóng qua da .",
+    "entities": [
+      {
+        "text": "hẹp van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng triệu chứng của mất trí nhớ , sa sút trí tuệ khác nhau tùy vào nguyên nhân , nhưng các dấu hiệu và triệu chứng thông thường bao gồm : mất trí nhớ .",
+    "entities": [
+      {
+        "text": "sa sút trí tuệ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mất trí nhớ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

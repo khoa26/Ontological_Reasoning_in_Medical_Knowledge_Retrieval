@@ -1,0 +1,340 @@
+[
+  {
+    "text": "triệu chứng bệnh u não ở trẻ em triệu chứng u não ở trẻ em trẻ em bị u não thường kèm theo nhiều dấu hiệu tùy thuộc vào vị trí , kích thước của não , trong đó có thể kể đến một số biểu hiện sau : có thể biểu hiện bằng nhiều dấu hiệu do hội chứng tăng áp lực trong sọ , hội chứng tiểu não , hội chứng chèn ép khu trú .",
+    "entities": [
+      {
+        "text": "hội chứng tăng áp lực trong sọ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng chèn ép khu trú",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng tiểu não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh u não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những người bị hội chứng ruột kích thích bỏ lỡ nhiều ngày làm việc gấp 3 lần những người không có hội chứng này .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật các loại thủ tục phẫu thuật có thể xem xét để điều trị ung thư cổ họng phụ thuộc vào vị trí và giai đoạn của bệnh ung thư .",
+    "entities": [
+      {
+        "text": "ung thư cổ họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "khi các triệu chứng của viêm mống mắt phát triển bất ngờ , trong khoảng thời gian một vài giờ hoặc ngày , điều này được gọi là viêm mống mắt là cấp tính .",
+    "entities": [
+      {
+        "text": "viêm mống mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thai ngoài tử cung có thể chẩn đoán được nhưng dễ nhầm lẫn với 1 số bệnh khác cần được khám xét tỉ mỉ loại trừ các bệnh khác .",
+    "entities": [
+      {
+        "text": "thai ngoài tử cung",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu không có chất nhờn đủ để che mắt , điểm khô có thể hình thành trên bề mặt phía trước của mắt ( giác mạc ) .",
+    "entities": [
+      {
+        "text": "điểm khô có thể hình thành trên bề mặt phía trước của mắt ( giác mạc )",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu gặp khó nhìn với mắt bị bệnh , bác sĩ có thể khuyên nên theo dõi bởi bác sĩ mắt ( nhãn khoa ) .",
+    "entities": [
+      {
+        "text": "khó nhìn với mắt bị bệnh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tâm lý phụ nữ sau sinh thường bị ảnh hưởng cùng với các tác động bên ngoài gây nên bệnh trầm cảm sau sinh .",
+    "entities": [
+      {
+        "text": "bệnh trầm cảm sau sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ù tai không phải là một điều kiện chính nó - đó là một triệu chứng của một điều kiện cơ bản , chẳng hạn như giảm thính lực do tuổi tác , chấn thương tai hoặc một hệ thống rối loạn tuần hoàn .",
+    "entities": [
+      {
+        "text": "giảm thính lực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , cái chết thường xảy ra như là kết quả của những biến chứng của bệnh , như nhiễm trùng viêm phổi .",
+    "entities": [
+      {
+        "text": "nhiễm trùng viêm phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "montelukast ( singulair ) là một viên thuốc theo toa thực hiện để ngăn chặn các hành động của leukotrienes - hệ thống miễn dịch hóa chất gây ra các triệu chứng dị ứng như sản xuất chất nhờn dư thừa .",
+    "entities": [
+      {
+        "text": "một viên thuốc theo toa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "triệu chứng dị ứng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "montelukast",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đường lây truyền bệnh uốn ván thông thường nha bào uốn ván xâm nhập vào cơ thể qua các vết thương sâu , bị nhiễm bẩn , qua các vết rách , vết bỏng , vết thương dập nát , vết thương nhẹ , hoặc do tiêm chích nhiễm bẩn .",
+    "entities": [
+      {
+        "text": "bệnh uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị vắc xin ung thư sử dụng chiến lược khác nhau để tăng cường hệ thống miễn dịch để giúp nó nhận ra tế bào ung thư như những kẻ xâm nhập .",
+    "entities": [
+      {
+        "text": "vắc xin ung thư",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nhưng nếu đang quan tâm đến việc cố gắng omega - 3 fatty acid , thảo luận về những lợi ích và rủi ro với bác sĩ .",
+    "entities": [
+      {
+        "text": "omega - 3 fatty acid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , bất kỳ quá trình dẫn đến viêm nhiễm hoặc nén thần kinh thị giác , bao gồm các khối u , thiếu hụt dinh dưỡng hoặc chất độc , có thể cản trở khả năng của dây thần kinh để thực hiện các xung điện .",
+    "entities": []
+  },
+  {
+    "text": "các loại thuốc như thuốc kháng sinh gentamicin và một số loại thuốc hóa trị có thể làm tổn thương tai trong .",
+    "entities": []
+  },
+  {
+    "text": "khởi đầu là suy hô hấp , tím tái xảy ra đột ngột trong vài phút và tiếp đến là tụt huyết áp , phù phổi , choáng , biểu hiện thần kinh như : mất ý thức và co giật .",
+    "entities": [
+      {
+        "text": "tụt huyết áp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy hô hấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mất ý thức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phù phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tím tái",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "co giật",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "choáng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sự tắc nghẽn một phần có nghĩa là bạn đã bị nhồi máu cơ tim không st chênh lên ( nstemi ) .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim không st chênh lên",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng lâm sàng .3 giai đoạn của cơn sốt điển hình : rét run , sốt nóng , vã mồ hôi .",
+    "entities": [
+      {
+        "text": "vã mồ hôi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rét run",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "viêm cơ tim là tình trạng viêm ( có thể cục bộ hoặc lan tỏa ) , đi kèm theo hoại tử các tế bào cơ tim do nhiều nguyên nhân , có thể do viêm nhiễm ( virus , vi khuẩn , nấm , ký sinh trùng , … ) hoặc không do nhiễm trùng ( chất gây độc tim , thuốc , … ) .",
+    "entities": [
+      {
+        "text": "viêm cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số cơn đau tim xảy ra đột ngột , nhưng nhiều người có các dấu hiệu và triệu chứng cảnh báo trước hàng giờ , ngày hoặc tuần .",
+    "entities": [
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : u lympho tế bào t : nguyên nhân , triệu chứng , chẩn đoán và điều trị lần đầu tiên tại việt nam điều trị thành công u lympho tế bào t/nk bằng liệu pháp miễn dịch hodgkin : nguyên nhân , triệu chứng , chẩn đoán và điều trị chủ đề : nhi ung thư u lympho u lympho không hodgkin",
+    "entities": [
+      {
+        "text": "liệu pháp miễn dịch hodgkin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "u lympho không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u lympho tế bào t/nk",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay vì tạo ra một kênh mới từ túi nước mắt vào mũi , các bác sĩ phẫu thuật sẽ tạo ra một tuyến đường mới từ góc trong của mắt đến mũi .",
+    "entities": [
+      {
+        "text": "phẫu thuật sẽ tạo ra một tuyến đường mới từ góc trong của mắt đến mũi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu tích tụ ráy tai là một vấn đề định kỳ , bác sĩ có thể khuyên nên sử dụng một loại thuốc loại bỏ ráy , như carbamide peroxide mỗi 4 - 8 tuần như một biện pháp phòng ngừa .",
+    "entities": [
+      {
+        "text": "carbamide peroxide",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc loại bỏ ráy",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tích tụ ráy tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , trung tâm kiểm soát dịch bệnh khuyến cáo chủng ngừa cho trẻ lớn và người lớn có hệ thống miễn dịch đã bị suy yếu do : bệnh tế bào hình liềm .",
+    "entities": [
+      {
+        "text": "bệnh tế bào hình liềm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chủng ngừa",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trung thất sau : thực quản đôi , thoái vị màng tủy - tủy sống , bất thường về ống thần kinh ruột , khối u thần kinh .",
+    "entities": []
+  },
+  {
+    "text": "nguyên nhân thường gặp nhất của viêm nắp thanh quản ở trẻ em là nhiễm haemophilus influenzae type b ( hib ) , c ùng các vi khuẩn gây viêm phổi , viêm màng não và nhiễm trùng trong máu .",
+    "entities": []
+  },
+  {
+    "text": "những người bị xơ gan mật đã ghép gan thường có kết quả rất tốt , mặc dù bệnh có thể tái diễn trong gan mới .",
+    "entities": [
+      {
+        "text": "xơ gan mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ghép gan",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "giảm lo lắng hoặc căng thẳng mãn tính có thể giúp giảm nguy cơ đau tim và các vấn đề về tim khác theo thời gian .",
+    "entities": [
+      {
+        "text": "đau tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "uốn ván cục bộ thông thường có tiên lượng tốt hơn uốn ván toàn thân , tỷ lệ tử vong chỉ khoảng 1% .",
+    "entities": [
+      {
+        "text": "uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

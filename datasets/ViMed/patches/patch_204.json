@@ -1,0 +1,422 @@
+[
+  {
+    "text": "một số tình trạng nghiêm trọng khác liên quan đến thở nhanh hoặc sâu bao gồm : các vấn đề về phổi các vấn đề về tim các vấn đề về hệ thần kinh các phản ứng và ngộ độc thuốc nhiễm trùng thai nghén các rối loạn về gan các biện pháp điều trị bệnh tăng thông khí mục tiêu của điều trị trong cơn thở nhanh là tăng lượng khí cacbonic trong cơ thể và làm chậm nhịp thở , người bệnh có thể tham khảo một số phương pháp xử lý nhanh và điều trị tăng thông khí phổi như sau : phương pháp xử lý nhanh giữ tâm lý bình tĩnh , tránh hoảng sợ .",
+    "entities": [
+      {
+        "text": "nhiễm trùng thai nghén",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tăng thông khí",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng thông khí phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thở nhanh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thuốc điều trị nhồi máu cơ tim cấp thuốc chống kết tập tiểu cầu : aspirin , clopidogrel hoặc cả hai ( prasugrel hoặc ticagrelor là những lựa chọn thay thế cho clopidogrel ) .",
+    "entities": [
+      {
+        "text": "thuốc chống kết tập tiểu cầu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhồi máu cơ tim cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "clopidogrel",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ticagrelor",
+        "type": "THUỐC"
+      },
+      {
+        "text": "prasugrel",
+        "type": "THUỐC"
+      },
+      {
+        "text": "aspirin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "kích thích liên tục từ mí mắt bị viêm hoặc lông mi sai địa chỉ có thể gây ra một vết loét phát triển trên giác mạc .",
+    "entities": [
+      {
+        "text": "một vết loét phát triển trên giác mạc",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong phần này , phôi được sàng lọc đột biến gen huntington , và những phôi không có đột biến sau đó được cấy vào tử cung của người phụ nữ .",
+    "entities": []
+  },
+  {
+    "text": "bệnh thận giai đoạn cuối có lọc máu sử dụng thuốc giảm đau kéo dài như paracetamol hay nsaid ( ví dụ : ibuprofen , aspirin ) ung thư thận di truyền : chiếm nhỏ hơn 5% tổng số bệnh nhân ung thư thận .",
+    "entities": [
+      {
+        "text": "bệnh thận giai đoạn cuối",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc giảm đau kéo dài",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "paracetamol",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ibuprofen",
+        "type": "THUỐC"
+      },
+      {
+        "text": "lọc máu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "aspirin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nsaid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "lồng ruột tự phát là nguyên nhân gây tắc ruột thường gặp ở bệnh nhi dưới hai tuổi , đa số là kiểu lồng hồi - đại tràng .",
+    "entities": [
+      {
+        "text": "lồng hồi - đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lồng ruột tự phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tắc ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của bệnh van tim một số người bệnh van tim có thể không có triệu chứng trong nhiều năm .",
+    "entities": [
+      {
+        "text": "bệnh van tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc điều trị ợ nóng và các dấu hiệu và triệu chứng của trào ngược dạy dày thực quản ( gerd ) thường bắt đầu với các thuốc kê toa , điều khiển acid .",
+    "entities": [
+      {
+        "text": "trào ngược dạy dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ợ nóng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "gerd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể chỉ định x quang bụng hoặc ct scan bụng nếu có các triệu chứng nghiêm trọng để tìm biến chứng như megacolon hoặc vỡ đại tràng .",
+    "entities": [
+      {
+        "text": "x quang bụng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct scan bụng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "vỡ đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "megacolon",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bản chất của đau nhức đầu mãn tính hàng ngày làm cho họ đau nhức đầu không ngừng nếu không điều trị .",
+    "entities": [
+      {
+        "text": "đau nhức đầu mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau nhức đầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ các yếu tố sau đây có thể làm tăng nguy cơ phát triển bệnh sốt cỏ khô : có dị ứng hoặc hen suyễn khác .",
+    "entities": [
+      {
+        "text": "bệnh sốt cỏ khô",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hen suyễn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xạ trị xạ trị sử dụng năng lượng cao dầm , như x - quang , để tiêu diệt tế bào ung thư .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tĩnh mạch điều trị steroid có thể tăng tốc độ phục hồi thị lực , nhưng nó không xuất hiện để ảnh hưởng đến mức độ cuối cùng sẽ phục hồi thị lực .",
+    "entities": [
+      {
+        "text": "tĩnh mạch điều trị steroid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "cyclophosphamide : khi điều trị viêm mạch bằng thuốc cyclophosphomide cần phải thường xuyên theo dõi chặt chẽ số lượng bạch cầu và phải điều chỉnh liều để tránh giảm bạch cầu đặc biệt ở những bệnh nhân suy thận nặng .",
+    "entities": [
+      {
+        "text": "cyclophosphamide",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cyclophosphomide",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân nguyên nhân gây mỏi mắt thường gặp bao gồm : sử dụng màn hình máy tính hoặc video thời gian dài .",
+    "entities": []
+  },
+  {
+    "text": "thêm nước mắt với eyedrops toa trường hợp nhẹ của khô mắt có thể thuyên giảm bởi toa - nước mắt nhân tạo .",
+    "entities": [
+      {
+        "text": "nước mắt nhân tạo",
+        "type": "THUỐC"
+      },
+      {
+        "text": "eyedrops toa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "khô mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số sản phẩm khác cũng có thể được chỉ định để giảm các triệu chứng bệnh trĩ , nhưng tác dụng kém hiệu quả hơn .",
+    "entities": [
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng “b” gặp khoảng 25% với các triệu chứng sốt , ra mồ hôi đêm , sút cân trên 10% trọng lượng cơ thể trong 6 tháng không giải thích được nguyên nhân .",
+    "entities": [
+      {
+        "text": "ra mồ hôi đêm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sút cân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa thông liên nhĩ hiệu quả trong hầu hết trường hợp , không có biện pháp phòng ngừa bệnh thông liên nhĩ .",
+    "entities": [
+      {
+        "text": "thông liên nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán u trung thất x - quang ngực .",
+    "entities": [
+      {
+        "text": "x - quang ngực",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "u trung thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các bệnh lý làm tăng nguy cơ diễn tiến xấu của bệnh động mạch ngoại biên cần được điều trị tích cực bao gồm tăng huyết áp , tăng cholesterol máu và điều trị đái tháo đường .",
+    "entities": [
+      {
+        "text": "bệnh động mạch ngoại biên",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng cholesterol máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khói thuốc lá và các chất gây ô nhiễm không khí có thể gây kích ứng và làm viêm phổ i và mũi .",
+    "entities": [
+      {
+        "text": "viêm phổ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu và triệu chứng của tụ máu nội sọ có thể xảy ra từ ngay trong vài tuần hoặc lâu hơn sau khi một cú va đập vào đầu .",
+    "entities": [
+      {
+        "text": "tụ máu nội sọ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tùy thuộc vào nguyên nhân gây ra sẽ có các phương pháp điều trị , chẳng hạn như áp nén lạnh hoặc ngủ với đầu cao , có thể giúp giảm bớt hoặc loại bỏ đôi mắt sưng húp .",
+    "entities": [
+      {
+        "text": "ngủ với đầu cao",
+        "type": "THUỐC"
+      },
+      {
+        "text": "mắt sưng húp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "áp nén lạnh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , các bệnh lý viêm bàng quang mạn tính , nhiễm trùng tiết niệu tái diễn nhiều lẫn hoặc sử dụng ống thông đường tiểu lâu ngày cũng gây nên ung thư bàng quang .",
+    "entities": [
+      {
+        "text": "viêm bàng quang mạn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng tiết niệu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư bàng quang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán các xét nghiệm và thủ tục được sử dụng để chẩn đoán vấn đề về gan bao gồm : xét nghiệm máu .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "thiểu ối là hiện tượng lượng nước ối ít hơn mức sinh lý bình thường , khi chỉ số ối afi nhỏ hơn 5cm và màng ối còn nguyên vẹn .",
+    "entities": [
+      {
+        "text": "thiểu ối",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa phong hiệu quả để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : cách tốt nhất để ngăn ngừa bệnh hansen là tránh tiếp xúc lâu dài và gần gũi với người bị nhiễm trùng chưa được điều trị .",
+    "entities": [
+      {
+        "text": "bệnh hansen",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phong",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thống kinh thứ phát thống kinh thứ phát xuất hiện ở phụ nữ từ 30 tuổi trở lên cho đến 40 tuổi , sau nhiều năm không xuất hiện thống kinh .",
+    "entities": [
+      {
+        "text": "thống kinh thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cuối cùng có thể bắt đầu thấy một mô hình và có thể thực hiện các bước để ngăn ngừa đau đầu trong tương lai .",
+    "entities": [
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

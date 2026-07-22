@@ -1,0 +1,412 @@
+[
+  {
+    "text": "điều này cho phép kháng thể gắn vào các tế bào ung thư và cung cấp bức xạ trực tiếp đến các tế bào .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục trong hầu hết trường hợp , thuốc kháng sinh sẽ nhanh chóng tiêu diệt các vi khuẩn gây ra nhiễm trùng .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "takayasu đôi khi có thể khó điều trị bởi vì ngay cả khi thuyên giảm xuất hiện , bệnh có thể vẫn tiếp tục hoạt động âm thầm .",
+    "entities": [
+      {
+        "text": "takayasu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét ngiệm máu : nồng độ bnp huyết thanh thường tăng cao trong trường hợp suy tim , dùng để chẩn đoán phân biệt khó thở do suy tim hay do nguyên nhân khác .",
+    "entities": [
+      {
+        "text": "xét ngiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một số bằng chứng cho rằng các thứ dùng làm thuốc thảo mộc và butterbur có thể ngăn chặn hoặc làm giảm mức độ nghiêm trọng đau nửa đầu .",
+    "entities": [
+      {
+        "text": "thuốc thảo mộc",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau nửa đầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "butterbur",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hẹp bao quy đầu gây khó khăn trong việc vệ sinh , tạo điều kiện cho các vi khuẩn , virus phát triển , dẫn đến nguy cơ ung thư dương vật bệnh sùi mào gà đường sinh dục : do virus hpv ( human papilloma ) sùi mào gà thường ở vị trị rãnh quy đầu , bao da và thân dương vật .",
+    "entities": [
+      {
+        "text": "ung thư dương vật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hẹp bao quy đầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh sùi mào gà",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chúng bao gồm các vấn đề tuyến giáp , đường quá ít trong má u ( hạ đường huyết ) , q uá ít hoặc quá nhiều natri hay canxi và suy giảm hấp thu vitamin b - 12. thiếu hụt dinh dưỡng .",
+    "entities": [
+      {
+        "text": "hạ đường huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải block nhĩ thất một số yếu tố làm tăng nguy cơ mắc block nhĩ thất , bao gồm : tiền sử bệnh tim , chẳng hạn như đau tim , suy tim , các vấn đề về van và viêm nội tâm mạc .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "block nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đôi khi chọc dò tủy sống là cần thiết , đặc biệt là nếu đau đầu mới bắt đầu đột ngột và chụp ảnh não xuất hiện bình thường .",
+    "entities": [
+      {
+        "text": "đau đầu mới bắt đầu đột ngột",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chọc dò tủy sống",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp ảnh não",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "khi cần làm phẫu thuật nào đó ở cơ quan sinh dục phải chọn cơ sở y tế chất lượng , uy tín và tin tưởng để tránh gặp phải tổn thương trong quá trình phẫu thuật gây biến chứng tắc ống dẫn tinh .",
+    "entities": [
+      {
+        "text": "tắc ống dẫn tinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đeo kính viễn thị xử lý khắc phục bằng cách chống lại sự giảm độ cong của giác mạc hoặc kích thước nhỏ ( chiều dài ) của mắt .",
+    "entities": [
+      {
+        "text": "đeo kính viễn thị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , ct scan còn có thể hiển thị chính xác xem khối u đã xâm lấn , di căn ra khỏi tuyến tụy hay chưa và tương quan của nó với các mạch máu và cơ quan lân cận .",
+    "entities": [
+      {
+        "text": "ct scan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "u ác tính tùy theo kích thước , độ xâm lấn mà quyết định chỉ cắt thùy nông hay cắt toàn bộ tuyến cùng dây vii .",
+    "entities": [
+      {
+        "text": "cắt toàn bộ tuyến cùng dây vii",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cắt thùy nông",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "viêm thực quản truyền nhiễm là tương đối hiếm và thường xảy ra ở những người có chức năng hệ thống miễn dịch kém , chẳng hạn như những người có hiv / aids hoặc ung thư .",
+    "entities": [
+      {
+        "text": "viêm thực quản truyền nhiễm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "aids",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hiv",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp , hội chứng qt kéo dài là nguyên nhân dẫn tới nhịp tim nhanh bất thường gây ngất đột ngột và đột tử .",
+    "entities": [
+      {
+        "text": "nhịp tim nhanh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phù phù trắng , mềm , ấn lõm , cần phân biệt phù sinh lý gặp ở thai phụ bình thường trong 3 tháng cuối , chỉ phù nhẹ ở chân , phù về chiều , nằm nghỉ kê cao chân sẽ hết .",
+    "entities": [
+      {
+        "text": "phù nhẹ ở chân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phù về chiều",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phù trắng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân được chẩn đoán u thực quản lành tính cần tái khám định kỳ để tầm soát các biến chứng của bệnh , đặc biệt là biến chứng ung thư thực quản .",
+    "entities": [
+      {
+        "text": "u thực quản lành tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hiện nay , bệnh gặp chủ yếu ở những đối tượng chưa được tiêm vắc xin đầy đủ và chưa có miễn dịch với bệnh bạch hầu .",
+    "entities": [
+      {
+        "text": "bệnh bạch hầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cắt lớp vi tính ổ bụng : chụp cắt lớp vi tính có thuốc cản quang giúp đánh giá các tính chất của ung thư thận : vị trí , số lượng , kích thước , tình trạng xâm lấn xung quanh và di căn xa sinh thiết thận hoặc chọc tế bào : lấy một mảnh mô thận nghi ngờ bằng dụng cụ chuyên dụng rồi gửi làm xét nghiệm tế bào hoặc giải phẫu bệnh chụp x quang phổi : phát hiện di căn phổi chụp xạ hình xương : phát hiện di căn xương các biện pháp điều trị bệnh ung thư thận điều trị ung thư thận dựa vào giai đoạn bệnh .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính có thuốc cản quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "cắt lớp vi tính ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp xạ hình xương",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xét nghiệm tế bào",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp x quang phổi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh ung thư thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sinh thiết thận",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "giải phẫu bệnh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chọc tế bào",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "đối với trẻ trai sinh nhẹ cân , sinh non , sinh đôi , cha mẹ cần chú ý kiểm tra trong lúc thay tã và tắm xem bé có bị tinh hoàn ẩn hay không để đưa trẻ đi điều trị sớm .",
+    "entities": [
+      {
+        "text": "tinh hoàn ẩn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chẩn đoán phụ thuộc vào mô tả về các cơn đau , bao gồm đau , vị trí và mức độ nghiêm trọng và các triệu chứng liên quan .",
+    "entities": [
+      {
+        "text": "cơn đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng viêm túi mật có thể dẫn đến một số biến chứng nghiêm trọng , bao gồm : túi mật căng to .",
+    "entities": [
+      {
+        "text": "viêm túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh ung thư da đầu tổng quan bệnh ung thư da đầu ung thư da đầu là một loại ung thư da , bệnh không phổ biến nhưng cũng không phải là hiếm gặp .",
+    "entities": [
+      {
+        "text": "bệnh ung thư da đầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu và triệu chứng của ung thư tuyến tụy thường không xảy ra cho đến khi bệnh nặng .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp , phẫu thuật có thể được sử dụng để loại bỏ một khối u từ vòm họng .",
+    "entities": [
+      {
+        "text": "loại bỏ một khối u từ vòm họng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tùy thuộc vào van hoạt động bất thường , các triệu chứng bệnh van tim thường bao gồm : tức ngực ; ngất xỉu ; mệt mỏi ; nhịp tim không đều ; khó thở ; sưng bàn chân hoặc mắt cá chân .",
+    "entities": [
+      {
+        "text": "nhịp tim không đều",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sưng bàn chân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh van tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mắt cá chân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tức ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngất xỉu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù hầu hết các khối u đại tràng là vô hại , một số trở thành ung thư theo thời gian .",
+    "entities": [
+      {
+        "text": "khối u đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đây có thể xác định viêm sâu hoặc trở ngại vật lý đó là khó phát hiện bằng cách sử dụng nội soi .",
+    "entities": [
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "kiểm soát nhịp ở bệnh nhân suy tim hoặc rối loạn huyết động do cơn rung nhĩ mới xuất hiện , ta cần chỉ định chuyển nhịp ngay về nhịp xoang để cải thiện cung lượng tim .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sinh thiết hạch hoặc tổ chức lympho : tổn thương dạng nang hoặc lan tỏa có các tế bào to hoặc tế bào nhỏ hoặc hỗn hợp to , nhỏ .",
+    "entities": [
+      {
+        "text": "sinh thiết hạch",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  }
+]

@@ -1,0 +1,367 @@
+[
+  {
+    "text": "bệnh nhân có triệu chứng kinh điển của tăng glucose huyết hoặc của cơn tăng glucose huyết cấp kèm mức glucose huyết tương bất kỳ ≥ 200 mg/dl ( hay 11,1 mmol/l ) .",
+    "entities": [
+      {
+        "text": "bệnh nhân có triệu chứng kinh điển của tăng glucose huyết hoặc của cơn tăng glucose huyết cấp kèm mức glucose huyết tương bất kỳ ≥ 200 mg/dl",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "11,1 mmol/l",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ một số yếu tố có thể góp phần vào sự hình thành của khối u và ung thư đại tràng .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi khối u tăng trưởng sẽ dẫn đến hiện tượng các tế bào sản xuất ra hormone của tuyến yên bị hủy hoại , dẫn đến suy tuyến yên .",
+    "entities": [
+      {
+        "text": "suy tuyến yên",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cetuximab ngừng các hành động của một protein được tìm thấy trong nhiều loại tế bào khỏe mạnh , nhưng phổ biến trong một số loại tế bào ung thư cổ họng .",
+    "entities": [
+      {
+        "text": "ung thư cổ họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cetuximab",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguy cơ mắc phải những ai có nguy cơ mắc phải hở van động mạch chủ hở van động mạch chủ có thể xảy ra ở bất cứ ai , bất cứ độ tuổi nào .",
+    "entities": [
+      {
+        "text": "hở van động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "gan bị hư hỏng do xơ gan không thể loại bỏ chất độc ra khỏi máu như gan lành mạnh có thể .",
+    "entities": [
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng hình thức nghiêm trọng nhất liên quan đến kháng sinh gây tiêu chảy là viêm đại tràng giả , có thể dẫn đến biến chứng nguy hiểm tính mạng , bao gồm : mất nước .",
+    "entities": [
+      {
+        "text": "viêm đại tràng giả",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị giãn tĩnh mạch hiệu quả tùy vào thể trạng bệnh nhân và mức độ nghiêm trọng của bệnh mà bác sĩ sẽ kê đơn thuốc và áp dụng những phương pháp điều trị phù hợp .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những người có rối loạn đường huyết có nguy cơ ung thư gan hơn so với những người không có bệnh tiểu đường .",
+    "entities": [
+      {
+        "text": "bệnh tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa ợ nóng là cảm giác nóng ở ngực , sau xương ức .",
+    "entities": [
+      {
+        "text": "ợ nóng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "x - quang được thực hiện sau khi người bệnh uống một chất lỏng phấn bao phủ và lấp đầy niêm mạc bên trong đường tiêu hóa .",
+    "entities": [
+      {
+        "text": "x - quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "chẩn đoán và điều trị sớm sẽ giảm nguy cơ tăng nặng của bệnh viêm nội tâm mạc nhiễm khuẩn và giúp bạn mau chóng hồi phục sức khỏe .",
+    "entities": [
+      {
+        "text": "bệnh viêm nội tâm mạc nhiễm khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng sốt rét điển hình : giai đoạn rét run , giai đoạn sốt nóng ( 40 – 41 0 c ) và giai đoạn vã mồ hôi .",
+    "entities": [
+      {
+        "text": "vã mồ hôi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rét run",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng điều trị kênh nhĩ thất giúp tránh những biến chứng tiềm năng , chẳng hạn như viêm phổi .",
+    "entities": [
+      {
+        "text": "kênh nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cho dù có lợi ích khi điều trị người khỏe mang h . pylori khi không có dấu hiệu hoặc triệu chứng đang gây tranh cãi giữa các bác sĩ .",
+    "entities": []
+  },
+  {
+    "text": "tăng huyết áp gây ra suy tim , giai đoạn đầu gây to thất trái , giai đoạn sau gây tim to toàn bộ .",
+    "entities": [
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chủ đề : nam khoa vô sinh tinh hoàn lạc chỗ tinh hoàn tinh trùng tinh hoàn ẩn xuất tinh quan hệ tình dục",
+    "entities": [
+      {
+        "text": "tinh hoàn lạc chỗ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tinh hoàn ẩn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết các trường hợp hồi phục hoàn toàn và đa phần phẫu thuật thay khớp háng toàn phần đều có kết quả tốt .",
+    "entities": [
+      {
+        "text": "phẫu thuật thay khớp háng toàn phần",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các chất phân hủy của đạm như indol , seatol , piridin là những chất gây ung thư trong thực nghiệm , cũng có thể gây ung thư trên người .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu có vấn đề sắc thái sáng suốt của màu sắc , bác sĩ mắt có thể xác định loại màu sắc tầm nhìn kém và kiểm tra xem nếu có một bệnh về mắt liên quan .",
+    "entities": [
+      {
+        "text": "bệnh về mắt liên quan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đi khám bác sĩ nếu thường xuyên gặp khó khi nuốt hoặc nếu khó nuốt đi kèm với giảm cân , trào ngược hoặc nôn mửa .",
+    "entities": [
+      {
+        "text": "trào ngược",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó nuốt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "giảm cân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nôn mửa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán viêm nội tâm mạc nhiễm khuẩn bác sĩ sẽ khám lâm sàng và nghi ngờ viêm nội tâm mạc nhiễm khuẩn nếu bệnh nhân có các biểu hiện sau : có tiếng thổi mới xuất hiện ở tim .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc nhiễm khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiếng thổi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đau đầu , ngay cả khi trầm trọng thường không phải là kết quả của một bệnh tiềm ẩn , nhưng thỉnh thoảng đau đầu có thể chỉ ra một vấn đề y tế nghiêm trọng tiềm ẩn , chẳng hạn như khối u não hay vỡ nơi mạch máu bị suy yếu ( phình động mạch ) .",
+    "entities": [
+      {
+        "text": "vỡ nơi mạch máu bị suy yếu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thỉnh thoảng đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phình động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tiềm ẩn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khối u não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau khi viêm họng do liên cầu khuẩn thì tỷ lệ mắc bệnh khoảng 3% , điều này chứng tỏ rằng , chỉ có một số người có kháng nguyên tương tự như của liên cầu .",
+    "entities": [
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư thận ở trẻ em thường kết hợp với nhiều dị tật bẩm sinh như dị tật tiết niệu , tật không mống mắt hay phì đại nửa người … ung thư thận có lây không ?",
+    "entities": [
+      {
+        "text": "tật không mống mắt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phì đại nửa người",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "dị tật tiết niệu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "dị tật bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư thận",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số trường hợp thoát vị đùi là bẩm sinh nhưng đến giai đoạn trưởng thành mới bắt đầu biểu hiện triệu chứng và các trường hợp này rất hiếm khi xảy ra .",
+    "entities": [
+      {
+        "text": "thoát vị đùi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phù bạch huyết nguyên phát thường rõ ràng , dựa trên biểu hiện phù các mô mềm toàn thân đặc trưng và các thông tin khác từ bệnh sử và khám lâm sàng .",
+    "entities": [
+      {
+        "text": "phù bạch huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chính vì đặc điểm trên mà u lympho không hodgkin có thể bắt đầu ở bất kỳ bộ phận nào và có thể lan sang bất kỳ cơ quan nào trong cơ thể .",
+    "entities": [
+      {
+        "text": "u lympho không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm trùng đường tiêu hóa : nấm men , vi khuẩn hoặc ký sinh trùng là nguyên nhân chính gây nhiễm trùng đường tiêu hóa , một trong những nguyên nhân gây nhiễm trùng huyết .",
+    "entities": [
+      {
+        "text": "nhiễm trùng đường tiêu hóa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu có các dấu hiệu và triệu chứng gợi ý bệnh crohn , nhưng các xét nghiệm chẩn đoán khác âm tính , bác sĩ có thể thực hiện nội soi nang .",
+    "entities": [
+      {
+        "text": "nội soi nang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

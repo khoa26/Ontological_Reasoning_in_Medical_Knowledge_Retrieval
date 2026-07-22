@@ -1,0 +1,364 @@
+[
+  {
+    "text": "tắc mạch ối là do nước ối , tế bào thai nhi , tóc , lông tơ hoặc các mảnh tổ chức thai lọt vào tuần hoàn máu mẹ thông qua hệ thống tĩnh mạch nơi nhau thai bám gây ra một phản ứng dị ứng .",
+    "entities": [
+      {
+        "text": "tắc mạch ối",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của sốt thấp khớp chế độ sinh hoạt : tuân thủ và tái khám định kỳ tại cơ sở y tế .",
+    "entities": [
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu táo bón không đáp ứng với những thay đổi trong lối sống hoặc điều trị y tế , phẫu thuật cắt bỏ một phần ruột già có thể được khuyến khích .",
+    "entities": [
+      {
+        "text": "phẫu thuật cắt bỏ một phần ruột già",
+        "type": "THUỐC"
+      },
+      {
+        "text": "táo bón",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến huyết khối tĩnh mạch sâu huyết khối tĩnh mạch sâu là do cục máu đông gây ra .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "quai bị có thể lây truyền trong không gian nhỏ , ngay cả khi không tiếp xúc giữa người với người; người có nguy cơ mắc bệnh quai bị : chưa tiêm vaccine phòng ngừa quai bị hoặc những người chưa từng mắc bệnh quai bị ; du lịch đến khu vực lưu hành quai bị hoặc tiếp xúc những người bị quai bị đến từ các khu vực này sẽ làm tăng nguy cơ phơi nhiễm quai bị .",
+    "entities": [
+      {
+        "text": "bệnh quai bị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu có tiền sử gia đình bệnh huntington , có thể nói chuyện với bác sĩ về thử nghiệm di truyền có thể cho biết có hay không mang gen khiếm khuyết .",
+    "entities": [
+      {
+        "text": "thử nghiệm di truyền có thể cho biết có hay không mang gen khiếm khuyết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số nghiên cứu đã chỉ ra rằng đầu tiên thân nhân của người bị xơ gan đường mật có nhiều khả năng có kháng thể trong máu làm tăng nguy cơ bệnh .",
+    "entities": [
+      {
+        "text": "xơ gan đường mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc trong thập kỷ qua , lựa chọn điều trị cơn động kinh thùy trán đã tăng lên .",
+    "entities": [
+      {
+        "text": "cơn động kinh thùy trán",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "điều trị và thuốc",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ba tổn thương phát hiện bởi siêu âm tim là tiêu chuẩn chính trong chẩn đoán viêm nội tâm mạc là sùi , apxe và hở van nhân tạo mới xuất hiện .",
+    "entities": [
+      {
+        "text": "hở van nhân tạo",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "apxe",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sùi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các loại thoái hóa điểm vàng ướt thoái hóa điểm vàng ướt có thể phát triển theo những cách khác nhau : mất thị lực gây ra bởi sự tăng trưởng bất thường mạch máu loại neovascularization choroidal , thoái hóa điểm vàng nước phát triển khi các mạch máu mới bất thường phát triển từ màng mạch - lớp của mạch máu võng mạc , lớp khoác bên ngoài của mắt được gọi là màng cứng - dưới và thành phần điểm vàng của võng mạc .",
+    "entities": [
+      {
+        "text": "thoái hóa điểm vàng ướt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mất thị lực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hướng dẫn hiện nay khuyến cáo điều trị kháng sinh dự phòng chỉ dành cho những người có nguy cơ cao bị biến chứng nghiêm trọng do viêm nội tâm mạc nhiễm khuẩn .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc nhiễm khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hút thuốc lá và uống rượu thuốc lá và uống rượu có liên quan đến ung thư vòm họng ở người tại hoa kỳ và châu âu .",
+    "entities": [
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cấy ghép tủy xương : ghép tủy xương , còn được gọi là ghép tế bào gốc , liên quan đến việc sử dụng hóa trị và xạ trị liều cao để ức chế tủy xương của bạn .",
+    "entities": [
+      {
+        "text": "cấy ghép tủy xương",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ghép tế bào gốc",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "những người có viêm xơ đường mật chính cũng phát triển bệnh viêm ruột , tăng nguy cơ ung thư đại tràng .",
+    "entities": [
+      {
+        "text": "viêm xơ đường mật chính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm soát cân nặng và đường máu tốt trước và trong khi mang thai các biện pháp chẩn đoán bệnh thoát vị não phụ nữ có thai sẽ được cung cấp các xét nghiệm sàng lọc trước sinh để kiểm tra bệnh thoát vị não và các dị tật bẩm sinh khác .",
+    "entities": [
+      {
+        "text": "bệnh thoát vị não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị kháng sinh thường chỉ cần thiết nếu có một nhiễm trùng nặng , tái phát hoặc dai dẳng do vi khuẩn .",
+    "entities": [
+      {
+        "text": "một nhiễm trùng nặng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "điều trị kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , như cơ vòng thực quản dưới bị yếu hoặc đóng mở bất thường thì sẽ dẫn đến trào ngược dạ dày thực quản .",
+    "entities": [
+      {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hạ thân nhiệt thường xảy ra nhất khi thời tiết lạnh hoặc ngâm mình trong nước lạnh , nhưng nó có thể xảy ra ở những vùng khí hậu ấm áp khi người nằm bất động trên bề mặt có nhiệt độ thấp hơn ( ví dụ : khi bị say ) hoặc sau khi ngâm rất lâu trong nước có nhiệt độ thấp ( ví dụ : 20 - 24°c ) .",
+    "entities": [
+      {
+        "text": "hạ thân nhiệt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , vì đau bụng là dấu hiệu của bệnh khác nên các đối tượng mắc phải thường là người lớn , người cao tuổi có chức năng tim , thận suy giảm .",
+    "entities": [
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một người bị rung thất sẽ mất ý thức trong vòng vài giây và nhanh chóng sẽ ngừng thở hoặc mất mạch .",
+    "entities": [
+      {
+        "text": "mất ý thức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ngừng thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mất mạch",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ung thư dương vật giai đoạn đầu : thay đổi màu sắc da ở dương vật đau dương vật âm ỉ hoặc đau nhói , đặc biệt khi cương cứng hoặc va chạm rỉ máu , dịch mùi hôi ở đầu dương vật ( hay gặp sau giao hợp ) .",
+    "entities": [
+      {
+        "text": "dịch mùi hôi ở đầu dương vật",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau dương vật âm ỉ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ung thư dương vật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau nhói",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán hội chứng qt kéo dài hội chứng qt kéo dài có thể được xác định : điện tâm đồ ( ekg ) : phát hiện và ghi lại hoạt động điện của tim; xem xét bệnh sử và khám lâm sàng : bác sĩ có thể hỏi các triệu chứng và loại thuốc đã sử dụng để chẩn đoán và tìm hiểu nguyên nhân gây bệnh; kiểm tra kết quả xét nghiệm di truyền : giúp phát hiện các yếu tố di truyền liên quan hội chứng qt kéo dài .",
+    "entities": [
+      {
+        "text": "hội chứng qt kéo dài",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xét nghiệm di truyền",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ekg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu có tăng nguy cơ ung thư đại tràng , có thể thảo luận về những lợi ích và rủi ro của các phương pháp điều trị phòng ngừa với bác sĩ : aspirin .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "aspirin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục một vài điều chỉnh đơn giản trong cách đọc , làm việc hay lướt internet có thể cung cấp cho mắt được nghỉ ngơi - rất cần thiết .",
+    "entities": [
+      {
+        "text": "điều chỉnh đơn giản trong cách đọc",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu sỏi mật mắc lại ở ống dẫn mật và là nguyên nhân tắc nghẽn , các dấu hiệu và triệu chứng có thể , chẳng hạn như : đau đột ngột và nhanh chóng tăng cường ở phần trên bên phải của bụng .",
+    "entities": [
+      {
+        "text": "đau đột ngột và nhanh chóng tăng cường ở phần trên bên phải của bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nghiến răng : trong một số ít trường hợp , những người bị nhiễm trùng sẽ nghiến răng trong khi ngủ , ngủ không yên giấc .",
+    "entities": [
+      {
+        "text": "nghiến răng trong khi ngủ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngủ không yên giấc",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nhưng nếu nắp thanh quản trở nên sưng do hoặc nhiễm trùng hoặc do bị thương , đường thở hẹp lại và có thể trở nên hoàn toàn bị chặn .",
+    "entities": [
+      {
+        "text": "sưng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các nhà nghiên cứu cũng tin rằng thuốc kháng sinh giúp giảm vi khuẩn có hại trong ruột và ngăn chặn hệ miễn dịch của ruột có thể gây ra triệu chứng .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "siêu âm tim 2d qua thành ngực để đánh giá đầy đủ về cấu trúc tim , đánh giá chức năng tim , đo kích thước tâm nhĩ .",
+    "entities": [
+      {
+        "text": "siêu âm tim 2d qua thành ngực",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh thoát vị rốn ở trẻ em , thoát vị rốn sẽ tự hết sau 1 – 2 tuổi .",
+    "entities": [
+      {
+        "text": "bệnh thoát vị rốn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

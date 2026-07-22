@@ -1,0 +1,351 @@
+[
+  {
+    "text": "chẩn đoán hình ảnh và sinh thiết được chỉ định để chấn đoán chính xác loại khối u mà bạn đang mắc phải .",
+    "entities": [
+      {
+        "text": "chẩn đoán hình ảnh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "đối với viêm cơ tim do nguyên nhân virus , liệu pháp kháng virus không cho thấy sự hữu ích trong điều trị .",
+    "entities": [
+      {
+        "text": "viêm cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tại việt nam , sau ung thư gan , ung thư phổi là căn bệnh nguy hiểm thứ hai ở cả nam và nữ .",
+    "entities": [
+      {
+        "text": "ung thư phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của viêm màng ngoài tim khi viêm màng ngoài tim do vi khuẩn , bạn có thể bị sốt , ớn lạnh , t ăng số lượng bạch cầu .",
+    "entities": [
+      {
+        "text": "viêm màng ngoài tim do vi khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ăng số lượng bạch cầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ớn lạnh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tần số vô tuyến hoặc phương pháp áp lạnh cũng có thể được sử dụng để tạo ra những vết sẹo , và có một số biến thể của kỹ thuật phẫu thuật .",
+    "entities": [
+      {
+        "text": "phương pháp áp lạnh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu có đột biến di truyền cụ thể , có nguy cơ lớn hơn đáng kể của việc phát triển một số loại bệnh mất trí nhớ .",
+    "entities": [
+      {
+        "text": "bệnh mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chụp cộng hưởng từ mri : đánh giá sự lan rộng của tổn thương trong xương , trong tủy xương , mô mềm , xâm lấn thần kinh , mạch máu chụp xạ hình xương : xác định giới hạn tổn thương , theo dõi tiến triển và đánh giá kết quả điều trị chụp pet/ct : phát hiện và theo dõi sarcoma phần mềm , sarcoma xương tái phát , di căn xa .",
+    "entities": [
+      {
+        "text": "chụp cộng hưởng từ mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp xạ hình xương",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp pet/ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán sốt thấp khớp kiểm tra vi khuẩn liên cầu nhóm a thông qua mẫu dịch tiết ở họng , có thể sử dụng xét nghiệm liên cầu khuẩn hoặc cấy dịch cổ họng .",
+    "entities": [
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị không dùng thuốc giảm tối thiểu tiếp xúc với lạnh , hạn chế ra ngoài trời vào mùa đông .",
+    "entities": [
+      {
+        "text": "hạn chế ra ngoài trời vào mùa đông",
+        "type": "THUỐC"
+      },
+      {
+        "text": "giảm tối thiểu tiếp xúc với lạnh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh ung thư tinh hoàn cách tốt nhất để phòng ngừa và phát hiện sớm ung thư tinh hoàn là tự kiểm tra .",
+    "entities": [
+      {
+        "text": "bệnh ung thư tinh hoàn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số đối tượng nguy cơ của ung thư thận : nam giới hút thuốc lá nhiều năm người béo phì người làm việc trong môi trường độc hại hóa chất công nghiệp , kim loại nặng .",
+    "entities": [
+      {
+        "text": "ung thư thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "béo phì",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ăn quá nhiều muối : khi ăn quá nhiều muối , cơ thể sẽ bị giữ nước nhiều dẫn đến tăng huyết áp .",
+    "entities": [
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hiện tại , tms được sử dụng phổ biến hơn ở châu âu và trong một số thử nghiệm ở mỹ người ta vẫn phải xác định bệnh nhân nào có thể hưởng lợi từ các phương pháp điều trị như vậy .",
+    "entities": [
+      {
+        "text": "tms",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật : chỉ định với bệnh ở giai đoạn sớm , còn khu trú ở khoang miệng , chưa di căn vùng và di căn xa .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tại mỹ , năm 2009 ghi nhận 10.530 ca mắc mới và 1900 bệnh nhân tử vong do ung thư lưỡi ( theo hiệp hội ung thư hoa kỳ ) .",
+    "entities": [
+      {
+        "text": "ung thư lưỡi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số nghiên cứu đã phát hiện ra rằng chế độ ăn ít rau và nhiều chất béo động vật có thể làm tăng nguy cơ ung thư tuyến nước bọt .",
+    "entities": [
+      {
+        "text": "ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị sốt thấp khớp hiệu quả điều trị sốt thấp đầu tiên tập trung vào việc loại bỏ nhiễm trùng do vi khuẩn .",
+    "entities": [
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cận lâm sàng các xét nghiệm phục vụ chẩn đoán : công thức máu ; đông máu toàn bộ , xét nghiệm khí trong máu .",
+    "entities": [
+      {
+        "text": "xét nghiệm khí trong máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu bệnh nhân có tình trạng trào ngược dạ dày - thực quản nhiều cần điều trị trước khi mở cơ thắt để tránh hít sặc phải thức ăn .",
+    "entities": [
+      {
+        "text": "trào ngược dạ dày - thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp khắc phục hậu quả có thể tại nhà , chẳng hạn như gạc lạnh , có thể giúp cải thiện sự xuất hiện của quầng thâm dưới mắt .",
+    "entities": [
+      {
+        "text": "xuất hiện của quầng thâm dưới mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "gạc lạnh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , ở đa số bệnh nhân thường có các triệu chứng ngất xỉu hoặc thậm chí là đột tử do các cơn nhịp tim nhanh thất đa hình hay rung thất .",
+    "entities": [
+      {
+        "text": "cơn nhịp tim nhanh thất",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ngất xỉu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục tùy thuộc vào loại viêm thực quản có , có thể làm giảm bớt triệu chứng hoặc tránh các vấn đề định kỳ bằng cách làm theo các bước sau : tránh các thực phẩm gây dị ứng .",
+    "entities": [
+      {
+        "text": "viêm thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số thảo dược bổ sung , chẳng hạn như cây nham lê , được quảng cáo như là biện pháp khắc phục bệnh tăng nhãn áp , nhưng chưa được chứng minh hiệu quả trong việc ngăn ngừa hoặc điều trị bệnh tăng nhãn áp .",
+    "entities": [
+      {
+        "text": "bệnh tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những người trẻ bị bệnh huntington có thể có các dấu hiệu và triệu chứng giống bệnh parkinson cứng cơ bắp .",
+    "entities": [
+      {
+        "text": "bệnh parkinson cứng cơ bắp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số thuốc làm loãng máu như warfarin và aspirin , có thể làm tăng nguy cơ xuất huyết mạch máu trong mắt .",
+    "entities": [
+      {
+        "text": "xuất huyết mạch máu trong mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đau cục bộ có nhiều khả năng là dấu hiệu của vấn đề ở một cơ quan , chẳng hạn như ruột thừa , túi mật hoặc dạ dày ( vết loét hở trên niêm mạc bên trong dạ dày ) .",
+    "entities": [
+      {
+        "text": "đau cục bộ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "và uống bổ sung magiê sulfat có thể làm giảm tần suất đau đầu ở một số người , mặc dù nghiên cứu không phải tất cả đồng ý . magnesium tĩnh mạch có vẻ như để giúp một số người nhức đầu cấp tính , đặc biệt là những người bị thiếu hụt magiê .",
+    "entities": [
+      {
+        "text": "uống bổ sung magiê sulfat",
+        "type": "THUỐC"
+      },
+      {
+        "text": "magnesium tĩnh mạch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhức đầu cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sốt thấp khớp có thể dẫn đến đau khớp và viêm , phát ban và thậm chí cả thiệt hại cho van tim .",
+    "entities": [
+      {
+        "text": "thiệt hại cho van tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau khớp và viêm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phát ban",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ánh sáng và độ chói sáng quá nhiều có thể làm cho nó khó nhìn thấy các đối tượng trên màn hình và căng mắt .",
+    "entities": []
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của viêm nội tâm mạc nhiễm khuẩn chế độ sinh hoạt : tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc nhiễm khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

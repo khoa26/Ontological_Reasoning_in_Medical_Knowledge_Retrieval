@@ -1,0 +1,359 @@
+[
+  {
+    "text": "yếu tố làm tăng nguy cơ phù bạch huyết các yếu tố có thể làm tăng nguy cơ phát triển phù bạch huyết bao gồm : tuổi cao; thừa cân hoặc béo phì; thấp khớp hoặc viêm khớp vảy nến .",
+    "entities": [
+      {
+        "text": "viêm khớp vảy nến",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phù bạch huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mờ mắt , ví dụ , có thể đề nghị cần thay đổi đơn thuốc , hoặc có thể là một dấu hiệu của vấn đề khác .",
+    "entities": [
+      {
+        "text": "mờ mắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu làm việc xung quanh các hóa chất này , tầm nhìn màu sắc được đánh giá bởi vì sự mất mát của một số tầm nhìn màu sắc là có thể .",
+    "entities": [
+      {
+        "text": "sự mất mát của một số tầm nhìn màu sắc",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ung thư da đầu xếp theo độ mô học bao gồm : gx : không xếp được độ mô học g1 : ung thư biểu mô biệt hóa cao g2 : ung thư biểu mô biệt hóa vừa g3 : ung thư biểu mô biệt hóa thấp g4 : ung thư biểu mô không biệt hóa đối tượng nguy cơ bệnh ung thư da đầu công nhân làm việc ngoài trời tiếp xúc trực tiếp với ánh nắng mặt trời .",
+    "entities": [
+      {
+        "text": "ung thư biểu mô biệt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ung thư da đầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mô học",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "trong phẫu thuật cấy ghép gan , gan bệnh bị loại bỏ và thay thế bằng một lá gan khỏe mạnh từ các nhà tài trợ .",
+    "entities": [
+      {
+        "text": "phẫu thuật cấy ghép gan",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bất kỳ ung thư cũng có thể lan truyền đến não , nhưng các loại phổ biến nhất bao gồm : ung thư vú .",
+    "entities": [
+      {
+        "text": "ung thư vú",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : nhận diện dấu hiệu trẻ bị tắc ruột viêm ruột hoại tử dễ xảy ra ở trẻ sơ sinh non tháng sự nguy hiểm của viêm ruột hoại tử chủ đề : chụp ct siêu âm viêm ruột tắc ruột viêm túi thừa đại tràng viêm túi thừa trẻ sơ sinh đại tràng tiêu hóa sơ sinh chụp x - quang chụp cắt lớp vi tính",
+    "entities": [
+      {
+        "text": "viêm túi thừa trẻ sơ sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm túi thừa đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm ruột tắc ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm ruột hoại tử",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chụp x - quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "thiếu máu cục bộ đường ruột có nhiều nguyên nhân tiềm năng , bao gồm tắc nghẽn ở động mạch bị gây ra bởi cục máu đông , hoặc thu hẹp động mạch do sự tích tụ các mảng bám , như cholesterol .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ cũng có thể sử dụng x quang để chẩn đoán các vấn đề khác hơn là rung nhĩ có thể giải thích các dấu hiệu và triệu chứng .",
+    "entities": [
+      {
+        "text": "sử dụng x quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu trải qua điều trị không phẫu thuật để loại bỏ thực quản , cơ hội barrett thực quản có thể tái diễn .",
+    "entities": [
+      {
+        "text": "barrett thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc những gì nhận được cho các phương pháp điều trị ung thư thực quản dựa vào loại tế bào có liên quan đến bệnh ung thư , ung thư với xâm lấn , sức khỏe tổng thể và sở thích điều trị .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số loại thuốc hóa học giúp làm cho các tế bào ung thư dễ dàng bị tiêu diệt bởi bức xạ .",
+    "entities": [
+      {
+        "text": "thuốc hóa học",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nitroglycerin : sử dụng nitroglycerin dưới lưỡi mỗi 5 phút x 3 lần cho đau ngực liên tục do thiếu máu cơ tim và sau đó nên dùng nitroglycerin đường tĩnh mạch nếu bệnh nhân có biểu hiện thiếu máu cơ tim kéo dài , tăng huyết áp , suy tim .",
+    "entities": [
+      {
+        "text": "thiếu máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nitroglycerin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh thiếu men g6pd đối tượng nguy cơ dễ mắc bệnh thiếu men g6pd bao gồm : giới tính nam chủng tộc : người châu á , châu phi , địa trung hải , đặc biệt là người mỹ gốc phi .",
+    "entities": [
+      {
+        "text": "bệnh thiếu men g6pd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm như chụp x - quang ngực , điện tâm đồ ( ecg ) và siêu âm tim ( một thủ tục hình ảnh sử dụng sóng âm tần số cao để tạo ra hình ảnh chuyển động của các van và buồng tim ) sẽ được sử dụng để đánh giá những thay đổi trong tim và mạch máu , và phát hiện các vấn đề về nhịp tim .",
+    "entities": [
+      {
+        "text": "chụp x - quang ngực",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tổn thương hệ thống ngoại tháp gây biểu hiện múa giật , múa vờn là những ảnh hưởng đến não , nhưng các tổn thương trên não đa số lại hồi phục được và không để lại di chứng .",
+    "entities": [
+      {
+        "text": "múa giật",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "múa vờn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "quá trình thụ tinh trong ống nghiệm là việc cấy trực tiếp trứng đã được thụ tinh vào tử cung , đồng nghĩa với việc ống dẫn trứng không còn vai trò trong việc thụ thai .",
+    "entities": [
+      {
+        "text": "thụ tinh trong ống nghiệm",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đối với động mạch chủ đi lên , do nguy cơ biến chứng đe dọa tính mạng nên cần phẫu thuật hở để sửa chữa và thay thế , một số trường hợp nhất định cũng có thể dùng phương pháp nội mạch .",
+    "entities": [
+      {
+        "text": "nội mạch",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "cơn đau tương tự như cơn đau thắt ngực nhưng thường nghiêm trọng hơn và kéo dài; thường xuyên hơn kèm theo khó thở , buồn nôn và nôn ; và thuyên giảm ít hoặc chỉ tạm thời bằng cách nghỉ ngơi hoặc nitroglycerin .",
+    "entities": [
+      {
+        "text": "cơn đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nitroglycerin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "teo dây thần kinh thị không có thống kê về tỷ lệ mắc phải theo giới , có thể gặp ở mọi lứa tuổi , trong đó có cả teo dây thần kinh thị giác bẩm sinh .",
+    "entities": [
+      {
+        "text": "teo dây thần kinh thị giác bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mắt bệnh không phổ biến là nguyên nhân của tầm nhìn màu sắc nghèo như do di truyền , nhưng phương pháp điều trị là làm chậm lại hoặc đảo ngược quá trình của một bệnh về mắt có thể giúp tầm nhìn màu .",
+    "entities": []
+  },
+  {
+    "text": "ví dụ , thời kỳ đau xảy ra theo mùa , chẳng hạn như mỗi mùa xuân hay mùa thu hàng năm .",
+    "entities": []
+  },
+  {
+    "text": "tiết dịch quá hoặc mắt khô và c ác mảnh vỡ khác đổ từ mí mắt , chẳng hạn như bong mô liên kết với gàu , có thể tích tụ trong nước mắt - , dầu và chất nhầy trong nước mắt .",
+    "entities": []
+  },
+  {
+    "text": "trị liệu ngôn ngữ bệnh huntington có thể làm giảm tiếng nói , ảnh hưởng đến khả năng thể hiện những suy nghĩ phức tạp .",
+    "entities": [
+      {
+        "text": "trị liệu ngôn ngữ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "alzheimer thường tiến triển chậm , hơn bảy đến 10 năm gây ra sự suy giảm dần khả năng nhận thức .",
+    "entities": [
+      {
+        "text": "suy giảm dần khả năng nhận thức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "alzheimer",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiều nghiên cứu cho rằng quá trình mang thai hoặc sử dụng thuốc tránh thai có liên quan đến sự hình thành u máu trên gan .",
+    "entities": [
+      {
+        "text": "u máu trên gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đường tiêu hóa là một hệ sinh thái phức tạp với hàng triệu vi sinh vật , bao gồm hàng trăm loài vi khuẩn .",
+    "entities": []
+  },
+  {
+    "text": "nhiều khối u không có triệu chứng , nếu không được phát hiện và điều trị kịp thời có thể gặp những biến chứng có nguy cơ gây tử vong .",
+    "entities": []
+  },
+  {
+    "text": "sự khó chịu của hội chứng ruột kích thích có thể làm cho hoạt động tình dục không hấp dẫn hoặc thậm chí đau đớn .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "- nếu dị ứng đang đóng góp viêm xoang , các mũi chích ngừa dị ứng ( miễn dịch liệu pháp ) giúp giảm thiểu các phản ứng của cơ thể với dị nguyên cụ thể có thể giúp điều trị các nguyên nhân .",
+    "entities": [
+      {
+        "text": "mũi chích ngừa dị ứng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "miễn dịch liệu pháp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm xoang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

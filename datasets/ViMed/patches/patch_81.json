@@ -1,0 +1,368 @@
+[
+  {
+    "text": "các chấn thương là nguyên nhân gây tụ máu trong não thường chịu trách nhiệm về những gì được gọi là chấn thương chất trắng .",
+    "entities": []
+  },
+  {
+    "text": "phát hiện xác nhận của hội chứng horner bao gồm một mí mắt rũ xuống , giảm kích thước con ngươi mắt và giảm tiết mồ hôi ở bên mặt bị ảnh hưởng .",
+    "entities": [
+      {
+        "text": "giảm tiết mồ hôi ở bên mặt bị ảnh hưởng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "giảm kích thước con ngươi mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hội chứng horner",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mí mắt rũ xuống",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của hẹp van hai lá các triệu chứng của hẹp van hai lá ít tương quan với mức độ bệnh vì bệnh thường tiến triển chậm và bệnh nhân giảm hoạt động một cách vô thức .",
+    "entities": [
+      {
+        "text": "hẹp van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , các chuyên gia khẳng định rằng khi thực hiện các điều này sẽ giúp giảm nguy cơ mắc các bệnh ung thư khác , phổ biến hơn , cũng như nhiều bệnh khác .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thủ tục này , được gọi là endocinch endoluminal gastroplication , sử dụng dụng cụ giống như máy may thu nhỏ .",
+    "entities": [
+      {
+        "text": "endocinch endoluminal gastroplication",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu các nhà khoa học tìm ra cách để chặn sự tương tác giữa các protein , chúng còn có thể có thể phát triển liệu pháp thuốc nhắm mục tiêu .",
+    "entities": [
+      {
+        "text": "liệu pháp thuốc nhắm mục tiêu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải sốt thấp khớp một số yếu tố làm tăng nguy cơ mắc sốt thấp khớp , bao gồm : sốt thấp khớp xảy ra thường xuyên hơn ở những nước kém phát triển , những nơi có nguồn lực y tế hạn chế .",
+    "entities": [
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thiểu sản men răng do nhiễm trùng hoặc chấn thương trong quá trình hình thành răng , răng sẽ bị đổi sang màu nâu nhẹ , xuất hiện các vệt lõm trên thân răng .",
+    "entities": [
+      {
+        "text": "thiểu sản men răng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể làm việc với một bệnh lý học ngôn ngữ để tìm hiểu nói chuyện mà không cần thanh quản .",
+    "entities": [
+      {
+        "text": "bệnh lý học ngôn ngữ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ở trẻ sơ sinh , hãy nhớ rằng có dấu hiệu đau bụng có thể bao gồm những cơn kéo đầu gối vào ngực và khóc .",
+    "entities": [
+      {
+        "text": "cơn kéo đầu gối vào ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khóc",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "có thể hib trong mũi và cổ họng mà không bị bệnh , mặc dù vẫn có khả năng lây lan vi khuẩn cho người khác .",
+    "entities": []
+  },
+  {
+    "text": "ở những người bị thiểu sản men răng , men răng thường hình thành không đủ độ dày , men răng mềm , mỏng , dễ vỡ làm lộ lớp ngà răng bên dưới .",
+    "entities": [
+      {
+        "text": "thiểu sản men răng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh viêm mạch có thể phải điều trị trong thời gian dài , do đó bệnh nhân cần phải kiên nhẫn và không nên tự ý sử dụng thuốc hay ngưng thuốc trong thời gian điều trị .",
+    "entities": [
+      {
+        "text": "bệnh viêm mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hở van ba lá là tình trạng van ba lá ở tim đóng không chặt làm cho máu chảy ngược về tâm nhĩ .",
+    "entities": [
+      {
+        "text": "hở van ba lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm để xác định các tác nhân lây nhiễm trong chất lỏng , có thể có lợi nếu bị nhiễm trùng đã không phản ứng tốt với phương pháp điều trị trước đó .",
+    "entities": [
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh tắc vòi trứng có nhiều nguyên nhân gây ra tắc vòi trứng : đa số là do các tác nhân lây truyền qua đường tình dục : chlamydia và lậu là thường gặp nhất .",
+    "entities": [
+      {
+        "text": "bệnh tắc vòi trứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số trường hợp trẻ em mắc bệnh tim bẩm sinh ebstein ở mức độ nặng , việc phẫu thuật được tiến hành nhiều lần kết hợp với dùng thuốc điều trị cho tới khi trẻ ổn định .",
+    "entities": [
+      {
+        "text": "bệnh tim bẩm sinh ebstein",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "mọi đối tượng đều có nguy cơ bị hạ thân nhiệt , đặc biệt là trẻ em , người cao tuổi và những người đang mắc các bệnh lý .",
+    "entities": [
+      {
+        "text": "hạ thân nhiệt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nghiệm pháp gắng sức và holter theo dõi 24 giờ có thể hữu ích đối với bệnh nhân có nguy cơ cao .",
+    "entities": [
+      {
+        "text": "holter theo dõi 24 giờ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nghiệm pháp gắng sức",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "khó thở , đau tức ngực , tim đập nhanh quá và đôi khi lại chậm quá người bệnh có những biểu hiện vung tay vung chân một cách vô thức như múa vờn , múa giật .",
+    "entities": [
+      {
+        "text": "vung tay vung chân một cách vô thức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tim đập nhanh quá",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau tức ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "múa giật",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "múa vờn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chế độ dinh dưỡng : một chế độ ăn uống cân bằng và giàu chất dinh dưỡng là rất quan trọng để ngăn ngừa huyết khối tĩnh mạch sâu và giúp tránh các biến chứng đe dọa tính mạng .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chế độ dinh dưỡng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh u lympho không hodgkin tổng quan bệnh u lympho không hodgkin u lympho hodgkin bệnh học là bệnh u lympho ác tính , bao gồm cả u lympho hodgkin và u lympho không hodgkin , là nhóm bệnh ung thư đứng hàng thứ ba và thường gặp của ung thư trên trẻ em , sau bạch cầu cấp dòng lympho và ung thư não .",
+    "entities": [
+      {
+        "text": "bệnh u lympho không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bạch cầu cấp dòng lympho",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh u lympho ác tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u lympho hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "steroids và các loại thuốc chống viêm khác có thể được chỉ định dạng thuốc đạn , thuốc viên hoặc dạng thuốc xổ .",
+    "entities": [
+      {
+        "text": "thuốc chống viêm",
+        "type": "THUỐC"
+      },
+      {
+        "text": "steroids",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây giảm lưu lượng máu đến ruột già không phải luôn luôn rõ ràng , nhưng một số vấn đề có thể làm cho dễ bị thiếu máu cục bộ đại tràng : sự tích tụ cholesterol trên thành của động mạch ( xơ vữa động mạch ) .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mỗi đứa con của một bậc cha mẹ bị ảnh hưởng có 50 - 50 cơ hội thừa hưởng gen khiếm khuyết .",
+    "entities": []
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của cơn đau thắt ngực những triệu chứng phổ biến nhất của cơn đau thắt ngực bao gồm : cảm giác đau đè nén , nặng ngực ngay dưới xương ức , cơn đau có thể lan ra tay trái , bả vai , lên cổ , lên hàm hoặc lan ra sau lưng; bệnh nhân có thể cảm giác mệt mỏi , yếu người và khó thở ; cảm giác choáng váng , chóng mặt , buồn nôn có thể xảy ra .",
+    "entities": [
+      {
+        "text": "cơn đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "choáng váng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đè nén",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nặng ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "yếu người",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nôn là tình trạng rối loạn đường tiêu hóa , do các bệnh lý hoặc có thể do các thuốc gây nên .",
+    "entities": [
+      {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tất cả các loại thuốc và thực phẩm ăn vào trong thời gian gần đây cần được xác định chắc chắn; một số chất có thể không gây độc cho đến vài ngày sau khi uống/ăn vào ( ví dụ : acetaminophen , một số loại nấm ) .",
+    "entities": []
+  },
+  {
+    "text": "bạn có thể bị tăng nguy cơ mắc một số loại rối loạn nhịp tim nếu cha mẹ hoặc người thân khác bị rối loạn nhịp tim .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nhưng phẫu thuật vẫn được chỉ định khi rối loạn nhịp tim không thể cắt bỏ hoặc khi có chỉ định khác cần phẫu thuật tim , thường gặp nhất khi bệnh nhân rung nhĩ cần thay hoặc sửa van hoặc khi bệnh nhân nhịp nhanh thất cần tái thông mạch hoặc cắt bỏ túi phình thất trái .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

@@ -1,0 +1,379 @@
+[
+  {
+    "text": "cần nghĩ tới hội chứng brugada khi bệnh nhân ngất hay ngừng tim không rõ nguyên nhân và tiền sử gia đình có người đã từng bị như vậy .",
+    "entities": [
+      {
+        "text": "hội chứng brugada",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ngất",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tiếp xúc với hóa chất gây ung thư một số hóa chất gây ung thư da trong trường hợp da tiếp xúc lâu với nhựa đường , nhựa than đá , dầu nhờn , thuốc trừ sâu diệt cỏ… trong đó arsen là loại hay gặp nhất vì được sử dụng nhiều trong công nghiệp , y tế và có nồng độ cao trong nước uống ở một số nước .",
+    "entities": [
+      {
+        "text": "ung thư da",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của hội chứng marfan chế độ sinh hoạt : tránh các môn thể thao vận động mạnh nếu có nhiều nguy cơ bị bóc tách hoặc vỡ động mạch chủ .",
+    "entities": [
+      {
+        "text": "hội chứng marfan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi người bệnh nói chuyện , ho , hắt hơi , khạc nhổ , virus trong các hạt nước bọt hoặc dịch mũi họng , .",
+    "entities": []
+  },
+  {
+    "text": "axit béo omega - 3 , được tìm thấy trong cá , có thể làm giảm nguy cơ thoái hóa điểm vàng khô .",
+    "entities": [
+      {
+        "text": "thoái hóa điểm vàng khô",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "axit béo omega - 3",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sốt cao hơn 101 f ( 38,3 độ c ) ở trẻ lớn hơn , hoặc sốt kéo dài lâu hơn 48 giờ .",
+    "entities": [
+      {
+        "text": "sốt kéo dài lâu hơn 48 giờ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt cao hơn 101 f",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thường xuyên hơn hoặc sàng lọc sớm hơn có thể được đề nghị nếu đang tăng nguy cơ ung thư đại tràng .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chấn thương đầu một lần có thể gây ra chứng mất trí posttraumatic giống như chứng mất trí pugilistica , nhưng có thể bao gồm các vấn đề về trí nhớ dài hạn .",
+    "entities": [
+      {
+        "text": "các vấn đề về trí nhớ dài hạn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chứng mất trí posttraumatic",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chứng mất trí pugilistica",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau khi thực hiện thay khớp háng toàn phần , người bệnh có thể về nhà sau 5 đến 10 ngày , dùng nạng hoặc khung tập đi trong vài tuần .",
+    "entities": [
+      {
+        "text": "thay khớp háng toàn phần",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "có một sự tương quan mạnh mẽ giữa một chế độ ăn uống thực phẩm hun khói , muối và bệnh ung thư dạ dày .",
+    "entities": [
+      {
+        "text": "bệnh ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc vì chữa bệnh đặc hiệu xơ gan đường mật không tồn tại , xử lý tập trung vào việc làm chậm tiến triển của bệnh , giảm triệu chứng và ngăn ngừa biến chứng .",
+    "entities": [
+      {
+        "text": "xơ gan đường mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc bệnh t hông liên nhĩ thông liên nhĩ lớn , nếu không điều trị sớm có thể gặp các biến chứng gồm : hội chứng eisenmenger : bệnh nhân bị tím mô i , ngón tay và ngón chân .",
+    "entities": [
+      {
+        "text": "hội chứng eisenmenger",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhân bị tím mô",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hông liên nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đây là một khối u lành tính , tồn tại trong suốt những năm đầu tiên và có thể thoái triển dần trong thời gian dài , hiếm khi thấy u máu ác tính .",
+    "entities": [
+      {
+        "text": "u máu ác tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chẩn đoán dựa vào dấu hiệu trên ecg : dấu hiệu phân ly nhĩ thất ( av ) , nhịp bắt được thất hay nhịp phối hợp , qrs đồng hướng dương hay đồng hướng âm ở những chuyển đạo trước tim với sóng t đảo ngược , trục điện tim vô định .",
+    "entities": [
+      {
+        "text": "ecg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nhiều loại t huốc trị liệu nhắm mục tiêu là rất mới và vẫn còn trải qua nghiên cứu trong các thử nghiệm lâm sàng .",
+    "entities": [
+      {
+        "text": "huốc trị liệu nhắm mục tiêu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hiện thuốc chống kết tập tiểu cầu đang được khuyến cáo để ngăn sự hình thành huyết khối và statin để điều trị rối loạn lipid máu .",
+    "entities": [
+      {
+        "text": "thuốc chống kết tập tiểu cầu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "statin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "chảy máu có thể xảy ra như mất máu chậm dẫn đến thiếu máu hoặc mất máu nặng có thể phải nhập viện hoặc truyền máu .",
+    "entities": [
+      {
+        "text": "truyền máu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thiếu máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu thuốc chống trầm cảm không hiệu quả , có thể có kết quả tốt hơn từ tư vấn , nếu căng thẳng có xu hướng làm trầm trọng thêm các triệu chứng .",
+    "entities": [
+      {
+        "text": "trầm cảm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh trĩ nếu là trĩ ngoại thì bác sĩ có thể nhìn ở bề ngoài của hậu môn , tuy nhiên , để chẩn đoán trĩ nội thì phải sử dụng xét nghiệm nội soi hậu môn và trực tràng .",
+    "entities": [
+      {
+        "text": "nội soi hậu môn và trực tràng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "trĩ ngoại",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "trĩ nội",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , có một số yếu tố có thể góp phần dẫn đến sự xuất hiện tiền sản giật bao gồm : thai phụ bị rối loạn máu khó đông , có tiền sử mắc bệnh đái tháo đường , bệnh thận , hoặc bệnh tự miễn như lupus ban đỏ trước đó có người thân trong nhà như bà , mẹ , cô , dì hay chị em ruột , .",
+    "entities": [
+      {
+        "text": "bệnh đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiền sản giật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lupus ban đỏ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu nhiễm trùng lan rộng đến ổ mắt , nó có thể gây ra giảm thị lực hoặc thậm chí bị mù .",
+    "entities": [
+      {
+        "text": "giảm thị lực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bị mù",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù nguy cơ ung thư thực quản là nhỏ , theo dõi và điều trị barrett thực quản tập trung vào kiểm tra định kỳ để tìm các tế bào tiền ung thư thực quản .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "barrett thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng của dị tật tim bẩm sinh thường không đe dọa tính mạng ngay lập tức bao gồm : dễ bị hụt hơi , mệt mỏi khi tập thể dục hoặc hoạt động .",
+    "entities": [
+      {
+        "text": "dị tật tim bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "dễ bị hụt hơi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "khi xuất hiện hội chứng qt kéo dài , cơ tim cần nhiều thời gian hơn để nạp điện giữa các nhịp đập dẫn đến xáo trộn điện ở tim và thường nhìn thấy trên điện tâm đồ ( ecg ) qua khoảng thời gian kéo dài giữa sóng q và t . hội chứng qt kéo dài có thể dẫn đến rối loạn nhịp tim nghiêm trọng và gây tử vong .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vớ áp lực y khoa nếu bạn có nguy cơ cao bị huyết khối tĩnh mạch sâu , thì việc mang vớ áp lực y khoa có thể ngăn ngừa sưng tấy và có thể giảm nguy cơ hình thành cục máu đông .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sưng tấy",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù không phải luôn luôn chắc chắn bệnh loãng xương có thể phòng ngừa trong trường hợp xơ gan mật , điều trị bằng bisphosphonates có thể giúp tăng mật độ khoáng của xương .",
+    "entities": [
+      {
+        "text": "bệnh loãng xương",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bisphosphonates",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xơ gan mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "do các vi khuẩn dung nạp kém với kháng sinh do chúng ở trong các sùi , trong các màng sinh học của cơ thể , trong viêm nội tâm mạc van nhân tạo , cho nên phải kéo dài thời gian điều trị ( 6 tuần ) để diệt hết vi khuẩn ở van tim .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sùi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đau họng và các triệu chứng giống như bệnh cúm đôi khi xuất hiện sớm sau khi một người bị nhiễm hiv .",
+    "entities": [
+      {
+        "text": "nhiễm hiv",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau họng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh cúm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đặt catheter tim phải và trái : xác định xem quá trình bệnh có thể đảo ngược hoặc có thể điều trị bằng liệu pháp thông thường hơn hay không .",
+    "entities": [
+      {
+        "text": "đặt catheter tim phải và trái",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến bệnh bạch hầu bạch hầu là bệnh lý nhiễm trùng - nhiễm độc gây ra bởi vi khuẩn corynebacterium diphtheriae .",
+    "entities": [
+      {
+        "text": "bệnh bạch hầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhiễm độc",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

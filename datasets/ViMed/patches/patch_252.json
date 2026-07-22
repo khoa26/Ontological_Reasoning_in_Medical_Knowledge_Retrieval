@@ -1,0 +1,415 @@
+[
+  {
+    "text": "phòng ngừa bệnh thủy đậu bệnh có thể lây lan nhanh chóng và trở thành dịch nên việc phòng ngừa thủy đậu là rất quan trọng .",
+    "entities": [
+      {
+        "text": "bệnh thủy đậu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phình động mạch não thường được chia thành ba loại : hình túi ( saccular ) ; hình thoi ( fusiform ) ; phình tách ( dissecting ) .",
+    "entities": [
+      {
+        "text": "phình động mạch não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc bệnh đau tim các biến chứng thường liên quan đến tổn thương tim của bạn trong cơn đau tim , có thể dẫn đến : nhịp tim bất thường ( loạn nhịp tim ) , một số có thể nghiêm trọng và có thể dẫn đến tử vong .",
+    "entities": [
+      {
+        "text": "nhịp tim bất thường",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , một số yếu tố làm tăng nguy cơ mắc dị tật tim ở thai nhi như người mẹ khi mang thai mắc các bệnh như tiểu đường , cúm hoặc sử dụng một số loại thuốc trong giai đoạn thai kỳ .",
+    "entities": [
+      {
+        "text": "tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cúm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chú trọng giảm muối trong khẩu phần ăn : duy trì hàm lượng natri đến 1500mg/ngày để không bị bệnh tăng huyết áp .",
+    "entities": [
+      {
+        "text": "bệnh tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu hoặc ai đó đột nhiên có khó thở và nuốt , hãy gọi số khẩn cấp địa phương hoặc chuyển đến khoa cấp cứu bệnh viện gần nhất .",
+    "entities": [
+      {
+        "text": "đột nhiên có khó thở và nuốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu các lỗ này quá rộng thì một phần tạng trong ổ bụng có thể chui qua tạo thành các ổ thoát vị triệu chứng bệnh thoát vị bẹn người lớn khi mắc thoát vị bẹn , người bệnh thường có cảm giác tức nặng vùng bẹn bìu , một bên bìu to lên thành khối phồng do ruột ở trên dồn xuống .",
+    "entities": [
+      {
+        "text": "bệnh thoát vị bẹn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh ung thư da đầu ung thư da đầu được gây ra bởi nhiều nguyên nhân khác nhau , bao gồm : tia tử ngoại : đây là yếu tố nguy cơ chủ yếu của ung thư da đầu .",
+    "entities": [
+      {
+        "text": "bệnh ung thư da đầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp hạn chế diễn tiến của viêm cơ tim chế độ sinh hoạt : chế độ sinh hoạt lành mạnh , đặc biệt ở người bệnh đã có suy tim .",
+    "entities": [
+      {
+        "text": "viêm cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng trong một số trường hợp , kháng sinh liên quan đến tiêu chảy dẫn đến viêm đại tràng , viêm ruột già hoặc nghiêm trọng hơn với bệnh viêm ruột kết được gọi là v iêm đại tràng giả .",
+    "entities": [
+      {
+        "text": "bệnh viêm ruột kết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "iêm đại tràng giả",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm ruột già",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "may mắn thay , không giống như bệnh đường ruột nghiêm trọng khác , các bệnh như viêm loét đại tràng và bệnh crohn , hội chứng ruột kích thích không gây ra viêm nhiễm hay những thay đổi trong mô ruột hoặc làm tăng nguy cơ ung thư đại trực tràng .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư đại trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm loét đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng sốt có thể bắt đầu hay tồi tệ hơn tại một thời điểm cụ thể trong năm , được kích hoạt bởi cây phấn hoa , cỏ hay cỏ dại vào các thời điểm khác nhau .",
+    "entities": [
+      {
+        "text": "triệu chứng sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị cao huyết áp hiệu quả thay đổi lối sống ( xem nội dung chế độ sinh hoạt và phòng ngừa ) và điều trị với các thuốc điều trị cao huyết áp giúp kiểm soát và giữ ổn định huyết áp cơ thể .",
+    "entities": [
+      {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cũng giống như kính sát tròng , kính đeo mắt giúp bù đắp cho các hình dạng không đồng đều của mắt .",
+    "entities": [
+      {
+        "text": "kính sát tròng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "kính đeo mắt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải tai biến mạch máu não người mắc bệnh lý tim mạch , tăng huyết áp , tiểu đường , rối loạn lipid máu .",
+    "entities": [
+      {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rối loạn lipid máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp , nhà tâm lý hoặc bác sĩ tâm thần có thể giúp tìm hiểu để làm giảm căng thẳng bằng cách nhìn vào cách phản ứng với các sự kiện và sau đó làm việc để sửa đổi hoặc thay đổi phản ứng .",
+    "entities": [
+      {
+        "text": "căng thẳng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng động kinh thùy trán có xu hướng xảy ra cục bộ và có thể gây ra một tình trạng nguy hiểm được gọi là trạng thái động kinh , trong đó cơn hoạt động kéo dài lâu hơn bình thường .",
+    "entities": [
+      {
+        "text": "trạng thái động kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "động kinh thùy trán",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mang thai khi kênh nhĩ thất được phẫu thuật sửa chữa trước khi bất kỳ tổn thương phổi vĩnh viễn xảy ra , phụ nữ thường có thể mong đợi để có thai kỳ bình thường .",
+    "entities": [
+      {
+        "text": "kênh nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "những công việc mà tiếng ồn lớn là một phần trong môi trường làm việc , chẳng hạn như xây dựng , nông nghiệp hay công việc nhà máy , có thể dẫn đến tổn thương bên trong tai .",
+    "entities": []
+  },
+  {
+    "text": "các sự kiện có thể gây ra những thay đổi đột ngột áp lực - và có thể là thủng màng nhĩ - bao gồm lặn biển và t hổi trực tiếp tai , chẳng hạn như tác động của một túi khí ô tô .",
+    "entities": [
+      {
+        "text": "thủng màng nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống cách tốt nhất để tránh u nang là tránh viêm tụy , thường do sỏi mật hoặc sử dụng nhiều rượu .",
+    "entities": [
+      {
+        "text": "viêm tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sỏi mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u nang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa viêm họng liên cầu khuẩn ( liên cầu khuẩntococcus ) là một bệnh nhiễm trùng cổ họng do vi khuẩn có thể làm cho cổ họng cảm thấy đau và hỗn tạp .",
+    "entities": [
+      {
+        "text": "cổ họng cảm thấy đau và hỗn tạp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm họng liên cầu khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh nhiễm trùng cổ họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thông thường , nhồi máu thực sự bị phá bỏ khi thời gian từ cơn đau đến pci ngắn ( &lt;3 đến 4 giờ ) .",
+    "entities": [
+      {
+        "text": "pci",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị mới hơn theo các nhà khoa học tìm hiểu thêm về các nguyên nhân gây đau đầu cơn , có thể phát triển phương pháp điều trị nhiều chọn lựa cho tình trạng này .",
+    "entities": [
+      {
+        "text": "đau đầu cơn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhịp nhanh thất thất dai dẳng không có rối loạn huyết động : có thể dùng thuốc chống loạn nhịp nhóm i hay nhóm iii truyền tĩnh mạch .",
+    "entities": [
+      {
+        "text": "thuốc chống loạn",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhịp nhanh thất",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị u trung thất hiệu quả điều trị phụ thuộc vào loại khối u , vị trí , tùy vào thể trạng bệnh nhân và mức độ nghiêm trọng của bệnh mà bác sĩ sẽ kê đơn thuốc và áp dụng những phương pháp điều trị phù hợp như : sinh thiết , phẫu thuật cắt bỏ hoặc dùng hóa trị/xạ trị đối với các trường hợp phát hiện tế bào ung thư trung thất .",
+    "entities": [
+      {
+        "text": "ung thư trung thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật cắt bỏ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hóa trị/xạ trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "u trung thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "chứng khó nuốt ở trẻ sơ sinh và trẻ em nguyên nhân thường gặp nuốt khó ở trẻ sơ sinh và trẻ em bao gồm : vấn đề phát triển do sinh non hoặc sinh con nhẹ cân .",
+    "entities": [
+      {
+        "text": "chứng khó nuốt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nam giới bị mắc một số bệnh viêm nhiễm ở cơ quan sinh dục như viêm tinh hoàn , viêm mào tinh hoàn , viêm niệu đạo , viêm tuyến tiền liệt … biến chứng từ việc lây nhiễm một số bệnh xã hội lây truyền qua đường tình dục như bệnh lậu , giang mai , sùi mào gà … sự xuất hiện một số khối u ở cơ quan sinh dục : ung thư tuyến tiền liệt , ung thư mào tinh hoàn … chấn thương : t ắc ống dẫn tinh có thể xảy ra khi nam giới gặp một chấn thương nào đó .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tiền liệt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư mào tinh hoàn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm tuyến tiền liệt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm mào tinh hoàn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ắc ống dẫn tinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm tinh hoàn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm niệu đạo",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sùi mào gà",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "giang mai",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh lậu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một phát triển cho thấy hứa hẹn là việc sử dụng thiết bị kích thích thần kinh thuộc về hậu châm , ảnh hưởng đến dây thần kinh sinh ba .",
+    "entities": [
+      {
+        "text": "việc sử dụng thiết bị kích thích thần kinh thuộc về hậu châm",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "lên đến 10 phần trăm số người có tiền sử viêm dây thần kinh thị giác có một mức độ mất tầm nhìn dài hạn .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mất tầm nhìn dài hạn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

@@ -1,0 +1,430 @@
+[
+  {
+    "text": "uống đồ uống có cồn , như bia và rượu , cũng có thể gây ra các màng bên trong mũi sưng lên , dẫn đến sung huyết mũi .",
+    "entities": [
+      {
+        "text": "sung huyết mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mũi sưng lên",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hãy xem xét loại bỏ thảm , đặc biệt là nơi ngủ , nếu đang rất nhạy cảm với con ve bụi .",
+    "entities": []
+  },
+  {
+    "text": "lượng đường trong máu cao có thể làm tổn thương các mạch máu và cuối cùng dẫn đến bệnh mạch vành .",
+    "entities": [
+      {
+        "text": "bệnh mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không cần điều trị lâu dài ở bệnh nhân có nhịp nhanh thất do nguyên nhân thoáng qua ( ví dụ như cơn nhịp nhanh thất xuất hiện trong 48 giờ sau khi nhồi máu cơ tim ) hay nguyên nhân có thể đảo ngược ( như rối loạn acid – base , rối loạn điện giải hay do tác dụng không mong muốn của thuốc ) .",
+    "entities": [
+      {
+        "text": "cơn nhịp nhanh thất",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kích hoạt hội chứng ruột kích thích có thể từ khí hoặc áp lực lên ruột đến các loại thực phẩm nhất định , thuốc hay cảm xúc .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu trẻ em điều trị kháng sinh cảm thấy khỏe và không bị sốt , thường có thể trở lại trường học hay chăm sóc trẻ khi không còn bị lây nhiễm - thường là 24 giờ sau khi bắt đầu điều trị .",
+    "entities": [
+      {
+        "text": "điều trị kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh thoát vị đùi để điều trị thoát vị đùi , bệnh nhân sẽ được chỉ định đeo băng hoặc phẫu thuật .",
+    "entities": [
+      {
+        "text": "bệnh thoát vị đùi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đeo băng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sau đó , bác sĩ có thể sẽ yêu cầu thực hiện một số xét nghiệm sau : siêu âm tim ; màn hình holter ; điện tâm đồ ( ekg ) ; chụp động mạch vành ; chụp mri tim ; chụp x quang lồng ngực ; bài tập kiểm tra căng thẳng .",
+    "entities": [
+      {
+        "text": "bài tập kiểm tra căng thẳng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp x quang lồng ngực",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp động mạch vành",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "màn hình holter",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp mri tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ekg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ nếu một trong những cha mẹ có bệnh huntington , có 50 phần trăm cơ hội phát triển bệnh .",
+    "entities": [
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp bác sĩ có thể khuyên nên ngừng điều trị kháng sinh cho đến khi tiêu chảy giảm .",
+    "entities": [
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chi bị ảnh hưởng đặc trưng bằng các rối loạn vận động ( yếu cơ , cứng cơ , giảm trương lực cơ , co cơ cục bộ ) phản ánh rối loạn tế bào thần kinh vận động trung ương hoặc ngoại biên .",
+    "entities": [
+      {
+        "text": "tế bào thần kinh vận động",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "giảm trương lực cơ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "co cơ cục bộ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cứng cơ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "yếu cơ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu đang có nguy cơ mắc bệnh viêm gan , hoặc nếu đã bị nhiễm bất kỳ loại siêu vi viêm gan , hãy nói chuyện với bác sĩ về việc chủng ngừa viêm gan b . vắc xin cũng có sẵn cho bệnh viêm gan a . sử dụng thuốc một cách khôn ngoan .",
+    "entities": [
+      {
+        "text": "bệnh viêm gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu mắt liên tục bị kích thích , đỏ và viêm ( viêm kết mạc ) , đang có nguy cơ cao phát triển ống dẫn nước mắt bị chặn .",
+    "entities": []
+  },
+  {
+    "text": "hình ảnh bệnh thiên đầu thống ( tăng nhãn áp ) tổng quan bệnh thiên đầu thống ( tăng nhãn áp ) bệnh thiên đầu thống là gì ?",
+    "entities": [
+      {
+        "text": "bệnh thiên đầu thống",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một thủ thuật mới hơn , được gọi là laser biểu mô keratomileusis ( epi - lasik ) , được cho là để tránh một số rủi ro liên kết với lasik .",
+    "entities": [
+      {
+        "text": "laser biểu mô keratomileusis",
+        "type": "THUỐC"
+      },
+      {
+        "text": "epi - lasik",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đối với những lý do này , nhiều bác sĩ khuyên nên kiểm tra các phương pháp khác thay vì xét nghiệm tìm máu trong phân .",
+    "entities": [
+      {
+        "text": "xét nghiệm tìm máu trong phân",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "đục thủy tinh thể , phân tán ánh sáng khi nó đi qua ống kính , ngăn chặn một hình ảnh mạnh được xác định đến võng mạc .",
+    "entities": [
+      {
+        "text": "đục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chẩn đoán liên quan có thể có của barrett thực quản là ung thư , bởi vì nó làm tăng nguy cơ phát triển ung thư thực quản .",
+    "entities": [
+      {
+        "text": "barrett thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong đó có thể chia ra 3 nhóm dấu hiệu như sau : rối loạn nội tiết : dấu hiệu này do tăng tiết prolactin làm cho người bị bệnh bị chậm kinh nguyệt , rối loạn kinh nguyệt hoặc mất kinh , nặng hơn có thể bị vô sinh; tiết sữa ở vú mặc dù đang không có thai hoặc có kinh nguyệt .",
+    "entities": [
+      {
+        "text": "tiết sữa ở vú mặc dù đang không có thai",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chậm kinh nguyệt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mất kinh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "u tuyến yên là hiện tượng một khối khối u nằm trong tuyến yên , gây ảnh hưởng đến các chức năng hoạt động của tuyến yên trong cơ thể .",
+    "entities": [
+      {
+        "text": "u tuyến yên",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chụp cộng hưởng từ ( mri ) giống như chụp ct , chụp mri tạo ra hình ảnh chi tiết của các mô mềm trong cơ thể .",
+    "entities": [
+      {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng viêm niêm mạc trực tràng mà không được điều trị hoặc không đáp ứng với điều trị có thể dẫn đến biến chứng , bao gồm : thiếu máu .",
+    "entities": [
+      {
+        "text": "viêm niêm mạc trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiếu máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân sẽ được điều trị với chọc dẫn lưu áp x e dưới siêu âm và phối hợp với kháng sinh điều trị .",
+    "entities": [
+      {
+        "text": "chọc dẫn lưu áp x",
+        "type": "THUỐC"
+      },
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh ung thư tụy đối tượng có nguy cơ cao bị ung thư tụy là những người có những yếu tố nguy cơ kể trên .",
+    "entities": [
+      {
+        "text": "ung thư tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các thuốc này thường được sử dụng để điều trị huyết áp cao , cũng là một chỗ dựa chính để ngăn ngừa chứng đau nửa đầu .",
+    "entities": [
+      {
+        "text": "điều trị huyết áp cao",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chứng đau nửa đầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thông thường , bệnh nhân mắc hội chứng brugada không có bất thường về cấu trúc tim , nhưng hiện nay , có nhiều bằng chứng về mối liên hệ giữa hội chứng brugada với một vài bệnh lý liên quan đến cấu trúc tim , một số trường hợp , bệnh nhân mắc đồng thời hội chứng brugada và hội chứng qt dài type 3 hay loạn sản thất phải gây loạn nhịp ( arvd ) .",
+    "entities": [
+      {
+        "text": "hội chứng qt dài type 3",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "loạn sản thất phải",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng brugada",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "loạn nhịp",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh thoát vị rốn nguyên nhân thoát vị rốn do các cơ bụng tại vị trí dây rốn đi qua không đóng kín gây nên tình trạng một phần của nội tạng trong ổ bụng chui ra ngoài theo vết hở rốn tạo ra tình trạng thoát vị rốn ngay sau khi sinh hoặc thoát vị rốn sau này .",
+    "entities": [
+      {
+        "text": "bệnh thoát vị rốn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "dùng thuốc : thuốc hạ cholesterol : statin , fibrate , nhựa gắn acid mật ; thuốc hạ huyết áp : thuốc ức chế men chuyển ace , thuốc chẹn thụ thể angiotensin ( arb ) , thuốc chẹn β ; thuốc chống kết tập tiểu cầu ( ngăn cục máu đông gây tắc nghẽn mạch ) : aspirin , clopidogrel .",
+    "entities": [
+      {
+        "text": "thuốc chẹn thụ thể angiotensin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chống kết tập tiểu cầu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc ức chế men chuyển ace",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc hạ cholesterol",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhựa gắn acid mật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc hạ huyết áp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chẹn β",
+        "type": "THUỐC"
+      },
+      {
+        "text": "clopidogrel",
+        "type": "THUỐC"
+      },
+      {
+        "text": "fibrate",
+        "type": "THUỐC"
+      },
+      {
+        "text": "aspirin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "statin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "arb",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục khi có rối loạn ăn uống , chăm sóc sức khỏe cần thường xuyên không phải là một trong những ưu tiên .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong thời gian thử nghiệm da , một lượng nhỏ vật chất có thể gây ra dị ứng được đâm vào da của cánh tay hoặc lưng và quan sát những dấu hiệu của một phản ứng dị ứng .",
+    "entities": [
+      {
+        "text": "thử nghiệm da",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

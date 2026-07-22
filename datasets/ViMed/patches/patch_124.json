@@ -1,0 +1,416 @@
+[
+  {
+    "text": "nếu loạn sản lượng thấp được phát hiện , bác sĩ có thể khuyên nên điều trị gerd và nội soi tiếp trong sáu tháng .",
+    "entities": [
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "gerd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chỉ có khoảng 2 - 10% bệnh nhân ung thư đường hô hấp và tiêu hóa trên không hút thuốc lá .",
+    "entities": [
+      {
+        "text": "ung thư đường hô hấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "loạn thị không gây ra hoặc làm nặng hơn bằng cách đọc trong ánh sáng kém , ngồi quá gần với truyền hình hoặc nheo mắt .",
+    "entities": [
+      {
+        "text": "loạn thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục chán ăn , khó nuốt , mất trọng lượng và điểm yếu thường là vấn đề đối với người bị ung thư thực quản .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mất trọng lượng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó nuốt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều trị bằng thuốc thuốc được sử dụng điều trị hở van hai lá thường dùng là : thuốc lợi tiểu : loại bỏ chất lỏng dư thừa ra khỏi cơ thể; thuốc chống loạn nhịp tim để kiểm soát nhịp tim; thuốc kiểm soát suy tim ; thuốc huyết áp nếu người bệnh bị hở van hai lá kèm theo tăng huyết áp ; thuốc chống đông máu giúp phòng ngừa hình thành huyết khối .",
+    "entities": [
+      {
+        "text": "thuốc chống loạn nhịp tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc kiểm soát suy tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chống đông máu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc lợi tiểu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc huyết áp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hở van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "giảm khả năng nhận thức , chẳng hạn như khó đưa ra quyết định , học hỏi thông tin mới , trả lời các câu hỏi và ghi nhớ các thông tin quan trọng .",
+    "entities": [
+      {
+        "text": "giảm khả năng nhận thức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó đưa ra quyết định",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "dấu hiệu đầu tiên của lồng ruột ở trẻ sơ sinh khỏe mạnh có thể đột ngột khóc to do đau bụng .",
+    "entities": [
+      {
+        "text": "đột ngột khóc to",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lồng ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "dấu hiệu của nhiễm trùng , chẳng hạn như sốt nhiệt độ cao , nôn mửa , ớn lạnh , đau khớp và đau cơ .",
+    "entities": [
+      {
+        "text": "đau khớp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nôn mửa",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ớn lạnh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau cơ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ngay khi loại bỏ một phần của khối u não , có thể giúp làm giảm các dấu hiệu và triệu chứng .",
+    "entities": [
+      {
+        "text": "loại bỏ một phần của khối u não",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "giải phẫu thần kinh sẽ là một đề nghị dựa trên kích thước của phình động mạch não , khả năng trải qua phẫu thuật và các yếu tố khác .",
+    "entities": [
+      {
+        "text": "giải phẫu thần kinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "eeg cũng có thể phát hiện cơn động kinh , bệnh creutzfeldt - jakob và các rối loạn khác có liên quan với chứng sa sút trí tuệ mất trí nhớ .",
+    "entities": [
+      {
+        "text": "chứng sa sút trí tuệ mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh creutzfeldt - jakob",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cơn động kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "eeg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "điều trị chủ yếu là làm giảm các triệu chứng : hạ sốt hay giảm đau , có thể dùng kem bôi ngoài da nếu có biểu hiện ngứa .",
+    "entities": [
+      {
+        "text": "giảm đau",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hạ sốt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , nếu có viêm đại tràng , thuốc giảm đau như aspirin hay ibuprofen có thể làm cho tình trạng tồi tệ hơn .",
+    "entities": [
+      {
+        "text": "viêm đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc giảm đau",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ibuprofen",
+        "type": "THUỐC"
+      },
+      {
+        "text": "aspirin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa lồng ruột là một rối loạn nghiêm trọng , trong đó một phần của ruột - hoặc ruột non hoặc ruột kết - trượt vào một phần khác của ruột .",
+    "entities": [
+      {
+        "text": "lồng ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc điều trị thoái hóa điểm vàng nước tập trung vào ngăn chặn sự tiến triển của bệnh .",
+    "entities": [
+      {
+        "text": "thoái hóa điểm vàng nước",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm hạch bạch huyết mạc treo ruột cũng có thể xảy ra ở trẻ em khỏe mạnh và không có triệu chứng .",
+    "entities": [
+      {
+        "text": "viêm hạch bạch huyết mạc treo ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thoát vị màng não tuỷ là do khuyết cung sau đốt sống rộng từ đó làm cho ống sống thông với phần mềm ngoài ống sống , qua lỗ thủng màng cứng tủy sống dễ dàng phình ra và tạo thành túi thoát vị .",
+    "entities": [
+      {
+        "text": "thoát vị màng não tuỷ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm bờ mi gây ra bởi viêm da tiết bã , trứng cá đỏ hoặc các bệnh khác có thể được kiểm soát bằng cách điều trị các bệnh tiềm ẩn .",
+    "entities": [
+      {
+        "text": "viêm da tiết bã",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tiềm ẩn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "trứng cá đỏ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm bờ mi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "gừng được coi là vị thuốc dân gian giúp thúc đẩy quá trình tiêu hóa , đồng thời cải thiện triệu chứng đầy hơi và chướng bụng .",
+    "entities": [
+      {
+        "text": "chướng bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đầy hơi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "gừng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "túi thừa thực quản là một bệnh thường gặp ở thực quản , là một tổn thương dạng túi nhô ra bên ngoài tại điểm yếu thực quản .",
+    "entities": [
+      {
+        "text": "túi thừa thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có một số yếu tố nguy cơ làm tăng khả năng mắc giãn tĩnh mạch chi dưới bao gồm : tiến sử gia đình có người từng mắc giãn tĩnh mạch chi dưới ; lão hóa ( cao tuổi ) ; mang thai và thay đổi nội tiết tố; béo phì ; đứng hoặc ngồi quá lâu .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch chi dưới",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những thuốc kháng sinh giảm thời gian và mức độ nghiêm trọng của triệu chứng , cũng như nguy cơ biến chứng và khả năng bệnh sẽ lây lan cho cùng lớp hoặc thành viên gia đình .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các trường hợp sốt rét do p . falciparum không được dùng một thuốc sốt rét đơn thuần , phải điều trị thuốc sốt rét phối hợp để tăng hiệu lực điều trị và hạn chế kháng thuốc .",
+    "entities": [
+      {
+        "text": "điều trị thuốc sốt rét phối hợp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "p . falciparum",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một cục máu đông trong tĩnh mạch cửa hoặc trong một tĩnh mạch có nguồn cấp vào trong tĩnh mạch cửa được gọi là các tĩnh mạch lách có thể gây ra giãn tĩnh mạch thực quản .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ở trẻ nhỏ , thoát vị rốn thường không gây đau , có thể biến mất khi trẻ nằm ngửa hoặc nằm thư giãn và thấy rõ mỗi khi trẻ ho , khóc hoặc co mình .",
+    "entities": [
+      {
+        "text": "thoát vị rốn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phụ huynh nên cho trẻ đi khám bác sĩ để biết các dấu hiệu hoặc triệu chứng của bệnh viêm họng do liên cầu khuẩn .",
+    "entities": [
+      {
+        "text": "bệnh viêm họng do liên cầu khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ sử dụng rượu nặng và sỏi mật là yếu tố nguy cơ viêm tụy , viêm tụy và là một yếu tố nguy cơ u nang - loại phổ biến nhất của u nang tuyến tụy .",
+    "entities": [
+      {
+        "text": "u nang tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sỏi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chứng căng thẳng thần kinh tọa là một đặc điểm giúp hỗ trợ chẩn đoán hội chứng marfan nhưng nó cũng có thể xảy ra với các rối loạn mô liên kết khác .",
+    "entities": [
+      {
+        "text": "chứng căng thẳng thần kinh tọa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng marfan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của nhịp nhanh thất chế độ sinh hoạt : hạn chế căng thẳng , chú ý nghỉ ngơi; ngủ đủ giấc đủ 6 – 8 tiếng mỗi ngày; ngừng hút thuốc lá; khám sức khỏe định kỳ .",
+    "entities": [
+      {
+        "text": "nhịp nhanh thất",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều trị rối loạn ăn uống thường liên quan đến tâm lý , giáo dục dinh dưỡng , tư vấn gia đình , thuốc và nhập viện .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

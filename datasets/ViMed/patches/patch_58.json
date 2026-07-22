@@ -1,0 +1,392 @@
+[
+  {
+    "text": "gia đình điều trị cũng có thể là một điều trị hiệu quả cho trẻ em và thanh thiếu niên bị rối loạn ăn uống .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi bị u trung thất việc điều trị khối u trung thất lành tính hay ác tính là cần thiết .",
+    "entities": [
+      {
+        "text": "u trung thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị hở van hai lá hiệu quả tùy thuộc vào nguyên nhân cũng như triệu chứng và mức độ của bệnh mà bác sĩ sẽ đưa ra những phương pháp điều trị khác nhau .",
+    "entities": [
+      {
+        "text": "hở van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đo nồng độ creatine kinase - mb và troponin huyết thanh có thể giúp phân biệt bóc tách động mạch chủ với nhồi máu cơ tim , ngoại trừ trường hợp bóc tách gây nhồi máu cơ tim .",
+    "entities": [
+      {
+        "text": "nồng độ creatine kinase - mb",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bóc tách động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "troponin huyết thanh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các tác dụng phụ thường gặp nhất của các thử nghiệm này là da ngứa và đỏ , thường là trong vòng 30 phút .",
+    "entities": [
+      {
+        "text": "da ngứa và đỏ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đau bụng thường gặp ở trẻ em và thanh thiếu niên , và nó có thể khó để biết khi nào nó là một vấn đề cần quan tâm y tế .",
+    "entities": [
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh tiêu chảy nhiễm trùng được phân thành những loại : tiêu chảy do virus , tiêu chảy do vi khuẩn , tiêu chảy do ký sinh trùng .",
+    "entities": [
+      {
+        "text": "bệnh tiêu chảy nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiêu chảy do ký sinh trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiêu chảy do vi khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiêu chảy do virus",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ đối với một số người , vách ngăn lệch là lúc mới sinh xảy ra trong quá trình phát triển bào thai hoặc do chấn thương trong quá trình sinh đẻ .",
+    "entities": [
+      {
+        "text": "vách ngăn lệch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc điều trị bệnh gan liên quan đến việc chẩn đoán và điều trị tình trạng cơ bản gây ra nó .",
+    "entities": [
+      {
+        "text": "bệnh gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng nếu run gây làm việc khó khăn hoặc thực hiện các hoạt động hàng ngày , có thể thảo luận về các lựa chọn điều trị với bác sĩ .",
+    "entities": [
+      {
+        "text": "gây làm việc khó khăn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "run",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một chấn thương nghiêm trọng có thể đã xảy ra ngay cả khi không có v ết thương hở , vết bầm tím hoặc không thấy thiệt hại bên ngoài .",
+    "entities": [
+      {
+        "text": "ết thương hở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "vết bầm tím",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một số trường hợp thoát vị hoành biểu hiện muộn ở trẻ có biểu hiện viêm phổi tái đi tái lại nhiều lần .",
+    "entities": [
+      {
+        "text": "thoát vị hoành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng sau này mặc dù triển vọng điều trị cải thiện rất nhiều cho kênh nhĩ thất , một số người phải phẫu thuật vẫn có thể có nguy cơ bị các vấn đề liên quan sau này trong cuộc sống : hở van tim .",
+    "entities": [
+      {
+        "text": "kênh nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hở van tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi em bé bị nôn mỗi lần ăn , mất nước và mất cân bằng chất điện giải cuối cùng sẽ xảy ra .",
+    "entities": [
+      {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "việc điều trị cần được chỉ định trong các trường hợp u gây ra biến chứng như lở loét gây máu , nứt nẻ , chảy máu .",
+    "entities": [
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lở loét",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "gây máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nứt nẻ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị viêm ruột thừa cấp hiệu quả tiêu chuẩn vàng cho điều trị viêm ruột thừa cấp là phẫu thuật cắt bỏ ruột thừa bị viêm .",
+    "entities": [
+      {
+        "text": "viêm ruột thừa cấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "siêu âm siêu âm là một trong các phương pháp phổ biến để sàng lọc bệnh thoát vị não đồng thời kiểm tra các chỉ số khác của thai nhi .",
+    "entities": [
+      {
+        "text": "bệnh thoát vị não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "hoặc phẫu thuật bắc cầu có thể là cần thiết để đính kèm dạ dày đến một điểm thấp hơn trong ruột không bị ung thư .",
+    "entities": [
+      {
+        "text": "phẫu thuật bắc cầu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu có thể , không bay nếu bị cảm lạnh hoặc dị ứng đang hoạt động là nguyên nhân gây tắc nghẽn .",
+    "entities": [
+      {
+        "text": "cảm lạnh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không có mối quan hệ nhân quả giữa vắc - xin và rối loạn phổ tự kỷ một trong những tranh cãi lớn nhất trong các rối loạn phổ tự kỷ tập trung vào việc liệu mối liên kết có tồn tại giữa rối loạn và vắc - xin khi được tiêm ở thời thơ ấu hay không .",
+    "entities": [
+      {
+        "text": "rối loạn phổ tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu đã có bức xạ hay hóa trị liệu để điều trị ung thư , đặc biệt nếu bức xạ đã được tập trung vào mặt hoặc đầu , đang có nguy cơ cao phát triển một ống dẫn nước mắt bị chặn .",
+    "entities": [
+      {
+        "text": "ống dẫn nước mắt bị chặn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể muốn có thông tin từ hai loại kiểm tra chức năng thần kinh - điện cơ và tốc độ dẫn truyền thần kinh : điện cơ ghi hoạt động điện trong cơ để xác định điểm yếu do tổn thương cơ hoặc tổn thương thần kinh .",
+    "entities": [
+      {
+        "text": "điện cơ ghi hoạt động điện trong cơ để xác định điểm yếu do tổn thương cơ hoặc tổn thương thần kinh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "kiểm tra chức năng thần kinh - điện cơ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "tốc độ dẫn truyền thần kinh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán nhịp nhanh thất điện tâm đồ ecg chẩn đoán nhịp nhanh thất bằng ecg .",
+    "entities": [
+      {
+        "text": "nhịp nhanh thất",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "điện tâm đồ ecg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "một số người bị suy tim , những người có bệnh đa xơ cứng , và những người có tiền sử bệnh ung thư hoặc ung thư không thể dùng infliximab hoặc các loại khác của loại này ( adalimumab và certolizumab pegol ) .",
+    "entities": [
+      {
+        "text": "certolizumab pegol",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh đa xơ cứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "infliximab",
+        "type": "THUỐC"
+      },
+      {
+        "text": "adalimumab",
+        "type": "THUỐC"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến phong bệnh phong do một loại vi khuẩn phát triển chậm gọi là mycobacterium leprae ( m . leprae ) gây ra .",
+    "entities": [
+      {
+        "text": "bệnh phong",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những bệnh nhân không phẫu thuật được thì tiến hành xạ trị bao gồm xạ trị trong và xạ trị ngoài .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tạm thời các hiệu ứng trên thính giác - ù tai hoặc mất thính lực có thể xảy ra nếu sử dụng liều rất cao của aspirin hoặc thuốc chống viêm không steroid ( nsaid ) , thuốc chống sốt rét hoặc thuốc lợi tiểu vòng .",
+    "entities": [
+      {
+        "text": "mất thính lực",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ cũng có thể đề nghị việc sử dụng một nước mặn ( nước muối ) rửa sạch để giúp giảm đau sau khi phẫu thuật .",
+    "entities": [
+      {
+        "text": "rửa sạch để giúp giảm đau sau khi phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nước muối",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nước mặn",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trong hầu hết các trường hợp , có thể phục hồi trong vòng 2 tuần; điều trị chủ yếu là làm giảm các triệu chứng : hạ sốt hay giảm đau .",
+    "entities": [
+      {
+        "text": "giảm đau",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hạ sốt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán nếu bị nghi ngờ có một khối u não , bác sĩ có thể đề nghị một số xét nghiệm và thủ tục , bao gồm : khám thần kin h .",
+    "entities": [
+      {
+        "text": "khám thần kin",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "khối u não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

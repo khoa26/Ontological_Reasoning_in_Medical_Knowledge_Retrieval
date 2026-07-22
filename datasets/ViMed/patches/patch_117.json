@@ -1,0 +1,404 @@
+[
+  {
+    "text": "thuốc men thuốc không thể chữa khỏi ù tai , nhưng trong một số trường hợp , có thể giúp giảm mức độ nghiêm trọng của triệu chứng hoặc biến chứng .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh tế bào thần kinh vận động ở người lớn thường bắt đầu ở lứa tuổi từ 30 - 60 tuổi và thường đi kèm sự thoái hóa của các tế bào sừng trước tủy sống , nhân vận động của các dây thần kinh sọ thấp , đường dẫn truyền vỏ não tủy sống và vỏ não hành tủy .",
+    "entities": [
+      {
+        "text": "bệnh tế bào thần kinh vận động",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu gặp khó khăn khi nuốt , chọn các loại thực phẩm nhẹ nhàng và dễ nuốt , như sữa chua , súp hoặc milkshakes .",
+    "entities": [
+      {
+        "text": "khó khăn khi nuốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tỷ lệ tử vong do quai bị rất thấp , tử vong thường xảy ra ở các trường hợp nặng , có viêm não – màng não hoặc viêm nhiều tuyến , nhưng thường nặng và có nhiều biến chứng hơn ở trẻ em .",
+    "entities": [
+      {
+        "text": "viêm não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "màng não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chỉ định điều trị ngoại khoa cho viêm nội tâm mạc nhiễm trùng là một quyết định khó khăn nhưng rất cần thiết trong một số hoàn cảnh .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ngoại khoa",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": ". . nấm : candida , trichosporon asahii , … các vi khuẩn kỵ khí : clostridium perfringens và bacteroides fragilis , … nguy cơ mắc phải những ai có nguy cơ mắc phải nhiễm trùng huyết nhiễm trùng huyết có thể xảy ra ở bất cứ ai , bất cứ độ tuổi nào .",
+    "entities": [
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sùi nội mạc có thể dẫn đến biến chứng hở hoặc hẹp van tim , áp xe cơ tim , hoặc phình mạch .",
+    "entities": [
+      {
+        "text": "áp xe cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hẹp van tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phình mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị ung thư vòm họng thường bắt đầu bằng xạ trị , hoặc kết hợp các bức xạ và hóa trị .",
+    "entities": [
+      {
+        "text": "kết hợp các bức xạ và hóa trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bắt đầu bằng xạ trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "theo quan điểm cũ bất kỳ tình trạng rối loạn dung nạp glucose nào khởi phát hoặc lần đầu tiên phát hiện trong thai kỳ là tiểu đường thai kỳ .",
+    "entities": [
+      {
+        "text": "tiểu đường thai kỳ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể sử dụng thuốc uống và thuốc đặt để chữa trị làm giảm các triệu chứng của bệnh mà không cần đến phẫu thuật .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "điều trị tùy chọn cho khối u không gây rách ống dẫn thay đổi từ quan sát đơn giản đến phẫu thuật .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các thuốc này bao gồm i nterferon beta - 1a ( avonex , rebif ) và beta interferon - 1b ( betaseron ) .",
+    "entities": [
+      {
+        "text": "beta interferon - 1b",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nterferon beta - 1a",
+        "type": "THUỐC"
+      },
+      {
+        "text": "betaseron",
+        "type": "THUỐC"
+      },
+      {
+        "text": "avonex",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rebif",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tránh ăn các loại thực phẩm cay nóng , nhiều dầu mỡ , có tính axit các biện pháp chẩn đoán bệnh túi thừa thực quản khám lâm sàng xét nghiệm : chụp x - quang thực quản có cản quang : hình ảnh túi cản quang có cổ dính vào thành thực quản , thường nằm ở 1/3 giữa hay ngay trên cơ hoành .",
+    "entities": [
+      {
+        "text": "chụp x - quang thực quản có cản quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh túi thừa thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm trùng một nguyên nhân phổ biến của sưng và viêm nắp thanh quản và xung quanh là các mô nhiễm haemophilus influenzae type b ( hib ) vi khuẩn .",
+    "entities": [
+      {
+        "text": "viêm nắp thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh than xảy ra qua đường tiêu hóa do ăn phải những thức ăn , thịt động vật bị nhiễm vi khuẩn , thường có các dấu hiệu sau : sốt , ớn lạnh .",
+    "entities": [
+      {
+        "text": "bệnh than",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ớn lạnh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nó thuộc vào bản thân và bác sĩ để quyết định khi nào phẫu thuật đục thủy tinh thể là đúng .",
+    "entities": [
+      {
+        "text": "phẫu thuật đục thủy tinh thể",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tại hoa kỳ và tại các khu vực khác , nơi mà căn bệnh này là rất hiếm , thường xuyên kiểm tra ung thư vòm họng không được thực hiện .",
+    "entities": [
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm não do thủy đậu với các biểu hiện : vật vã , kích thích , co giật , hôn mê .",
+    "entities": [
+      {
+        "text": "viêm não do thủy đậu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "kích thích",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "co giật",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "vật vã",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hôn mê",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng sau này ngay cả với phẫu thuật sửa chữa thành công tim trong giai đoạn sớm , biến chứng khác liên quan đến thân chung động mạch có thể xảy ra sau này trong cuộc sống : tăng áp động mạch phổi tiến triển .",
+    "entities": [
+      {
+        "text": "thân chung động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trong hầu hết trường hợp , một ống lưới ( stent ) cũng được đặt bên trong động mạch để giữ nó mở rộng hơn và ngăn ngừa tái hẹp trong tương lai .",
+    "entities": [
+      {
+        "text": "một ống lưới",
+        "type": "THUỐC"
+      },
+      {
+        "text": "stent",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "những sản phẩm này có thể có khả năng tương tác nguy hiểm với các thuốc khác , chẳng hạn như thuốc nhuận tràng hoặc thuốc lợi tiểu , mà thường được sử dụng bởi những người có rối loạn ăn uống .",
+    "entities": [
+      {
+        "text": "thuốc nhuận tràng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc lợi tiểu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "có thể được sử dụng để điều trị chảy máu bằng cách thắt băng thực quản ( ưu tiên cho liệu pháp xơ hóa ) ; ngăn ngừa chảy máu lại; phát hiện giãn tĩnh mạch dạ dày , bệnh lý dạ dày do tăng áp lực tĩnh mạch cửa; chẩn đoán các vị trí chảy máu thay thế .",
+    "entities": [
+      {
+        "text": "thắt băng thực quản",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thông liên nhĩ có thể di truyền trong gia đình , có thể xảy ra cùng với các bệnh di truyền như hội chứng down .",
+    "entities": [
+      {
+        "text": "hội chứng down",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh ù tai trong nhiều trường hợp , ù tai là kết quả của bệnh không thể ngăn chặn được .",
+    "entities": [
+      {
+        "text": "bệnh ù tai",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu điều này xảy ra , có thể trải nghiệm đau bụng dữ dội sau hàng tuần hoặc tháng của những cơn đau liên tục sau khi ăn .",
+    "entities": [
+      {
+        "text": "đau bụng dữ dội",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đây là biểu hiện nặng của quai bị , bệnh nhân đau bụng nhiều , ói , có khi tụt huyết áp , … nguy cơ sẩy thai cao khi phụ nữ mang thai bị quai bị trong 12 – 16 tuần đầu của thai kỳ hoặc sinh con dị dạng , trong 3 tháng cuối của thai kỳ có thể sinh non hoặc thai chết lưu .",
+    "entities": [
+      {
+        "text": "tụt huyết áp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "quai bị",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ói",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mắt u ác tính cũng có thể xảy ra trên lớp ngoài nhất trên mặt trước của mắt ( kết mạc ) , vào ổ bao quanh nhãn cầu và trên mí mắt , mặc dù các loại u ác tính mắt thì rất hiếm .",
+    "entities": [
+      {
+        "text": "u ác tính mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . có thể gây ra dấu hiệu như rối loạn nội tiết , đái nhạt , chậm dậy thì , lùn tuyến yên , nhi tính , phát triển không bình thường .",
+    "entities": [
+      {
+        "text": "phát triển không bình thường",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rối loạn nội tiết",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lùn tuyến yên",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chậm dậy thì",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đái nhạt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhi tính",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "có đến 75% u tuyến mang tai là lành tính ,50% u tuyến dưới hàm và 80% u tuyến nước bọt phụ được tìm thấy là ác tính .",
+    "entities": [
+      {
+        "text": "u tuyến mang tai",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u tuyến dưới hàm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "rối loạn nhịp tim là kết quả của việc giảm chức năng máy tạo nhịp tim nội tại hoặc các khối dẫn truyền , chủ yếu là trong nút av hoặc hệ thống his - purkinje .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

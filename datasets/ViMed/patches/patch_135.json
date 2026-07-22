@@ -1,0 +1,387 @@
+[
+  {
+    "text": "phẫu thuật nói chung không phải là một lựa chọn cho tăng tiết mồ hôi ở đầu và cổ đơn thuần .",
+    "entities": [
+      {
+        "text": "tăng tiết mồ hôi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh teo dây thần kinh thị giác teo dây thần kinh thị là giai đoạn cuối của tiến trình phá hủy dây thần kinh thị giác gây ra những tổn thương không thể hồi phục .",
+    "entities": [
+      {
+        "text": "bệnh teo dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ yếu tố có thể làm tăng nguy cơ viêm đại tràng màng giả bao gồm : uống thuốc kháng sinh .",
+    "entities": [
+      {
+        "text": "viêm đại tràng màng giả",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc kháng sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu có viêm túi mật , xét nghiệm máu có thể cho thấy số lượng tế bào bạch cầu cao hơn bình thường .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù đau ngực đi kèm với co thắt thực quản có thể được báo động , nó có xu hướng biến mất trong vài phút .",
+    "entities": [
+      {
+        "text": "co thắt thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "những điều cần biết về vắc xin thủy đậu hướng dẫn chăm sóc trẻ bị thủy đậ u tại nhà chủ đề : truyền nhiễm thủy đậu bệnh truyền nhiễm vacxin vắc xin thủy đậu",
+    "entities": [
+      {
+        "text": "thủy đậu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc bệnh hội chứng marfan vì hội chứng marfan có thể ảnh hưởng đến hầu hết mọi bộ phận trên cơ thể nên nó có thể gây ra nhiều loại biến chứng .",
+    "entities": [
+      {
+        "text": "hội chứng marfan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phục hồi từ các thủ tục nội soi nhanh hơn là phục hồi từ một phẫu thuật mở truyền thống , và thủ tục để lại một vết sẹo nhỏ hơn .",
+    "entities": [
+      {
+        "text": "phẫu thuật mở",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu có đau đầu bất thường hoặc phức tạp hoặc khám thần kinh thấy bất thường , có thể trải qua thử nghiệm khác để chẩn đoán loại trừ các nguyên nhân khác của cơn đau đầu nghiêm trọng , chẳng hạn như một khối u hoặc chứng phình động mạch .",
+    "entities": [
+      {
+        "text": "khám thần kinh thấy bất thường",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chứng phình động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khối u",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các loại quả mọng giàu chất chống oxy hóa anthocyanin tự nhiên như việt quất , mâm xôi , cherry , dâu tây… giúp bảo vệ cơ thể chống lại tình trạng viêm , bệnh tim mạch , ung thư và tăng cường hệ miễn dịch .",
+    "entities": [
+      {
+        "text": "bệnh tim mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "khi bé đến tuổi dậy thì cha mẹ hãy nói về những thay đổi thể chất có thể xảy ra và giải thích cách tự kiểm tra tinh hoàn cho trẻ vì tự khám tinh hoàn là kỹ năng quan trọng để phát hiện sớm các khối u . các biện pháp chẩn đoán bệnh tinh hoàn ẩn lâm sàng : người bệnh có thể tự sờ nhưng không thấy tinh hoàn ở dưới bìu hoặc sờ thấy ở ống bẹn có khối u nổi lên thăm khám vùng bẹn bìu : bìu kém phát triển , tinh hoàn ẩn càng cao thì bìu càng kém phát triển .",
+    "entities": [
+      {
+        "text": "bệnh tinh hoàn ẩn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "người bị ảnh hưởng bởi tầm nhìn màu sắc nghèo có thể không thể phân biệt : sắc thái khác nhau của màu đỏ và xanh lá cây .",
+    "entities": [
+      {
+        "text": "tầm nhìn màu sắc nghèo",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra và chẩn đoán chẩn đoán hội chứng ruột kích thích phụ thuộc phần lớn vào lịch sử y tế đầy đủ và khám thực thể .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân ung thư bắt đầu khi một hoặc nhiều đột biến gen gây ra các tế bào bình thường phát triển ngoài tầm kiểm soát , xâm nhập cấu trúc xung quanh và cuối cùng lây lan ( di căn ) tới các phần khác của cơ thể .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân mắc cơ tim phì đại tắc nghẽn , có thể nghe thấy một tiếng thổi kiểu tâm thu không lan lên cổ .",
+    "entities": [
+      {
+        "text": "tâm thu không lan lên cổ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cơ tim phì đại",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiếng thổi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu may mắn giữ được tính mạng thì người bệnh cũng dễ gặp những biến chứng nghiêm trọng : tê liệt tay chân , liệt nửa người , không thể giao tiếp , … tai biến mạch máu não có thể được chia thành 2 nhóm : tai biến mạch máu não do thiếu máu não : khoảng 80% các ca tai biến mạch máu não là do thiếu máu cục bộ ở não dẫn đến lưu lượng máu lên não bị tắc nghẽn hoặc suy giảm khiến máu không đủ nuôi tế bào não , làm cho các tế bào não bị hoại tử .",
+    "entities": [
+      {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "không thể giao tiếp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tê liệt tay chân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "liệt nửa người",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hạn chế các thức ăn chứa nhiều chất béo tập thể dục thể thao thường xuyên tránh tiếp xúc thường xuyên với ánh nắng mặt trời mạnh tránh tiếp xúc với tia phóng xạ , các hóa chất độc hại nếu gia đình có người thân mắc ung thư xương cần kiểm tra sức khỏe định kỳ để phát hiện bệnh sớm .",
+    "entities": [
+      {
+        "text": "ung thư xương",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "và nó có thể là khó khăn hơn để nhận thức của những thứ xung quanh , đặc biệt là những điều xảy ra ở bên mà không có tầm nhìn .",
+    "entities": [
+      {
+        "text": "không có tầm nhìn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh thấp tim ở trẻ em mặc dù không có xét nghiệm chẩn đoán chắc chắn mắc bệnh thấp tim , chẩn đoán dựa trên tiền sử bệnh , khám thực thể và một số kết quả xét nghiệm nhất định .",
+    "entities": [
+      {
+        "text": "bệnh thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "rubella thường ít nguy hiểm đối với trẻ em và người trưởng thành , tuy nhiên đặc biệt nguy hiểm với phụ nữ mang thai trong ba tháng đầu , có thể dẫn đến sẩy thai , thai chết lưu , sinh non hoặc trẻ sơ sinh bị dị tật bẩm sinh .",
+    "entities": [
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán nếu có nhức đầu nặng đột ngột hoặc triệu chứng khác có thể liên quan tới chứng phình động mạch vỡ , sẽ trải qua kiểm tra hay một loạt các xét nghiệm để xác định xem đã có chảy máu vào gian giữa bộ não và các mô xung quanh hoặc một dạng khác của đột quỵ .",
+    "entities": [
+      {
+        "text": "kiểm tra hay một loạt các xét nghiệm để xác định xem đã có chảy máu vào gian giữa bộ não và các mô xung quanh hoặc một dạng khác của đột quỵ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chứng phình động mạch vỡ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhức đầu nặng đột ngột",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nó gây ra các vết sưng và phát ban trên da lan rộng ( bệnh phong đa lá ) , tê và yếu cơ .",
+    "entities": [
+      {
+        "text": "bệnh phong đa lá",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phát ban",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "yếu cơ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sưng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tê",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù aspirin được phê duyệt để sử dụng trong trẻ em trên 2 tuổi , trẻ em và thanh thiếu niên phục hồi từ bệnh thủy đậu hoặc giống như triệu chứng cúm không bao giờ nên dùng aspirin .",
+    "entities": [
+      {
+        "text": "triệu chứng cúm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thói quen sinh hoạt : ăn các loại thức ăn có chứa nitrate như thịt cá ướp muối , rau dưa muối , thịt nướng , thịt hun khói . . làm tăng nguy cơ ung thư dạ dày .",
+    "entities": [
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cần chẩn đoán phân biệt bệnh cơ tim phì đại với bệnh hẹp van động mạch chủ và bệnh động mạch vành thường gây ra các triệu chứng tương tự .",
+    "entities": [
+      {
+        "text": "bệnh hẹp van động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh cơ tim phì đại",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh động mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : nuốt nghẹn - dấu hiệu khối u ung thư thực quản đã phát triển vinmec nội soi thành công ung thư thực quản phức tạp điều trị ung thư thực quản u lành thực quản : nguyên nhân , triệu chứng , chẩn đoán và điều trị chủ đề : nội soi tiêu hóa điều trị ung thư ung thư thực quản ung thư nôn thực quản sụt cân liệu pháp miễn dịch tự thân",
+    "entities": [
+      {
+        "text": "liệu pháp miễn dịch tự thân",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư nôn thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u lành thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nuốt nghẹn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sụt cân",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bóc tách động mạch vành : đây là tình trạng hiếm gặp , có thể khiến cho máu không đến được tim .",
+    "entities": [
+      {
+        "text": "bóc tách động mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc viêm cơ tim viêm cơ tim có thể không gây ảnh hưởng gì đến người bệnh hoặc có thể dẫn đến hàng loạt các biến chứng nguy hiểm cho người bệnh như : suy tim : viêm cơ tim có thể làm tổn thương cơ tim nhanh chóng , từ đó dẫn đến suy tim khiến cho tim không còn chức năng bơm máu đi nuôi cơ thể .",
+    "entities": [
+      {
+        "text": "viêm cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu không được chữa trị kịp thời , ruột thừa có thể bị vỡ , làm mủ lan tràn vào ổ bụng , gây viêm phúc mạc đe dọa tới tính mạng .",
+    "entities": [
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . phát tán ra ngoài không khí hoặc bám vào các bề mặt , người lành hít trực tiếp hoặc chạm vào các đồ dùng bị nhiễm virus sẽ có nguy cơ mắc bệnh .",
+    "entities": []
+  }
+]

@@ -1,0 +1,400 @@
+[
+  {
+    "text": "những tiến bộ trong chẩn đoán và điều trị ung thư hạch không hodgkin đã giúp cải thiện tiên lượng cho những người mắc bệnh này .",
+    "entities": [
+      {
+        "text": "ung thư hạch không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bắt đầu tìm kiếm thông tin của bạn với viện ung thư quốc gia và hiệp hội ung thư bạch cầu &amp; ung thư bạch huyết .",
+    "entities": [
+      {
+        "text": "ung thư bạch huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư bạch cầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cảnh giác bệnh võng mạc tăng huyết áp chủ đề : soi đáy mắt thủy tinh thể mắt thị lực võng mạc",
+    "entities": [
+      {
+        "text": "bệnh võng mạc tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "soi đáy mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "điều này có thể là do rối loạn nhịp tim có thể làm giảm lưu lượng máu đến não của bạn theo thời gian .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "khám toàn thân : phát hiện di căn , các ung thư phối hợp hoặc với các bệnh khác , đánh giá khả năng điều trị theo từng bệnh nhân .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán bệnh động mạch ngoại biên bác sĩ khám để tìm các dấu hiệu của bệnh động mạch ngoại biên hoặc có thể kiểm tra lưu lượng máu ở chân , bàn chân của bạn và dùng ống nghe có thể nghe âm thổi do tắc nghẽn trong bệnh động mạch ở chân .",
+    "entities": [
+      {
+        "text": "bệnh động mạch ngoại biên",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hầu như , những người bị sa van hai lá thường không có bất cứ triệu chứng nào và không ảnh hưởng tới cuộc sống hàng ngày của người bệnh .",
+    "entities": [
+      {
+        "text": "sa van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu không được điều trị , bệnh sán máng có thể gây tổn thương cơ quan vĩnh viễn , ngừng hoạt động và thậm chí tử vong .",
+    "entities": [
+      {
+        "text": "bệnh sán máng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những người bị sa sút trí tuệ cần được khuyến khích để tiếp tục hoạt động bình thường miễn là họ hoạt động an toàn và không gây thất vọng hoặc gây nhầm lẫn .",
+    "entities": [
+      {
+        "text": "sa sút trí tuệ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bức xạ sử dụng công suất cao chùm năng lượng , chẳng hạn như x quang , để giết chết tế bào ung thư .",
+    "entities": [
+      {
+        "text": "x quang",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trong một thủ tục phẫu thuật ngoại trú được gọi là một myringotomy , bác sĩ phẫu thuật tạo ra một lỗ nhỏ ở màng nhĩ cho phép hoặc hút các chất lỏng trong tai giữa .",
+    "entities": [
+      {
+        "text": "phẫu thuật ngoại trú",
+        "type": "THUỐC"
+      },
+      {
+        "text": "myringotomy",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sức cản mạch máu phổi : những bệnh nhân có sức cản trên 4 đơn vị wood không phải là ứng viên để ghép tim .",
+    "entities": [
+      {
+        "text": "ghép tim",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "báo cho bác sĩ về tình trạng cơn đau không giảm và vết thương lâu lành dù đã uống thuốc giảm đau .",
+    "entities": [
+      {
+        "text": "vết thương",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "kết quả là khối lượng của tế bào bất thường tạo thành một khối u . u não tiên phát ít phổ biến hơn là u não thứ phát , trong đó ung thư bắt đầu ở nơi khác và lan truyền đến não .",
+    "entities": [
+      {
+        "text": "u não tiên phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u não thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khối u",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "estrogen cao ở phụ nữ đã được thấy liên kết với nguy cơ phát triển chứng sa sút trí tuệ mất trí nhớ .",
+    "entities": [
+      {
+        "text": "chứng sa sút trí tuệ mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra còn một số triệu chứng không đặc hiệu sau : mệt mỏi , thiếu máu sút cân đột ngột không rõ nguyên nhân sốt các giai đoạn của ung thư thận : ung thư thận có 4 giai đoạn ung thư thận giai đoạn đầu : khối u vẫn nằm trong thận , chưa có các dấu hiệu lâm sàng điển hình , bệnh nhân có thể có đái máu vi thể ( không nhìn được bằng mắt thường , phải xác định qua xét nghiệm ) nhưng khó sờ thấy u trên lâm sàng ung thư thận giai đoạn 2 : khối u bắt đầu phát triển nhưng vẫn khu trú trong thận .",
+    "entities": [
+      {
+        "text": "sút cân đột ngột",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đái máu vi thể",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ung thư thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiếu máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sa sút trí tuệ có thể dẫn đến trầm cảm , gây nhầm lẫn , thất vọng , lo lắng , thiếu kìm chế và mất phương hướng .",
+    "entities": [
+      {
+        "text": "mất phương hướng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sa sút trí tuệ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiếu kìm chế",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "gây nhầm lẫn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thất vọng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "trầm cảm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lo lắng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "khi ăn quá nhiều hoặc khó chịu , chứng đầy hơi có thể là dấu hiệu của rối loạn sức khỏe , chẳng hạn như hội chứng ruột kích thích , bệnh celiac hoặc không dung nạp lactose .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chứng đầy hơi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh celiac",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các nhà khoa học tiếp tục tìm kiếm những đột biến gen khác có thể đóng một vai trò trong crohn .",
+    "entities": [
+      {
+        "text": "crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của rubella có thể nhận thấy dấu hiệu đặc trưng nhất ở người bệnh rubella là ban đỏ xuất hiện từ 14 – 21 ngày sau khi phơi nhiễm .",
+    "entities": [
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ban đỏ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải viêm cơ tim có rất nhiều yếu tố có thể khiến tăng nguy cơ mắc bệnh này , như : suy giảm hệ miễn dịch; nhiễm nấm , vi khuẩn hay virus; sử dụng thuốc kháng sinh trong thời gian dài; hút thuốc lá; uống nhiều rượu , bia hoặc lạm dụng chất kích thích .",
+    "entities": [
+      {
+        "text": "viêm cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ sẽ kê toa thuốc giảm đau , chẳng hạn như aspirin hoặc naproxen để giảm viêm , sốt và đau .",
+    "entities": [
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "xơ nang , rối loạn di truyền có kết quả trong sản xuất và tiết ra chất dịch bất thường , bao gồm cả chất nhầy từ màng mũi và xoang .",
+    "entities": [
+      {
+        "text": "rối loạn di truyền",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ nang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "siêu âm mắt sử dụng sóng âm thanh tần số cao từ một thiết bị cầm tay giống như cây đũa , gọi là bộ chuyển đổi để tạo ra hình ảnh của mắt .",
+    "entities": [
+      {
+        "text": "siêu âm mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "khám lâm sàng giúp bác sĩ điều trị nguyên nhân gây ra bệnh sa sút trí tuệ mất trí nhớ và nhận biết các dấu hiệu của đột quỵ hoặc những rối loạn khác có thể gây ra các triệu chứng tương tự .",
+    "entities": [
+      {
+        "text": "bệnh sa sút trí tuệ mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những vết thương sau là điều kiện thuận lợi dễ mắc bệnh uốn ván : vết thương hở , bao gồm xăm mình , xỏ khuyên , vết tiêm vết thương nhiễm bẩn , nhiều dị vật vết thương do đạn bắn gãy xương hở bỏng vết thương do phẫu thuật vết cắn của động vật phòng ngừa bệnh uốn ván các cách phòng ngừa bệnh uốn ván : tiêm vắc xin uốn ván là cách phòng bệnh tốt nhất .",
+    "entities": [
+      {
+        "text": "bệnh uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "mẫu bệnh phẫu sinh thiết có thể được lấy theo các phương pháp sau : sau phẫu thuật nội soi ổ bụng nội soi thực quản dạ dày tá tràng sinh thiết bằng kim nhỏ dưới hướng dẫn siêu âm hoặc cắt lớp vi tính .",
+    "entities": [
+      {
+        "text": "sinh thiết bằng kim nhỏ dưới hướng dẫn siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi thực quản dạ dày tá tràng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm trùng tai và xương tăng trưởng bất thường hoặc các khối u của tai ngoài hoặc giữa có thể gây ra mất thính lực .",
+    "entities": [
+      {
+        "text": "mất thính lực",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau khi kết nối các túi nước mắt đến khoang mũi và đặt một stent trong lối mới , bác sĩ phẫu thuật đóng các vết mổ với một vài mũi khâu .",
+    "entities": [
+      {
+        "text": "phẫu thuật đóng các vết mổ với một vài mũi khâu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "kết nối các túi nước mắt đến khoang mũi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đặt một stent trong lối mới",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng liên quan đến nhiễm h . pylori , bao gồm : đau ( loét ) dạ dày và ruột non .",
+    "entities": [
+      {
+        "text": "đau ( loét ) dạ dày và ruột non",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhiễm h . pylori",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

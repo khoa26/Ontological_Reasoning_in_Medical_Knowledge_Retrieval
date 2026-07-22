@@ -1,0 +1,346 @@
+[
+  {
+    "text": "với những biểu hiện bệnh khác nhau trong từng giai đoạn , ung thư thực quản thường rất khó phát hiện trong những giai đoạn đầu , thường đến khi bệnh đã tiến triến người bệnh mới có thể phát hiện và điều trị .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vi khuẩn uốn ván chết ở 560c , nhưng nha bào uốn ván rất bền vững , còn có thể gây bệnh uốn ván sau 5 năm ở trong đất .",
+    "entities": [
+      {
+        "text": "bệnh uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa hẹp môn vị là một tình trạng phổ biến ở trẻ sơ sinh và có ảnh hưởng đến cơ của môn vị , cuối thấp của dạ dày .",
+    "entities": [
+      {
+        "text": "hẹp môn vị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ví dụ một phụ nữ bị vỡ ruột thừa trước đó , khi gặp khó khăn trong việc thụ thai , thì bác sĩ có thể nghĩ đến việc người phụ nữ này bị tắc ống dẫn trứng .",
+    "entities": [
+      {
+        "text": "tắc ống dẫn trứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các loại kích thước và vị trí của bong võng mạc sẽ xác định phương pháp phẫu thuật mắt khuyến cáo của bác sĩ phẫu thuật .",
+    "entities": [
+      {
+        "text": "phẫu thuật mắt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "những người bị cận thị nặng có thể thấy rõ các đối tượng chỉ là một vài inch , trong khi những người bị cận thị nhẹ có thể thấy rõ ràng một số đối tượng .",
+    "entities": [
+      {
+        "text": "thấy rõ các đối tượng chỉ là một vài inch",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "có thể thấy rõ ràng một số đối tượng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cận thị nặng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cận thị nhẹ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khoảng 600 nút rải rác khắp cơ thể bẫy và tiêu diệt virus , vi khuẩn và sinh vật gây hại khác .",
+    "entities": []
+  },
+  {
+    "text": "trầm trọng hơn khi căng thẳng cảm xúc , mệt mỏi , sử dụng caffeine hoặc nhiệt độ nóng hay lạnh .",
+    "entities": []
+  },
+  {
+    "text": "ung thư tụy chia làm 4 giai đoạn : ung thư tụy giai đoạn 1 : xuất hiện khối u nằm khu trú trong tuyến tụy , kích thước chỉ dưới 2cm , hầu như không gây ra bất kỳ triệu chứng nào nên bệnh nhân rất khó phát hiện bệnh .",
+    "entities": [
+      {
+        "text": "ung thư tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mức độ nghiêm trọng của bệnh gan tương quan với sự hiện diện của các biến thể và nguy cơ chảy máu .",
+    "entities": [
+      {
+        "text": "bệnh gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh ung thư hậu môn tổng quan bệnh ung thư hậu môn hậu môn là bộ phận cuối cùng của ống tiêu hóa , tiếp nối với trực tràng .",
+    "entities": [
+      {
+        "text": "bệnh ung thư hậu môn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "dùng máy tạo nhịp vĩnh viễn là liệu pháp được lựa chọn trong block nhĩ thất có triệu chứng và nhịp tim chậm .",
+    "entities": [
+      {
+        "text": "máy tạo nhịp vĩnh viễn",
+        "type": "THUỐC"
+      },
+      {
+        "text": "block nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhịp tim chậm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh ung thư da chẩn đoán ung thư da dựa vào triệu chứng lâm sàng và kết quả sinh thiết .",
+    "entities": [
+      {
+        "text": "bệnh ung thư da",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tiếp xúc tại nơi làm việc hoặc môi trường có một số chất phóng xạ cũng có thể làm tăng nguy cơ ung thư tuyến nước bọt .",
+    "entities": [
+      {
+        "text": "ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cận lâm sàng : siêu âm bụng , chụp cắt lớp vi tính ổ bụng hay nội soi ổ bụng : là các phương tiện thăm dò từ thấp đến cao nhằm xác định chính xác vị trí của tinh hoàn ẩn .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "tinh hoàn ẩn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có 5 type ung thư hậu môn được phân loại dựa trên 5 loại tế bào khác nhau : ung thư biểu mô tế bào vảy : hay gặp nhất ung thư biểu mô tế bào chuyển tiếp ( cloacogenic carcinoma ) : chiếm 25% , khối u xuất phát từ những tế bào gần tương tự như tế bào vảy ung thư biểu mô tuyến ung thư biểu mô tế bào đáy : là một dạng của ung thư da xuất hiện tại vùng da xung quanh hậu môn ung thư hắc tố melanoma nguyên nhân bệnh ung thư hậu môn nguyên nhân ung thư hậu môn hiện nay chưa được chứng minh .",
+    "entities": [
+      {
+        "text": "ung thư biểu mô tế bào chuyển tiếp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư biểu mô tế bào vảy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư biểu mô tế bào đáy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư hắc tố melanoma",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cloacogenic carcinoma",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư biểu mô tuyến",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư hậu môn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư da",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc thường được dùng để điều trị duy trì lui bệnh như là methotrexate , azathioprine , hoặc rituximab , kết hợp với giảm liều corticosteroid .",
+    "entities": [
+      {
+        "text": "corticosteroid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "methotrexate",
+        "type": "THUỐC"
+      },
+      {
+        "text": "azathioprine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rituximab",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "mất máu chẳng hạn như do chấn thương hoặc chảy máu bên trong , cũng làm giảm lượng máu , dẫn đến giảm huyết áp nghiêm trọng .",
+    "entities": [
+      {
+        "text": "mất máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ sử dụng siêu âm để đo độ dày và mức độ của khối u để giúp xác định điều trị thích hợp nhất .",
+    "entities": [
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "thay thế thuốc trong khi một số phương pháp điều trị thay thế thường được sử dụng để điều trị đau họng , bằng chứng là giới hạn về những gì hiệu quả và những gì không .",
+    "entities": [
+      {
+        "text": "đau họng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa với viêm xoang cấp tính , các xoang hốc mũi bị viêm và sưng lên , cản trở thoát nước ra và tạo ra chất nhờn .",
+    "entities": [
+      {
+        "text": "viêm xoang cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sưng lên",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nhưng trong xơ gan mật , các tế bào t xâm nhập và phá hủy các tế bào lót đường mật nhỏ .",
+    "entities": [
+      {
+        "text": "xơ gan mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh tăng tiết mồ hôi tổng quan bệnh tăng tiết mồ hôi mồ hôi được sản xuất bởi các tuyến nằm ở lớp hạ bì lớp của da .",
+    "entities": [
+      {
+        "text": "bệnh tăng tiết mồ hôi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có trải nghiệm khó chịu mắt hoặc nhức đầu sau khi một khoảng thời gian dài làm nhiệm vụ gần , chẳng hạn như đọc , viết , làm việc máy tính hoặc vẽ .",
+    "entities": [
+      {
+        "text": "khó chịu mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhức đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nhịp nhanh thất có thể đơn hình hay đa hình , dai dẳng hoặc không dai dẳng : nhịp nhanh thất đơn hình : phức bộ qrs giống nhau ở trên cùng một chuyển đạo trên tất cả các chuyển đạo ecg bề mặt .",
+    "entities": [
+      {
+        "text": "nhịp nhanh thất",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thử nghiệm trong phòng thí nghiệm gọi là thử nghiệm tìm kháng nguyên liên quan đến nhiễm h . pylori trong phân .",
+    "entities": [
+      {
+        "text": "nhiễm h . pylori",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một điều kiện được gọi là dị dạng động tĩnh mạch ( avm ) , xảy ra trong các kết nối giữa động mạch và tĩnh mạch , có thể gây ù tai .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sinh thiết cơ bị giảm trương lực thấy có sự đứt đoạn của dây thần kinh trên kiểm tra mô học .",
+    "entities": [
+      {
+        "text": "sinh thiết cơ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "uống rượu , đặc biệt là vượt quá cũng làm cho nhiều khả năng sẽ phát triển các khối u đại tràng .",
+    "entities": [
+      {
+        "text": "khối u đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết những người bị xơ gan đường mật có kháng thể chống ti thể - kháng thể enzyme mục tiêu trong ty thể .",
+    "entities": [
+      {
+        "text": "xơ gan đường mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

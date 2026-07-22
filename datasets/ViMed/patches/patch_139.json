@@ -1,0 +1,391 @@
+[
+  {
+    "text": "sán máng là nhiễm ký sinh trùng được tìm thấy trong các phần của châu phi , nam mỹ , vùng caribbean , trung đông và đông nam á . các ký sinh trùng có thể gây hại cho gan , cũng như phổi , ruột và bàng quang .",
+    "entities": []
+  },
+  {
+    "text": "chính vì vậy , bệnh này cần được bác sĩ theo dõi đồng thời phải điều trị , kiểm soát bệnh nền kèm theo như tăng huyết áp , tiểu đường … xem thêm : bệnh tăng nhãn áp glocom ( thiên đầu thống ) : cách chẩn đoán và điều trị ?",
+    "entities": [
+      {
+        "text": "bệnh tăng nhãn áp glocom",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiên đầu thống",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "giai đoạn này của bệnh ung thư cũng có thể bao gồm các khối u nhỏ mà đã lan đến hạch bạch huyết gần đó .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi nhuộm đầy động mạch , các động mạch trở nên nhìn thấy trên xquang , tiết lộ các khu vực tắc nghẽn .",
+    "entities": [
+      {
+        "text": "xquang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh trào ngược dạ dày thực quản bác sĩ có thể khuyên người bệnh nên thử điều chỉnh lối sống và sử dụng thuốc không kê đơn trước .",
+    "entities": [
+      {
+        "text": "bệnh trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thường thấy st bất thường giống thiếu máu cơ tim; đôi khi thấy st chênh lên , nhưng phổ biến hơn là sự thay đổi sóng st - t không đặc hiệu trên điện tâm đồ , cần tránh nhầm lẫn với biến đổi st chênh lênh trong nhồi máu cơ tim .",
+    "entities": [
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ngăn ngừa bệnh viêm gan c không có thuốc chủng ngừa viêm gan c tồn tại , nhưng có thể giảm nguy cơ nhiễm trùng .",
+    "entities": [
+      {
+        "text": "bệnh viêm gan c",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ảnh hưởng đến kết quả dinh dưỡng , chẳng hạn như thiếu máu và thấp còi ( chiều cao thấp so với tuổi ) .",
+    "entities": [
+      {
+        "text": "thiếu máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thấp còi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thiếu máu làm cho cảm thấy mệt mỏi , và cũng có thể bị chóng mặt , khó thở , đau đầu , da nhợt nhạt và khó chịu .",
+    "entities": [
+      {
+        "text": "da nhợt nhạt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thiếu máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều trị viêm kết mạc dị ứng nếu kích thích là viêm kết mạc dị ứng , bác sĩ có thể kê toa một trong nhiều loại thuốc nhỏ mắt cho những người bị dị ứng .",
+    "entities": [
+      {
+        "text": "kê toa một trong nhiều loại thuốc nhỏ mắt cho những người bị dị ứng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "điều trị viêm kết mạc dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "liệu pháp đa thuốc ( mdt ) là một phương pháp điều trị bệnh phong thông thường kết hợp thuốc kháng sinh .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh phong",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "may mắn thay , hội chứng guillain - barre tương đối hiếm , ảnh hưởng đến chỉ có 1 hoặc 2 người trên 100.000 người .",
+    "entities": [
+      {
+        "text": "hội chứng guillain - barre",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đồng thời , đánh giá tràn dịch màng phổi trong suy tim , sung huyết phổi và các bệnh lý phổi .",
+    "entities": [
+      {
+        "text": "sung huyết phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một chế độ ăn uống có chứa những thực phẩm này đã được liên kết với một tỷ lệ giảm của thoái hóa điểm vàng .",
+    "entities": [
+      {
+        "text": "thoái hóa điểm vàng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu có huyết áp cao , cholesterol cao , bệnh tiểu đường hoặc bệnh khác làm tăng nguy cơ xơ vữa động mạch , làm việc với bác sĩ để kiểm soát các điều kiện này .",
+    "entities": [
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phụ nữ có thai : hạ đường huyết , thiếu máu , sẩy thai , đẻ non , nhiễm trùng hậu sản sau sảy thai hoặc đẻ non .",
+    "entities": [
+      {
+        "text": "nhiễm trùng hậu sản",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hạ đường huyết",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thiếu máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sẩy thai",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đẻ non",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu bị tiểu đường , làm việc với bác sĩ để chắc chắn nó được kiểm soát tốt trước khi mang thai .",
+    "entities": [
+      {
+        "text": "tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong giai đoạn bệnh sa sút trí tuệ mất trí nhớ trung bình đến nặng , sẽ mất khả năng độc lập hoàn thành nhiệm vụ trong cuộc sống hàng ngày .",
+    "entities": [
+      {
+        "text": "mất khả năng độc lập hoàn thành nhiệm vụ trong cuộc sống hàng ngày",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh sa sút trí tuệ mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng đối phó với chẩn đoán ung thư túi mật có thể đặc biệt khó khăn bởi vì căn bệnh này thường mang một tiên lượng xấu .",
+    "entities": [
+      {
+        "text": "ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị bệnh phương pháp điều trị nhằm mục đích làm bệnh tật chậm lại và kéo dài cuộc sống bao gồm : ursodeoxycholic acid ( udca ) .",
+    "entities": [
+      {
+        "text": "ursodeoxycholic acid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "udca",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thuốc chống trầm cảm : một số loại thuốc gọi là “thuốc ức chế tái hấp thu có chọn lọc serotonin” ( selective serotonin reuptake inhibitors - ssris ) có tác dụng làm dịu hiện tượng bốc hỏa và các triệu chứng tâm lý khác như lo âu , muộn phiền .",
+    "entities": [
+      {
+        "text": "muộn phiền",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bốc hỏa",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lo âu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "khó nuốt liên kết với gerd có thể được điều trị bằng thuốc theo toa uống để giảm acid dạ dày .",
+    "entities": [
+      {
+        "text": "khó nuốt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gerd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu tai giữa chứa đầy chất lỏng , bác sĩ sẽ thấy ít hoặc không có chuyển động của màng nhĩ .",
+    "entities": [
+      {
+        "text": "tai giữa chứa đầy chất lỏng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong khoảng thời gian hàng năm , sự kết hợp của viêm đang diễn ra , sẹo và độc tính từ mật bị mắc kẹt có thể dẫn đến xơ gan .",
+    "entities": [
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thực hiện theo hướng dẫn của bác sĩ và sử dụng thuốc kháng sinh theo toa cho đến khi khỏi bệnh , ngăn ngừa sự tái phát của nhiễm trùng .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh theo toa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều này có thể được thấy rõ hơn khi có một nhiễm trùng ( lạnh trên đường hô hấp ) hoặc dị ứng gây ra đoạn mũi bị sưng tấy và thu hẹp .",
+    "entities": [
+      {
+        "text": "đoạn mũi bị sưng tấy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thu hẹp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không nên chỉ định nitroprusside mà không có thuốc chẹn beta hoặc chẹn kênh calci vì hoạt hóa giao cảm phản xạ để đáp ứng với sự giãn mạch có thể làm tăng co bóp tâm thất và áp lực lên động mạch chủ , gây tổn thương nặng hơn .",
+    "entities": [
+      {
+        "text": "thuốc chẹn beta",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chẹn kênh calci",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nitroprusside",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "điều trị nội khoa thuốc kháng cholinergic mục tiêu của chỉ định các thuốc kháng cholinergic là cải thiện sự dẫn truyền qua nút nhĩ thất ( avn ) bằng cách giảm trương lực phế vị thông qua phong tỏa thụ thể muscarinic .",
+    "entities": [
+      {
+        "text": "thuốc kháng cholinergic",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị viêm mạch hiệu quả tùy vào thể trạng bệnh nhân và mức độ nghiêm trọng của bệnh mà bác sĩ sẽ áp dụng những phương pháp điều trị và kê đơn thuốc phù hợp .",
+    "entities": [
+      {
+        "text": "viêm mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đặc biệt , sởi có thể lan truyền từ 1 ngày trước khi bắt đầu giai đoạn khởi phát đến 4 ngày sau khi xuất hiện ban .",
+    "entities": [
+      {
+        "text": "sởi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ban",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

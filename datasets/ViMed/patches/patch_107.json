@@ -1,0 +1,392 @@
+[
+  {
+    "text": "các biện pháp điều trị bệnh trĩ nội bệnh trĩ nội có các cách điều trị khác nhau , tùy thuộc vào mức độ nặng nhẹ của bệnh .",
+    "entities": [
+      {
+        "text": "bệnh trĩ nội",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh trĩ nội",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu có hiện tượng hở van động mạch chủ nặng phải được điều trị bằng cách nối lại các lá van hoặc thay van .",
+    "entities": [
+      {
+        "text": "hở van động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nối lại các lá van",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thay van",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đặc biệt hơn , phụ nữ mang thai mắc bệnh thủy đậu có thể lây cho thai nhi qua nhau thai , gây nên tình trạng mắc thủy đậu bẩm sinh .",
+    "entities": [
+      {
+        "text": "bệnh thủy đậu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng ở một số ít phụ nữ có thể trạng nhạy cảm , dẫn tới cơn đau ảnh hưởng đến khả năng sinh hoạt hằng ngày .",
+    "entities": [
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ cũng có thể sử dụng nội soi hoặc dụng cụ khác để có một mẫu mô nhỏ ( sinh thiết ) để xét nghiệm ung thư .",
+    "entities": [
+      {
+        "text": "dụng cụ khác để có một mẫu mô nhỏ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xét nghiệm ung thư",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "di chuyển tới một công việc mới hoặc chia tay một mối quan hệ , thay đổi có thể mang lại cảm xúc buồn bực mà có thể làm tăng tính nhạy cảm đến rối loạn ăn uống .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm siêu vi đường hô hấp : mầm bệnh vi rút gây tiêu chảy nhiễm trùng có thể ảnh hưởng đến các bộ phận khác của cơ thể .",
+    "entities": [
+      {
+        "text": "tiêu chảy nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các khu vực võng mạc được tách ra mất nguồn cung cấp máu và ngừng hoạt động , do đó , bị mất tầm nhìn .",
+    "entities": [
+      {
+        "text": "bị mất tầm nhìn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đánh giá hệ thần kinh là một phần đánh giá cân bằng , chức năng cảm giác và phản xạ để xác định vấn đề có thể ảnh hưởng đến việc chẩn đoán hoặc đang điều trị với thuốc .",
+    "entities": [
+      {
+        "text": "đánh giá hệ thần kinh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc hầu hết các trường hợp viêm xoang cấp tính không cần điều trị , vì gây ra bởi vi rút cảm lạnh .",
+    "entities": [
+      {
+        "text": "viêm xoang cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư ở đại tràng phải đến muộn thường có triệu chứng bán tắc ruột : người bệnh đau bụng từng cơn , đôi khi thấy sôi bụng , sau khi trung tiện được thì hết đau ( hội chứng koenig ) .",
+    "entities": [
+      {
+        "text": "ung thư ở đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau bụng từng cơn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sôi bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mỗi năm trên thế giới có khoảng 263.900 bệnh nhân ung thư lưỡi mới mắc và có đến 128.000 trường hợp tử vong .",
+    "entities": [
+      {
+        "text": "ung thư lưỡi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viết chẩn đoán , thuốc , phẫu thuật và các thủ tục khác , những ngày được thực hiện , bác sĩ tim mạch nhi khoa , và bất kỳ thông tin quan trọng khác về chăm sóc em bé .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bệnh mạch vành có 2 loại : hội chứng động mạch vành cấp : cơn đau thắt ngực không ổn định , nhồi máu cơ tim cấp do tắc nghẽn hoàn toàn mạch vành ( xơ vữa hoặc huyết khối ) .",
+    "entities": [
+      {
+        "text": "cơn đau thắt ngực không ổn định",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hội chứng động mạch vành cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhồi máu cơ tim cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vấn đề túi mật khác có thể làm tăng nguy cơ ung thư túi mật bao gồm sỏi túi mật , u nang và nhiễm trùng ống túi mật mãn tính .",
+    "entities": [
+      {
+        "text": "nhiễm trùng ống túi mật mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sỏi túi mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u nang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "còn các khiếm khuyết tại xoang mạch vành , hay kế cận các tĩnh mạch chủ trên , dưới , thật sự không phải của vách liên nhĩ .",
+    "entities": [
+      {
+        "text": "khiếm khuyết tại xoang mạch vành",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của đau bụng chế độ sinh hoạt : tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị .",
+    "entities": [
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong thực tế , nhiều u nang tuyến tụy được tìm thấy trong quá trình chụp bụng cho các vấn đề khác .",
+    "entities": [
+      {
+        "text": "u nang tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng thường gặp nhất ở trẻ mắc rubella bẩm sinh : đục thủy tinh thể , thiểu năng tim và điếc bẩm sinh .",
+    "entities": [
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cắt lớp vi tính đa dãy : đánh giá được hình ảnh động mạch vành , mức độ hẹp , vị trí hẹp .",
+    "entities": [
+      {
+        "text": "cắt lớp vi tính đa dãy",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "bệnh tim mạch máu bệnh động mạch vành là một bệnh tim phổ biến ảnh hưởng đến các mạch máu chính cung cấp cho cơ tim .",
+    "entities": [
+      {
+        "text": "bệnh động mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tim mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "rượu và đồ uống có chứa caffeine kích thích ruột và có thể làm cho tiêu chảy nặng hơn , và thức uống có ga có thể sinh ra khí .",
+    "entities": [
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu lượng máu ít không thể quan sát thấy bằng mắt thường mà chỉ phát hiện được trên xét nghiệm phân tích nước tiểu .",
+    "entities": [
+      {
+        "text": "xét nghiệm phân tích nước tiểu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "bệnh biểu hiện ở phụ nữ trung niên với tình trạng thiếu máu thiếu sắt , các tổn thương nứt kẽ ở mép , môi , lưỡi đỏ , đau , niêm mạc thoái hóa teo hoặc dạng nhú , bạch sản , nuốt khó . . triệu chứng bệnh ung thư khoang miệng dấu hiệu ung thư khoang miệng thường không rõ ràng trong giai đoạn đầu , nhiều khi nhầm lẫn với các triệu chứng của bệnh lành tính khác như nhiệt miệng .",
+    "entities": [
+      {
+        "text": "bệnh ung thư khoang miệng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiếu máu thiếu sắt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nứt kẽ ở mép",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhiệt miệng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nuốt khó",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lưỡi đỏ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều này giải thích tại sao thông liên thất là một bệnh tim bẩm sinh gặp nhiều nhất trong các loại .",
+    "entities": [
+      {
+        "text": "bệnh tim bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "suy tim là một hội chứng lâm sàng trong đó cung lượng tim không đáp ứng đủ nhu cầu oxy cho chuyển hoá ở các mô của cơ thể .",
+    "entities": [
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sưng tĩnh mạch trong bệnh trĩ có thể phát triển từ sự gia tăng áp lực trong vùng thấp trực tràng .",
+    "entities": [
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số loại thực phẩm có thể gây ra đau bụng không viêm loét , chẳng hạn như mỡ và gia vị thực phẩm , đồ uống có ga , cà phê và rượu .",
+    "entities": [
+      {
+        "text": "đau bụng không viêm loét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bao gồm esomeprazole ( nexium ) , lansoprazole ( prevacid ) , omeprazole ( prilosec rx ) , pantoprazole ( protonix ) và rabeprazole ( aciphex ) .",
+    "entities": [
+      {
+        "text": "esomeprazole",
+        "type": "THUỐC"
+      },
+      {
+        "text": "lansoprazole",
+        "type": "THUỐC"
+      },
+      {
+        "text": "pantoprazole",
+        "type": "THUỐC"
+      },
+      {
+        "text": "prilosec rx",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rabeprazole",
+        "type": "THUỐC"
+      },
+      {
+        "text": "prevacid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "protonix",
+        "type": "THUỐC"
+      },
+      {
+        "text": "aciphex",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nexium",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "viêm giác mạc là phổ biến hơn ở những người sử dụng ống kính liên hệ mở rộng , hoặc mặc liên tục hơn ở những người sử dụng hàng ngày liên và đưa ra ngoài vào ban đêm .",
+    "entities": [
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

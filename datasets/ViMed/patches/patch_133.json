@@ -1,0 +1,380 @@
+[
+  {
+    "text": "ví dụ , phẫu thuật trên một khối u gần các dây thần kinh kết nối với mắt có thể mang nguy cơ mất thị lực .",
+    "entities": [
+      {
+        "text": "mất thị lực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "khối u",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong cả hai trường hợp , bác sĩ sẽ cố gắng làm giảm lượng acid - thông qua sử dụng các thuốc chẹn acid , thuốc kháng acid hoặc ức chế bơm proton - và cũng có thể sử dụng thuốc phủ niêm mạc dạ dày .",
+    "entities": [
+      {
+        "text": "thuốc phủ niêm mạc dạ dày",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ức chế bơm proton",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc kháng acid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chẹn acid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thuốc biết là gây ra hoặc làm trầm trọng thêm ù tai bao gồm : thuốc kháng sinh , bao gồm chloramphenicol , erythromycin , gentamicin , vancomycin và bleomycin .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những người có các triệu chứng rung nhĩ có thể trải nghiệm : đánh trống ngực , cảm giác nhịp tim khó chịu bất thường , hoặc lắc lư trong lồng ngực .",
+    "entities": [
+      {
+        "text": "cảm giác nhịp tim khó chịu bất thường",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lắc lư trong lồng ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đánh trống ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu bác sĩ nghi ngờ một vấn đề xoang có thể gây ra các triệu chứng , có thể cần một thử nghiệm hình ảnh để xem các xoang .",
+    "entities": [
+      {
+        "text": "thử nghiệm hình ảnh để xem các xoang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "một vấn đề xoang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán hội chứng brugada điện tâm đồ ( ecg ) .",
+    "entities": [
+      {
+        "text": "hội chứng brugada",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ecg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ở nước ta hiện nay , sốt rét đã giảm mạnh nên không uống thuốc dự phòng mà chỉ cấp thuốc cho những người trên để điều trị khi mắc bệnh sốt rét .",
+    "entities": [
+      {
+        "text": "bệnh sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một người được sinh ra , đôi khi đã bị hở van ba lá ( bệnh tim bẩm sinh ) hoặc có thể do bất thường van tim vì những tình trạng sức khỏe khác gây ra .",
+    "entities": [
+      {
+        "text": "hở van ba lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "shape {behavior : url ( #default#vml ) ;} normal 0 false false false microsoftinternetexplorer4 định nghĩa ung thư họng liên quan đến khối u ung thư phát triển trong cổ họng ( hầu ) , thanh quản hoặc amiđan .",
+    "entities": [
+      {
+        "text": "ung thư họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong thủ tục , bác sĩ sẽ bơm không khí hoặc bari lỏng vào ruột già của trẻ thông qua trực tràng .",
+    "entities": [
+      {
+        "text": "bơm không khí hoặc bari lỏng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán nếu gặp vấn đề với tầm nhìn , lịch hẹn với bác sĩ mắt càng sớm càng tốt , ngay cả khi đã gần đây đã có một bài kiểm tra mắt .",
+    "entities": [
+      {
+        "text": "bài kiểm tra mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "đau nhức đầu do tập thể dục thứ phát đau nhức đầu do tập thể dục được gây ra bởi một vấn đề cơ bản , chẳng hạn như : chảy máu ở khu vực giữa não và màng bao phủ não ( xuất huyết dưới màng nhện ) .",
+    "entities": [
+      {
+        "text": "đau nhức đầu do tập thể dục thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau nhức đầu do tập thể dục",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xuất huyết dưới màng nhện",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "lúc đầu , muối và nước dư thừa tích tụ chủ yếu ở bàn chân và mắt cá chân ( phù n ề ) , có xu hướng sưng phù lên vào cuối ngày .",
+    "entities": [
+      {
+        "text": "sưng phù",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phù n",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thường tạm thuyên giảm bằng cách ăn các loại thực phẩm nào đó đệm acid dạ dày hoặc bằng cách dùng thuốc giảm acid .",
+    "entities": [
+      {
+        "text": "thuốc giảm acid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thuốc thông mũi là những thuốc làm giảm nghẹt mũi , giúp đỡ để giữ cho đường thở ở hai bên mũi mở .",
+    "entities": [
+      {
+        "text": "thuốc làm giảm nghẹt mũi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc thông mũi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục một số phương pháp tự chăm sóc và điều trị tại nhà có thể làm giảm các triệu chứng của viêm thanh quản và giảm căng thẳng về giọng nói : hít thở không khí ẩm .",
+    "entities": [
+      {
+        "text": "hít thở không khí ẩm",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc thường có thể kiểm soát động kinh thùy trán , nhưng phẫu thuật là một lựa chọn nếu các loại thuốc chống động kinh không hiệu quả .",
+    "entities": [
+      {
+        "text": "thuốc chống động kinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "động kinh thùy trán",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hàng tháng hoặc cứ mỗi 3 tuần trong vài năm sau đó , bệnh nhân cần được tiêm phòng thấp tim sau đó bằng penicillin chậm , tùy theo chỉ định của bác sĩ dựa trên tình trạng cụ thể của người bệnh để phòng ngừa tái phát thấp tim .",
+    "entities": [
+      {
+        "text": "thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các bác sĩ đôi khi sử dụng các loại thuốc như diazepam và alprazolam để điều tr ị người bị run đang tồi tệ hơn do căng thẳng hay lo âu .",
+    "entities": [
+      {
+        "text": "loại thuốc như diazepam",
+        "type": "THUỐC"
+      },
+      {
+        "text": "alprazolam để điều tr",
+        "type": "THUỐC"
+      },
+      {
+        "text": "run",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tìm kiếm sự chăm sóc y tế ngay lập tức nếu đột nhiên thông báo các triệu chứng bong võng mạc , chẳng hạn như hạt nổi mới hay nhấp nháy của ánh sáng trong lĩnh vực hình ảnh hoặc nếu nó có vẻ như là một bức màn đen tối giảm trên thị trường .",
+    "entities": [
+      {
+        "text": "chẳng hạn như hạt nổi mới hay nhấp nháy của ánh sáng trong lĩnh vực hình ảnh hoặc nếu nó có vẻ như là một bức màn đen tối giảm trên thị trường",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "triệu chứng bong võng mạc",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các dị tật tim bẩm sinh ít nghiêm trọng hơn thường không được phát hiện cho đến khi bệnh nhân lớn hơn hoặc trưởng thành .",
+    "entities": [
+      {
+        "text": "dị tật tim bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hơn 90% ung thư tinh hoà n bắt đầu từ các tế bào mầm ( những tế bào sản xuất tinh trùng chưa trưởng thành ) và nguyên nhân khiến chúng phát triển bất thường vẫn chưa được biết rõ .",
+    "entities": [
+      {
+        "text": "ung thư tinh hoà",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu nguyên nhân của viêm niêm mạc trực tràng có thể là std , bác sĩ có thể chèn một tăm bông vào cuối niệu đạo hoặc hậu môn để có được mẫu , sau đó kiểm tra sự hiện diện của vi khuẩn hoặc các sinh vật truyền nhiễm khác .",
+    "entities": [
+      {
+        "text": "viêm niêm mạc trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "std",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đây là loại hiếm của chứng ù tai có thể được gây ra bởi một vấn đề mạch máu , xương tai trong hay các cơn co thắt cơ bắp .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong khi các loại thuốc này làm tăng rủi ro , nó có thể cần thiết cho những người bị bệnh crohn để cải thiện chất lượng cuộc sống và tránh phẫu thuật hoặc nhập viện .",
+    "entities": [
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh ù tai những yếu tố này có thể làm tăng nguy cơ : tiếp xúc với tiếng ồn lớn : những người làm việc trong môi trường ồn ào như công nhân nhà máy và xây dựng , nhạc sĩ và binh lính , . . tuổi cao : về già , số lượng sợi thần kinh hoạt động trong tai sẽ giảm , có thể gây ra các vấn đề về thính giác thường liên quan đến chứng ù tai , thường trên 60 tuổi hút thuốc lá : những người hút thuốc có nguy cơ mắc chứng ù tai cao hơn .",
+    "entities": [
+      {
+        "text": "bệnh ù tai",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "viêm mũi không dị ứng thường không gây ngứa mũi , mắt hoặc họng - triệu chứng của dị ứng như sốt cỏ khô .",
+    "entities": [
+      {
+        "text": "triệu chứng của dị ứng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "không gây ngứa mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt cỏ khô",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống đau nhức đầu do tập thể dục có xu hướng xảy ra thường xuyên hơn khi thời tiết nóng và ẩm , hoặc nếu vận động cường độ cao .",
+    "entities": [
+      {
+        "text": "đau nhức đầu do tập thể dục",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu đánh trống ngực của bạn là do một tình trạng nào đó , chẳng hạn như rối loạn nhịp tim , việc điều trị sẽ tập trung vào việc khắc phục tình trạng đó .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đánh trống ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp , bác sĩ có thể khám phá ra nếu một người có nguy cơ bị xơ gan đường mật sớm .",
+    "entities": [
+      {
+        "text": "xơ gan đường mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

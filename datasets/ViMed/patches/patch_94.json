@@ -1,0 +1,387 @@
+[
+  {
+    "text": "lớn hơn tuổi 20 không giống như viêm mũi dị ứng , mà thường xảy ra trước tuổi 20 và thường trong thời thơ ấu , viêm mũi không dị ứng xảy ra sau tuổi 20 ở hầu hết những người nhận được nó .",
+    "entities": [
+      {
+        "text": "viêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm mũi dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "người tiếp xúc nhiều với hóa chất độc hại vùng da đầu : nhuộm tóc , dùng keo xịt tóc , thuốc dưỡng tóc… người mắc các hội chứng di truyền như gardne r , hội chứng torres phòng ngừa bệnh ung thư da đầu tránh tiếp xúc trực tiếp với ánh nắng mặt trời , không tắm nắng vào khoảng thời gian từ 10 giờ đến 16 giờ , chỉ nên tắm nắng vào buổi sáng sớm , không để cháy nắng da .",
+    "entities": [
+      {
+        "text": "bệnh ung thư da đầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng torres",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cháy nắng da",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "gardne",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hạ thân nhiệt nghiêm trọng đòi hỏi phải làm ấm lại bề mặt cơ thể một cách tích cực ( ví dụ : với hệ thống làm ấm không khí cưỡng bức ) và trung tâm ( ví dụ : hít oxy ấm , truyền và rửa bằng dịch hoặc máu được làm ấm hoặc làm ấm ngoài cơ thể ) .",
+    "entities": [
+      {
+        "text": "hệ thống làm ấm không khí cưỡng bức",
+        "type": "THUỐC"
+      },
+      {
+        "text": "truyền và rửa bằng dịch hoặc máu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hạ thân nhiệt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hít oxy ấm",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết những người bị cao huyết áp không có dấu hiệu hoặc triệu chứng , ngay cả khi kết quả đo huyết áp đạt mức cao nguy hiểm .",
+    "entities": [
+      {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "người bệnh cần được sử dụng các vật dụng cá nhân riêng như khăn mặt , chén , dĩa , cốc , … phụ nữ mang thai tuyệt đối không tiếp xúc với người mang bệnh thủy đậu .",
+    "entities": [
+      {
+        "text": "bệnh thủy đậu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vì lý do này , các bác sĩ khuyên nên điều trị xâm nhập nhiều hơn , chẳng hạn như : phẫu thuật để loại bỏ một phần thực quản ( esophagectomy ) .",
+    "entities": [
+      {
+        "text": "phẫu thuật để loại bỏ một phần thực quản",
+        "type": "THUỐC"
+      },
+      {
+        "text": "esophagectomy",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "u tuyến nước bọt chủ yếu gặp ở các tuyến nước bọt chính , trong đó u tuyến mang tai là 70% , tuyến dưới hàm là 8% , còn lại 22% gặp ở tuyến dưới lưỡi và các tuyến nước bọt phụ .",
+    "entities": [
+      {
+        "text": "u tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u tuyến mang tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tùy thuộc vào nơi bong võng mạc nằm trong mắt , có thể cần phải giữ đầu ở một vị trí nhất định trong vài giờ để giữ cho bong bóng tại chỗ .",
+    "entities": [
+      {
+        "text": "bong võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , quan trọng là có thai kỳ khỏe mạnh nhằm hạn chế bệnh tim bẩm sinh nói chung và thông liên nhĩ nói riêng .",
+    "entities": [
+      {
+        "text": "thông liên nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tim bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều kiện nhất định , chẳng hạn như bệnh tiểu đường và huyết áp cao , có thể ảnh hưởng đến tầm nhìn nếu không nhận được điều trị thích hợp .",
+    "entities": [
+      {
+        "text": "bệnh tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không có phương pháp điều trị bổ sung hoặc thay thế được chứng minh để chữa bệnh đau dạ dày không viêm loét .",
+    "entities": [
+      {
+        "text": "bệnh đau dạ dày không viêm loét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân hiếm gặp hơn bao gồm : vôi hoá vòng van hai lá , sự vôi hóa lan rộng vào các cánh van khiến chúng trở nên cứng và không thể mở ra hoàn toàn .",
+    "entities": []
+  },
+  {
+    "text": "béo phì gây áp lực lên bụng , đẩy dạ dày cao lên và là nguyên nhân khiến axit trào ngược lên thực quản .",
+    "entities": [
+      {
+        "text": "trào ngược lên thực quản",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "béo phì",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh u thực quản ( polyp thực quản lành tính ) bệnh nhân có u thực quản thường không rõ triệu chứng .",
+    "entities": [
+      {
+        "text": "polyp thực quản lành tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh u thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị các nguyên nhân viêm tụy khi viêm tụy được kiểm soát , nhóm chăm sóc sức khỏe có thể điều trị các nguyên nhân cơ bản của viêm tụy .",
+    "entities": [
+      {
+        "text": "viêm tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biểu hiện bệnh không điển hình thường gặp ở người già hoặc ở bệnh nhân bị suy giảm miễn dịch , thường ít có sốt so với bệnh nhân trẻ .",
+    "entities": [
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nghiên cứu dẫn truyền thần kinh đánh giá dây thần kinh và cơ bắp phản ứng với các kích thích điện .",
+    "entities": [
+      {
+        "text": "đánh giá dây thần kinh và cơ bắp phản ứng với các kích thích điện",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nghiên cứu dẫn truyền thần kinh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "hệ cơ : giảm khả năng vận động một số bộ phận trên cơ thể , thậm chí liệt sau tai biến mạch máu não .",
+    "entities": [
+      {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thông thường , mất thính lực tạm thời , chỉ kéo dài cho đến khi rách hay thủng màng nhĩ đã được chữa lành .",
+    "entities": [
+      {
+        "text": "rách hay thủng màng nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mất thính lực tạm thời",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tiêm một chất gây mê vùng xung quanh một dây thần kinh hoặc corticosteroid tại điểm đau ( tiêm kích hoạt điểm ) đôi khi được đề nghị cho đau nhức đầu mãn tính .",
+    "entities": [
+      {
+        "text": "chất gây mê vùng xung quanh một dây thần kinh hoặc corticosteroid tại điểm đau",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau nhức đầu mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiêm kích hoạt điểm",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "huấn luyện viên và cha mẹ vô tình có thể đóng góp cho chứng rối loạn ăn uống bằng cách khuyến khích các vận động viên trẻ giảm cân .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và t huốc mắt u ác tính tùy chọn điều trị sẽ phụ thuộc vào vị trí và kích thước của khối u ác tính mắt , cũng như sức khỏe tổng thể và sở thích .",
+    "entities": [
+      {
+        "text": "huốc mắt u ác tính",
+        "type": "THUỐC"
+      },
+      {
+        "text": "u ác tính mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị ổn bệnh lý của mẹ trước mang thai : đái tháo đường , thiếu máu , nhiễm trùng , … nếu có tiền căn gia đình thông liên nhĩ , bệnh tim bẩm sinh hoặc rối loạn di truyền khác , phải được tư vấn di truyền và nguy cơ mắc bệnh của con trước khi mang thai .",
+    "entities": [
+      {
+        "text": "đái tháo đường , thiếu máu , nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rối loạn di truyền",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thông liên nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tim bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viện hàn lâm nhi khoa mỹ và học viện bác sĩ gia đình mỹ giới thiệu cách tiếp cận theo dõi đối với 48 đến 72 giờ đầu tiên cho bất cứ ai khỏe mạnh và là người : sáu tháng đến 2 tuổi có triệu chứng nhẹ và chẩn đoán không chắc chắn .",
+    "entities": [
+      {
+        "text": "triệu chứng nhẹ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "kiểm soát bệnh tiểu đường có thể làm giảm nguy cơ phát triển bệnh alzheimer và sa sút trí tuệ mạch máu .",
+    "entities": [
+      {
+        "text": "kiểm soát bệnh tiểu đường",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sa sút trí tuệ mạch máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh alzheimer",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "về cơ bản , hội chứng brugada là biểu hiện của sự suy giảm hay thiếu hụt chức năng của kênh natri đi vào ở các mức độ khác nhau của tế bào cơ tim .",
+    "entities": [
+      {
+        "text": "hội chứng brugada",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cải thiện lượng máu qua mạch vành có thể được can thiệp bằng pci ( can thiệp mạch vành qua da ) hay cabg ( phẫu thuật bắt cầu chủ vành ) .",
+    "entities": [
+      {
+        "text": "phẫu thuật bắt cầu chủ vành",
+        "type": "THUỐC"
+      },
+      {
+        "text": "can thiệp mạch vành qua da",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cabg",
+        "type": "THUỐC"
+      },
+      {
+        "text": "pci",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu vt kéo dài hơn 30 giây , nó thường sẽ dẫn đến chóng mặt , đánh trống ngực hoặc ngất .",
+    "entities": [
+      {
+        "text": "đánh trống ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngất",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "vt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tùy thuộc vào nơi loét được tìm thấy , bác sĩ có thể đề nghị nội soi lặp lại sau hai đến ba tháng để xác nhận rằng loét đã lành .",
+    "entities": [
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu đau nhức đầu do tập thể dục có thể tiên đoán , có thể dùng thuốc một hay hai giờ trước khi một sự kiện theo lịch trình , chẳng hạn như một trận tennis .",
+    "entities": [
+      {
+        "text": "dùng thuốc một hay hai giờ trước khi một sự kiện theo lịch trình",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau nhức đầu do tập thể dục",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

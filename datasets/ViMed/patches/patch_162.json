@@ -1,0 +1,415 @@
+[
+  {
+    "text": "kỹ thuật này có tác dụng phụ , đó là tỷ lệ bệnh trĩ tái phát sau điều trị cao hơn so với thắt vòng cao su .",
+    "entities": [
+      {
+        "text": "thắt vòng cao su",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên các triệu chứng này đều không đặc hiệu và có thể gặp trong các bệnh đường tiêu hóa khác : có máu trong phân : ung thư ruột non thường ít khi có máu đỏ tươi trong phân , bệnh nhân đa số đi ngoài phân đen , màu như bã cà phê , mùi thối khẳm tiêu chảy : là tình trạng đi ngoài phân nước &gt; 3 lần/ngày .",
+    "entities": [
+      {
+        "text": "có máu đỏ tươi trong phân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đi ngoài phân nước",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "có máu trong phân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đi ngoài phân đen",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ung thư ruột non",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "quản lý dài hạn tất cả bệnh nhân được điều trị bằng phẫu thuật hoặc phương pháp nội mạch phải dùng thuốc hạ huyết áp lâu dài , bao gồm thuốc chẹn beta , thuốc chẹn kênh calci và thuốc ức chế men chuyển ( ace ) .",
+    "entities": [
+      {
+        "text": "thuốc ức chế men chuyển",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chẹn kênh calci",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc hạ huyết áp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chẹn beta",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nội mạch",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm trùng viêm họng do liên cầu khuẩn hoặc ban đỏ không được điều trị có thể gây ra phản ứng thái quá này .",
+    "entities": [
+      {
+        "text": "liên cầu khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguy cơ bất thường nhịp tim dẫn đến ngất xỉu hoặc ngừng tim đột ngột có thể giảm bớt nhưng không bao giờ biến mất hoàn toàn .",
+    "entities": [
+      {
+        "text": "ngừng tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngất xỉu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các mức độ nghiêm trọng của triệu chứng ngứa có thể thay đổi , thường trở lên tồi tệ hơn vào ban đêm và cải thiện trong ngày .",
+    "entities": [
+      {
+        "text": "ngứa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "kết quả trị số đường huyết sau làm nghiệm pháp được chẩn đoán đái tháo đường thai kỳ nếu có 1 trong các trị số đường máu sau : đường máu lúc đói ≥ 92 mg/dl ( 5,1mmol/l ) đường máu sau 1 giờ uống nước đường ≥180 mg/dl ( 10 mmol/l ) đường máu sau 2 giờ uống nước đường ≥153 mg/dl ( 8,5 mmol/l ) các biện pháp điều trị bệnh tiểu đường thai kỳ chế độ ăn phù hợp : đủ chất đạm , chất béo , đường , vitamin , muối khoáng và nước với khối lượng hợp lí .",
+    "entities": [
+      {
+        "text": "bệnh tiểu đường thai kỳ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường thai kỳ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : bệnh nứt hậu môn bệnh rò hậu môn pet/ct giúp phát hiện sớm và hỗ trợ điều trị ung thư như thế nào ?",
+    "entities": [
+      {
+        "text": "bệnh nứt hậu môn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh rò hậu môn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "pet/ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "hội chứng qt kéo dài ( bẩm sinh hay mắc phải ) có liên quan đến dạng nhịp nhanh thất đặc trưng là cơn xoắn đỉnh ( torsades de pointes ) .",
+    "entities": [
+      {
+        "text": "hội chứng qt kéo dài",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "torsades de pointes",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhịp nhanh thất",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cơn xoắn đỉnh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu sau liệu trình điều trị nội khoa mà 𝛃 - hcg không trở về âm tính tức là đ iều trị nội khoa thất bại , lúc này cần chuyển sang đ iều trị ngoại khoa .",
+    "entities": [
+      {
+        "text": "iều trị ngoại khoa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "điều trị nội khoa",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "vì khối u trung thất nếu không điều trị , khi khối u phát triển chúng sẽ chèn ép các cơ quan và mô xung quanh , gây ảnh hưởng đến chức năng của các cơ quan này .",
+    "entities": []
+  },
+  {
+    "text": "phương pháp điều trị tai biến mạch máu não hiệu quả mục đích : giảm tỷ lệ tử vong , hạn chế tối đa các biến chứng lâu dài và nghiêm trọng .",
+    "entities": [
+      {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sốt ban đỏ và viêm họng liên cầu là những bệnh nhiễm trùng do vi khuẩn streptococcus nhóm a . ban đỏ và viêm họng liên cầu là những bệnh nhiễm trùng do streptococcus nhóm a thường gặp .",
+    "entities": [
+      {
+        "text": "viêm họng liên cầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt ban đỏ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cần điều trị triệt để các bệnh có nguy cơ ảnh hưởng đến thoái hóa khớp háng như bệnh gout , đái tháo đường , .",
+    "entities": [
+      {
+        "text": "thoái hóa khớp háng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh gout",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tiếng thổi do hẹp đường ra thất trái có thể tăng lên qua nghiệm pháp valsalva ( làm giảm máu trở về tĩnh mạch và thể tích thất trái cuối tâm trương ) , các biện pháp giảm áp lực động mạch chủ ( ví dụ nitroglycerin ) hoặc tăng các biện pháp làm tăng co bóp sau tâm thu .",
+    "entities": [
+      {
+        "text": "nghiệm pháp valsalva",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiếng thổi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "xạ trị xạ trị trước khi phẫu thuật để làm giảm kích thước khối u . xạ trị sau khi phẫu thuật để tiêu diệt tận gốc các tế bào ung thư .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh trầm cảm sau sinh hiện nay chưa có một bằng chứng cụ thể nào chỉ ra nguyên nhân chính gây ra trầm cảm ở phụ nữ sau sinh .",
+    "entities": [
+      {
+        "text": "bệnh trầm cảm sau sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "căng thẳng : căng thẳng không được giải tỏa có thể làm hỏng các động mạch và làm trầm trọng thêm các yếu tố nguy cơ khác của bệnh tim .",
+    "entities": [
+      {
+        "text": "bệnh tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hoạt động thể chất và xã hội có thể trì hoãn sự khởi đầu của bệnh mất trí nhớ và cũng làm giảm triệu chứng của nó .",
+    "entities": [
+      {
+        "text": "hoạt động thể chất và xã hội",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của phình tách động mạch chủ cơn đau dữ dội trước ngực hoặc sau lưng : cảm giác đau như bị xé rách xảy ra đột ngột .",
+    "entities": [
+      {
+        "text": "đau dữ dội trước ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sau lưng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đồng thời , nhiễm trùng huyết tạo gánh nặng chi phí điều trị , thời gian nằm viện và đề kháng kháng sinh đối với bệnh nhân .",
+    "entities": [
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "người bệnh có thể có một số biểu hiện như mạch yếu đập nhanh , tụt huyết áp , vã nhiều mồ hôi .",
+    "entities": [
+      {
+        "text": "vã nhiều mồ hôi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tụt huyết áp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mạch yếu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "quinidine có hiệu quả cao trong các thí nghiệm về điện sinh lý và được dùng để ức chế rung thất trong một vài tình huống lâm sàng như cơn bão loạn nhịp hay cú số icd .",
+    "entities": [
+      {
+        "text": "cơn bão loạn nhịp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "quinidine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cú số icd",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong khi phẫu thuật đục thủy tinh thể bác sĩ sử dụng gây tê cục bộ làm tê khu vực xung quanh mắt , nhưng lại tỉnh táo trong suốt quá trình .",
+    "entities": [
+      {
+        "text": "phẫu thuật đục thủy tinh thể",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ung thư bàng quang có liên quan đến hút thuốc lá , phơi nhiễm tia bức xạ , nhiễm ký sinh trùng , tiếp xúc với hóa chất .",
+    "entities": [
+      {
+        "text": "ung thư bàng quang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân tiêu chảy do kháng sinh xảy ra khi thuốc kháng khuẩn ( kháng sinh ) phá vỡ sự cân bằng của các vi khuẩn tốt và xấu trong đường tiêu hóa .",
+    "entities": [
+      {
+        "text": "thuốc kháng khuẩn",
+        "type": "THUỐC"
+      },
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tình trạng này nếu phối hợp với sự thoái hóa myelin ở chất trắng của não là gợi ý cho bệnh lý xơ hóa rải rác .",
+    "entities": [
+      {
+        "text": "xơ hóa rải rác",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tăng huyết áp thứ phát chiếm bao nhiêu phần trăm có sự khác nhau giữa các nghiên cứu , trung bình khoảng 10% .",
+    "entities": [
+      {
+        "text": "tăng huyết áp thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh u lympho tế bào t tổng quan bệnh u lympho tế bào t u lympho tế bào t là gì ?",
+    "entities": [
+      {
+        "text": "bệnh u lympho tế bào t",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay đổi trong giọng nói có thể khác nhau với các mức độ nhiễm trùng hoặc kích ứng từ nhẹ đến khàn tiếng gần như mất giọng nói .",
+    "entities": [
+      {
+        "text": "thay đổi trong giọng nói",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mất giọng nói",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

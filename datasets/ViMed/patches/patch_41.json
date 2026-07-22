@@ -1,0 +1,412 @@
+[
+  {
+    "text": "những người có vấn đề về tuyến giáp , ngưng thở khi ngủ và các vấn đề y tế khác làm tăng nguy cơ bị rung nhĩ .",
+    "entities": [
+      {
+        "text": "ngưng thở khi ngủ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các mối quan tâm và hiểu biết của nhân viên tư vấn , y tế , xã hội , thành viên giáo sĩ hoặc nhóm hỗ trợ bệnh ung thư cũng có thể hữu ích .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mũi chích ngừa cúm theo mùa và vắc - xin phế cầu khuẩn có thể giúp ngăn ngừa nhiễm trùng tai .",
+    "entities": [
+      {
+        "text": "mũi chích ngừa cúm theo mùa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "vắc - xin phế cầu khuẩn",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhiễm trùng tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ví dụ , nếu một người nào đó có vẻ tốt đẹp sau một cú đánh vào đầu và vẫn nói chuyện bình thường , nhưng sau đó bất tỉnh , tìm kiếm sự chăm sóc y tế ngay lập tức .",
+    "entities": [
+      {
+        "text": "bất tỉnh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "vì vậy có hai chiến lược quan trọng để điều trị bệnh thấp tim trong giai đoạn cấp : để loại trừ liên cầu khuẩn ra khỏi cơ thể và ngăn chặn tại pháp thấp tim cần dùng kháng sinh kịp thời , hơn nữa còn làm giảm đi cơ hội của việc tổn thương đến van tim .",
+    "entities": [
+      {
+        "text": "bệnh thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ thắt một hay hai vòng cao su nhỏ xung quanh gốc của trĩ nội để cắt đứt lưu thông của nó .",
+    "entities": [
+      {
+        "text": "thắt một hay hai vòng cao su",
+        "type": "THUỐC"
+      },
+      {
+        "text": "trĩ nội",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh thiếu máu cơ tim điều trị thiếu máu cơ tim gồm có điều trị nội khoa và tái thông mạch vành bằng can thiệp , phẫu thuật .",
+    "entities": [
+      {
+        "text": "tái thông mạch vành bằng can thiệp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh thiếu máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nội khoa",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "cơ chế tăng huyết áp nguyên phát hay tăng huyết áp nói chung là hiện tượng mà áp lực nói trên tăng lên trong quá trình bơm máu so với bình thường gây tăng áp lực cho tim , để lại những biến chứng tim mạch nghiêm trọng như tai biến mạch máu não , suy tim , bệnh mạch vành , nhồi máu cơ tim .",
+    "entities": [
+      {
+        "text": "tăng huyết áp nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "và người bệnh tiểu đường thai kỳ cần tự theo dõi đường máu thường xuyên nhiều lần trong ngày tại nhà theo chỉ dẫn của bác sĩ chuyên khoa theo dõi người bệnh tiểu đường cần có sự phối hợp của nhiều chuyên khoa , có mối liên hệ chặt chẽ giữa các bác sỹ chuyên khoa đái tháo đường , sản khoa , dinh dưỡng , sơ sinh .",
+    "entities": [
+      {
+        "text": "bệnh tiểu đường thai kỳ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các dấu hiệu và triệu chứng thường xuất hiện ở tuổi 60 và ban đầu bao gồm các vấn đề với sự phối hợp thay đổi nhân cách và bộ nhớ suy giảm , phản biện , tư duy và tầm nhìn .",
+    "entities": [
+      {
+        "text": "các vấn đề với sự phối hợp thay đổi nhân cách và bộ nhớ suy giảm , phản biện , tư duy và tầm nhìn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong ung thư hạch không hodgkin , các khối u phát triển từ tế bào lympho - một loại tế bào máu đó là bạch cầu .",
+    "entities": [
+      {
+        "text": "ung thư hạch không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các tùy chọn chính cho điều trị ung thư vòm họng được xạ trị , hóa trị hoặc kết hợp cả hai .",
+    "entities": [
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "kết hợp cả hai",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tại các khu vực khác trên thế giới , như châu á và các bộ phận của châu phi , ung thư thực quản phổ biến hơn nhiều .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân nôn nghiêm trọng , nôn kéo dài hơn 1 ngày , hoặc có dấu hiệu mất nước khi thăm khám phải làm thêm các xét nghiệm ( như xét nghiệm điện giải , bun , creatinine , glucose , xét nghiệm nước tiểu , đôi khi xét nghiệm chức năng gan ) .",
+    "entities": [
+      {
+        "text": "xét nghiệm điện giải",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xét nghiệm nước tiểu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "creatinine",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "glucose",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bun",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "trên siêu âm có thể nhìn thấy sự ứ nước vòi trứng - biểu hiện của tắc nghẽn ngoài ra còn có thể nội soi ổ bụng để chẩn đoán các biện pháp điều trị bệnh tắc vòi trứng rất nhiều trường hợp bị tắc vòi trứng đều có thắc mắc tắc vòi trứng có chữa được không ?",
+    "entities": [
+      {
+        "text": "bệnh tắc vòi trứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nội soi ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng tăng nguy cơ bệnh van tim như : người lớn tuổi , theo tuổi tác , van tim có thể trở nên dày và cứng .",
+    "entities": [
+      {
+        "text": "bệnh van tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các nứt vỡ cơ học của lớp nội mạc làm bộc lộ các protein nền ngoại bào ở dưới lớp nội mạc , làm sản xuất yếu tố tổ chức , rồi lắng đọng fibrin và tiểu cầu tạo điều kiện thuận lợi cho sự kết dính vi khuẩn và gây nhiễm trùng .",
+    "entities": [
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cũng có thể cần phải dùng kháng sinh dự phòng trước khi thủ tục nhất định , thủ tục nha khoa và phẫu thuật khác nếu nguy cơ biến chứng nghiêm trọng như viêm nội tâm mạc , nhiễm trùng do vi khuẩn .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sau một thời gian ủ bệnh , người bệnh có thể bị gầy sút , mệt mỏi , khàn giọng , khó nuốt , thở khò khè , đau xương thậm chí bị tràn dịch màng phổi tìm hiểu triệu chứng ung thư phổi điển hình đường lây truyền bệnh ung thư phổi cũng giống như những căn bệnh ung thư khác , ung thư phổi không thể lây truyền từ người này sang người khác .",
+    "entities": [
+      {
+        "text": "tràn dịch màng phổi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh ung thư phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thở khò khè",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khàn giọng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau xương",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó nuốt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "gầy sút",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mri được thực hiện bằng cách sử dụng nam châm lớn và sóng vô tuyến để tạo hình ảnh trên máy vi tính .",
+    "entities": [
+      {
+        "text": "hình ảnh trên máy vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng bởi thời gian bác sĩ phát hiện viêm đại tràng màng giả đã có thể bị bệnh nặng .",
+    "entities": [
+      {
+        "text": "viêm đại tràng màng giả",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "dù hai vợ chồng quan hệ tình dục bình thường và không sử dụng bất cứ biện pháp tránh thai nào , nam giới bị tắc ống dẫn tinh khó có thể có con .",
+    "entities": [
+      {
+        "text": "tắc ống dẫn tinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh thai chết lưu nguyên nhân thai chết lưu bao gồm : dị tật bẩm sinh , có hoặc không có kèm theo bất thường về nhiễm sắc thể dây rốn bất thường : tình trạng sa dây rốn ( dây rốn ra khỏi âm đạo trước khi em bé được sinh ra ) đã ngăn chặn việc cung cấp oxy trước khi em bé có thể tự thở .",
+    "entities": [
+      {
+        "text": "bệnh thai chết lưu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kháng sinh dự phòng nếu đã được chỉ định trong quá khứ cần phải dùng kháng sinh trước khi thủ thuật nha khoa hoặc y tế để giảm nguy cơ viêm nội tâm mạc nhiễm khuẩn , nói chuyện với bác sĩ .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc nhiễm khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thiếu máu cục bộ đường ruột thường được chia thành nhiều loại : thiếu máu cục bộ đại tràng các loại phổ biến nhất của thiếu máu cục bộ ruột là t hiếu máu cục bộ đại tràng , xảy ra khi máu chảy đến ruột già chậm lại .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiếu máu cục bộ đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiếu máu cục bộ ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ở giai đoạn này , ung thư gan đã lan tràn ra ngoài gan đến các khu vực khác của cơ thể .",
+    "entities": [
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trừ khi tách võng mạc là phẫu thuật kịp thời , điều kiện này có thể gây mất thị lực vĩnh viễn trong mắt bị ảnh hưởng .",
+    "entities": [
+      {
+        "text": "gây mất thị lực vĩnh viễn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tách võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh thiếu máu do thiếu vitamin b12 cần cải thiện chế độ dinh dưỡng , xây dựng bữa ăn đầy đủ các chất đặc biệt là các thực phẩm chứa vitamin b12 để đảm bảo cung cấp đủ cho nhu cầu của cơ thể .",
+    "entities": [
+      {
+        "text": "bệnh thiếu máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh trĩ có nhiều khả năng khi về già bởi vì các mô hỗ trợ các tĩnh mạch ở trực tràng và hậu môn có thể suy yếu và căng ra khi lão hóa .",
+    "entities": [
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "động kinh thùy trán có thể được gây ra bởi khối u , dị dạng mạch máu hoặc do chấn thương .",
+    "entities": [
+      {
+        "text": "động kinh thùy trán",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

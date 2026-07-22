@@ -1,0 +1,362 @@
+[
+  {
+    "text": "hình ảnh bệnh tiểu đường thai kỳ tổng quan bệnh tiểu đường thai kỳ tiểu đường thai kỳ ( đái tháo đường thai kỳ ) là gì ?",
+    "entities": [
+      {
+        "text": "bệnh tiểu đường thai kỳ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường thai kỳ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nghiên cứu cho thấy phẫu thuật ung thư tuyến tụy ít khi có thể gây ra các biến chứng , khi được thực hiện bởi bác sĩ phẫu thuật có kinh nghiệm .",
+    "entities": [
+      {
+        "text": "phẫu thuật ung thư tuyến tụy",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc đối với hầu hết những người các triệu chứng khô mắt không thường xuyên hoặc nhẹ , điều trị liên quan đến việc nhỏ mắt toa và bài thuốc khác .",
+    "entities": [
+      {
+        "text": "điều trị liên quan đến việc nhỏ mắt toa và bài thuốc khác",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , một vài bệnh nhân có thể gặp phải một vài biến chứng sau : hở van hai lá ; viêm nội tâm mạc ; đứt cầu cơ .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hở van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đứt cầu cơ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , tính chất tương đối ẩn của túi mật làm cho bệnh ung thư túi mật tăng trưởng mà không bị phát hiện .",
+    "entities": [
+      {
+        "text": "bệnh ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cần cách ly và điều trị trong phòng chăm sóc đặc biệt vì bệnh bạch hầu có thể lây lan dễ dàng cho bất kỳ ai không được tiêm phòng vaccine .",
+    "entities": [
+      {
+        "text": "bệnh bạch hầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật : sau khi ổn định , trẻ sẽ được phẫu thuật đưa toàn bộ các tạng nằm sai chỗ về vị trí ban đầu đồng thời đóng lỗ hở cơ hoành lại .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến đau bụng nhiều tình trạng khác nhau có thể gây ra đau bụng .",
+    "entities": [
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra và chẩn đoán các dấu hiệu và triệu chứng hẹp môn vị có thể bắt chước những vấn đề khác gây nôn ở trẻ sơ sinh , bao gồm bệnh trào ngược dạ dày thực quản ( gerd ) .",
+    "entities": [
+      {
+        "text": "bệnh trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hẹp môn vị",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gerd",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hiện tượng raynaud có thể tự xảy ra ( hiện tượng raynaud sơ cấp ) , hoặc có thể liên quan đến một tình trạng bệnh lý khác ( hiện tượng raynaud thứ phát ) .",
+    "entities": [
+      {
+        "text": "hiện tượng raynaud thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hiện tượng raynaud sơ cấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "plasmodium falciparum , plasmodium vivax : cực kỳ nguy hiểm , nguy cơ tử vong rất cao nếu không phát hiện và điều trị kịp thời .",
+    "entities": []
+  },
+  {
+    "text": "nếu nhịp tim của có vẻ bình thường , nhưng có các triệu chứng của nhịp tim chậm , có thể đeo máy theo dõi 24 giờ .",
+    "entities": [
+      {
+        "text": "đeo máy theo dõi 24 giờ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nhịp tim chậm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các tác dụng phụ có thể xảy ra bao gồm khô miệng , mờ mắt và một số vấn đề về bàng quang .",
+    "entities": [
+      {
+        "text": "khô miệng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mờ mắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguy cơ lớn nhất là nếu đã bị bệnh viêm ruột ít nhất tám năm và nếu nó đã lây lan qua toàn bộ đại tràng .",
+    "entities": [
+      {
+        "text": "bệnh viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vi khuẩn và nấm trong nước - đặc biệt là trong các đại dương , sông , hồ và bồn tắm nóng - có thể nhập vào mắt khi đang bơi hay tắm biển và kết quả là viêm giác mạc .",
+    "entities": [
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các hình thức ung thư thực quản hiếm bao gồm ung thư tế bào mầm , ung thư hạch , u ác tính , sarcoma và ung thư tế bào nhỏ .",
+    "entities": [
+      {
+        "text": "ung thư tế bào mầm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư tế bào nhỏ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư hạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u ác tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sarcoma",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu có nhiều căng thẳng , cơ thể stress hoặc bị kích động thì tình trạng tăng tiết mồ hôi càng trở nên tồi tệ hơn .",
+    "entities": [
+      {
+        "text": "tăng tiết mồ hôi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cơ thể stress",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bị kích động",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "căng thẳng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sinh thiết da có thể được thực hiện nếu còn nghi ngờ chẩn đoán sau khi đã hỏi bệnh và thăm khám lâm sàng .",
+    "entities": [
+      {
+        "text": "sinh thiết da",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "với việc theo dõi thường xuyên và điều trị hiện đại , hầu hết những người mắc hội chứng marfan giờ đây có thể có một cuộc sống bình thường hơn .",
+    "entities": [
+      {
+        "text": "hội chứng marfan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến phù bạch huyết hệ thống mạch bạch huyết là một phần của hệ thống miễn dịch .",
+    "entities": [
+      {
+        "text": "phù bạch huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tác động của bệnh động mạch ngoại biên đối với sức khỏe tình trạng đau cách hồi nghiêm trọng có thể gây hạn chế các hoạt động thường ngày như đi bộ , lên xuống cầu thang hoặc hạn chế các hoạt động thể chất khác .",
+    "entities": [
+      {
+        "text": "bệnh động mạch ngoại biên",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau cách hồi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "teo cơ tiến triển do tủy : được đặc trưng bằng tổn thương tế bào thần kinh vận động ngoại biên ở chi do thoái hóa tế bào sừng trước của tủy sống .",
+    "entities": [
+      {
+        "text": "teo cơ tiến triển do tủy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu nôn bắt nguồn từ việc mang thai , hãy thử nhấm nháp một ít bánh quy giòn trước khi ra khỏi giường vào buổi sáng .",
+    "entities": [
+      {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đường lây truyền bệnh ung thư tuyến nước bọt bệnh ung thư tuyến nước bọt không lây truyền cho người khỏe mạnh thông qua bất kỳ con đường nào , kể cả ăn chung và hôn .",
+    "entities": [
+      {
+        "text": "bệnh ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong giai đoạn cấp có các thuốc điều trị triệu chứng như các thuốc giảm viêm , dùng để giảm viêm khớp đặc biệt là aspirin .",
+    "entities": [
+      {
+        "text": "thuốc giảm viêm",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm khớp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh thiếu máu cơ tim tổng quan bệnh thiếu máu cơ tim thiếu máu cơ tim hay thiếu máu cơ tim cục bộ , bệnh tim thiếu máu cục bộ đều là những thuật ngữ mang cùng ý nghĩa nói đến bệnh lý động mạch vành .",
+    "entities": [
+      {
+        "text": "thiếu máu cơ tim cục bộ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tim thiếu máu cục",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh thiếu máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "dùng thuốc chẹn beta , ergotamine , thuốc điều trị ung thư , hỗ trợ ăn kiêng , … phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán a kiểm tra kích thích bằng tác nhân lạnh tới sự đổi màu da : người bệnh được yêu cầu đặt tay vào nước lạnh để kích thích sự khởi phát của hội chứng raynaud .",
+    "entities": [
+      {
+        "text": "thuốc điều trị ung thư",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hội chứng raynaud",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc chẹn beta",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ergotamine",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thiếu màu blue - vàng được kế thừa bởi ít hơn một trong 10.000 người trên toàn thế giới , và thừa kế không phân biệt màu thực sự ảnh hưởng ít hơn một trong 30.000 người .",
+    "entities": []
+  },
+  {
+    "text": "thay thế thuốc đối với nhiều người , điều trị bổ sung hoặc thay thế giúp ích cho đau nhức đầu .",
+    "entities": [
+      {
+        "text": "đau nhức đầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc nhiều loại thuốc không kê toa , có sẵn để làm giảm cơn đau của chứng ợ nóng .",
+    "entities": [
+      {
+        "text": "chứng ợ nóng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

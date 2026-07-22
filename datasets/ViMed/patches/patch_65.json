@@ -1,0 +1,366 @@
+[
+  {
+    "text": "xác định và điều trị giãn tĩnh mạch không chảy máu ( tĩnh mạch dưới niêm mạc lồi ra ở một phần ba xa của thực quản ) .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu có viêm mũi dị ứng , điều tốt nhất có thể làm là thực hiện các bước để giảm bớt tiếp xúc với chất gây dị ứng gây ra các triệu chứng .",
+    "entities": [
+      {
+        "text": "giảm bớt tiếp xúc với chất gây dị ứng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm mũi dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều này có thể gây ra vấn đề lâu dài đối với những người yêu thương , cũng như , nếu cố gắng để đối phó bằng cách phủ nhận mất thính lực , thu hồi từ các tương tác xã hội .",
+    "entities": [
+      {
+        "text": "mất thính lực",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tổn thương túi mật , đặc biệt là chấn thương xảy ra như là kết quả của chấn thương bụng hoặc phẫu thuật có thể gây ra viêm túi mật .",
+    "entities": [
+      {
+        "text": "viêm túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những dấu hiệu và triệu chứng có thể là kết quả của nhiều vấn đề , do đó không nhất thiết có nghĩa là bị bệnh huntington .",
+    "entities": [
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cần cân nhắc các yếu tố : vị trí , kích thước , mức độ thâm nhiễm , bề rộng của khối u tia xạ xạ trị bổ trợ sau phẫu thuật ung thư da đầu được chỉ định với mục đích ngăn tái phát tại chỗ , tại vùng .",
+    "entities": [
+      {
+        "text": "ung thư da đầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bất cứ khi nào nghi ngờ ung thư hạch , tuyến ức hay khối u thần kinh thì cần thực hiện sinh thiết kim cắt .",
+    "entities": [
+      {
+        "text": "ung thư hạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cấu tạo dương vật và cơ chế cương dương rối loạn cương dương : nguyên nhân , triệu chứng , chẩn đoán và điều trị chủ đề : nam khoa ung thư ung thư dương vật tinh hoàn dương vật quan hệ tình dục virus hpv",
+    "entities": [
+      {
+        "text": "ung thư dương vật tinh hoàn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ cũng có khả năng kiểm tra tình trạng viêm trong máu của trẻ bằng cách đo protein phản ứng c ( c – reactive protein ) và tốc độ máu lắng .",
+    "entities": [
+      {
+        "text": "đo protein phản ứng c",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "tốc độ máu lắng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng lâm sàng của thai ngoài tử cung có thể âm thầm kín đáo , tình cờ phát hiện qua lần khám thai định kì siêu âm không có thai trong buồng tử cung hoặc nhập viện trong tình trạng đau bụng dữ dội , sốc mất máu , .",
+    "entities": [
+      {
+        "text": "thai ngoài tử cung",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau bụng dữ dội",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốc mất máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các chuyển động xảy ra trong động kinh thùy trán đôi khi gây thương tích do trải qua những cơn co giật .",
+    "entities": [
+      {
+        "text": "động kinh thùy trán",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cơn co giật",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thử nghiệm xơ nang nếu có một đứa trẻ được chẩn đoán polyp mũi , bác sĩ có thể đề nghị xét nghiệm bệnh xơ nang , một bệnh di truyền ảnh hưởng đến các tuyến sản xuất chất nhờn , nước mắt , mồ hôi , nước bọt và dịch tiêu hóa .",
+    "entities": [
+      {
+        "text": "thử nghiệm xơ nang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh di truyền",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh xơ nang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "polyp mũi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị các nguyên nhân cơ bản của chứng sa sút trí tuệ mất trí nhớ cũng có thể làm chậm hoặc đôi khi dừng lại tiến trình của nó .",
+    "entities": [
+      {
+        "text": "làm chậm hoặc đôi khi dừng lại tiến trình của nó",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chứng sa sút trí tuệ mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "điều trị các nguyên nhân cơ bản",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của cao huyết áp chế độ sinh hoạt : tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị .",
+    "entities": [
+      {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vàng sấm hoặc nâu của ống kính có thể dẫn đến khó khăn trong việc phân biệt giữa các sắc thái của màu sắc .",
+    "entities": [
+      {
+        "text": "khó khăn trong việc phân biệt giữa các sắc thái của màu sắc",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể có thể giúp tìm cách để làm giảm các triệu chứng cũng như các chỉ định điều trị trong vấn đề ruột khác nghiêm trọng hơn , chẳng hạn như viêm loét đại tràng và bệnh crohn , đó là các dạng bệnh viêm ruột , và ung thư ruột kết .",
+    "entities": [
+      {
+        "text": "viêm loét đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư ruột kết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của tim đập nhanh cách thích hợp nhất để điều trị đánh trống ngực tại nhà là tránh các tác nhân gây ra các triệu chứng đó : giảm căng thẳng .",
+    "entities": [
+      {
+        "text": "đánh trống ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tim đập nhanh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chúng bao gồm : rối loạn di truyền mô liên kết , chẳng hạn như hội chứng ehlers - danlos làm suy yếu các mạch máu .",
+    "entities": []
+  },
+  {
+    "text": "ở một số người , các vấn đề về nút xoang gây ra nhịp tim chậm và nhanh xen kẽ ( hội chứng nhịp tim chậm - nhịp tim nhanh ) .",
+    "entities": [
+      {
+        "text": "hội chứng nhịp tim chậm - nhịp tim nhanh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhịp tim chậm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhanh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "viêm màng ngoài tim tiến triển chậm ( hội chứng dressler ) : thường bị sau khi phẫu thuật tim hoặc các cơn đau tim vài tuần .",
+    "entities": [
+      {
+        "text": "viêm màng ngoài tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cơn đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "có tới 20% bệnh nhân ngất do đau dữ dội , kích hoạt thụ thể baroreceptor động mạch chủ gây tắc nghẽn động mạch não ngoài sọ hoặc chèn ép tim .",
+    "entities": [
+      {
+        "text": "đau dữ dội",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngất",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến xơ vữa động mạch cholesterol máu cao ( đặc biệt là ldl – cholesterol ) , dẫn đến sự lắng đọng thành các mảng lipid trong động mạch .",
+    "entities": [
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc phẫu thuật có hai lựa chọn điều trị phổ biến cho chứng phình động mạch não vỡ .",
+    "entities": [
+      {
+        "text": "chứng phình động mạch não vỡ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các dấu hiệu và triệu chứng của chóng mặt lành tính có thể đến và đi , với các triệu chứng thường kéo dài ít hơn một phút .",
+    "entities": [
+      {
+        "text": "chóng mặt lành tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các thuốc chẹn beta ( ví dụ metoprolol , esmolol ) nên được dùng nếu nghi ngờ nguyên nhân rung nhĩ do tăng tiết quá mức catecholamine ( ví dụ trong rối loạn chức năng tuyến giáp , loạn nhịp nhanh khởi phát khi gắng sức ) .",
+    "entities": [
+      {
+        "text": "thuốc chẹn beta",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp hạn chế diễn tiến của sởi tuyệt đối không tự ý bỏ thuốc hoặc mua thuốc không có trong đơn thuốc của bác sĩ .",
+    "entities": [
+      {
+        "text": "sởi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đau bụng : một số trường hợp tắc vòi trứng có thể gây đau ở một bên bụng do ứ nước vòi trứng làm căng giãn chúng và gây đau đau bụng có thể liên tục hoặc theo chu kì kinh nguyệt như trong lạc nội mạc tử cung các triệu chứng khác : đau khi quan hệ tình dục , mệt mỏi , rối loạn tiêu hóa , .",
+    "entities": [
+      {
+        "text": "đau khi quan hệ tình dục",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau ở một bên bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa huyết áp thấp để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : duy trì chế độ vận động phù hợp và ăn uống lành mạnh .",
+    "entities": [
+      {
+        "text": "huyết áp thấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán đầy hơi khi thăm khám tình trạng đầy hơi , bác sĩ có thể chẩn đoán nguyên nhân cơ bản để từ đó đề xuất cách điều trị hiệu quả làm .",
+    "entities": [
+      {
+        "text": "đầy hơi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu không được điều trị , ký sinh trùng có thể tồn tại trong cơ thể nhiều năm và có thể gây ra các vấn đề nghiêm trọng .",
+    "entities": []
+  }
+]

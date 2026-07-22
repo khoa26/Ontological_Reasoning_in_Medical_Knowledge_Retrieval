@@ -1,0 +1,460 @@
+[
+  {
+    "text": "phương pháp điều trị và thuốc điều trị chứng sa sút trí tuệ mất trí nhớ có thể giúp làm chậm hoặc giảm thiểu sự phát triển của triệu chứng .",
+    "entities": [
+      {
+        "text": "làm chậm hoặc giảm thiểu sự phát triển của triệu chứng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chứng sa sút trí tuệ mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "siêu âm tim qua thực quản : đây là kĩ thuật có độ nhạy và độ đặc hiệu cao nhất để xác định có huyết khối trong nhĩ trái hay không .",
+    "entities": [
+      {
+        "text": "siêu âm tim qua thực quản",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống để ngăn ngừa khô hoặc kích ứng cho dây thanh âm : không hút thuốc , và tránh khói thuốc .",
+    "entities": [
+      {
+        "text": "tránh khói thuốc",
+        "type": "THUỐC"
+      },
+      {
+        "text": "không hút thuốc",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thuốc không được khuyến cáo cho những người có bệnh tăng nhãn áp hoặc người đàn ông với một tuyến tiền liệt mở rộng .",
+    "entities": [
+      {
+        "text": "tuyến tiền liệt mở rộng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống có thể giúp giảm nguy cơ phát triển polyp mũi hoặc polyp mũi tái phát sau khi điều trị với các chiến lược phòng chống như sau : quản lý dị ứng và hen suyễn thực hiện theo khuyến cáo của bác sĩ điều trị để quản lý bệnh suyễn và dị ứng .",
+    "entities": [
+      {
+        "text": "polyp mũi tái phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh suyễn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hen suyễn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chụp xquang , siêu âm , chụp cắt lớp giúp phát hiện các tạng trong ổ bụng đi lên lồng ngực , khí quản và phổi bị chèn ép .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp xquang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị nhiễm trùng huyết nhiễm trùng huyết ở mức độ nào cũng có khả năng đe dọa đến tính mạng người bệnh .",
+    "entities": [
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh ung thư lưỡi ung thư lưỡi thường gặp ở những người trên 50 tuổi , trong đó phần lớn là nam giới .",
+    "entities": [
+      {
+        "text": "bệnh ung thư lưỡi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính ( ct hoặc cat ) chụp ct sử dụng tia x để tạo ra hình ảnh cắt ngang chi tiết của cơ thể .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "cat",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "đang ở hoặc đến vùng sốt rét lưu hành ít nhất 7 ngày hoặc có tiền sử mắc sốt rét : tất cả trường hợp nghi ngờ sốt rét đều phải làm xét nghiệm để phát hiện ký sinh trùng sốt rét .",
+    "entities": [
+      {
+        "text": "sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hiếm khi , một phản ứng dị ứng nghiêm trọng có thể gây khó thở , thở khò khè , phát ban , suy nhược , tim đập nhanh hoặc chóng mặt trong vài phút hoặc vài giờ sau khi dùng .",
+    "entities": [
+      {
+        "text": "tim đập nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy nhược",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phát ban",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khò khè",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đây có thể bao gồm thuốc kháng histamine , thuốc thông mũi , ổn định tế bào mast , steroids và thuốc nhỏ chống viêm .",
+    "entities": [
+      {
+        "text": "steroids và thuốc nhỏ chống viêm",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc kháng histamine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ổn định tế bào mast",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc thông mũi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "do các bệnh lý ở hệ tiêu hóa như bệnh viêm đại tràng , viêm dạ dày , bệnh giảm nhu động ruột làm khó khăn trong quá trình tiêu hóa thức ăn dẫn đầy hơi người có các vấn đề về bệnh lý mạn tính hoặc tâm lý thường xuyên chịu áp lực , stress có thể thúc đẩy tình trạng đầy hơi xảy ra nhiều hơn .",
+    "entities": [
+      {
+        "text": "bệnh giảm nhu động ruột",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh viêm đại tràng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm dạ dày",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong quá trình kiểm tra ban đầu , tiếng cọ xát hoặc tiếng thổi mạnh hơn gợi ý một chứng rối loạn tim đã có từ trước hoặc một chẩn đoán khác .",
+    "entities": [
+      {
+        "text": "tiếng thổi mạnh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiếng cọ xát",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống rất có thể làm giảm nguy cơ bị khối u đại tràng và ung thư trực tràng bằng cách kiểm tra thường xuyên và bằng cách làm thay đổi nhất định trong chế độ ăn uống và lối sống .",
+    "entities": [
+      {
+        "text": "ung thư trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư tuyến phụ thuộc da ít đáp ứng với xạ trị hoặc hóa trị nên vai trò phẫu thuật rất lớn .",
+    "entities": [
+      {
+        "text": "ung thư tuyến phụ thuộc da",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nôn hoặc buồn nôn ung thư ruột non được chia làm 4 giai đoạn dựa vào đặc điểm khối u , di căn hạch và di căn xa : ung thư ruột non giai đoạn 1 : ung thư phát triển chỉ trong các lớp của ruột non , không xâm lấn mô xung quanh và hạch bạch huyết ung thư ruột non giai đoạn 2 : ung thư phát triển vượt quá thành ruột , xâm lấn mô xung quanh nhưng không di căn hạch .",
+    "entities": [
+      {
+        "text": "ung thư ruột non",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu cần , chụp ct cũng có thể được sử dụng để tìm kiếm khối u ở các bộ phận khác của cơ thể .",
+    "entities": [
+      {
+        "text": "chụp ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ mặc dù ai cũng có thể bị đau họng , một số yếu tố làm cho dễ bị .",
+    "entities": [
+      {
+        "text": "đau họng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "quá trình này có thể hoặc không thể được cái gì , một người bị mất trí nhớ có thể tham gia vào một số việc và người chăm sóc xem xét là : các tiên lượng lâu dài là gì và những gì là kế hoạch điều trị ?",
+    "entities": [
+      {
+        "text": "mất trí nhớ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chụp ct , mri : khi siêu âm không rõ ràng , đặc biệt trong trường hợp khối u xâm lấn dạng xốp dương vật .",
+    "entities": [
+      {
+        "text": "chụp ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa loạn thị là một bệnh không hoàn hảo và dễ dàng điều trị , được đặc trưng ở các độ cong của mắt , điều kiện có thể gây mờ mắt .",
+    "entities": [
+      {
+        "text": "loạn thị",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mờ mắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "những người bị hội chứng sau huyết khối có các triệu chứng như sưng , đau , đổi màu và trong trường hợp nghiêm trọng , đóng vảy hoặc loét ở phần bị ảnh hưởng của cơ thể .",
+    "entities": [
+      {
+        "text": "hội chứng sau huyết khối",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đóng vảy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đổi màu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sưng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "loét",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "u lympho tế bào t được chia làm 4 giai đoạn : giai đoạn i : tổn thương một vùng hạch hoặc một vị trí ngoài hạch giai đoạn 2 : tổn thương hai vùng hạch trở lên trên cùng một phía cơ hoành .",
+    "entities": [
+      {
+        "text": "u lympho tế bào t",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh tăng huyết áp thai kỳ tổng quan bệnh tăng huyết áp thai kỳ huyết áp là áp lực của dòng máu lên thành mạch .",
+    "entities": [
+      {
+        "text": "bệnh tăng huyết áp thai kỳ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hóa trị trước phẫu thuật đem lại lợi ích trong việc điều trị các ung thư vùng đầu mặt cổ giai đoạn muộn .",
+    "entities": [
+      {
+        "text": "ung thư vùng đầu mặt cổ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "điều trị biến chứng : điều trị kháng sinh khi bội nhiễm vi khuẩn; hạn chế truyền dịch khi có biến chứng viêm phổi , viêm não hoặc viêm cơ tim; điều trị hỗ trợ duy trì chức năng sống cho bệnh nhân khi viêm màng não cấp tính .",
+    "entities": [
+      {
+        "text": "điều trị hỗ trợ duy trì chức năng sống",
+        "type": "THUỐC"
+      },
+      {
+        "text": "điều trị kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hạn chế truyền dịch",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu không thể nhìn thấy các phần của động mạch chủ qua siêu âm tim hoặc nghi ngờ có sự bóc tách , thì có thể cần thực hiện siêu âm qua thực quản ( tee ) , chụp cộng hưởng từ ( mri ) hoặc chụp cắt lớp vi tính ( ct ) .",
+    "entities": [
+      {
+        "text": "siêu âm qua thực quản",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "tee",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "cũng nên tìm tư vấn y tế nếu bệnh trĩ gây đau , chảy máu thường xuyên hoặc quá mức , hoặc không cải thiện với các biện pháp tại nhà .",
+    "entities": [
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chữa trị lâu dài giảm stress , căng thẳng : nếu mắc hội chứng tăng thông khí , người bệnh cần hạn chế mọi tác nhân gây stress , căng thẳng và nhờ sự tư vấn , hỗ trợ thêm của các chuyên gia tâm lý .",
+    "entities": [
+      {
+        "text": "hội chứng tăng thông khí",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "căng thẳng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "stress",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

@@ -1,0 +1,367 @@
+[
+  {
+    "text": "bác sĩ vẫn có thể khuyên nên dùng kháng sinh phòng ngừa nếu : có một điều kiện hoặc van tim nhân tạo khác .",
+    "entities": [
+      {
+        "text": "van tim nhân tạo",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "dưới đây là những kỹ thuật thường được sử dụng trong quá trình khám chẩn đoán bệnh : chụp buồng tử cung - vòi trứng : chất cản quang sẽ được bơm vào buồng tử cung và vòi trứng .",
+    "entities": [
+      {
+        "text": "chụp buồng tử cung - vòi trứng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ù tai có thể chữa khỏi hoàn toàn nếu tìm được nguyên nhân gây ù tai , một số trường hợp không tìm được nguyên nhân điều trị chủ yếu là giảm triệu chứng ù tai cải thiện phần nào chất lượng cuộc sống .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "rối loạn ý thức thường đi kèm shock nhiễm khuẩn; gan , lách to : phản ứng của hệ võng nội mô , thường hay gặp gan to nhiều hơn lách to .",
+    "entities": [
+      {
+        "text": "rối loạn ý thức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lách to",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "gan to",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "shock",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ở châu á và châu phi , các nguyên nhân phổ biến nhất của tăng áp lực tĩnh mạch cửa bao gồm bệnh sán máng và viêm gan b/c .",
+    "entities": [
+      {
+        "text": "tăng áp lực tĩnh mạch cửa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh sán máng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm gan b/c",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu kết quả là khối máu tụ từ các thương tích ở đầu , nó có thể gây ra khối máu tụ dưới màng cứng , khối máu tụ ngoài màng cứng hoặc khối máu tụ trong nhu mô não .",
+    "entities": [
+      {
+        "text": "khối máu tụ từ các thương tích ở đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khối máu tụ trong nhu mô não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khối máu tụ ngoài màng cứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khối máu tụ dưới màng cứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tùy vào giai đoạn của bệnh mà bảo tồn hay cắt cụt dương vật , vét hạch bẹn 1 hay 2 bên .",
+    "entities": [
+      {
+        "text": "cắt cụt dương vật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tùy vào tuổi thai và có hướng xử trí và điều trị khác nhau , cụ thể như sau : thiểu ối trong 3 tháng đầu : khả năng bệnh lý về thai nhi là cao , nguyên nhân từ trong trứng phôi và bệnh lý của mẹ .",
+    "entities": [
+      {
+        "text": "thiểu ối",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong 15 đến 20 phần trăm của những người phát triển bệnh đa xơ cứng , viêm dây thần kinh thị giác là triệu chứng đầu tiên của họ .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh đa xơ cứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng tia laser để phá hủy các mạch máu bất thường ( quang đông ) trong thời gian điều trị bằng laser , bác sĩ sử dụng một chùm tia laser năng lượng cao để tiêu diệt bất thường , các mạch máu bị rò rỉ dưới hoàng điểm .",
+    "entities": [
+      {
+        "text": "điều trị bằng laser",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tia laser",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : phương pháp điều trị thai ngoài tử cung thai ngoài tử cung được chẩn đoán như thế nào ?",
+    "entities": [
+      {
+        "text": "thai ngoài tử cung",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể lấy mẫu nhỏ ( sinh thiết ) niêm mạc tá tràng để kiểm tra xem bạn có bị h elicobacter pylori không .",
+    "entities": [
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "giai đoạn ivb : ung thư đã di căn ra hơn một phần xa của cơ thể ung thư đại tràng có chữa được không ?",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các loại đục thủy tinh thể đục thủy tinh thể có ảnh hưởng đến trung tâm của ống kính ( đục thủy tinh thể hạt nhân ) .",
+    "entities": [
+      {
+        "text": "đục thủy tinh thể hạt nhân",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xơ gan đường mật có vẻ trong gia đình , và các nhà khoa học tin rằng một số người có thể kế thừa hệ thống miễn dịch dị tật nào đó làm cho họ dễ bị rối loạn .",
+    "entities": [
+      {
+        "text": "xơ gan đường mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mở thông túi lệ bên ngoài vẫn là phổ biến nhất được sử dụng và rất thành công , phương pháp phẫu thuật mở một ống dẫn nước mắt bị chặn .",
+    "entities": [
+      {
+        "text": "phương pháp phẫu thuật mở một ống dẫn nước mắt bị chặn",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "khi còn trong bụng mẹ , nếu quá trình hình thành vách ngăn tâm nhĩ có vấn đề , một lỗ hở sẽ xuất hiện , gây t hông liên nhĩ .",
+    "entities": [
+      {
+        "text": "hông liên nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có nhiều nhóm nguyên nhân gây teo thần kinh thị giác : thiếu máu nuôi thần kinh thị đây là nguyên nhân thường gặp nhất .",
+    "entities": [
+      {
+        "text": "teo thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "acetaminophen ( tylenol , những loại khác ) , aspirin hoặc ibuprofen ( advil , motrin , những loại khác ) có thể làm giảm sự khó chịu .",
+    "entities": [
+      {
+        "text": "acetaminophen",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ibuprofen",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tylenol",
+        "type": "THUỐC"
+      },
+      {
+        "text": "aspirin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "motrin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "advil",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một số yếu tố có thể dẫn đến điều này , bao gồm : giữ nước do thay đổi thời tiết ( ví dụ , ngày nóng , ẩm ướt ) , mức độ hormone hoặc ăn thức ăn mặn .",
+    "entities": []
+  },
+  {
+    "text": "homocysteine - một loại acid amin được sản xuất bởi cơ thể có thể làm tăng nguy cơ phát triển bệnh alzheimer và sa sút trí tuệ mạch máu .",
+    "entities": [
+      {
+        "text": "sa sút trí tuệ mạch máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh alzheimer",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể được giới thiệu tới bác sỹ tai mũi họng hoặc chuyên gia khác nếu đau họng mãn tính hoặc thường xuyên đau họng , hoặc nếu có bất kỳ dấu hiệu hoặc triệu chứng cho thấy một tình trạng nghiêm trọng khác hơn là nhiễm virus hoặc vi khuẩn thông thường .",
+    "entities": [
+      {
+        "text": "đau họng mãn tính",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bài kiểm tra gắng sức : theo dõi tim khi bệnh nhân đi bộ trên máy chạy bộ hoặc đạp xe , cho biết cách tim phản ứng với hoạt động thể chất và liệu các triệu chứng bệnh tim có xảy ra khi tập thể dục hay không .",
+    "entities": [
+      {
+        "text": "bài kiểm tra gắng sức",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các kỹ thuật chẩn đoán hình ảnh như chụp x - quang xương hàm dưới , siêu âm , ct scan , mri : nhằm đánh giá sự di căn của bệnh .",
+    "entities": [
+      {
+        "text": "chụp x - quang xương hàm dưới",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct scan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , nhìn chung có lẽ đang gặp táo bón nếu ít hơn ba lần một tuần , phân cứng và khô .",
+    "entities": [
+      {
+        "text": "phân cứng và khô",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "táo bón",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong thủ tục , bác sĩ cũng có thể lấy mẫu nhỏ mô ( sinh thiết ) để phân tích trong phòng thí nghiệm , trong đó có thể giúp xác định chẩn đoán .",
+    "entities": [
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "xạ trị xạ trị sử dụng chùm hạt năng lượng cao , chẳng hạn như x - quang , để diệt tế bào ung thư .",
+    "entities": [
+      {
+        "text": "diệt tế bào ung thư",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bệnh có tổn thương gan gây ra , chẳng hạn như xơ gan , có thể dẫn đến một số lượng lớn dịch tích tụ trong ổ bụng ( cổ trướng ) .",
+    "entities": [
+      {
+        "text": "cổ trướng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với viêm cơ tim do nhiễm trùng có thể sử dụng thêm kháng sinh để điều trị các tác nhân gây viêm cơ tim do vi khuẩn , đặc biệt trong giai đoạn nhiễm khuẩn cấp tính .",
+    "entities": [
+      {
+        "text": "viêm cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đa số bệnh nhân có nhịp thanh thất có bệnh tim thực tổn như bệnh cơ tim hay nhồi máu cơ tim trước đó .",
+    "entities": [
+      {
+        "text": "nhịp thanh thất",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

@@ -1,0 +1,396 @@
+[
+  {
+    "text": "viêm mũi không dị ứng cũng có thể được kích hoạt ở một số người do thuốc an thần , thuốc chống trầm cảm , t huốc ngừa thai uống hoặc thuốc dùng để điều trị rối loạn cương dương .",
+    "entities": [
+      {
+        "text": "viêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoại độc tố này ảnh hưởng đến toàn bộ cơ thể , làm tổn thương não và hệ thần kinh trung ương dẫn đến cứng cơ , có thể gây tử vong .",
+    "entities": [
+      {
+        "text": "cứng cơ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tình trạng liệt cổ họng và thực quản ( hầu ) có thể nghẹt - tắc thở , nôn hay ho khi cố gắng nuốt hoặc có cảm giác thức ăn hoặc chất dịch đi xuống khí quản hoặc lên mũi .",
+    "entities": [
+      {
+        "text": "liệt cổ họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "canxi đáng kể có thể bảo vệ chống lại các khối u đại tràng và ung thư , ngay cả khi đã có trước đây .",
+    "entities": [
+      {
+        "text": "u đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "canxi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , khi các triệu chứng khiến người phụ nữ thực sự khó chịu thì việc điều trị tiền mãn kinh là cần thiết .",
+    "entities": [
+      {
+        "text": "tiền mãn kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của hạ thân nhiệt ban đầu , bệnh nhân bị rét run dữ dội , nhưng chấm dứt khi thân nhiệt giảm xuống dưới 31°c , dẫn đến nhiệt độ cơ thể giảm nhanh hơn .",
+    "entities": [
+      {
+        "text": "hạ thân nhiệt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rét run",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến sa van hai lá sa van hai lá là do các nắp van hai lá quá to , dày hay là giãn .",
+    "entities": [
+      {
+        "text": "sa van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc chẹn beta ( beta blocker – bb ) và thuốc chẹn kênh calci ( calcium channel blocker – ccb ) đơn trị hoặc kết hợp giúp ổn định nhịp tim , làm giảm khả năng giãn nở thành động mạch ( thường là verapamil ) , là chỉ định chính .",
+    "entities": [
+      {
+        "text": "calcium channel blocker",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chẹn kênh calci",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chẹn beta",
+        "type": "THUỐC"
+      },
+      {
+        "text": "beta blocker",
+        "type": "THUỐC"
+      },
+      {
+        "text": "verapamil",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ccb",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bb",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các virus liên quan đến tăng nguy cơ ung thư hạch không hodgkin bao gồm nhiễm hiv và epstein - barr .",
+    "entities": [
+      {
+        "text": "ung thư hạch không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "epstein - barr",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hiv",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . khám sức khỏe định kỳ , kết hợp c hụp x - quang tim phổi thẳng hoặc ct - scan ngực theo chỉ định để phát hiện u trung thất sớm và làm các xét nghiệm theo dõi .",
+    "entities": [
+      {
+        "text": "hụp x - quang tim phổi thẳng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "u trung thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chẳng hạn như siêu âm bụng hoặc chụp cắt lớp vi tính ( ct scan ) , có thể được sử dụng để tạo ra hình ảnh của túi mật mà có thể cho thấy dấu hiệu của viêm túi mật .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm túi mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ct scan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nhưng có bằng chứng hỗ trợ giới hạn việc sử dụng các chế phẩm sinh học điều trị kháng sinh liên quan đến tiêu chảy .",
+    "entities": [
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bụi trong không khí từ việc đốt các nhiên liệu , cũng như các hóa chất gia dụng phổ biến , có thể gây kích ứng họng .",
+    "entities": [
+      {
+        "text": "kích ứng họng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh thiên đầu thống ( tăng nhãn áp ) tăng nhãn áp thường được chẩn đoán dễ dàng dựa vào triệu chứng và để chẩn đoán xác định chính xác , các bác sĩ sẽ đo nhãn áp của bạn bằng phương pháp tonometry .",
+    "entities": [
+      {
+        "text": "bệnh thiên đầu thống",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tonometry",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phình động mạch não rất nguy hiểm vì khi thành mạch trở nên yếu , phình và vỡ sẽ gây xuất huyết não .",
+    "entities": [
+      {
+        "text": "phình động mạch não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xuất huyết não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân đã từng nhiễm ebv ( có kháng thể ebv trong máu ) phòng ngừa bệnh ung thư vòm họng ung thư vòm họng là bệnh chưa tìm được nguyên nhân rõ ràng nên chưa có biện pháp phòng ngừa đặc hiệu .",
+    "entities": [
+      {
+        "text": "bệnh ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị bệnh đối với các trường hợp thống kinh nguyên phát do các bệnh lý gây ra , phụ nữ cần được khám bác sĩ chuyên khoa để phát hiện bệnh , từ đó , bác sĩ sẽ đưa ra hướng điều trị điều trị căn nguyên .",
+    "entities": [
+      {
+        "text": "thống kinh nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của block nhĩ thất chế độ sinh hoạt : tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị .",
+    "entities": [
+      {
+        "text": "block nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị hở van ba lá hiệu quả tùy thuộc vào nguyên nhân cũng như triệu chứng và mức độ của bệnh mà bác sĩ sẽ đưa ra những phương pháp điều trị khác nhau .",
+    "entities": [
+      {
+        "text": "hở van ba lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc viêm họng do nhiễm virus - nguyên nhân phổ biến nhất - thường kéo dài 5 - 7 ngày và không cần điều trị y tế .",
+    "entities": [
+      {
+        "text": "thuốc viêm họng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến huyết áp thấp các trường hợp sau có thể gây ra huyết áp thấp bao gồm : thai kỳ : huyết áp thấp thường gặp trong 24 tuần đầu của thai kỳ .",
+    "entities": [
+      {
+        "text": "huyết áp thấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chỉ định điều trị theo giai đoạn : giai đoạn 1 : xạ trị đơn thuần giai đoạn 2 : xạ trị kết hợp hóa chất giai đoạn 3 : hóa xạ trị đồng thời giai đoạn 4 : hóa chất toàn thân .",
+    "entities": [
+      {
+        "text": "hóa xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trẻ sinh ra trước 26 tuần tuổi thai có thể có nguy cơ rối loạn phổ tự kỷ cao hơn với trẻ sinh ra đủ tháng .",
+    "entities": [
+      {
+        "text": "rối loạn phổ tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu và triệu chứng của ung thư đại tràng bao gồm : sự thay đổi trong thói quen ruột , bao gồm tiêu chảy hoặc táo bón hoặc thay đổi một trong sự nhất quán trong phân hơn một vài tuần .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "táo bón",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng đầu tiên của sốt thấp khớp thường xảy ra khoảng hai đến bốn tuần sau khi bị viêm họng do liên cầu khuẩn .",
+    "entities": [
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm dây thần kinh thị giác thường xuyên nhất ảnh hưởng đến thanh thiếu niên từ 20 - 45. tuổi trung bình của khởi phát là khoảng 30. người lớn tuổi hay trẻ em cũng có thể phát triển viêm dây thần kinh thị giác , nhưng nó xảy ra ít thường xuyên hơn trong các nhóm này .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh tăng huyết áp nguyên phát để chẩn đoán bệnh nhân tăng huyết áp nguyên phát , cần đo huyết áp cho bệnh nhân .",
+    "entities": [
+      {
+        "text": "bệnh nhân tăng huyết áp nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tăng huyết áp nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đo huyết áp",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "theo nguyên tắc chung , khám mắt toàn diện mỗi 3 - 5 năm sau tuổi 40 và mỗi năm sau tuổi 60. có thể cần kiểm tra thường xuyên hơn nếu có yếu tố nguy cơ bệnh tăng nhãn áp .",
+    "entities": [
+      {
+        "text": "khám mắt toàn diện",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị nhiễm khuẩn : nếu đau họng do nhiễm vi khuẩn , bác sĩ sẽ kê toa thuốc kháng sinh .",
+    "entities": [
+      {
+        "text": "kê toa thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "điều trị nhiễm khuẩn",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau họng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đau nhức đầu do tập thể dục tiên phát xảy ra thường xuyên nhất ở nam giới trẻ trong độ tuổi 20. những người bị đau nhức đầu do tập thể dục thứ phát có xu hướng độ tuổi trung bình 42. các xét nghiệm và chẩn đoán bác sĩ có thể sẽ chỉ định kiểm tra hình ảnh , đặc biệt là nếu : đau nhức đầu kéo dài hơn một vài giờ .",
+    "entities": [
+      {
+        "text": "đau nhức đầu do tập thể dục tiên phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau nhức đầu kéo dài hơn một vài giờ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau nhức đầu do tập thể dục thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "kiểm tra hình ảnh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  }
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "text": "ngoài ra , có một số phương pháp như : xét nghiệm tìm máu trong phân , soi đại tràng sigma .",
+    "entities": [
+      {
+        "text": "xét nghiệm tìm máu trong phân",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "soi đại tràng sigma",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các phương pháp điều trị bao gồm : phẫu thuật trước khi sinh chức năng thần kinh ở trẻ sơ sinh bị thoát vị não màng não có thể xấu đi sau khi sinh nếu không được điều trị .",
+    "entities": [
+      {
+        "text": "thoát vị não màng não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "siêu âm tim để kiểm tra xem có hở van động mạch chủ hay không và xác định xem có cần đồng thời sửa hoặc thay thế van động mạch chủ hay không .",
+    "entities": [
+      {
+        "text": "hở van động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến bệnh tim mạch nguyên nhân của bệnh mạch vành sự tích tụ các mảng chất béo trong động mạch ( xơ vữa động mạch ) là nguyên nhân phổ biến nhất của bệnh mạch vành .",
+    "entities": [
+      {
+        "text": "bệnh tim mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "octreotide tăng sức đề kháng mạch máu bằng cách ức chế sự phóng thích các chất trung gian gây giãn mạch ( glucagon , vasoactive peptide peptide ) .",
+    "entities": [
+      {
+        "text": "octreotide",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , máu trong mắt sẽ hấp thu trong vòng 10 đến 14 ngày và sẽ không cần điều trị thêm .",
+    "entities": [
+      {
+        "text": "máu trong mắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "còn được gọi là u bao sợi thần kinh tiền đình , tình trạng này thường gây ra chứng ù tai trong một tai .",
+    "entities": [
+      {
+        "text": "u bao sợi thần kinh tiền đình",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các loại thuốc để ngăn chặn sự tăng trưởng bất thường của mạch máu thuốc có thể giúp ngừng sự tăng trưởng của các mạch máu mới bằng cách ngăn chặn những tác động của tăng trưởng , tín hiệu cơ thể sẽ gửi để tạo ra các mạch máu mới .",
+    "entities": [
+      {
+        "text": "các loại thuốc để ngăn chặn sự tăng trưởng bất thường của mạch máu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc có thể giúp ngừng sự tăng trưởng của các mạch máu mới",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ngăn chặn những tác động của tăng trưởng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bệnh hoặc bệnh tật dẫn đến sốt cao , chẳng hạn như viêm màng não có thể làm hư ốc tai .",
+    "entities": [
+      {
+        "text": "viêm màng não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số người không thể đáp ứng mọi tiêu chuẩn nhưng vẫn có rối loạn ăn uống và cần sự giúp đỡ chuyên nghiệp để khắc phục hoặc quản lý nó .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ống kính cấy ghép một thủ tục được sử dụng bởi một số bác sĩ nhãn khoa liên quan đến việc loại bỏ các ống kính tự nhiên và thay thế với một ống kính tổng hợp bên trong mắt ( ống kính cấy ghép ) .",
+    "entities": [
+      {
+        "text": "ống kính cấy ghép",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "co thắt khu trú hoặc lan tỏa các động mạch vành rối loạn chức năng vi mạch vành triệu chứng bệnh thiếu máu cơ tim triệu chứng thiếu máu cơ tim : đau ngực : thiếu máu cơ tim biểu hiện chủ yếu bằng cơn đau thắt ngực trên lâm sàng .",
+    "entities": [
+      {
+        "text": "bệnh thiếu máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cơn đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "rối loạn mạch máu liên quan đến chứng ù tai trong trường hợp hiếm , ù tai là do một rối loạn mạch máu .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với khiếm khuyết một phần , phẫu thuật cũng liên quan đến việc sửa chữa van hai lá , làm cho nó đóng chặt .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các khối u ở vùng miệng lại có thể gây khít hàm … triệu chứng thực thể u lành tính : biểu hiện u tròn , ranh giới rõ , mật độ chắc , di động; khi u ở sâu , viêm xơ hóa thì di động hạn chế; không có dấu hiệu thần kinh hoặc xâm lấn da .",
+    "entities": [
+      {
+        "text": "khít hàm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một số yếu tố nguy cơ gây bệnh bao gồm : sỏi mật : sỏi mật là yếu tố nguy cơ phổ biến nhất của ung thư túi mật .",
+    "entities": [
+      {
+        "text": "ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sỏi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của giãn tĩnh mạch chi dưới không phải tất cả các bệnh nhân bị suy giãn tĩnh mạch đều biểu hiện các triệu chứng .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch chi dưới",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy giãn tĩnh mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số dấu hiệu giúp nhận biết tai biến mạch máu não : đau đầu dữ dội , cơn đau đầu có thể đến rất nhanh , có thể xuất hiện buồn nôn hoặc nôn .",
+    "entities": [
+      {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ống thông cũng có thể được sử dụng để cung cấp cho não một loại thuốc gọi là thuốc giãn mạch , gây mở rộng mạch máu .",
+    "entities": [
+      {
+        "text": "gây mở rộng mạch máu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc giãn mạch",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "có vấn đề sức khỏe nhất định một số bệnh mãn tính có thể gây ra hoặc làm trầm trọng thêm viêm mũi , chẳng hạn như lupus , xơ nang và các rối loạn nội tiết .",
+    "entities": [
+      {
+        "text": "rối loạn nội tiết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm mũi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ nang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lupus",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh tắc ruột sơ sinh nguyên nhân tắc ruột sơ sinh bao gồm : phì đại tràng bẩm sinh ( bệnh hirschsprung ) liệt hồi tràng do phân su ( meconium ileus ) lồng ruột ( intussusceptions ) viêm ruột viêm túi thừa ( tình trạng các túi nhỏ phồng lên ở đường tiêu hoá bị viêm nhiễm ) xoắn đại tràng trong số các nguyên nhân kể trên , nguyên nhân chủ yếu trong đa số các trường hợp tắc ruột sơ sinh là lồng ruột .",
+    "entities": [
+      {
+        "text": "phì đại tràng bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tắc ruột sơ sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh hirschsprung",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "intussusceptions",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "liệt hồi tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "meconium ileus",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xoắn đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm túi thừa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lồng ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "lỗ nhỏ võng mạc hay rách có thể phát triển nơi võng mạc mỏng đi do lão hóa hoặc có rối loạn võng mạc khác .",
+    "entities": []
+  },
+  {
+    "text": "phương pháp phòng ngừa cao huyết áp hiệu quả để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : giảm lượng muối ăn vào hằng ngày ( &lt;5g mỗi ngày ) ; ăn nhiều trái cây và rau quả; hoạt động thể chất thường xuyên; tránh sử dụng thuốc lá; giảm uống rượu , bia; hạn chế ăn thức ăn chứa nhiều chất béo bão hòa .",
+    "entities": [
+      {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những kỹ thuật này cải thiện các triệu chứng viêm niêm mạc trực tràng và tiêu diệt mô bất thường , chảy máu mô .",
+    "entities": [
+      {
+        "text": "viêm niêm mạc trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với xét nghiệm msafp , một mẫu máu của người mẹ được lấy và kiểm tra alpha - fetoprotein ( afp ) - một loại protein do thai nhi sản xuất ra .",
+    "entities": [
+      {
+        "text": "xét nghiệm msafp",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán đang có khả năng gặp một bác sĩ nhãn khoa cho một chẩn đoán xác định .",
+    "entities": [
+      {
+        "text": "gặp một bác sĩ nhãn khoa",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "các xét nghiệm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu và triệu chứng của viêm hạch bạch huyết mạc treo ruột có thể kéo dài vài ngày hoặc kéo dài vài tuần .",
+    "entities": [
+      {
+        "text": "viêm hạch bạch huyết mạc treo ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bởi vì các nguy cơ bị hội chứng reye - một căn bệnh có khả năng đe dọa mạng sống - không bao giờ cung cấp cho aspirin cho trẻ em .",
+    "entities": [
+      {
+        "text": "hội chứng reye",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những vết thương có thể được gây ra bởi : hít chất kích thích , chẳng hạn như khí thải hóa chất , chất gây dị ứng hoặc hút thuốc .",
+    "entities": []
+  },
+  {
+    "text": "ht như là một liệu pháp kết hợp estrogen cộng với progestin , có thể làm tăng nguy cơ ung thư vú , chứng mất trí , bệnh tim , đột quỵ và các cục máu đông , do đó nó không thường được sử dụng để ngăn ngừa khối u đại tràng .",
+    "entities": [
+      {
+        "text": "chứng mất trí",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư vú",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ht",
+        "type": "THUỐC"
+      }
+    ]
+  }
+]

@@ -1,0 +1,372 @@
+[
+  {
+    "text": "bác sĩ có thể nhận biết và điều trị nguyên nhân như : nhiễm trùng và các rối loạn miễn dịch .",
+    "entities": [
+      {
+        "text": "rối loạn miễn dịch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "stress có xu hướng làm run tồi tệ hơn , và một trạng thái thư giãn thường xuyên cải thiện chúng .",
+    "entities": [
+      {
+        "text": "một trạng thái thư giãn thường xuyên cải thiện chúng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "run",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . mà tắc mạch ối lại là một tối cấp cứu cần được cấp cứu nhanh chóng vì vậy cần phải có kiến thức để chẩn đoán sớm chẩn đoán tắc mạch ối như sau : lâm sàng xuất hiện đột ngột , thường trong lúc chuyển dạ , lúc sinh hoặc sau khi sinh; hiếm xảy ra sau 48 giờ sau sinh .",
+    "entities": [
+      {
+        "text": "tắc mạch ối",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù polyp mũi có thể ảnh hưởng đến bất cứ ai , chúng phổ biến hơn ở người lớn , đặc biệt là những người có bệnh hen suyễn , viêm xoang và dị ứng thường xuyên .",
+    "entities": [
+      {
+        "text": "bệnh hen suyễn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm xoang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "polyp mũi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số nghiên cứu đã cho thấy nó có hiệu quả , nhưng không có đủ dữ liệu để làm một so sánh giữa ctc và nội soi .",
+    "entities": [
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ctc",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "một số loại thuốc , đặc biệt là những loại thuốc làm mạch máu co lại , chẳng hạn như một số thuốc tim mạch và chứng đau nửa đầu , thuốc nội tiết tố chẳng hạn như estrogen .",
+    "entities": [
+      {
+        "text": "chứng đau nửa đầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa phình động mạch não là hiện tượng phồng lồi mạch máu trong não .",
+    "entities": [
+      {
+        "text": "phình động mạch não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "liệu pháp laser nội mạc : một sợi quang học mỏng , bằng laser , được đưa vào qua một ống thông trong tĩnh mạch hiển lớn ( gvs ) , năng lượng laser được truyền qua đầu đốt làm nóng phần tĩnh mạch bị bệnh .",
+    "entities": [
+      {
+        "text": "liệu pháp laser nội mạc",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "cắt búi trĩ bằng phương pháp thắt dây thun - vòng thắt cao su được đặt bao quanh búi trĩ , thắt gây ra sự thiếu máu cục bộ , búi trĩ bị xơ , teo lại và tự rụng đi .",
+    "entities": [
+      {
+        "text": "cắt búi trĩ bằng phương pháp thắt dây thun",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "chỉ thay đổi 20 mm hg - ví dụ giảm từ 110 mm hg tâm thu xuống 90 mm hg tâm thu - có thể gây chóng mặt và ngất xỉu .",
+    "entities": [
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngất xỉu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thuốc ức chế hệ renin – angiotensin – aldosteron ( ức chế men chuyển hoặc ức chế thụ thể at1 ) .",
+    "entities": [
+      {
+        "text": "thuốc ức chế hệ renin – angiotensin – aldosteron",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ức chế thụ thể at1",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ức chế men chuyển",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thần kinh : đau đầu , các dấu hiệu do xâm lấn nền sọ , xâm lấn các dây thần kinh : nhìn đôi , lác trong , đau nửa mặt , chóng mặt , mất cảm giác vùng hầu họng triệu chứng mắt : khi u xâm lấn ổ mắt ( hiếm gặp ) , biểu hiện mắt lồi hoặc liệt vận nhãn .",
+    "entities": [
+      {
+        "text": "mất cảm giác vùng hầu họng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "liệt vận nhãn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau nửa mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lác trong",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhìn đôi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mắt lồi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "vấn đề mí , t huốc và các nguyên nhân khác , chẳng hạn như yếu tố môi trường , cũng có thể dẫn đến khô mắt .",
+    "entities": [
+      {
+        "text": "khô mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hóa chất làm thoái lui khối u và hạch tạo điều kiện dễ dàng phẫu thuật , giảm khả năng lan tràn tế bào ung thư .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng trẻ em các dấu hiệu và triệu chứng của bệnh lồng ruột ở trẻ em bao gồm : cơn đau nặng , đến rồi đi .",
+    "entities": [
+      {
+        "text": "bệnh lồng ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cơn đau nặng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết mọi người đáp ứng tốt với điều trị , nhưng viêm đại tràng màng giả có thể gây tử vong nếu không điều trị hiệu quả .",
+    "entities": [
+      {
+        "text": "viêm đại tràng màng giả",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ các yếu tố có thể làm tăng nguy cơ đau dạ dày không viêm loét bao gồm : tiêu thụ quá nhiều caffeine hoặc rượu .",
+    "entities": [
+      {
+        "text": "đau dạ dày không viêm loét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tăng huyết áp thai kỳ là tăng huyết áp xuất hiện sau tuần thứ 20 của thai kỳ và trở về bình thường 6 tuần sau đẻ .",
+    "entities": [
+      {
+        "text": "tăng huyết áp thai kỳ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thoát vị màng não tủy ( meningocele ) là các trường hợp trong túi thoái vị có các thành phần : màng cứng , màng nhện và dịch não tủy .",
+    "entities": [
+      {
+        "text": "thoát vị màng não tủy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu có chảy ra từ tai , bác sĩ có thể đặt một thử nghiệm trong phòng thí nghiệm để phát hiện virus hoặc nhiễm trùng tai giữa .",
+    "entities": [
+      {
+        "text": "bác sĩ có thể đặt một thử nghiệm trong phòng thí nghiệm để phát hiện virus hoặc nhiễm trùng tai giữa",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "thiết lập một nghi thức vào ban đêm sa sút trí tuệ , hành vi có thể tệ hơn vào ban đêm khi mệt mỏi , căng thẳng do nhu cầu trong ngày hoặc có thể nhầm lẫn vì sự giảm ánh sáng .",
+    "entities": [
+      {
+        "text": "sa sút trí tuệ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "căng thẳng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhầm lẫn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến viêm tá tràng có nhiều nguyên nhân dẫn đến viêm tá tràng , trong đó vi khuẩn helicobacter pylori là nguyên nhân chính gây ra bệnh .",
+    "entities": [
+      {
+        "text": "viêm tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "người lớn tuổi , khả năng tiêu hóa kém dễ mắc chướng bụng , ngoài ra cũng dễ bị táo bón hơn người trẻ .",
+    "entities": [
+      {
+        "text": "chướng bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một chất nhuộm đặc biệt ( tương phản ) sau đó được tiêm vào ống thông , và x quang được thực hiện khi nhuộm đầy động mạch hoặc tĩnh mạch .",
+    "entities": [
+      {
+        "text": "một chất nhuộm đặc biệt ( tương phản ) sau đó được tiêm vào ống thông",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "x quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "với thẩm phân phúc mạc , mạng lưới các mạch máu nhỏ trong bụng ( phúc mạc ) được sử dụng để lọc máu .",
+    "entities": [
+      {
+        "text": "thẩm phân phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lọc máu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ung thư đại tràng là một trong những loại ung thư đường tiêu hóa có tiên lượng tốt trong trường hợp phát hiện khi bệnh còn ở giai đoạn sớm hoặc các tổn thương tiền ung thư .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa sốt rét bệnh sốt rét tuy nguy hiểm nhưng dễ kiểm soát , một số cách phòng bệnh : tuyên truyền giáo dục phòng chống sốt rét , khi có dấu hiệu bệnh cần đến ngay cơ sở y tế để khám và điều trị kịp thời .",
+    "entities": [
+      {
+        "text": "bệnh sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh tế bào thần kinh vận động các bệnh nằm trong rối loạn này chưa có biện pháp điều trị cụ thể .",
+    "entities": [
+      {
+        "text": "bệnh tế bào thần kinh vận động",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những thủ tục này , tốt nhất thực hiện khi chứng viêm các động mạch nặng bao gồm : phẫu thuật bắc cầu .",
+    "entities": [
+      {
+        "text": "phẫu thuật bắc cầu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trớ : bệnh viêm phế quản dai dẳng do dịch từ thực quản chảy vào đường thở dẫn đến thức ăn bị trớ ngược ra ngoài khi bệnh nhân ngủ .",
+    "entities": [
+      {
+        "text": "viêm phế quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "trớ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

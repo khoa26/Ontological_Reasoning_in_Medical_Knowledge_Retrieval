@@ -1,0 +1,318 @@
+[
+  {
+    "text": "ở người lớn các khối u có thể không có triệu chứng hoặc gây ra triệu chứng tắc nghẽn đường thở xảy ra nhiều ở trẻ em .",
+    "entities": []
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc bệnh giãn tĩnh mạch biến chứng gây tử vong phổ biến nhất của xơ gan là vỡ tĩnh mạch ; mức độ nghiêm trọng của bệnh gan tương ứng với nguy cơ chảy máu .",
+    "entities": [
+      {
+        "text": "bệnh giãn tĩnh mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bước đầu tiên trong chẩn đoán hội chứng guillain - barre là hỏi lịch sử y tế cẩn thận để tìm hiểu các dấu hiệu và triệu chứng đang gặp phải .",
+    "entities": [
+      {
+        "text": "hội chứng guillain - barre",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số nghiên cứu đã tìm thấy nsaids có thể làm giảm nguy cơ khối u tiền ung thư và ung thư đại tràng .",
+    "entities": [
+      {
+        "text": "khối u tiền ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nsaids",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân không có nhồi máu cơ tim hay các biến chứng nguy hiểm có thể trở lại làm việc , sinh hoạt bình thường sau khi đặt stent , nhưng cần tránh các hoạt động gắng sức trong 6 tuần .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều này có thể giảm nguy tiếp xúc với c . difficile , vi khuẩn có thể gây tiêu chảy nghiêm trọng do kháng sinh .",
+    "entities": [
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu và triệu chứng khô mắt , thường ảnh hưởng đến cả hai mắt có thể bao gồm : cay nóng hoặc cảm giác khó chịu trong mắt .",
+    "entities": [
+      {
+        "text": "cay nóng hoặc cảm giác khó chịu trong mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khô mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vật liệu có thể tổn thương biểu mô giác mạc và các hóa chất từ thực vật có thể gây ra viêm , sau đó có thể dẫn đến nhiễm trùng .",
+    "entities": [
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh u tuyến yên tổng quan bệnh u tuyến yên tuyến yên là một tuyến nội tiết nằm ở đáy não , có kích thước bằng hạt đậu .",
+    "entities": [
+      {
+        "text": "bệnh u tuyến yên",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu em bé mất nước hoặc có một sự mất cân bằng điện giải , phẫu thuật sẽ được tổ chức càng sớm càng tốt sau khi những vấn đề này đã được điều trị bằng chất lỏng thay thế .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp , có thể mất hàng ngày đối với tất cả các triệu chứng mỏi mắt thuyên giảm , sau khi đã thực hiện bước để thay đổi hoạt động hoặc môi trường hoặc xử lý bất kỳ nguyên nhân cơ bản .",
+    "entities": [
+      {
+        "text": "mỏi mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "do bị chấn thương cơ tim không thực hiện xung điện bình thường , điện tâm đồ có thể thấy một cơn đau tim đã xảy ra hoặc đang xẩy ra .",
+    "entities": [
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "cơn đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật hiếm khi phẫu thuật được khuyến khích cho những người bị đau đầu cơn kinh niên , người không đáp ứng tốt với điều trị tích cực hoặc những người không thể chịu đựng các loại thuốc hoặc các hiệu ứng phụ của chúng .",
+    "entities": [
+      {
+        "text": "đau đầu cơn kinh niên",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tìm kiếm sự giúp đỡ ngay lập tức nếu trải nghiệm đau ngực nặng , đặc biệt là khi kết hợp với các dấu hiệu và triệu chứng như khó thở hoặc đau hàm hoặc cánh tay .",
+    "entities": [
+      {
+        "text": "đau hàm hoặc cánh tay",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "khả năng bệnh viêm động mạch takayasu là một bệnh tự miễn , trong đó trục trặc hệ thống miễn dịch và tấn công động mạch như thể nó là chất ngoại lai .",
+    "entities": [
+      {
+        "text": "bệnh viêm động mạch takayasu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "được gọi là fundoplication nissen , phẫu thuật này bao gồm thắt chặt các cơ vòng thực quản dưới để ngăn chặn trào ngược .",
+    "entities": [
+      {
+        "text": "fundoplication nissen",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "kiểm soát các yếu tố nguy cơ gây xơ vữa động mạch ( đặc biệt là ngừng hút thuốc lá ) , sử dụng thuốc hạ huyết áp thích hợp là rất cần thiết .",
+    "entities": [
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp , lồng ruột có thể tạm thời và tự cải thiện mà không cần điều trị .",
+    "entities": [
+      {
+        "text": "lồng ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến ghép tim ghép tim được thực hiện khi các phương pháp điều trị bệnh lý về tim khác không hiệu quả , dẫn đến suy tim .",
+    "entities": [
+      {
+        "text": "ghép tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải cơ tim phì đại một số yếu tố làm tăng nguy cơ mắc cơ tim phì đại , bao gồm : di truyền : có nhiều gen hoặc khiếm khuyết gen gây bệnh cơ tim phì đại và có thể di truyền cho các thế hệ sau; tăng huyết áp ; tuổi cao .",
+    "entities": [
+      {
+        "text": "cơ tim phì đại",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm màng ngoài tim là tình trạng viêm bất kỳ lớp nào của màng tim , gây ra cơn đau ngực .",
+    "entities": [
+      {
+        "text": "viêm màng ngoài tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp này thường bao gồm : dẫn lưu bạch huyết bằng tay , trong đó chi được nâng lên và xoa bóp hướng về phía tim .",
+    "entities": [
+      {
+        "text": "dẫn lưu bạch huyết bằng tay",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh trĩ càng lớn tuổi , càng dễ mắc bệnh trĩ do các mô hỗ trợ tĩnh mạch tại trực tràng và hậu môn bị yếu đi và giãn ra .",
+    "entities": [
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các bác sĩ biết rằng ung thư đại tràng xảy ra khi tế bào khỏe mạnh trong đại tràng thay đổi .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số người mang liên cầu khuẩn , có nghĩa là chúng có thể truyền vi khuẩn này sang người khác , nhưng các vi khuẩn hiện không làm cho bị bệnh .",
+    "entities": []
+  },
+  {
+    "text": "hở van động mạch chủ gồm hai loại : hở van động mạch chủ cấp tính và hở van động mạch chủ mạn tính .",
+    "entities": [
+      {
+        "text": "hở van động mạch chủ cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hở van động mạch chủ mạn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra và chẩn đoán nhiều người bị xơ gan đường mật không có triệu chứng của căn bệnh này khi họ được chẩn đoán ban đầu .",
+    "entities": [
+      {
+        "text": "xơ gan đường mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thoái hóa khớp háng là bệnh lý chủ yếu gặp ở người lớn tuổi , là hậu quả của tuổi tác và tình trạng mài mòn khớp kéo dài .",
+    "entities": [
+      {
+        "text": "thoái hóa khớp háng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "u sắc tố mắt nhỏ có thể gây ra một số mất thị lực nếu chúng xảy ra ở các bộ phận quan trọng của mắt .",
+    "entities": [
+      {
+        "text": "u sắc tố mắt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mất thị lực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị bao gồm điều trị không dùng thuốc : thay đổi chế độ ăn và lối sống , tăng chất lượng sống như bỏ thuốc lá , giảm cân nếu béo phì , kiểm soát tăng huyết áp , kiểm soát đái tháo đường , hạn chế rượu tối đa , bỏ rượu nếu bị bệnh cơ tim do rượu , giảm ăn muối tuỳ theo mức độ suy tim ( dưới 2g muối/ngày nếu suy tim nặng ) .",
+    "entities": [
+      {
+        "text": "bệnh cơ tim do rượu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

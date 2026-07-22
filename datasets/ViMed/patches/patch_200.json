@@ -1,0 +1,375 @@
+[
+  {
+    "text": "bên cạnh đó , một số trường hợp tắc ống phóng tinh có thể gây nên hiện tượng đau vùng xương chậu , đặc biệt là sau khi xuất tinh .",
+    "entities": [
+      {
+        "text": "đau vùng xương chậu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu không được điều trị , viêm họng liên cầu đôi khi có thể gây ra các biến chứng như viêm thận và sốt thấp khớp .",
+    "entities": [
+      {
+        "text": "viêm họng liên cầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm thận",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mô bệnh học : xét nghiệm chẩn đoán xác định bệnh , có thể làm sau phẫu thuật hoặc sinh thiết tức thì ngay trong mổ .",
+    "entities": [
+      {
+        "text": "mô bệnh học",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "một số nghiên cứu cho thấy rằng những người làm việc với một số kim loại ( bụi hợp kim niken ) hoặc khoáng chất ( bụi silic ) và những người làm việc trong khai thác amiăng , hệ thống ống nước , sản xuất sản phẩm cao su và một số loại chế biến gỗ có thể tăng nguy cơ mắc bệnh tuyến nước bọt ung thư , nhưng những mối liên quan này chưa chắc chắn .",
+    "entities": [
+      {
+        "text": "bệnh tuyến nước bọt ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong ercp , một ống nội soi nhẹ nhàng xuống cổ họng , qua dạ dày và thành phần trên của ruột non .",
+    "entities": [
+      {
+        "text": "ercp",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , các hiện tượng miễn dịch và các dấu hiệu về mạch máy như các xuất huyết nhỏ , nốt roth , viêm cầu thận vẫn còn phổ biến; tắc mạch não , mạch phổi , mạch lách xảy ra 30% số bệnh nhân viêm nội tâm mạc nhiễm khuẩn .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc nhiễm khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm cầu thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tắc mạch não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mạch phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mạch lách",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể nghe loại thiếu máu cục bộ mạc treo ruột cấp tính gọi là thiếu máu cục bộ không do tắc , có nghĩa là nó không phải do tắc nghẽn mạch máu .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ mạc treo ruột cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiếu máu cục bộ không do tắc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi loại bỏ tất cả hay một phần của khối u não , bác sĩ phẫu thuật có thể đặt một hoặc nhiều tấm bên của khối u . những tấm từ từ phát hành một loại thuốc hóa trị liệu trong vài ngày .",
+    "entities": [
+      {
+        "text": "loại bỏ tất cả hay một phần của khối u não",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc hóa trị liệu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến viêm màng ngoài tim nhiễm virus là nguyên nhân của 80 – 90% trường hợp viêm màng ngoài tim .",
+    "entities": [
+      {
+        "text": "viêm màng ngoài tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chọc tủy sống để hút dịch não tủy với một cây kim được gọi là chọc dò tủy sống thắt lưng .",
+    "entities": [
+      {
+        "text": "chọc tủy sống để hút dịch não tủy với một cây kim được gọi là chọc dò tủy sống thắt lưng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu máu trong các khối hộp thủy tinh quan điểm của võng mạc , siêu âm kiểm tra có thể hữu ích .",
+    "entities": [
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "điều trị chứng phình động mạch não ổn định có thể thích hợp cho một số trường hợp và có thể ngăn chặn vỡ trong tương lai .",
+    "entities": [
+      {
+        "text": "ngăn chặn vỡ trong tương lai",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phình động mạch não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị quai bị việc điều trị quai mang tính chất hỗ trợ , không có liệu pháp kháng virus quai bị cụ thể được chấp thuận để điều trị bệnh quai bị .",
+    "entities": [
+      {
+        "text": "bệnh quai bị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "lưu ý : khi rung nhĩ trên nền hội chứng wolff - parkinson - white , không được dùng các thuốc ức chế dẫn truyền qua nút nhĩ thất vì khi đó sẽ tăng đáp ứng thất rất nhanh qua đường phụ , gây rung thất .",
+    "entities": [
+      {
+        "text": "hội chứng wolff - parkinson - white",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh thử nghiệm , bao gồm x - quang , vi tính cắt lớp ( ct scan ) , chụp cộng hưởng từ ( mri ) và chụp cắt lớp phát xạ positron ( pet ) , có thể giúp bác sĩ xác định mức độ bệnh ung thư vượt ra ngoài bề mặt của thanh quản hoặc cổ họng .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp phát xạ positron",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "hình ảnh thử nghiệm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "vi tính cắt lớp",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "x - quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct scan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "pet",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù vấn đề thường không nguy hiểm , run nặng hơn theo thời gian và có thể nặng ở một số người .",
+    "entities": [
+      {
+        "text": "run",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu nồng độ chất này cao và bạn có các yếu tố nguy cơ của huyết khối tĩnh mạch sâu , bạn có thể bị đông máu .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nó thường gây ra bởi một chấn thương đầu nghiêm trọng , và các dấu hiệu và triệu chứng thường xuất hiện ngay lập tức .",
+    "entities": []
+  },
+  {
+    "text": "các xét nghiệm để chẩn đoán nguyên nhân gây ra rung thất sau khi bác sĩ chẩn đoán và điều trị rung thất , họ muốn biết những gì gây ra nó .",
+    "entities": [
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "và một số sa sút trí tuệ ( dementias ) , chẳng hạn như bệnh alzheimer xảy ra không phải là kết quả của một bệnh khác .",
+    "entities": [
+      {
+        "text": "bệnh alzheimer",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sút trí tuệ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "dementias",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp viêm thanh quản , giọng nói có thể trở thành gần như không phát hiện được .",
+    "entities": [
+      {
+        "text": "giọng nói có thể trở thành gần như không phát hiện được",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "rèn luyện các bài tập về cơ thể/ tâm trí : tập thái cực quyền , yoga , thiền định hoặc khí công tối thiểu 1 tiếng/ngày có thể giúp bạn bình tâm , giải tỏa tâm lý và kiểm soát thở nhanh hiệu quả .",
+    "entities": [
+      {
+        "text": "thở nhanh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "làm ấm cơ thể thụ động trong trường hợp hạ thân nhiệt nhẹ ( thân nhiệt 32,2 - 35°c ) và còn nguyên khả năng điều nhiệt ( biểu hiện bằng sự run rẩy ) , cách nhiệt cho bệnh nhân bằng chăn sưởi và nước ấm để uống là đủ .",
+    "entities": [
+      {
+        "text": "hạ thân nhiệt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh gan nhiễm mỡ không do rượu phổ biến và đối với hầu hết mọi người , không có nguyên nhân , không có dấu hiệu và triệu chứng và không có biến chứng .",
+    "entities": [
+      {
+        "text": "bệnh gan nhiễm mỡ không do rượu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa huntington là bệnh thoái hóa tiến triển mà nguyên nhân là do tế bào thần kinh trong não mất đi .",
+    "entities": [
+      {
+        "text": "huntington",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những người bị viêm tim khi bị sốt thấp khớp có thể được khuyên nên điều trị bằng kháng sinh phòng ngừa trong 10 năm hoặc lâu hơn .",
+    "entities": [
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một mẫu máu được gửi đến một phòng thí nghiệm y tế , nơi nó có thể được kiểm tra bằng chứng về sự nhạy cảm với chất gây dị ứng có thể .",
+    "entities": [
+      {
+        "text": "kiểm tra bằng chứng về sự nhạy cảm với chất gây dị ứng có thể",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "bởi vì tăng nguy cơ tác dụng phụ độc hại , không dùng huperzin a nếu dùng chất ức chế cholinesterase theo toa .",
+    "entities": [
+      {
+        "text": "chất ức chế cholinesterase theo toa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "huperzin a",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "mri tương tự như mra ở chỗ nó sử dụng sóng vô tuyến và từ trường để tạo ra hình ảnh chi tiết của các cơ quan trong cơ thể và cho phép bác sĩ kiểm tra thiệt hại có thể xảy ra .",
+    "entities": [
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mra",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh uốn ván chẩn đoán bệnh uốn ván chủ yếu dựa vào biểu hiện uốn ván với co cứng cơ .",
+    "entities": [
+      {
+        "text": "bệnh uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "co cứng cơ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

@@ -1,0 +1,387 @@
+[
+  {
+    "text": "do những hạn chế , chỉ có một tỷ lệ phần trăm nhỏ những người có thoái hóa điểm vàng ướt là chỉ định tốt để điều trị laser .",
+    "entities": [
+      {
+        "text": "thoái hóa điểm vàng ướt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "điều trị laser",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh tăng huyết áp nguyên phát vì tăng huyết áp nguyên phát chưa phát hiện được rõ ràng nguyên nhân gây bệnh nên điều trị căn bệnh này cũng gặp những vấn đề khó khăn , và mục tiêu điều trị chỉ để khắc phục những triệu chứng mà bệnh này gây ra .",
+    "entities": [
+      {
+        "text": "bệnh tăng huyết áp nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trẻ sơ sinh hoặc trẻ mới biết đi mất ngủ hoặc khó chịu sau khi bị nhiễm lạnh hay hô hấp trên .",
+    "entities": [
+      {
+        "text": "hô hấp trên",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm lạnh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mất ngủ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chất chỉ thị màu sẽ được bơm vào đường mật , sau đó bệnh nhân được chụp xquang để quan sát sự tồn tại của khối u có hay không ?",
+    "entities": [
+      {
+        "text": "chụp xquang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ăn một chế độ ăn uống khỏe mạnh là quan trọng vì nhiều lý do , nhưng các nghiên cứu cho thấy chế độ ăn nhiều trái cây , rau quả và omega - 3 fatty acid thường được tìm thấy trong cá và hạt nhất định , có thể có tác dụng bảo vệ và giảm nguy cơ phát triển chứng sa sút trí tuệ mất trí nhớ .",
+    "entities": [
+      {
+        "text": "chứng sa sút trí tuệ mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "omega - 3 fatty acid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ánh sáng tia cực tím từ mặt trời có thể góp phần vào sự phát triển của đ ục thủy tinh thể .",
+    "entities": [
+      {
+        "text": "ục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu không được điều trị , hạ thân nhiệt có thể dẫn đến suy tim và hệ hô hấp hoàn toàn và cuối cùng dẫn đến tử vong .",
+    "entities": [
+      {
+        "text": "hạ thân nhiệt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu đã có xuất huyết dưới màng nhện , sẽ có khả năng các tế bào hồng cầu trong dịch bao quanh não và tủy sống ( dịch não tủy ) .",
+    "entities": [
+      {
+        "text": "xuất huyết dưới màng nhện",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng ít gặp hơn bao gồm ho ra máu do vỡ các mạch máu phổi nhỏ và phù phổi , đặc biệt trong thai kỳ khi lượng máu tăng lên .",
+    "entities": [
+      {
+        "text": "ho ra máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc bệnh rung nhĩ rung nhĩ làm tăng nguy cơ đột quỵ và/hoặc tắc mạch ngoại vi do hình thành các huyết khối trong buồng nhĩ , thường là khởi phát từ tiểu nhĩ trái .",
+    "entities": [
+      {
+        "text": "tắc mạch ngoại vi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh ung thư tuyến nước bọt tổng quan bệnh ung thư tuyến nước bọt khối u tuyến nước bọt là loại khối u hiếm gặp có ở trong tuyến nước bọt tại khoang miệng .",
+    "entities": [
+      {
+        "text": "bệnh ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh thiên đầu thống là tên gọi khác của bệnh tăng nhãn áp hay còn được biết đến với các tên gọi như cườm nước , bệnh glocom .",
+    "entities": [
+      {
+        "text": "bệnh thiên đầu thống",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh glocom",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cườm nước",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp được dùng để chẩn đoán tắc ống phóng tinh bao gồm : dựa trên lâm sàng : các bác sĩ sẽ thăm khám cơ quan sinh dục và kết hợp với phần bệnh sử liên quan đến dấu hiệu của viêm nhiễm như : tình trạng xuất tinh máu viêm niệu đạo viêm tiền liệt tuyến tiền sử phẫu thuật bìu xét nghiệm tinh dịch đồ : đây là một trong những xét nghiệm cơ bản và không thể thiếu trong khám vô sinh nam .",
+    "entities": [
+      {
+        "text": "xét nghiệm tinh dịch đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm tiền liệt tuyến",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tắc ống phóng tinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xuất tinh máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm niệu đạo",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "để phân loại các bệnh lý mạch máu thường dựa vào đặc điểm như vị trí viêm , kích thước các mạch tổn thương chiếm ưu thế : mạch lớn : bệnh behcet , viêm động mạch tế bào khổng lồ , viêm mạch takayasu .",
+    "entities": [
+      {
+        "text": "viêm động mạch tế bào khổng lồ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm mạch takayasu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh behcet",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng polyp mũi có liên quan đến viêm mãn tính của niêm mạc mũi và xoang ( viêm xoang mãn tính ) .",
+    "entities": [
+      {
+        "text": "viêm mãn tính của niêm mạc mũi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm xoang mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "polyp mũi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh tăng huyết áp thai kỳ nguyên nhân tăng huyết áp thai kỳ rất phức tạp với sự đóng góp của nhiều yếu tố và vẫn còn đang được nghiên cứu triệu chứng bệnh tăng huyết áp thai kỳ thường tăng huyết áp thai kỳ đơn thuần không có nhiều triệu chứng , đa phần tình cờ phát hiện ra .",
+    "entities": [
+      {
+        "text": "bệnh tăng huyết áp thai kỳ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "năm 2006, các nhà nghiên cứu phát hiện ra các protein thể hiện bằng gen của huntington tương tác với protein khác làm cholesterol tích tụ trong não .",
+    "entities": []
+  },
+  {
+    "text": "giai đoạn này được phân loại thành các giai đoạn nhỏ iia , iib và iic , dựa trên sự lan xa của các tế bào ung thư .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa đau mắt đỏ ở trẻ sơ sinh trẻ sơ sinh , mắt dễ bị vi khuẩn thường hiện diện trong đường sinh của người mẹ .",
+    "entities": [
+      {
+        "text": "đau mắt đỏ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu có vấn đề về mắt , như loạn thị , có thể cần phải có kiểm tra mắt thường xuyên hơn .",
+    "entities": [
+      {
+        "text": "kiểm tra mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "loạn thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị ban đầu để giúp kiểm soát tình trạng viêm ở tuyến tụy và làm cho thoải mái hơn có thể bao gồm : tuyến tụy nghỉ ngơi .",
+    "entities": [
+      {
+        "text": "tuyến tụy nghỉ ngơi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các điều khoản cụ thể để mô tả các loại ung thư cổ họng , bao gồm : ung thư vòm họng bắt đầu vào vòm họng - những phần của cổ họng ngay sau mũi .",
+    "entities": [
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư cổ họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hầu như những người bị sa van hai lá thường thường không có dấu hiệu gì đáng chú ý . một số khác có thể có những triệu chứng nhẹ và phát triển dần dần .",
+    "entities": [
+      {
+        "text": "sa van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù sự thay đổi thói quen ruột kéo dài lâu hơn một tuần có thể chỉ ra sự hiện diện của u đại tràng lớn , nó cũng có thể do một số vấn đề khác .",
+    "entities": [
+      {
+        "text": "u đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "loại trừ vấn đề xoang bác sĩ cũng sẽ muốn đảm bảo rằng các triệu chứng không được gây ra bởi một vấn đề xoang như lệch vách ngăn hoặc polyp mũi .",
+    "entities": [
+      {
+        "text": "lệch vách ngăn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "polyp mũi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị hẹp van hai lá hiệu quả thuốc lợi tiểu và đôi khi là thuốc chẹn beta hoặc chẹn kênh calci .",
+    "entities": [
+      {
+        "text": "thuốc chẹn beta",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chẹn kênh calci",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hẹp van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc lợi tiểu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thuốc này dành cho người lớn và trẻ em bị bệnh crohn trung bình đến nặng không đáp ứng hoặc không thể chịu đựng được điều trị khác .",
+    "entities": [
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa viêm mũi không dị ứng mạn tính liên quan đến hắt hơi hoặc có tắc nghẽn mũi không có nguyên nhân rõ ràng .",
+    "entities": [
+      {
+        "text": "viêm mũi không dị ứng mạn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tắc nghẽn mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hắt hơi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh thoái hóa võng mạc nhiều người mắc bệnh nhưng không biểu hiện bất kỳ triệu chứng nào nên thường đến khám rất muộn , hạn chế hiệu quả của việc điều trị .",
+    "entities": [
+      {
+        "text": "bệnh thoái hóa võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu rất khó chẩn đoán nguyên nhân gây ra các dấu hiệu và triệu chứng , bác sĩ có thể tự kiểm tra bổ sung , chẳng hạn như : ghi điện rung giật nhãn cầu ( eng ) hoặc ( vng ) .",
+    "entities": [
+      {
+        "text": "ghi điện rung giật nhãn cầu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "eng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "vng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  }
+]

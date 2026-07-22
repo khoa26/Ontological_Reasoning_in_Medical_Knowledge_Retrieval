@@ -1,0 +1,440 @@
+[
+  {
+    "text": "phòng ngừa bệnh trĩ cách tốt nhất để phòng ngừa bệnh trĩ là giữ cho phân mềm , để chúng vượt qua dễ dàng .",
+    "entities": [
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các tác nhân từ môi trường gây ung thư phổi như : khói bụi , những người làm việc trong môi trường luyện thép , niken , crom và khí than .",
+    "entities": [
+      {
+        "text": "ung thư phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu phát hiện bệnh ở giai đoạn đầu thì có thể chữa ung thư dương vậ t khỏi hoàn toàn , bảo tồn được dương vật cho bệnh nhân .",
+    "entities": [
+      {
+        "text": "ung thư dương vậ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các lý thuyết về việc tại sao omega - 3 có thể ảnh hưởng đến nguy cơ chứng sa sút trí tuệ mất trí bao gồm lợi ích của nó cho tim và mạch máu , chống viêm hiệu ứng , hỗ trợ và bảo vệ màng tế bào thần kinh .",
+    "entities": [
+      {
+        "text": "chứng sa sút trí tuệ mất trí",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "omega - 3",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng kháng sinh theo chỉ định bác sĩ; điều trị bằng thuốc kháng nấm hoặc thuốc kháng virus : trong trường hợp nhiễm trùng máu gây ra do nấm hoặc virus , người bệnh sẽ được điều trị bằng thuốc kháng nấm hoặc virus , thuốc sẽ được dùng qua đường tiêm tĩnh mạch; truyền dịch : người bị nhiễm trùng huyết thường bị hạ huyết áp , do đó cần truyền dịch để tăng huyết áp .",
+    "entities": [
+      {
+        "text": "thuốc kháng virus",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc kháng nấm",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hạ huyết áp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "truyền dịch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "chẩn đoán phân biệt ăn mòn dạ dày cấp tính ; loét tá tràng ; loét dạ dày ; ung thư dạ dày ; mallory - weiss ; chấn thương ống sinh dục mũi ; bệnh dạ dày do tăng huyết áp .",
+    "entities": [
+      {
+        "text": "chấn thương ống sinh dục mũi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh dạ dày do tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ăn mòn dạ dày cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mallory - weiss",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "loét tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "loét dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bởi vì bị rách ống dẫn thường gây ra nhiễm trùng mắt , các triệu chứng khác có thể bao gồm : - tái phát viêm mắt .",
+    "entities": [
+      {
+        "text": "nhiễm trùng mắt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh trào ngược dạ dày thực quản tổng quan bệnh trào ngược dạ dày thực quản bệnh trào ngược dạ dày thực quản ( gastroesophageal reflux disease ) xảy ra khi dịch axit trong dạ dày thường xuyên chảy ngược vào ống thông giữa miệng và dạ dày được gọi là thực quản .",
+    "entities": [
+      {
+        "text": "bệnh trào ngược dạ dày thực quản",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đột ngột , mạnh mẽ và duy trì nỗ lực , như nâng tạ nặng có thể gây tăng huyết áp đột ngột .",
+    "entities": [
+      {
+        "text": "tăng huyết áp đột ngột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau khi xuất viện , bác sĩ sẽ theo dõi bệnh nhân với tần suất tái khám cao trong ba tháng đầu để phát hiện bất kỳ dấu hiệu hoặc triệu chứng thải ghép hoặc nhiễm trùng nào , như khó thở , sốt , mệt mỏi , lượng nước tiểu ít hoặc tăng cân .",
+    "entities": [
+      {
+        "text": "lượng nước tiểu ít",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tăng cân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , nếu nhận thấy bất kỳ thay đổi bất thường và dai dẳng trong cơ thể , chẳng hạn như nghẹt mũi bất thường , gặp bác sĩ .",
+    "entities": [
+      {
+        "text": "bất kỳ thay đổi bất thường và dai dẳng trong cơ thể",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nghẹt mũi bất thường",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chấn thương , đặc biệt là ở đầu và một số bệnh cũng có thể gây ra thoái hóa võng mạc .",
+    "entities": [
+      {
+        "text": "thoái hóa võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị đau tim hiệu quả chăm sóc trước nhập viện : oxy , aspirin , nitrates và / hoặc opioids để giảm đau , và điều trị tại trung tâm y tế thích hợp .",
+    "entities": [
+      {
+        "text": "nitrates",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "aspirin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "opioids",
+        "type": "THUỐC"
+      },
+      {
+        "text": "oxy",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị ghép tim hiệu quả phẫu thuật ghép tim đây là một phẫu thuật mở , mất vài giờ .",
+    "entities": [
+      {
+        "text": "ghép tim",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nghiên cứu cũng chỉ ra rằng , nếu xương ổ răng bị tiêu đi 1mm ( trong bệnh lý viêm quanh răng ) thì nguy cơ ung thư lưỡi tăng lên gấp 5.23 lần .",
+    "entities": [
+      {
+        "text": "viêm quanh răng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư lưỡi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "penicillin uống trong 10 ngày là kháng sinh điều trị phổ biến nhất quy định đối với bệnh nhiễm trùng như viêm họng .",
+    "entities": [
+      {
+        "text": "bệnh nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "penicillin uống",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết các rối loạn nhịp tim nhanh là do đi lại; một số là kết quả của tính tự động bình thường được nâng cao hoặc từ các cơ chế bất thường của tính tự động .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "gọi bác sĩ nếu gặp bất kỳ dấu hiệu hoặc triệu chứng của màng nhĩ thủng hay đau đớn hay khó chịu trong tai .",
+    "entities": [
+      {
+        "text": "khó chịu trong tai",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "màng nhĩ thủng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau đớn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thuốc chống trầm cảm khác , chẳng hạn như các chất ức chế tái hấp thu chọn lọc serotonin ( ssri ) fluoxetine ( prozac , sarafem ) , có thể hữu ích cho điều trị trầm cảm và lo âu .",
+    "entities": [
+      {
+        "text": "chất ức chế tái hấp thu chọn lọc serotonin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "điều trị trầm cảm và lo âu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chống trầm cảm khác",
+        "type": "THUỐC"
+      },
+      {
+        "text": "fluoxetine",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , hầu hết các chứng phình động mạch não không vỡ , tạo ra các vấn đề sức khỏe hoặc gây ra triệu chứng .",
+    "entities": [
+      {
+        "text": "phình động mạch não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thiếu hụt các chất dinh dưỡng như vitamin a , vitamin c , vitamin d . mắc các bệnh : hạ canxi máu , giang mai , sởi , thủy đậu , tinh hồng nhiệt , . . nhiễm trùng hoặc chấn thương trong quá trình hình thành răng .",
+    "entities": [
+      {
+        "text": "tinh hồng nhiệt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hạ canxi máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "giang mai",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thủy đậu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , một số biến chứng , chẳng hạn như hở van tim , có thể yêu cầu điều trị lại .",
+    "entities": [
+      {
+        "text": "hở van tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , vẫn có thể cân nhắc chỉ định ở bệnh nhân bị thuyên tắc phổi từ 6 – 14 ngày .",
+    "entities": [
+      {
+        "text": "thuyên tắc phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "gerd là rối loạn hệ tiêu hóa , trong đó axit dạ dày hoặc các dịch khác của dạ dày trở lại trong thực quản .",
+    "entities": [
+      {
+        "text": "rối loạn hệ tiêu hóa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gerd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số thuốc chẹn beta bao gồm atenolol ( tenormin ) , metoprolol ( lopressor , toprol - xl ) và propranolol ( inderal , innopran xl ) .",
+    "entities": [
+      {
+        "text": "thuốc chẹn beta",
+        "type": "THUỐC"
+      },
+      {
+        "text": "propranolol",
+        "type": "THUỐC"
+      },
+      {
+        "text": "metoprolol",
+        "type": "THUỐC"
+      },
+      {
+        "text": "atenolol",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng khi có biến chứng : biến chứng cấp tính hôn mê tăng áp lực thẩm thấu : là biến chứng cấp tính , thường găp ở tiểu đường tuýp 2 ( tuýp 1 hay gặp nhiễm toan ceton ) .",
+    "entities": [
+      {
+        "text": "hôn mê tăng áp lực thẩm thấu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiểu đường tuýp 2",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm toan ceton",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có sẵn trong một toa thuốc xịt mũi , ipratropium ( atrovent ) giúp làm giảm chảy nước mũi nặng bằng cách ngăn chặn các tuyến trong mũi từ sản xuất chất lỏng dư thừa .",
+    "entities": [
+      {
+        "text": "toa thuốc xịt mũi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chảy nước mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ipratropium",
+        "type": "THUỐC"
+      },
+      {
+        "text": "atrovent",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ nhức đầu khi ho ngắn các yếu tố rủi ro chính gây đau nhức đầu khi ho ngắn bao gồm : tuổi 40 trở lên .",
+    "entities": [
+      {
+        "text": "đau nhức đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu và triệu chứng của rối loạn ăn uống khác nhau với các loại hình cụ thể của rối loạn ăn uống .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù thuốc này không phải luôn luôn điều trị hiệu quả bệnh crohn , nó có thể có một số trợ giúp cho việc điều trị bệnh liên quan đến ruột già .",
+    "entities": [
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

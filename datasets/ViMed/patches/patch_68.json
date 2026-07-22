@@ -1,0 +1,384 @@
+[
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của hở van động mạch chủ tuyệt đối không tự ý bỏ thuốc hoặc mua thuốc không có trong đơn thuốc của bác sĩ; lắng nghe và làm theo mọi hướng dẫn , chỉ định của bác sĩ; liên hệ ngay với bác sĩ khi có những bất thường xuất hiện trong quá trình điều trị; thăm khám định kỳ để được theo dõi diễn tiến của bệnh và tình trạng sức khỏe; thay đổi lối sống : có tầm quan trọng nhất định trong việc điều trị hở van động mạch chủ .",
+    "entities": [
+      {
+        "text": "hở van động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu không điều trị viêm túi mật có thể gây ra hoại tử mô trong túi mật , do đó có thể dẫn đến thủng túi mật , hoặc nó có thể gây ra vỡ túi mật .",
+    "entities": [
+      {
+        "text": "viêm túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư vòm họng có các giai đoạn : ung thư vòm họng giai đoạn 1 : u còn giới hạn tại vòm , họng miệng hay hốc mũi .",
+    "entities": [
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , hiệp hội nghiên cứu bệnh gan khuyến cáo tầm soát ung thư gan cho những người nghĩ rằng có nguy cơ cao , bao gồm cả những người có : viêm gan b và một hoặc nhiều điều sau đây áp dụng : là nam giới châu á lớn tuổi hơn 40, nữ châu á lớn tuổi hơn 50, hoặc châu phi và lớn hơn 20; có xơ gan , hoặc có tiền sử gia đình mắc bệnh ung thư gan xơ gan xơ việc sử dụng rượu .",
+    "entities": [
+      {
+        "text": "bệnh ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm gan b",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "virus varicella zoster gây bệnh thủy đậu chủ yếu lây truyền qua đường hô hấp , qua các hạt nước nhỏ bắn ra khi người bệnh ho , hắt hơi hoặc chảy mũi .",
+    "entities": [
+      {
+        "text": "bệnh thủy đậu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hắt hơi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các nghiên cứu đã chỉ ra rằng những người có - chẳng hạn như cha mẹ hoặc anh chị em với hội chứng ruột kích thích , có nguy cơ của tình trạng này .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh ung thư thực quản để điều trị ung thư thực quản cần phụ thuộc vào một số yếu tố như : kích thước , sự lan tỏa của khối u và tình trạng chung của bệnh nhân .",
+    "entities": [
+      {
+        "text": "bệnh ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong nghiên cứu dài hạn một trong những người bị viêm dây thần kinh thị giác , nguy cơ phát triển bệnh đa xơ cứng của viêm dây thần kinh thị giác là 50 phần trăm sau 15 năm .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh đa xơ cứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu không , các chất trong thực phẩm chức năng bổ sung chất xơ có thể gây táo bón hoặc làm cho tình trạng táo bón tồi tệ hơn .",
+    "entities": [
+      {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ sẽ hỏi về diễn biến và khi nào triệu chứng bắt đầu và về bất kỳ vấn đề sức khỏe có thể giúp xác định nguyên nhân của vấn đề , ví dụ bệnh tiểu đường , huyết áp cao hay tiền sử gia đình có sa sút trí tuệ .",
+    "entities": [
+      {
+        "text": "bệnh tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sa sút trí tuệ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân nguyên nhân chính xác của đau đầu cơn là không rõ , nhưng bất thường ở vùng dưới đồi có thể đóng một vai trò .",
+    "entities": [
+      {
+        "text": "đau đầu cơn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm rubella igg : kháng thể igg tồn tại trong máu suốt đời kể cả khi bệnh được điều trị khỏi .",
+    "entities": [
+      {
+        "text": "xét nghiệm rubella igg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị bệnh bạch hầu hiệu quả nếu bác sĩ nghi ngờ bệnh bạch hầu , việc điều trị cần bắt đầu ngay lập tức không cần phải chờ có kết quả xét nghiệm vi khuẩn vì điều trị sớm sẽ giúp ngăn ngừa biến chứng và giảm nguy cơ tử vong do bạch hầu gây ra .",
+    "entities": [
+      {
+        "text": "bệnh bạch hầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : nhược thị : nguyên nhân , triệu chứng , chẩn đoán và điều trị cấu tạo và các bộ phận của mắt các phẫu thuật mắt được thực hiện ở bệnh viện vinmec chủ đề : soi đáy mắt mắt thị lực",
+    "entities": [
+      {
+        "text": "phẫu thuật mắt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "soi đáy mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nhược thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay van ba lá : nếu van không sửa chữa được , bác sĩ sẽ chỉ định thay van ba lá cơ học hoặc van làm từ mô tim của lợn , bò hoặc người .",
+    "entities": [
+      {
+        "text": "thay van ba lá",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng các biến chứng của thiếu máu cục bộ đường ruột có thể bao gồm : hoại tử mô ruột .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong hầu hết các trường hợp , ung thư và một số hoặc tất cả các tuyến nước bọt xung quanh sẽ được loại bỏ .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật để thắt các cơ thắt kiểm soát dòng chảy ngược acid dạ dày có thể là một lựa chọn để điều trị gerd .",
+    "entities": [
+      {
+        "text": "gerd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số bệnh ung thư do nhiễm sắc thể thường chi phối , có nghĩa là kế thừa chỉ có một gene khiếm khuyết từ một trong cha mẹ .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh tắc ống dẫn trứng tổng quan bệnh tắc ống dẫn trứng ống dẫn trứng là một ống cơ có kích thước như sợi tóc , nối buồng trứng và tử cung .",
+    "entities": [
+      {
+        "text": "bệnh tắc ống dẫn trứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phải có quá trình đầy đủ các loại thuốc kháng sinh theo quy định ngay cả khi các triệu chứng biến mất hoàn toàn .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh theo quy định",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu bất thường được tìm thấy trong khi nội soi hoặc laryngoscopy , bác sĩ có thể thu thập một mẫu mô ( sinh thiết ) .",
+    "entities": [
+      {
+        "text": "thu thập một mẫu mô",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "laryngoscopy",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , phẫu thuật này mang theo những rủi ro liên quan cùng với phẫu thuật đục thủy tinh thể thông thường , chẳng hạn như viêm , nhiễm trùng , bệnh tăng nhãn áp , chảy máu và bong võng mạc .",
+    "entities": [
+      {
+        "text": "phẫu thuật đục thủy tinh thể",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bong võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thần kinh bị thiệt hại đột ngột , chẳng hạn như từ một cơn đột quỵ hoặc tổn thương não hoặc tủy sống có thể gây khó nuốt hoặc là mất khả năng nuốt .",
+    "entities": [
+      {
+        "text": "khó nuốt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số nghiên cứu đã chỉ ra rằng có một sự gia tăng của cận thị giữa những người làm rất nhiều việc đọc hoặc làm việc gần gũi khác .",
+    "entities": [
+      {
+        "text": "cận thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật nếu động mạch trở nên bị thu hẹp hoặc bị chặn , phẫu thuật có thể là cần thiết để mở hoặc bỏ qua nơi động mạch hẹp để cho phép dòng chảy máu liên tục .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "vào thời kỳ khởi phát , bệnh nhân có thể sốt từ 37,5 - 38 độ c kèm đau họng , mệt mỏi , chán ăn , khó thở .",
+    "entities": [
+      {
+        "text": "đau họng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ở trẻ nhỏ , đặc biệt là những người quá trẻ để giải thích khó chịu hay đau đớn , dấu hiệu của viêm thực quản có thể bao gồm cho ăn khó khăn .",
+    "entities": [
+      {
+        "text": "viêm thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đớn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "di chứng sau đó có thể kèm theo như điếc , động kinh , chậm phát triển tinh thần vận động , … trẻ sơ sinh được sinh ra từ mẹ mắc thủy đậu khi mang thai có thể mắc phải các dị tật bẩm sinh .",
+    "entities": [
+      {
+        "text": "chậm phát triển tinh thần vận động",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "động kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thủy đậu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "điếc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa ống dẫn nước mắt bị chặn là do tắc nghẽn một phần hoặc hoàn toàn trong hệ thống thoát nước .",
+    "entities": [
+      {
+        "text": "ống dẫn nước mắt bị chặn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

@@ -1,0 +1,388 @@
+[
+  {
+    "text": "đưa bệnh nhân về nhiệt độ bình thường trong tình trạng hạ thân nhiệt ít khẩn cấp hơn so với tình trạng tăng thân nhiệt nghiêm trọng .",
+    "entities": [
+      {
+        "text": "hạ thân nhiệt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đối với các khối u lớn hơn , rộng hơn , có thể cần thiết để loại bỏ toàn bộ thanh quản .",
+    "entities": [
+      {
+        "text": "cần thiết để loại bỏ toàn bộ thanh quản",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tác dụng phụ khác bao gồm buồn nôn , hương vị kim loại trong miệng , nhức đầu và ăn mất ngon .",
+    "entities": [
+      {
+        "text": "hương vị kim loại trong miệng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ăn mất ngon",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhức đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "liệu pháp miễn dịch tự thân : đây là giải pháp đột phá trong điều trị ung thư - bao gồm ung thư thực quản .",
+    "entities": [
+      {
+        "text": "liệu pháp miễn dịch tự thân",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đường lây truyền bệnh thoái hóa võng mạc bệnh lý thoái hóa võng mạc không lây truyền từ người bệnh sang người lành .",
+    "entities": [
+      {
+        "text": "bệnh thoái hóa võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa hội chứng horner là một hội chứng hiếm gặp xảy ra khi các dây thần kinh đi từ não đến mắt và mặt bị hư hỏng .",
+    "entities": [
+      {
+        "text": "hội chứng horner",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị viêm niêm mạc trực tràng gây ra do nhiễm trùng bác sĩ có thể khuyên nên dùng thuốc để làm giảm bớt sự lây nhiễm .",
+    "entities": [
+      {
+        "text": "viêm niêm mạc trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với mẹ , nó có thể gây bong rau , đột quỵ , suy đa tạng , rối loạn đông máu rải rác .",
+    "entities": [
+      {
+        "text": "rối loạn đông máu rải rác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy đa tạng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh ung thư dương vật nguyên nhân ung thư dương vật bao gồm : hẹp bao quy đầu : đa số bệnh nhân ung thư dương vật có hẹp bao quy đầu .",
+    "entities": [
+      {
+        "text": "bệnh ung thư dương vật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hẹp bao quy đầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thử nghiệm đo lượng kháng thể gây dị ứng trong máu , được gọi là globulin miễn dịch e ( ige ) kháng thể .",
+    "entities": [
+      {
+        "text": "thử nghiệm đo lượng kháng thể gây dị ứng trong máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "globulin miễn dịch e",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ige",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "cung cấp dịch vụ sức khỏe tâm thần sẽ xem xét các dấu hiệu và triệu chứng để xem nếu đáp ứng các tiêu chuẩn chẩn đoán cần thiết cho rối loạn ăn uống đặc biệt .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm bắt đầu ở phía sau mắt ( viêm màng bồ đào sau ) có thể có một hiệu ứng lan toả cho các bộ phận giữa ( uvea ) ở mặt trước của mắt .",
+    "entities": [
+      {
+        "text": "viêm màng bồ đào sau",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thông thường , bác sĩ sẽ phát hiện sa van hai lá khi sử dụng ống nghe để nghe tiếng tim đập của người bệnh .",
+    "entities": [
+      {
+        "text": "sa van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù thường được sử dụng để kiểm tra suy tim , các xét nghiệm này có thể được sử dụng để chẩn đoán các vấn đề tim mạch .",
+    "entities": [
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị quang động học : thông qua một số thuốc được hấp thụ chủ yếu bởi tế bào ung thư để điều trị bệnh .",
+    "entities": [
+      {
+        "text": "điều trị quang động học",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật có thể được thực hiện trên cơ sở bệnh nhân ngoại trú hoặc có thể cần ở lại bệnh viện qua đêm .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc bệnh viêm nội tâm mạc nhiễm khuẩn suy tim là biến chứng nặng và thường gặp nhất trong viêm nội tâm mạch nhiễm khuẩn .",
+    "entities": [
+      {
+        "text": "bệnh viêm nội tâm mạc nhiễm khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm nội tâm mạch nhiễm khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc bệnh mạch vành đột tử : 30 – 50% bệnh nhân bị nhồi máu cơ tim cấp bị đột tử trước khi được cấp cứu .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bong võng mạc có thể xảy ra như là kết quả của : võng hoặc co rút của thủy tinh thể vào bên trong mắt .",
+    "entities": [
+      {
+        "text": "bong võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số điều kiện có thể gây thâm hụt màu như bệnh tiểu đường , bệnh tăng nhãn áp , thoái hóa điểm vàng , bệnh alzheimer , bệnh parkinson , nghiện rượu mãn tín h , bệnh bạch cầu và thiếu máu hồng cầu hình liềm .",
+    "entities": [
+      {
+        "text": "thoái hóa điểm vàng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nghiện rượu mãn tín",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hồng cầu hình liềm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh alzheimer",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh parkinson",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh bạch cầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiếu máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa gan to mô tả kích thước gan lớn hơn bình thường .",
+    "entities": [
+      {
+        "text": "gan to",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm trùng khác có thể gây ra viêm niêm mạc trực tràng , bao gồm nhiễm trùng kết hợp với bệnh truyền qua thực phẩm , chẳng hạn như shigella , salmonella và campylobacter .",
+    "entities": [
+      {
+        "text": "viêm niêm mạc trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "campylobacter",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "salmonella",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "shigella",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải hẹp van hai lá một số yếu tố làm tăng nguy cơ mắc hẹp van hai lá , bao gồm : tiền sử nhiễm liên cầu khuẩn không được điều trị triệt để; tiền sử thấp tim ; tuổi cao; từng xạ trị vùng ngực để điều trị ung thư .",
+    "entities": [
+      {
+        "text": "hẹp van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tùy vào mức độ tắc nghẽn dẫn truyền xung động từ tâm nhĩ xuống tâm thất , block nhĩ thất được chia thành : block nhĩ thất độ i , ii , iii .",
+    "entities": [
+      {
+        "text": "block nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tìm kiếm sự chăm sóc y tế ngay lập tức sau khi bất kỳ một lực đáng kể va đập vào đầu , trong đó : mất ý thức .",
+    "entities": [
+      {
+        "text": "mất ý thức",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa tiêu chảy do kháng sinh được mô tả là tiêu chảy thường xuyên , đi tiêu lỏng xảy ra do các phản ứng với thuốc điều trị nhiễm trùng do vi khuẩn .",
+    "entities": [
+      {
+        "text": "đi tiêu lỏng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh tắc vòi trứng tổng quan bệnh tắc vòi trứng vòi trứng ( hay còn gọi là ống dẫn trứng , vòi tử cung ) là một thành phần của hệ sinh dục nữ giới , nằm bên trong cơ thể .",
+    "entities": [
+      {
+        "text": "bệnh tắc vòi trứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên vì một lý do nào đó trứng sau khi được thụ tinh không di chuyển được vào trong buồng tử cung mà ở lại vị trí thụ tinh hoặc di chuyển đến một vị trí nào đó bám làm tổ được gọi là thai ngoài tử cung .",
+    "entities": [
+      {
+        "text": "thai ngoài tử cung",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nó làm việc bằng cách ngăn chặn histamin , một hoá chất triệu chứng gây ra bởi hệ thống miễn dịch trong một phản ứng dị ứng .",
+    "entities": [
+      {
+        "text": "ngăn chặn histamin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ảo giác của các hình dạng hình học , động vật hoặc người , trong các trường hợp thoái hóa điểm vàng tiến triển .",
+    "entities": [
+      {
+        "text": "ảo giác của các hình dạng hình học",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thoái hóa điểm vàng tiến triển",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

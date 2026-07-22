@@ -1,0 +1,412 @@
+[
+  {
+    "text": "tiếp xúc với các tác nhân môi trường như thuốc trừ sâu hoặc carbon monoxide cá nhân hoặc gia đình có tiền sử mắc bệnh lý đông máu như huyết khối , viêm tĩnh mạch huyết khối hoặc thuyên tắc phổi .",
+    "entities": [
+      {
+        "text": "viêm tĩnh mạch huyết khối",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuyên tắc phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ ăn nhiều ngũ cốc tinh chế có liên quan đến bệnh tim mạch và bệnh đái tháo đường type 2 . nước ngọt chứa một lượng lớn đường , dễ gây tăng cân nhiều hơn , béo phì , tăng nguy cơ mắc bệnh đái tháo đường type 2 , tăng huyết áp , bệnh tim mạch .",
+    "entities": [
+      {
+        "text": "bệnh đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tim mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng tương tự có thể được gây ra bởi các vấn đề y tế nghiêm trọng khác , như bệnh tăng nhãn áp cấp tính hoặc đột quỵ .",
+    "entities": [
+      {
+        "text": "bệnh tăng nhãn áp cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "u máu có thể xuất hiện ở ngoài da hoặc ở các cơ quan bên trong cơ thể như gan , ruột , hoặc cơ quan hô hấp , cột sống và hệ thần kinh trung ương .",
+    "entities": [
+      {
+        "text": "u máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân hiếm gặp hơn là tắc động mạch vành do huyết khối , phình mạch ( bệnh kawasaki ) , tách động mạch vành và viêm mạch máu ( bệnh giang mai , lupus ban đỏ hệ thống ) .",
+    "entities": [
+      {
+        "text": "lupus ban đỏ hệ thống",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh giang mai",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh kawasaki",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc mục tiêu của điều trị loạn thị là điều chỉnh độ cong không đồng đều gây mờ tầm nhìn .",
+    "entities": [
+      {
+        "text": "mờ tầm nhìn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "loạn thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh huntington thường phát triển chậm , và mức độ nghiêm trọng của các dấu hiệu và triệu chứng có liên quan đến mức độ mất tế bào thần kinh .",
+    "entities": [
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số thể đặc biệt có thể gặp : di căn thể nang có hình ảnh giống nang gan hoặc áp xe .",
+    "entities": [
+      {
+        "text": "nang gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "áp xe",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đây cũng là một trong những dấu hiệu khi bệnh u tuyến yên đã phát triển sang giai đoạn nguy hiểm .",
+    "entities": [
+      {
+        "text": "bệnh u tuyến yên",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số người có thể có lợi từ việc sử dụng sumatriptan ở dạng xịt mũi , nhưng đối với hầu hết mọi người điều này là không hiệu quả như tiêm .",
+    "entities": [
+      {
+        "text": "sumatriptan ở dạng xịt mũi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "viêm kết mạc do vi khuẩn và virus viêm kết mạc virus và viêm kết mạc do vi khuẩn có thể ảnh hưởng đến một hoặc cả hai mắt .",
+    "entities": [
+      {
+        "text": "viêm kết mạc do vi khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm kết mạc virus",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "với tình trạng thiếu máu , không có các tế bào máu đỏ đủ để mang đầy đủ oxy đến các mô .",
+    "entities": [
+      {
+        "text": "thiếu máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "máy nghe nhạc cá nhân như máy nghe nhạc mp3 có thể gây ra mất thính lực lâu dài nếu bật âm lượng đủ cao để che dấu những âm thanh của tiếng ồn lớn khác , như một cái máy cắt cỏ .",
+    "entities": [
+      {
+        "text": "mất thính lực lâu dài",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nó giúp giảm cử động giật không tự nguyện của bệnh huntington bằng cách tăng lượng dopamine có sẵn trong não .",
+    "entities": [
+      {
+        "text": "tăng lượng dopamine có sẵn trong não",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể gặp khô mắt trong những tình huống nhất định , chẳng hạn như trên máy bay , trong phòng máy lạnh hoặc sau khi nhìn vào màn hình máy tính trong một vài giờ .",
+    "entities": [
+      {
+        "text": "khô mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vì không có sẵn hoặc thời gian chờ đợi cho xét nghiệm dịch cổ họng , bác sĩ có thể yêu cầu xét nghiệm kháng nguyên nhanh chóng trên các mẫu swab .",
+    "entities": [
+      {
+        "text": "xét nghiệm kháng nguyên nhanh chóng trên các mẫu swab",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xét nghiệm dịch cổ họng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân fap có nguy cơ mắc các ung thư đường tiêu hóa cao hơn ( ung thư dạ dày , ung thư tá tràng , ung thư tuyến giáp … ) triệu chứng bệnh ung thư ruột non triệu chứng ung thư ruột non giai đoạn đầu thường không rõ ràng .",
+    "entities": [
+      {
+        "text": "bệnh ung thư ruột non",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư tuyến giáp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "fap",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu khối máu tụ ngày càng tăng , giảm ý thức xảy ra , thậm chí có thể dẫn đến tử vong .",
+    "entities": [
+      {
+        "text": "khối máu tụ ngày càng tăng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "giảm ý thức xảy ra",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tử vong",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các phẫu thuật giảm áp tai túi nội dịch , dùng nhiệt để hủy ống bán khuyên ngoài , dùng muối đặt vào cửa sổ tròn , phẫu thuật cắt hạch sao để điều trị các trường hợp ù tai do ménière .",
+    "entities": [
+      {
+        "text": "dùng nhiệt để hủy ống bán khuyên ngoài",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật giảm áp tai túi nội dịch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "dùng muối đặt vào cửa sổ tròn",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật cắt hạch sao",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ménière",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chụp não nhìn vào hình ảnh bộ não có thể giúp bác sĩ xác định đột quỵ , khối u hoặc các vấn đề khác có thể gây ra chứng sa sút trí tuệ mất trí nhớ .",
+    "entities": [
+      {
+        "text": "chứng sa sút trí tuệ mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hình ảnh bộ não",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp não nhìn",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khối u",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu là một phụ huynh hoặc người giám hộ , phải cẩn thận không để ăn kiêng sai lầm thường xuyên với rối loạn ăn uống .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán các xét nghiệm và thủ tục được sử dụng để xác định nguyên nhân khô mắt có thể bao gồm : đo khối lượng của nước mắt .",
+    "entities": [
+      {
+        "text": "đo khối lượng của nước mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các triệu chứng thường gặp nhất viêm kết mạc bao gồm : đỏ trong một hoặc cả hai mắt .",
+    "entities": [
+      {
+        "text": "đỏ trong một hoặc cả hai mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm kết mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh gan có thể làm tăng nguy cơ ung thư gan bao gồm nhiễm sắc tố sắt mô , viêm gan tự miễn dịch và bệnh wilson .",
+    "entities": [
+      {
+        "text": "viêm gan tự miễn dịch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh wilson",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những tác nhân gây tổn thương các nhánh mạch máu này làm ảnh hưởng đến việc cung cấp máu cho lớp tế bào võng mạc đều được xem là nguyên nhân thoái hóa võng mạc .",
+    "entities": [
+      {
+        "text": "thoái hóa võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hội chứng tăng thông khí không đe dọa đến tính mạng , nhưng có thể gây suy giảm đáng kể lượng co2 trong cơ thể , gây tê , ngứa ran ở tay chân .",
+    "entities": [
+      {
+        "text": "hội chứng tăng thông khí",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ngứa ran ở tay chân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tê",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều này có thể dẫn đến suy hô hấp , một tình trạng đe dọa tính mạng , trong đó mức độ oxy trong máu giảm thấp nguy hiểm hoặc mức độ của carbon dioxide sẽ trở thành quá cao .",
+    "entities": [
+      {
+        "text": "suy hô hấp",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tư vấn di truyền nên đi kèm với xét nghiệm di truyền vì xét nghiệm fbn1 không phải lúc nào cũng đơn giản .",
+    "entities": [
+      {
+        "text": "xét nghiệm fbn1",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "warfarin là một loại thuốc mạnh có thể có tác dụng phụ nguy hiểm nếu không thực hiện đúng theo chỉ dẫn của bác sĩ .",
+    "entities": [
+      {
+        "text": "warfarin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "những toa thuốc xịt mũi giúp ngăn ngừa và điều trị viêm mũi , ngứa mũi và sổ mũi do sốt cỏ khô .",
+    "entities": [
+      {
+        "text": "toa thuốc xịt mũi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sốt cỏ khô",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngứa mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sổ mũi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

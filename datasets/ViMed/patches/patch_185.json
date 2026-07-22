@@ -1,0 +1,396 @@
+[
+  {
+    "text": "tìm kiếm sự chăm sóc khẩn cấp nếu gặp chảy máu trực tràng số lượng lớn , hoa mắt , chóng mặt hoặc xỉu .",
+    "entities": [
+      {
+        "text": "chảy máu trực tràng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chóng mặt hoặc xỉu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hoa mắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu bác sĩ phát hiện một vết loét , có thể loại bỏ các mẫu mô nhỏ gần vết loét để sinh thiết .",
+    "entities": [
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tác nhân gây nhiễm trùng huyết thường gặp vi khuẩn gram âm họ enterobacteriaceae : salmonella , escherichia coli , klebsiella , serratia và các vi khuẩn enterobacter , pseudomonas aeruginosa , burkholderia pseudomallei , … vi khuẩn gram dương : streptococcus pneumoniae , staphylococcus aureus , streptococcus suis , .",
+    "entities": [
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . ) hóa trị trong điều trị ung thư hậu môn phác đồ hóa chất thường kết hợp nhiều thuốc ví dụ : fluorouracil ( 5 - fu , adrucil ) kết hợp với mitomycin c ( mitozytrez , mutamycin ) hoặc cisplatin .",
+    "entities": [
+      {
+        "text": "ung thư hậu môn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hóa chất",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "xạ trị mang một nguy cơ tác dụng phụ , bao gồm đỏ da tạm thời , nghe kém và khô miệng .",
+    "entities": [
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "khi ráy tai tích tụ quá nhiều , nó trở nên quá khó để rửa sạch tự nhiên ( cerumenal impaction ) , gây ra mất thính lực hoặc kích ứng màng nhĩ , có thể dẫn đến chứng ù tai .",
+    "entities": [
+      {
+        "text": "mất thính lực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp , các đặc điểm và vị trí của các u nang trong tuyến tụy - cùng với tuổi và giới tính có thể giúp bác sĩ xác định loại u nang có .",
+    "entities": [
+      {
+        "text": "u nang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vitamin d trợ giúp sự hấp thu canxi cũng xuất hiện để giúp giảm nguy cơ ung thư đại trực tràng .",
+    "entities": [
+      {
+        "text": "ung thư đại trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vitamin d",
+        "type": "THUỐC"
+      },
+      {
+        "text": "canxi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "viêm phúc mạc là một tình trạng đe dọa tính mạng đòi hỏi phải chăm sóc y tế ngay lập tức .",
+    "entities": [
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đục thủy tinh thể vẫn tiếp tục phát triển , u ám trở nên dày đặc hơn bao gồm một phần lớn của ống kính .",
+    "entities": [
+      {
+        "text": "đục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u ám",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm khác có thể được sử dụng để chẩn đoán huyết khối tĩnh mạch sâu nếu những xét nghiệm này không thành công .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh u tuyến nước bọt các khối u tuyến nước bọt là rất hiếm , chiếm ít hơn 10 phần trăm của tất cả các khối u đầu và cổ .",
+    "entities": [
+      {
+        "text": "bệnh u tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đôi khi động mạch trở nên giãn nở bất thường , dẫn đến chứng phình động mạch và có thể có vỡ .",
+    "entities": [
+      {
+        "text": "chứng phình động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể cần phải phẫu thuật để loại bỏ khối u và sửa vấn đề với các xoang dễ bị viêm nhiễm và sự phát triển của khối u . các bác sĩ phẫu thuật chèn một đèn nội soi , một ống nhỏ với một ống kính lúp hoặc máy ảnh nhỏ , vào lỗ mũi và hướng dẫn nó vào hốc xoang .",
+    "entities": [
+      {
+        "text": "phẫu thuật để loại bỏ khối u và sửa vấn đề với các xoang",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đèn nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm nhiễm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân nhức đầu khi ho ngắn nguyên nhân của đau đầu khi ho ngắn không được biết , mặc dù một số nhà nghiên cứu nghi ngờ rằng áp lực gia tăng trong đầu ( áp lực nội sọ ) gây ra do ho và các loại căng thẳng có thể đóng một vai trò .",
+    "entities": [
+      {
+        "text": "nhức đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trên điện tim có thể thấy các biến đổi st chênh xuống đi ngang , sóng t âm , sóng q hoại tử của nhồi máu cơ tim cũ .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "điện tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tùy thuộc vào mức độ thiệt hại phổi xảy ra trước khi phẫu thuật , mang thai có thể hoặc không thể được đề nghị .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các trường hợp có thể gây tăng tiết mồ hôi thứ phát bao gồm : bệnh đái tháo đường bốc hỏa trong thời kỳ mãn kinh các vấn đề về tuyến giáp lượng đường trong máu thấp một số loại ung thư đau tim rối loạn hệ thần kinh nhiễm trùng một số loại thuốc cũng có thể dẫn đến đổ mồ hôi nhiều , ví dụ như opioid .",
+    "entities": [
+      {
+        "text": "tăng tiết mồ hôi thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bốc hỏa",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng đau nhức đầu do tập thể dục tiên phát những cơn đau đầu thường được mô tả như là nhói .",
+    "entities": [
+      {
+        "text": "đau nhức đầu do tập thể dục tiên phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cơn đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhói",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nói chuyện với bác sĩ trước khi dùng thảo dược hay thuốc theo toa hoặc thuốc không cần toa cùng nhau .",
+    "entities": [
+      {
+        "text": "dùng thảo dược hay thuốc theo toa",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "rách ống dẫn là một tác dụng phụ có thể có của docetaxel ( taxotere ) , một thuốc hóa trị liệu thường được sử dụng cho vú hoặc ung thư phổi .",
+    "entities": [
+      {
+        "text": "ung thư phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các dấu hiệu và triệu chứng , có thể bao gồm chảy nước mắt và xả chất nhầy , thường rõ ràng trong vòng một ngày .",
+    "entities": [
+      {
+        "text": "chảy nước mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xả chất nhầy",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu có thân chung động mạch , một ống lớn , thay vì hai ống riêng biệt dẫn ra khỏi tim .",
+    "entities": [
+      {
+        "text": "thân chung động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một sinh thiết và thủ thuật chọc hút tủy xương liên quan đến việc chèn một cây kim vào xương hông của bạn để loại bỏ một mẫu tủy xương .",
+    "entities": [
+      {
+        "text": "chọc hút tủy xương",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải rubella có rất nhiều yếu tố có thể tăng nguy cơ mắc bệnh này , như : rubella rất dễ lây lan , sự lây truyền xảy ra khi tiếp xúc giữa người với người cũng như lây lan trong không khí .",
+    "entities": [
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong cuộc phẫu thuật , bác sĩ có thể loại bỏ mô sẹo trên ống dẫn trứng , hoặc khai thông ống dẫn trừng từ bên trong .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa block nhĩ thất hiệu quả để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : thường xuyên vận động và tập thể dục .",
+    "entities": [
+      {
+        "text": "block nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bởi vì bệnh crohn có thể cản trở khả năng hấp thụ chất dinh dưỡng và bởi vì chế độ ăn uống có thể bị giới hạn , vitamin và khoáng chất bổ sung thường là hữu ích .",
+    "entities": [
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm mạch máu lớn và trung bình như viêm động mạch tế bào khổng lồ , bệnh kawasaki , bệnh takayasu có thể dẫn đến biến chứng nhồi máu cơ tim cấp tính , xuất huyết não , nhồi máu não , phình động mạch chủ , lóc tách động mạch chủ , nhồi máu mạc treo .",
+    "entities": [
+      {
+        "text": "viêm động mạch tế bào khổng lồ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lóc tách động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phình động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhồi máu mạc treo",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xuất huyết não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm mạch máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh kawasaki",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh takayasu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhồi máu não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "dabigatran hiệu quả như warfarin khi ngăn ngừa cục máu đông có thể dẫn đến đột quỵ , và không yêu cầu xét nghiệm máu để chắc chắn rằng đang nhận được liều thích hợp .",
+    "entities": [
+      {
+        "text": "dabigatran",
+        "type": "THUỐC"
+      },
+      {
+        "text": "warfarin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

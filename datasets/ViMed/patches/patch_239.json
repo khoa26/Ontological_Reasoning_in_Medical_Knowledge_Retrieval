@@ -1,0 +1,388 @@
+[
+  {
+    "text": "các vấn đề với động mạch : sau khi cấy ghép , thành của các động mạch trong tim có thể dày lên và cứng lại , dẫn đến bệnh mạch máu toàn bộ cơ tim , làm cho quá trình lưu thông máu qua tim trở nên khó khăn và gây ra nhồi máu cơ tim , suy tim , rối loạn nhịp tim hoặc đột tử do tim .",
+    "entities": [
+      {
+        "text": "thành của các động mạch trong tim có thể dày lên và cứng lại",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột tử",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm virus : bao gồm virus viêm gan , virus suy giảm miễn dịch ở người ( hiv ) , virus epstein - barr ( ebv ) và cytomegalovirus ( cmv ) ; xác định phơi nhiễm trong quá khứ và bệnh hiện đang hoạt động .",
+    "entities": []
+  },
+  {
+    "text": "hầu hết người bệnh có thể kiểm soát sự khó chịu của trào ngược dạ dày thực quản bằng cách thay đổi lối sống và sử dụng thuốc không kê đơn .",
+    "entities": [
+      {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ở các bệnh nhân bị viêm màng ngoài tim lâu ngày sẽ bị sẹo vĩnh viễn hoặc d ày lên ở màng tim , ảnh hưởng đến sự co bóp và hoạt động của tim , có thể dẫn đến suy tim .",
+    "entities": [
+      {
+        "text": "viêm màng ngoài tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ày lên ở màng tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sẹo vĩnh viễn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của nhịp tim chậm tim chậm thường xuyên dưới 60 nhịp mỗi phút sẽ không bơm máu đủ đến tất cả các cơ quan và mô .",
+    "entities": [
+      {
+        "text": "nhịp tim chậm tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh u lympho không hodgkin chẩn đoán u lympho không hodgkin dựa vào tiền sử cá nhân và gia đình khám sức khỏe .",
+    "entities": [
+      {
+        "text": "bệnh u lympho không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đánh giá trong phòng thí nghiệm được tiến hành trên một hoặc nhiều mẫu phân có thể xác định liệu c . difficile hiện diện trong đại tràng .",
+    "entities": []
+  },
+  {
+    "text": "ung thư thực quản xảy ra khi các tế bào trong thực quản phát triển các lỗi đột biến trong dna .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm động mạch sọ có thể chặn lưu lượng máu đến mắt và não , có thể gây mất thị lực thường xuyên hoặc đột quỵ .",
+    "entities": [
+      {
+        "text": "gây mất thị lực thường xuyên",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm động mạch sọ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc chẹn beta , có thể gây mệt mỏi , các vấn đề về dạ dày hoặc giấc ngủ , rối loạn chức năng tình dục và có thể làm cho một số rối loạn dẫn truyền tồi tệ hơn .",
+    "entities": [
+      {
+        "text": "thuốc chẹn beta",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh tim bẩm sinh ebstein trong giai đoạn bào thai trẻ vẫn có thể được phát hiện bệnh tim bẩm sinh ebstein thông qua siêu âm bào thai phát hiện hình ảnh bất thường về tim của trẻ .",
+    "entities": [
+      {
+        "text": "bệnh tim bẩm sinh ebstein",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "hai bên má bị sưng viêm không đối xứng , vùng da bị sưng căng bóng , sờ nóng , không đỏ , đau .",
+    "entities": [
+      {
+        "text": "da bị sưng căng bóng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sưng viêm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "không đỏ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sờ nóng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thuốc chống đông máu : một heparin ( heparin không phân đoạn hoặc trọng lượng phân tử thấp ) hoặc bivalirudin .",
+    "entities": [
+      {
+        "text": "bivalirudin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "heparin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "cận lâm sàng chẩn đoán bao gồm chụp cắt lớp vi tính ( chụp ct - ct với thuốc cản quang tĩnh mạch ) cùng với sinh thiết và các xét nghiệm bổ trợ khác nếu cần .",
+    "entities": [
+      {
+        "text": "ct với thuốc cản quang tĩnh mạch",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu các triệu chứng của huyết áp thấp bắt đầu trong khi đứng , hãy bắt chéo đùi và ép chặt .",
+    "entities": [
+      {
+        "text": "huyết áp thấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "suy tim kèm theo ngất , làm nặng thêm bệnh thiếu máu cơ tim , suy tim sung huyết và đợt cấp của bệnh thận .",
+    "entities": [
+      {
+        "text": "bệnh thiếu máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim sung huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ngất",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tai nạn thương tích thể tổn thương , như một cú trực tiếp vào cổ họng , có thể gây ra viêm nắp thanh quản .",
+    "entities": [
+      {
+        "text": "viêm nắp thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tất cả các ca phẫu thuật mắt có một số mức độ rủi ro , và các biến chứng có thể từ các thủ tục này bao gồm nhiễm trùng mắt , sẹo giác mạc , giảm thị lực và sai số trực quan , chẳng hạn như nhìn thấy quầng sáng quanh đèn chiếu sáng vào ban đêm .",
+    "entities": [
+      {
+        "text": "phẫu thuật mắt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục đối với viêm hạch bạch huyết mạc treo ruột đau đớn và sốt : nghỉ ngơi nhiều .",
+    "entities": [
+      {
+        "text": "viêm hạch bạch huyết mạc treo ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau đớn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : những lưu ý trong thực đơn cho bà bầu 3 tháng cuối bệnh tiền sản giật - những điều mẹ bầu cần biết biến chứng của thiếu ối – cách chẩn đoán và xử trí đa thai : nguyên nhân , cách theo dõi và những vấn đề cần lưu ý tăng cân khi mang thai bao nhiêu là hợp lý ?",
+    "entities": [
+      {
+        "text": "bệnh tiền sản giật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đa thai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều này xảy ra do tăng áp lực tĩnh mạch cửa ( thường gặp nhất là hậu quả của xơ gan ) , sức cản đối với lưu lượng máu ở cửa và tăng lượng máu vào tĩnh mạch cửa .",
+    "entities": []
+  },
+  {
+    "text": "những loại thuốc này có thể được dùng cùng với xạ trị ( gọi là hóa trị liệu ) để ngăn chặn ung thư nước bọt có nguy cơ cao quay trở lại sau phẫu thuật .",
+    "entities": [
+      {
+        "text": "ung thư nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hóa trị liệu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một xét nghiệm máu mới gọi là một nmo – igg , xét nghiệm máu kiểm tra các kháng thể cho optica neuromyelitis .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu kiểm tra các kháng thể cho optica neuromyelitis",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xét nghiệm máu mới gọi là một nmo – igg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "có thể thừa hưởng một mức độ nhẹ , trung bình hoặc nghiêm trọng của chứng rối loạn , và mức độ nghiêm trọng không thay đổi trong suốt thời gian nếu nguyên nhân di truyền .",
+    "entities": []
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải viêm ruột thừa cấp có rất nhiều yếu tố có thể khiến tăng nguy cơ mắc bệnh này , chẳng hạn như : trong gia đình từng có người bị viêm ruột thừa .",
+    "entities": [
+      {
+        "text": "viêm ruột thừa cấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "soi đại trang sigmoid chỉ nhìn vào đoạn cuối của đại tràng , và kiểm tra này không phát hiện khối u ở nơi khác trong đại tràng .",
+    "entities": [
+      {
+        "text": "soi đại trang sigmoid",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "eeg giám sát các hoạt động điện trong não thông qua một loạt các điện cực gắn liền với da đầu .",
+    "entities": [
+      {
+        "text": "giám sát các hoạt động điện trong não thông qua một loạt các điện cực gắn liền với da đầu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "eeg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "trong quá trình chụp động mạch , một ống ( catheter ) được đưa vào động mạch ở háng hay cánh tay và sau đó đi qua các động mạch .",
+    "entities": [
+      {
+        "text": "chụp động mạch",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "catheter",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "chụp ct : đánh giá kích thước u , mức độ xâm lấn xung quan và xâm lấn hạch chụp xquang ngực , siêu âm bụng và xạ hình xương : các xét nghiệm cần thiết trong phát hiện di căn xa .",
+    "entities": [
+      {
+        "text": "chụp xquang ngực",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xạ hình xương",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "chất gây dị ứng thực phẩm có thể gây viêm thực quản bạch cầu ái toan bao gồm sữa , trứng , lúa mì , đậu nành , lạc , lúa mạch đen và thịt bò .",
+    "entities": [
+      {
+        "text": "viêm thực quản bạch cầu ái toan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

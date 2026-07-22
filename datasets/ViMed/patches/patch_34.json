@@ -1,0 +1,420 @@
+[
+  {
+    "text": "các trường hợp bệnh diễn biến lâu dài có thể có các biểu hiện của rối loạn nhịp nhanh rung nhĩ hay cuồng nhĩ , tăng áp động mạch phổ i nặng và suy tim sung huyết .",
+    "entities": [
+      {
+        "text": "tăng áp động mạch phổ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rối loạn nhịp nhanh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim sung huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cuồng nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , có thể sử dụng thuốc chẹn kênh natri : mexiletin để làm giảm hoạt động các kênh ion natri .",
+    "entities": [
+      {
+        "text": "thuốc chẹn kênh natri",
+        "type": "THUỐC"
+      },
+      {
+        "text": "mexiletin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể theo kích thước của nó theo thời gian bằng cách chụp lặp lại kiểm tra , đặc biệt là nếu không thể được loại trừ u nang tiền ung thư .",
+    "entities": [
+      {
+        "text": "u nang tiền ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng khác như phình mạch nhiễm trùng , suy thận cấp , biến chứng dạng thấp , áp xe lách , viêm cơ tim , viêm màng ngoài tim .",
+    "entities": [
+      {
+        "text": "phình mạch nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm màng ngoài tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy thận cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "áp xe lách",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra còn được làm một số xét nghiệm giúp định hướng nguyên nhân thực thể gây bệnh trầm cảm sau sinh ở phụ nữ .",
+    "entities": [
+      {
+        "text": "bệnh trầm cảm sau sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "giảm tiểu cầu là thông số xét nghiệm nhạy cảm và cụ thể nhất tương quan với tăng áp lực tĩnh mạch cửa và giãn tĩnh mạch thực quản lớn .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch thực quản lớn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng áp lực tĩnh mạch cửa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "giảm tiểu cầu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "hãy hỏi bác sĩ xem có nên sử dụng thuốc mỡ kháng sinh tại chỗ sau khi làm sạch mi mắt theo cách này .",
+    "entities": [
+      {
+        "text": "thuốc mỡ kháng sinh tại chỗ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "làm sạch mi mắt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh thai ngoài tử cung tổng quan bệnh thai ngoài tử cung thai ngoài tử cung là trường hợp thai không làm tổ trong buồng tử cung .",
+    "entities": [
+      {
+        "text": "bệnh thai ngoài tử cung",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ trông các mẫu trên giác mạc và các biện pháp phải mất bao lâu trước khi những giọt nước mắt bay hơi .",
+    "entities": [
+      {
+        "text": "bác sĩ trông các mẫu trên giác mạc",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "giúp đỡ chứng sa sút trí tuệ mất trí có thể giúp một người đối phó với căn bệnh này bằng cách lắng nghe , yên tâm rằng cuộc sống vẫn có thể được thụ hưởng , cung cấp tình yêu vô điều kiện và làm tốt nhất để giúp giữ lại phẩm giá và lòng tự trọng .",
+    "entities": [
+      {
+        "text": "chứng sa sút trí tuệ mất trí",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ghép tim là phương pháp điều trị thường dành cho những bệnh nhân mà tình trạng của họ không được cải thiện tích cực bằng thuốc hoặc các phẫu thuật khác .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ghép tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm bác sĩ có thể chỉ định xét nghiệm máu , nước tiểu hoặc các xét nghiệm khác trong phòng thí nghiệm để xem liệu mồ hôi của bạn có phải do một tình trạng bệnh lý khác , chẳng hạn như tuyến giáp hoạt động quá mức ( cường giáp ) hoặc lượng đường trong máu thấp ( hạ đường huyết ) .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "hạ đường huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cường giáp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các phương pháp điều trị thoát vị bẹn ở trẻ chủ đề : nhi trẻ em thoát vị bẹn ( thoát vị háng ) thoát vị đùi phẫu thuật thoát vị bẹn thoát vị bẹn ở trẻ em thoát vị bẹn ở người lớn",
+    "entities": [
+      {
+        "text": "thoát vị háng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thoát vị bẹn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thoát vị đùi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật teo thực quản : mục đích phẫu thuật : cắt , khâu cột đường dò khí quản – thực quản ( nếu có ) .",
+    "entities": [
+      {
+        "text": "teo thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng mỏi mắt dấu hiệu và triệu chứng bao gồm : đau , mệt mỏi , nóng hoặc ngứa mắt .",
+    "entities": [
+      {
+        "text": "ngứa mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mỏi mắt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nóng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tổn thương kéo dài không thuyên giảm , khác với nhiệt miệng là vết loét sưng đau ở lưỡi , má và lợi nhưng ranh giới rõ ràng , thường tự khỏi sau 7 - 10 ngày , vùng niêm mạc có vết loét sẽ nhanh chóng lành lại .",
+    "entities": [
+      {
+        "text": "sưng đau ở lưỡi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhiệt miệng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bởi vì các nguy cơ khó thở đột ngột , trẻ em có thể có x - quang , chụp ở cạnh giường ngủ của họ hơn là trong bộ phận x quang .",
+    "entities": [
+      {
+        "text": "khó thở đột ngột",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "x - quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "x quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh u máu u máu thường gặp ở những đứa trẻ có các đặc điểm sau : trẻ da trắng trẻ sinh non sinh ra từ một thai kỳ đa thai nhẹ cân so với tuổi thai .",
+    "entities": [
+      {
+        "text": "bệnh u máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa huyết khối tĩnh mạch sâu hiệu quả để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : nên : giữ cân nặng hợp lý .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra và chẩn đoán bác sĩ có thể làm một loạt các xét nghiệm để xác định nguyên nhân của chóng mặt .",
+    "entities": [
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chứng khó nuốt thuộc miệng hầu ( oropharyngeal ) một số vấn đề liên quan đến dây thần kinh và cơ có thể làm suy yếu cơ cổ họng , làm khó di chuyển thức ăn từ miệng vào .",
+    "entities": [
+      {
+        "text": "chứng khó nuốt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của động mạch ngoại biên đa số bệnh nhân có bệnh động mạch ngoại biên thường không có triệu chứng hoặc có triệu chứng nhẹ , một số bệnh nhân có triệu chứng điển hình hơn gọi là đau cách hồi .",
+    "entities": [
+      {
+        "text": "bệnh động mạch ngoại biên",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau cách hồi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một phương pháp tiếp cận đa mô thức là cần thiết để chẩn đoán vì phải đánh giá nhiều hệ thống cơ quan .",
+    "entities": [
+      {
+        "text": "phương pháp tiếp cận đa mô thức",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "điều trị laser : là phương pháp thông qua ánh sáng năng lượng cao để tiêu diệt các tế bào ung thư , phá hủy tổ chức ung thư và giải phóng các vùng tắc nghẽn ung thư thực quản .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "điều trị laser",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thuốc statin giúp mức cholesterol thấp hơn , cũng có thể giúp giảm nguy cơ phát triển chứng sa sút trí tuệ mất trí nhớ .",
+    "entities": [
+      {
+        "text": "thuốc statin giúp mức cholesterol thấp hơn",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chứng sa sút trí tuệ mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "loạn sản cao được cho là bước cuối cùng trước khi các tế bào thay đổi thành ung thư thực quản .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu huyết áp tâm thu vẫn &gt; 110 mmhg mặc dù đã sử dụng thuốc chẹn beta , truyền tĩnh mạch liên tục nitroprusside với liều 0,2 - 0,3 mcg/kg/phút và tăng lên 200 - 300 mcg/phút khi cần thiết để kiểm soát huyết áp .",
+    "entities": [
+      {
+        "text": "thuốc chẹn beta",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nitroprusside",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng mặc dù viêm họng liên cầu tự nó không nguy hiểm , nó có thể dẫn đến biến chứng nghiêm trọng - đôi khi ngay cả với điều trị .",
+    "entities": [
+      {
+        "text": "viêm họng liên cầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống hãy làm các bước sau để giảm nguy cơ mắc viêm xoang cấp tính : tránh nhiễm trùng hô hấp trên .",
+    "entities": [
+      {
+        "text": "tránh nhiễm trùng hô hấp trên",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm xoang cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu cục máu đông di chuyển đến phổi , bạn có thể gặp các triệu chứng tắc mạch phổi , bao gồm : khó thở không rõ nguyên nhân; cảm thấy đau khi hít vào ; ho ra máu ; thở gấp và nhịp tim nhanh cũng có thể là những dấu hiệu của tắc mạch phổi .",
+    "entities": [
+      {
+        "text": "đau khi hít vào",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhịp tim nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tắc mạch phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ho ra máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thở gấp",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

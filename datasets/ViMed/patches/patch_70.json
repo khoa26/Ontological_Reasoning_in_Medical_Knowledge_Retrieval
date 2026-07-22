@@ -1,0 +1,311 @@
+[
+  {
+    "text": "chứng phình động mạch não ổn định : chứng phình động mạch não ổn định có thể không có triệu chứng , đặc biệt nếu nó nhỏ .",
+    "entities": [
+      {
+        "text": "chứng phình động mạch não ổn định",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau đó bơm thuốc cản quang đến các động mạch ở tim để giúp các động mạch hiển thị rõ ràng hơn trên hình ảnh x quang được chụp trong quá trình kiểm tra .",
+    "entities": [
+      {
+        "text": "x quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tích tụ chất béo và các chất khác trong và trên thành động mạch ( plaques ) là một yếu tố nguy cơ đáng kể đối với sa sút trí tuệ mạch máu vì nó cản trở dòng máu lên não .",
+    "entities": [
+      {
+        "text": "sa sút trí tuệ mạch máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh thoát vị bẹn trẻ em tổng quan bệnh thoát vị bẹn trẻ em thoát vị bẹn ở trẻ em là gì ?",
+    "entities": [
+      {
+        "text": "bệnh thoát vị bẹn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "t iếp xúc với một số hóa chất mạnh tại nơi làm việc , chẳng hạn như disulfua cacbon , phân bón và styrene có thể gây mất màu sắc thị giác .",
+    "entities": [
+      {
+        "text": "gây mất màu sắc thị giác",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các nhà nghiên cứu đang nghiên cứu xem ảnh hưởng của lịch sử gia đình hội chứng ruột kích thích có nguy cơ có liên quan đến gen , các yếu tố môi trường được chia sẻ trong gia đình , hoặc cả hai .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh uốn ván trước khi điều trị uốn ván , cần làm sạch các vết thương để ngăn ngừa nhiễm trùng .",
+    "entities": [
+      {
+        "text": "bệnh uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù lợi ích không rõ ràng , các biện pháp khác đối với bệnh dị ứng theo mùa , thảo dược bao gồm vuốt mèo , choline , goldenseal , belladonna và bromelain .",
+    "entities": [
+      {
+        "text": "bệnh dị ứng theo mùa",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết mọi người có một số tổn thương thần kinh thị giác vĩnh viễn sau viêm dây thần kinh thị giác , nhưng không gặp bất kỳ triệu chứng .",
+    "entities": [
+      {
+        "text": "tổn thương thần kinh thị giác vĩnh viễn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính vùng bụng : độ nhạy và độ đặc hiệu cao trong chẩn đoán viêm ruột thừa cấp .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính vùng bụng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm ruột thừa cấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các chẩn đoán hình ảnh có thể được thực hiện vì một số lý do như giúp tìm ra khu vực đáng ngờ có thể là ung thư , ung thư có thể lan rộng đến đâu và liệu điều trị có hiệu quả hay không .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối phó và hỗ trợ bệnh crohn không chỉ ảnh hưởng đến thể chất mà có thể mất một số cảm xúc .",
+    "entities": [
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều này xảy ra khi hệ thống miễn dịch của cơ thể phản ứng quá mức với nhiễm trùng viêm họng do liên cầu khuẩn hoặc ban đỏ chưa được điều trị hoàn toàn .",
+    "entities": [
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên cũng cần lưu ý trong các trường hợp thông liên thất lỗ nhỏ hay vừa , nếu có bội nhiễm phổi nhiều lần cũng sẽ ảnh hưởng đến chức năng hô hấp và tổng trạng bệnh nhi .",
+    "entities": [
+      {
+        "text": "thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bội nhiễm phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những người sống ở vùng sử dụng nước sinh hoạt có nồng độ flour cao ( nồng độ flour cao hơn 4mg/l ở người lớn và 2mg/l ở trẻ em ) sẽ có nguy cơ cao mắc các bệnh về men răng , trong đó có thiểu sản men răng .",
+    "entities": [
+      {
+        "text": "thiểu sản men răng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các nghiên cứu chỉ ra rằng một số bệnh nhân mắc ebstein có đột biến gen myh7 mã hóa cho protein β – myosin .",
+    "entities": [
+      {
+        "text": "ebstein",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi nhiễm trùng đường hô hấp phía trên vẫn còn dài hơn bảy đến 10 ngày , nhiều khả năng được gây ra do nhiễm trùng bởi vi khuẩn hơn là do nhiễm trùng bởi vi rút .",
+    "entities": [
+      {
+        "text": "nhiễm trùng đường hô hấp phía trên",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "rifampin không hiệu quả cho tất cả mọi người , và nó tác dụng chậm , đôi khi dùng khoảng một tháng trước khi nó bắt đầu tác dụng .",
+    "entities": [
+      {
+        "text": "rifampin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bệnh quai bị ( bệnh viêm tuyến mang tai dịch tễ hay viêm tuyến mang tai do virus quai bị ) là bệnh truyền nhiễm cấp tính , do virus paramyxovirus gây ra và dễ lây lan thành dịch , đặc biệt ở đối tượng trẻ em , thanh thiếu niên .",
+    "entities": [
+      {
+        "text": "bệnh quai bị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay vì tập trung chính xác vào võng mạc , ánh sáng tập trung ở phía trước của võng mạc , kết quả là xuất hiện nhìn mờ cho các đối tượng ở xa .",
+    "entities": [
+      {
+        "text": "nhìn mờ cho các đối tượng ở xa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các thủ tục cắt bỏ được sử dụng để điều trị bao gồm điều trị bằng laser và khí argon ( apc ) .",
+    "entities": [
+      {
+        "text": "khí argon",
+        "type": "THUỐC"
+      },
+      {
+        "text": "laser",
+        "type": "THUỐC"
+      },
+      {
+        "text": "apc",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bỏ uống rượu rượu , đặc biệt khi kết hợp với hút thuốc hoặc nhai thuốc lá , làm tăng đáng kể nguy cơ ung thư cổ họng .",
+    "entities": [
+      {
+        "text": "bỏ uống rượu rượu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư cổ họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "neoadjuvant hóa trị liệu là điều trị hóa trị liệu quản lý trước khi xạ trị , một mình hoặc trước khi điều trị đồng thời .",
+    "entities": [
+      {
+        "text": "điều trị hóa trị liệu quản lý trước khi xạ trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "neoadjuvant hóa trị liệu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu dị ứng với một chất gây dị ứng đặc biệt , phát triển một vết sưng tấy ( tổ ong ) tại địa điểm thử nghiệm trên da .",
+    "entities": [
+      {
+        "text": "thử nghiệm trên da",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "một vết sưng tấy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hội chứng marfan cũng làm tăng nguy cơ bong hoặc rách võng mạc , mô nhạy cảm với ánh sáng nằm ở thành sau của mắt .",
+    "entities": [
+      {
+        "text": "hội chứng marfan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của nhịp tim chậm chế độ sinh hoạt : tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị .",
+    "entities": [
+      {
+        "text": "nhịp tim chậm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhỏ giọt xảy ra khi chất nhờn bị chặn chảy ra khỏi mũi khiến nó rơi vào và nán lại trong cổ họng .",
+    "entities": [
+      {
+        "text": "nhỏ giọt xảy ra khi chất nhờn bị chặn chảy ra khỏi mũi khiến nó rơi vào và nán lại trong cổ họng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu và triệu chứng của thân chung động mạch thường phát triển trong vài tuần đầu tiên sau sinh .",
+    "entities": [
+      {
+        "text": "thân chung động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu dị ứng , phát triển một vết sưng tấy ( tổ ong ) tại địa điểm thử nghiệm trên da .",
+    "entities": [
+      {
+        "text": "thử nghiệm trên da",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "vết sưng tấy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khiếm khuyết trong cấu hình của tiểu não , kết quả có thể là một phần của não bị ép , nơi chỉ có tủy sống .",
+    "entities": []
+  }
+]

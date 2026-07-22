@@ -1,0 +1,348 @@
+[
+  {
+    "text": "nếu gia đình có người được chẩn đoán mắc hội chứng brugada , bạn cũng cần đến bệnh viện để thăm khám vì bệnh lý này mang tính di truyền cao .",
+    "entities": [
+      {
+        "text": "hội chứng brugada",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau khi khỏi bệnh bạch hầu , bạn cần phải tiêm đủ liều vắc xin bạch hầu để ngăn ngừa bệnh tái phát .",
+    "entities": [
+      {
+        "text": "tiêm đủ liều vắc xin bạch hầu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh bạch hầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đây là loại u nang thường được trong thân hoặc đuôi tụy và thường xảy ra ở phụ nữ trung niên .",
+    "entities": [
+      {
+        "text": "u nang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư dạ dày là một trong những ung thư phổ biến trên thế giới , tỷ lệ mắc đứng thứ 3 ở nam và đứng thứ 4 ở nữ .",
+    "entities": [
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "lubiprostone được chấp thuận cho phụ nữ từ 18 tuổi trở lên có hội chứng ruột kích thích với táo bón .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lubiprostone",
+        "type": "THUỐC"
+      },
+      {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng cận thị có thể được kết hợp với một số biến chứng như : giảm chất lượng cuộc sống .",
+    "entities": [
+      {
+        "text": "cận thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ phẫu thuật mắt sau đó sử dụng một loại laser , gọi là laser excimer , để loại bỏ các lớp từ trung tâm của giác mạc để làm phẳng mái vòm hình dạng của nó .",
+    "entities": [
+      {
+        "text": "gọi là laser excimer",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật mắt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thay vào đó , thử thêm các loại thực phẩm có chứa omega - 3 fatty acid để chế độ ăn uống , chẳng hạn như : hạt cải dầu .",
+    "entities": [
+      {
+        "text": "thực phẩm có chứa omega - 3 fatty acid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hạt cải dầu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đây là bệnh không lây nhiễm nhưng có yếu tố di truyền trong một số trường hợp ( xem phần nguyên nhân ) nguyên nhân bệnh ung thư thận nguyên nhân ung thư thận hiện nay chưa được biết rõ .",
+    "entities": [
+      {
+        "text": "bệnh ung thư thận",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tùy vào từng trường hợp cụ thể mà bác sĩ sẽ ưu tiên sử dụng liệu pháp đơn hóa trị hay đa hóa trị cho bệnh nhân .",
+    "entities": [
+      {
+        "text": "đơn hóa trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đa hóa trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "vì mức độ nguy hiểm của bệnh quai bị , phụ nữ mang thai cần : tiêm phòng vaccine quai bị trước khi có ý định mang thai; nếu phụ nữ mang thai trong những tháng đầu có triệu chứng bệnh quai bị cần đến các cơ sở y tế để được khám , xét nghiệm , chẩn đoán và điều trị kịp thời để hạn chế biến chứng của bệnh .",
+    "entities": [
+      {
+        "text": "tiêm phòng vaccine quai bị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh quai bị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số yếu tố có thể gây ra các nắp thanh quản bị sưng lên , từ chất lỏng nóng , chấn thương trực tiếp đến cổ họng và nhiễm trùng khác nhau .",
+    "entities": [
+      {
+        "text": "nắp thanh quản bị sưng lên",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "miễn dịch : nguy cơ ung thư da ở người mắc hội chứng suy giảm miễn dịch mắc phải hoặc sau ghép cơ quan tăng gấp 16 lần .",
+    "entities": [
+      {
+        "text": "hội chứng suy giảm miễn dịch mắc phải",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ghép cơ quan",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư da",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "theo dõi và quản lý các bệnh lý cao huyết áp , rối loạn lipid máu , đái tháo đường ( nếu có ) .",
+    "entities": [
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "lewy có khối protein bất thường đã được tìm thấy trong não của những người bị chứng mất trí lewy , bệnh alzheimer và bệnh parkinson .",
+    "entities": [
+      {
+        "text": "chứng mất trí lewy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh alzheimer",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh parkinson",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu làm việc tại bàn làm việc và sử dụng máy tính , có một số các chủng ra mắt bằng cách đảm bảo không gian làm việc được thiết lập trong một cách thích hợp và mắt thân thiện .",
+    "entities": [
+      {
+        "text": "đảm bảo không gian làm việc được thiết lập trong một cách thích hợp và mắt thân thiện",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu phù hợp với những tiêu chí hội chứng ruột kích thích và không có dấu hiệu hoặc bất kỳ triệu chứng cảnh báo , bác sĩ có thể đề xuất một quá trình điều trị mà không cần làm xét nghiệm bổ sung .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "corticosteroid cũng có thể được sử dụng với một ức chế hệ thống miễn dịch - các corticosteroid có thể thuyên giảm trong khi ức chế hệ thống miễn dịch có thể giúp duy trì sự thuyên giảm .",
+    "entities": [
+      {
+        "text": "corticosteroid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của sốt hồi quy chế độ sinh hoạt : tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị; liên hệ ngay với bác sĩ khi cơ thể có những bất thường trong quá trình điều trị; thăm khám định kỳ để được theo dõi tình trạng sức khỏe , diễn tiến của bệnh và để bác sĩ tìm hướng điều trị phù hợp trong thời gian tiếp theo nếu bệnh chưa có dấu hiệu thuyên giảm .",
+    "entities": [
+      {
+        "text": "sốt hồi quy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc chẹn beta có thể làm giảm các triệu chứng đau thắt ngực bởi cơ chế làm giảm nhịp tim , giảm co bóp , giảm nhu cầu oxy cơ tim từ đó làm giảm tỷ lệ tử vong sau nhồi máu ( đặc biệt sau nhồi máu cơ tim bệnh nhân có rối loạn chức năng thất trái ) .",
+    "entities": [
+      {
+        "text": "thuốc chẹn beta",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "căn cứ vào kiểm tra này , có thể chẩn đoán lệch vách ngăn và xác định mức độ nghiêm trọng của tình trạng .",
+    "entities": [
+      {
+        "text": "lệch vách ngăn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong trường hợp , vượt quá sức chịu đựng , đau dữ dội và ảnh hưởng đến cuộc sống thì được gọi là thống kinh .",
+    "entities": [
+      {
+        "text": "thống kinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhịp nhanh thất vô căn : nhịp nhanh thất khởi phát từ đường ra thất phải ( rvot - vt ) ; nhịp nhanh thất khởi phát từ đường ra thất trái ( lvot - vt ) , nhịp nhanh thất phân nhánh .",
+    "entities": [
+      {
+        "text": "nhịp nhanh thất phân nhánh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phân độ suy tim theo giai đoạn của hội tim mạch mỹ ( aha ) : suy tim giai đoạn a : bệnh nhân có nguy cơ cao của suy tim ( tăng huyết áp , bệnh mạch vành , đái tháo đường , tiền căn gia đình mắc bệnh cơ tim dãn nở , bệnh nhân sử dụng thuốc độc cho tim , béo phì , hội chứng chuyển hoá ) , không có bệnh tim thực thể và không có triệu chứng cơ năng của suy tim .",
+    "entities": [
+      {
+        "text": "bệnh cơ tim dãn nở",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hội chứng di truyền qua các thế hệ của gia đình có thể làm tăng nguy cơ ung thư đại tràng .",
+    "entities": [
+      {
+        "text": "hội chứng di truyền",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi các mạch máu não vỡ , tắc nghẽn thì các tế bào não sẽ thiếu hụt oxy và dưỡng chất , tế bào não bắt đầu chết dần khiến bệnh nhân tổn thương ngày càng nặng , thậm chí tử vong .",
+    "entities": [
+      {
+        "text": "mạch máu não vỡ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tắc nghẽn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ các nhà nghiên cứu đã xác định một số yếu tố có vẻ như làm tăng nguy cơ ung thư vòm họng phát triển , bao gồm : giới ung thư vòm họng là phổ biến hơn ở nam giới hơn là ở phụ nữ .",
+    "entities": [
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kháng nguyên đặc hiệu của tuyến tiền liệt ( psa ) : nếu tăng cao , bắt đầu đánh giá và điều trị trước khi hoàn thành đánh giá để cấy ghép .",
+    "entities": [
+      {
+        "text": "cấy ghép .",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , tác dụng phụ của hóa trị liệu được thêm vào các tác dụng phụ của xạ trị , đồng thời tạo khó khăn hơn để chịu đựng điều trị .",
+    "entities": [
+      {
+        "text": "hóa trị liệu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh tim bẩm sinh ebstein sau khi điều trị , trẻ cần được theo dõi thường xuyên , kịp thời và đi kiểm tra theo lịch của bác sĩ để đề phòng xảy ra các biến chứng và điều trị hiệu quả .",
+    "entities": [
+      {
+        "text": "bệnh tim bẩm sinh ebstein",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

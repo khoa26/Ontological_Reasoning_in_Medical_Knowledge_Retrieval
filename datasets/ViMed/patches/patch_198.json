@@ -1,0 +1,314 @@
+[
+  {
+    "text": "nếu có bệnh crohn của ruột non , có thể không thể tiêu hóa hoặc hấp thụ chất béo bình thường .",
+    "entities": [
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến hội chứng qt kéo dài nguyên nhân dẫn đến hội chứng qt kéo dài rất đa dạng : nguyên nhân di truyền : hội chứng qt kéo dài được xác định liên quan đến gen đột biến điều khiển hệ thống điện tim .",
+    "entities": [
+      {
+        "text": "hội chứng qt kéo dài",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "màng lọc nên được sử dụng trong thời gian ngắn hạn , cho đến khi giảm nguy cơ huyết khối tắc mạch và có thể sử dụng thuốc chống đông máu .",
+    "entities": [
+      {
+        "text": "thuốc chống đông máu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "huyết khối tắc mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "màng lọc",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "vì vậy , nếu mắc viêm họng , cần thăm khám ngay với bác sĩ để được điều trị triệt để bằng thuốc kháng sinh .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong barrett thực quản , màu sắc và thành phần của tế bào lót nơi thấp trong thực quản thay đổi .",
+    "entities": [
+      {
+        "text": "barrett thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc điều trị ung thư gan nguyên phát phụ thuộc vào mức độ ( giai đoạn ) của bệnh cũng như tuổi tác , sức khỏe tổng thể và sở thích cá nhân .",
+    "entities": [
+      {
+        "text": "ung thư gan nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh teo cơ tủy ở trẻ vị thành niên do thiếu hụt hexosaminidase với các bất thường trên sinh thiết trực tràng và giảm hexosaminidase a ở huyết thanh và bạch cầu .",
+    "entities": [
+      {
+        "text": "sinh thiết trực tràng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh teo cơ tủy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ yếu tố có thể làm tăng nguy cơ ung thư đại tràng bao gồm : lớn tuổi .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các kính hiển vi được gọi là đèn khe bởi vì nó sử dụng một dòng ánh sáng cường độ cao , qua khe giác mạc , mống mắt , và không gian giữa mống mắt và giác mạc .",
+    "entities": [
+      {
+        "text": "đèn khe",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "bệnh sốt rét lây truyền qua đường máu ,4 phương thức lây truyền : do muỗi đốt : phương thức lây truyền chủ yếu .",
+    "entities": [
+      {
+        "text": "bệnh sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cơn sốt không điển hình : sốt không thành cơn , ớn lạnh , gai rét , sốt liên tục hoặc dao động .",
+    "entities": [
+      {
+        "text": "ớn lạnh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "gai rét",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng khác có thể , chẳng hạn như nói , nuốt khó sẽ phụ thuộc vào các thủ tục cụ thể trải qua .",
+    "entities": [
+      {
+        "text": "nuốt khó",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "cắt đốt điện bằng catheter được dùng phổ biến nhất ở bệnh nhân có nhịp nhanh thất với các hội chứng được xác định rõ ràng ( ví dụ như nhịp nhanh thất khởi phát từ đường ra thất phải; nhịp nhanh thất khởi phát từ đường ra thất trái ( nhịp nhanh thất belhassen , nhịp nhanh thất trái nhạy cảm với verapamil ) ; nhịp nhanh thất trên bệnh nhân không có bệnh tim cấu trúc ) .",
+    "entities": [
+      {
+        "text": "cắt đốt điện bằng catheter",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhịp nhanh thất belhassen",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhịp nhanh thất trái",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể sử dụng một công cụ để giữ mũi mở và áp dụng các loại thuốc co rút mạch máu ở mũi .",
+    "entities": [
+      {
+        "text": "sử dụng một công cụ để giữ mũi mở và áp dụng các loại thuốc co rút mạch máu ở mũi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh ung thư khoang miệng tổng quan bệnh ung thư khoang miệng ung thư khoang miệng là bệnh phát sinh do sự biến đổi ác tính niêm mạc miệng phủ toàn bộ khoang miệng .",
+    "entities": [
+      {
+        "text": "bệnh ung thư khoang miệng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh và vấn đề làm tăng nguy cơ đông máu có thể làm tăng nguy cơ thiếu máu cục bộ đường ruột .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sán máng đực hình máng nhỏ có kích thước 10 – 20 mm , rộng 1 mm , hình máng ôm lấy con cái dài 20 mm , chúng ký sinh trong đường máu .",
+    "entities": []
+  },
+  {
+    "text": "hóa mô miễn dịch : dựa trên các dấu ấn miễn dịch giúp phân loại u lympho không hodgkin tế bào b , t hoặc nk .",
+    "entities": [
+      {
+        "text": "u lympho không hodgkin tế bào b",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hóa mô miễn dịch",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "trong đa số các trường hợp , chụp đại tràng với thụt barium vừa là quá trình chẩn đoán vừa là quá trình điều trị giúp tháo lồng mà không cần phẫu thuật .",
+    "entities": [
+      {
+        "text": "chụp đại tràng với thụt barium",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "vitrectomy là một thủ tục để loại bỏ các chất lỏng giống như gel ở trung tâm của mắt , cùng với bất kỳ mô đã được kéo trên võng mạc .",
+    "entities": [
+      {
+        "text": "vitrectomy",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các lỗi dna cho các tế bào phát triển và nhân ra khỏi kiểm soát , do đó , các tế bào đột biến đi vào cuộc sống khi nó bình thường sẽ chết .",
+    "entities": []
+  },
+  {
+    "text": "viêm thực quản trào ngược cấu trúc van được gọi là cơ vòng thực quản dưới , thường giữ tránh axit của dạ dày lên thực quản .",
+    "entities": [
+      {
+        "text": "viêm thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi không có bệnh tiềm ẩn hoặc vấn đề khác có mặt , điều trị tập trung vào việc ngăn chặn cơn đau trước khi nó bắt đầu .",
+    "entities": [
+      {
+        "text": "điều trị tập trung vào việc ngăn chặn cơn đau trước khi nó bắt đầu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh tiềm ẩn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu chẩn đoán là sa sút trí tuệ mất trí nhớ , triệu chứng dần dần sẽ xấu đi qua thời gian , chẳng hạn như bệnh alzheimer , chẩn đoán sớm cũng cung cấp thời gian để lên kế hoạch cho tương lai trong khi người đó vẫn có thể tham gia vào việc ra quyết định .",
+    "entities": [
+      {
+        "text": "sa sút trí tuệ mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh alzheimer",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "dùng globulin miễn dịch uốn ván khi có các vết thương sâu , nhiễm bẩn , nhiều dị vật , có tác dụng ngăn ngừa nhiễm trùng .",
+    "entities": [
+      {
+        "text": "uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra và chẩn đoán để phát hiện một vết loét , có thể phải trải qua các xét nghiệm chẩn đoán , như : xét nghiệm máu .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tóm lại , u thực quản lành tính là một loại u không quá phổ biến , có triệu chứng mơ hồ .",
+    "entities": [
+      {
+        "text": "u thực quản lành tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh thoát vị não dấu hiệu của thoát vị não màng não thay đổi tùy theo loại và mức độ nghiêm trọng của bệnh .",
+    "entities": [
+      {
+        "text": "thoát vị não màng não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh thoát vị não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "do lão hóa tự nhiên và hao mòn thông thường trên thực quản , người lớn tuổi có nguy cơ cao hơn về nuốt khó .",
+    "entities": [
+      {
+        "text": "nuốt khó",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh thường xảy ở những người làm việc ngoài trời ngư dân , nông dân , công nhân cầu đường… bức xạ ion hóa : ung thư da thường phát triển sau 14 - 15 năm kể từ khi tiếp xúc bức xạ ion hóa .",
+    "entities": [
+      {
+        "text": "ung thư da",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

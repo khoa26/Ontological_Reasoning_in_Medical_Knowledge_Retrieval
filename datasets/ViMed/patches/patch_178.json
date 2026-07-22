@@ -1,0 +1,458 @@
+[
+  {
+    "text": "thông thường , trẻ bị thoát vị não màng não hầu như không có các triệu chứng nguy hiểm cấp tính gây nguy hiểm đến tính mạng của trẻ .",
+    "entities": [
+      {
+        "text": "thoát vị não màng não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sán máng có 2 hấp khẩu , không có thực quản và 2 nhánh ruột nối với nhau , trứng không có nắp và có gai .",
+    "entities": []
+  },
+  {
+    "text": "có 3 loại túi thừa thực quản được phân chia theo vị trí như sau : túi thừa zenker là loại thường gặp nhất , thường ở mặt sau hầu họng ngay chỗ nối thực quản với hầu .",
+    "entities": [
+      {
+        "text": "túi thừa thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "túi thừa zenker",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh tắc mạch ối bình thường nước ối hoàn toàn nằm trong buồng ối , không đi vào tuần hoàn của người mẹ .",
+    "entities": [
+      {
+        "text": "bệnh tắc mạch ối",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "siêu âm doppler cũng có thể giúp phân biệt giữa bệnh viêm động mạch takayasu và xơ vữa động mạch , là tình trạng phổ biến hơn gây ra bởi sự tích tụ của các hạt cholesterol và các mảnh vỡ tế bào khác trong động mạch .",
+    "entities": [
+      {
+        "text": "bệnh viêm động mạch takayasu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm doppler",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "do đó , hội chứng qt kéo dài có thể gây giảm chức năng , tổn thương , hoặc thậm chí hoại tử tế bào não dẫn đến tình trạng co giật , động kinh , … rung thất : tình trạng rối loạn nhịp tim do hội chứng qt kéo dài có thể khiến tâm thất đập quá nhanh , rung và khả năng bơm máu không còn .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "động kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "co giật",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , người bị tinh hoàn ẩn thường phối hợp với các dị tật bẩm sinh khác làm tăng nguy cơ vô sinh cho người bệnh .",
+    "entities": [
+      {
+        "text": "tinh hoàn ẩn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu vậy , mối quan tâm và hiểu biết về một nhóm hỗ trợ chính thức hoặc những người khác đối phó với bệnh ung thư có thể đặc biệt hữu ích .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư diễn biến từ từ theo các giai đoạn từ 1 đến 4 nhưng bệnh khác biệt so với ung thư đại trực tràng về nguyên nhân , yếu tố nguy cơ , triệu chứng và phương pháp điều trị .",
+    "entities": [
+      {
+        "text": "ung thư đại trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bao quy đầu khó di động xuất hiện các nốt , các sẩn , mụn cóc hoặc loét ở bao quy đầu .",
+    "entities": [
+      {
+        "text": "loét ở bao quy đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mụn cóc",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nam giới từ 45 tuổi trở lên và nữ giới từ 55 tuổi trở lên có nhiều khả năng bị đau tim hơn nam giới và phụ nữ trẻ hơn .",
+    "entities": [
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nội soi trên cho những bệnh nhân có các triệu chứng báo động ( buồn nôn và nôn tái phát , thiếu máu không rõ nguyên nhân , nôn trớ , sụt cân 10% , hoặc tiền sử gia đình có bệnh lý dạ dày thực quản ) hoặc khi nghi ngờ tắc nghẽn đường ra dạ dày , liệt dạ dày .",
+    "entities": [
+      {
+        "text": "bệnh lý dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiếu máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nôn trớ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sụt cân",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ăn nhiều có thể liên quan đến triệu chứng của tăng đường máu nhưng không phải triệu điển hình để bệnh nhân quan tâm .",
+    "entities": [
+      {
+        "text": "ăn nhiều",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "khối u có thể tăng kích thước nhanh do viêm nhiễm , chảy máu trong u . về vị trí của các tuyến nước bọt phụ và u tuyến có thể gặp ở nhiều nơi , mỗi khối u ở vị trí khác nhau sẽ gây ra các triệu chứng tại chỗ khác nhau .",
+    "entities": [
+      {
+        "text": "khối u có thể tăng kích thước nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chảy máu trong u",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm nhiễm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nhưng đa số ung thư túi mật được phát hiện ở giai đoạn muộn nên điều trị và tiên lượng thường rất xấu .",
+    "entities": [
+      {
+        "text": "ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biểu hiện yếu , mệt mỏi , khát nước , khô da , chuột rút , mạch nhanh , tụt huyết áp ( dấu hiệu mất nước ) , rối loạn ý thức ( lơ mơ , ngủ gà , hôn mê ) .",
+    "entities": [
+      {
+        "text": "rối loạn ý thức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tụt huyết áp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mạch nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khát nước",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chuột rút",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khô da",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngủ gà",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hôn mê",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lơ mơ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "yếu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các nguyên nhân có thể dẫn đến xơ gan gây ung thư hóa bao gồm xơ gan do rượu , xơ gan thứ phát do nhiễm virus viêm gan b , virus viêm gan c dẫn đến ung thư tế bào gan sau 20 – 40 năm , xơ gan do nhiễm sắt .",
+    "entities": [
+      {
+        "text": "ung thư tế bào gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "virus viêm gan b",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "virus viêm gan c",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ gan do rượu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi điều đó xảy ra , nước mắt không thoát đúng , mắt chảy nước và tăng nguy cơ phát triển bệnh nhiễm trùng mắt và viêm .",
+    "entities": [
+      {
+        "text": "bệnh nhiễm trùng mắt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mắt chảy nước",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh trĩ có thể do khó khăn khi đại tiện hoặc áp lực tăng lên ở tĩnh mạch khi mang thai . . thảo luận về bệnh trĩ đôi khi lúng túng , bệnh trĩ là một trong những bệnh phổ biến nhất .",
+    "entities": [
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong lúc chờ kết quả cấy màu thì cho kháng sinh theo quy ước : ampiciilin 2g tiêm tĩnh mạch mỗi 4 giờ kết hợp với gentamycin 1,0 mg/kg cân nặng tm mỗi 8 giờ .",
+    "entities": [
+      {
+        "text": "ampiciilin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "gentamycin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cấy màu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán trước khi chẩn đoán viêm mống mắt , bác sĩ mắt sẽ tiến hành kiểm tra mắt hoàn chỉnh , bao gồm : kiểm tra bên ngoài .",
+    "entities": [
+      {
+        "text": "viêm mống mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hở van hai lá có 4 mức độ khác nhau : hở van hai lá 1/4 : mức độ nhẹ hay rất nhẹ; hở van hai lá 2/4 : mức độ trung bình; hở van hai lá 3/4 : mức độ nặng; hở van hai lá 4/4 : mức độ rất nặng .",
+    "entities": [
+      {
+        "text": "hở van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến nôn các nguyên nhân phổ biến bao gồm : hóa trị liệu ; liệt dạ dày ( một tình trạng trong đó các cơ của thành dạ dày không hoạt động bình thường , cản trở quá trình tiêu hóa ) ; gây mê toàn thân ; tắc ruột ; đau nửa đầu ; ốm nghén ; say tàu xe ; rotavirus ( hoặc nhiễm trùng do các loại virus khác ) ; viêm dạ dày ruột do virus ( cúm dạ dày ) ; viêm dây thần kinh tiền đình .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh tiền đình",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm dạ dày ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "liệt dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau nửa đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "say tàu xe",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tắc ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ốm nghén",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết những người trải nghiệm một duy nhất viêm dây thần kinh thị giác dần dần hồi phục tầm nhìn của họ .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "corticosteroid có thể giúp giảm viêm bất cứ nơi nào trong cơ thể , nhưng nó có nhiều tác dụng phụ , trong đó có sưng mặt , tóc quá nhiều , đổ mồ hôi đêm , mất ngủ và hiếu động thái quá .",
+    "entities": [
+      {
+        "text": "hiếu động thái quá",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "corticosteroid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tóc quá nhiều",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đổ mồ hôi đêm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sưng mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mất ngủ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều kiện thường liên kết với polyp mũi bao gồm : hen suyễn , một căn bệnh là nguyên nhân gây viêm và t ắc nghẽn của đường hô hấp .",
+    "entities": [
+      {
+        "text": "ắc nghẽn của đường hô hấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "polyp mũi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hen suyễn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chứng khó nuốt thực quản điều trị chứng khó nuốt thực quản , phương pháp tiếp cận có thể bao gồm : giãn nở thực quản .",
+    "entities": [
+      {
+        "text": "chứng khó nuốt thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "giãn nở thực quản",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "có nhiều nguyên nhân có thể có của việc mở rộng không bình thường này của các mạch máu hay viêm mũi .",
+    "entities": []
+  },
+  {
+    "text": "nếu thuốc không làm giảm triệu chứng viêm mũi dị ứng , bác sĩ có thể khuyên nên miễn dịch liệu pháp hoặc liệu pháp gây tê .",
+    "entities": [
+      {
+        "text": "triệu chứng viêm mũi dị ứng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "miễn dịch liệu pháp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "liệu pháp gây tê",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh ung thư gan bệnh nhân có thể phát hiện tình cờ bệnh ung thư gan mặc dù không có triệu chứng lâm sàng trong những đợt theo dõi định kì 3 – 6 tháng có triệu chứng ung thư gan : triệu chứng cơ năng vàng da ( jaundice ) : là triệu chứng thường gặp nhất , thường bộc lộ rõ nhất khi tiếp xúc với ánh nắng .",
+    "entities": [
+      {
+        "text": "bệnh ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

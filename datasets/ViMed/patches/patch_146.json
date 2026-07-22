@@ -1,0 +1,436 @@
+[
+  {
+    "text": "đối tượng nguy cơ bệnh than những đối tượng nguy cơ mắc bệnh than nhiều hơn những người bình thường bao gồm : những người phục vụ trong quân đội và những khu vực có nguy cơ mắc phải bệnh than .",
+    "entities": [
+      {
+        "text": "bệnh than",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù căng thẳng và thực phẩm nhiều gia vị đã từng được cho là nguyên nhân chính của viêm loét dạ dày tá tràng , các bác sĩ đã biết nguyên nhân của hầu hết các vết loét là vi khuẩn hình xoắn ốc helicobacter pylori ( h . pylori ) .",
+    "entities": [
+      {
+        "text": "viêm loét dạ dày tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hóa trị : hóa trị liệu là phương pháp sử dụng các thuốc gây độc tế bào nhằm tiêu diệt các tế bào ác tính trong cơ thể người bệnh ung thư .4. liệu pháp miễn dịch tự thân : chỉ có tại vinmec bằng cách làm gia tăng sức mạnh của hệ miễn dịch tự nhiên trong cơ thể , liệu pháp miễn dịch tự thân là giải pháp đột phá điều trị ung thư - trong đó có ung thư đại tràng , vinmec là bệnh viện đầu tiên tại việt nam được bộ y tế cấp phép triển khai kỹ thuật này .",
+    "entities": [
+      {
+        "text": "liệu pháp miễn dịch tự thân",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hóa trị liệu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết các trường hợp viêm thanh quản được kích hoạt bởi nhiễm virus tạm thời hoặc biến dạng giọng nói và không nghiêm trọng .",
+    "entities": [
+      {
+        "text": "biến dạng giọng nói",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều kiện mạch máu có thể cần dùng thuốc , phẫu thuật hoặc điều trị khác để giải quyết vấn đề .",
+    "entities": [
+      {
+        "text": "phẫu thuật hoặc điều trị khác để giải quyết vấn đề",
+        "type": "THUỐC"
+      },
+      {
+        "text": "dùng thuốc",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "khi áp lực động mạch phổi tăng cố định sẽ làm đảo chiều shunt , gây ra triệu chứng tím trên lâm sàng .",
+    "entities": [
+      {
+        "text": "tím",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ở thể rubella bẩm sinh : phụ nữ khi mang thai 3 tháng đầu mắc bệnh rubella rất dễ bị sẩy thai , đẻ non , dị tật bẩm sinh cho thai nhi .",
+    "entities": [
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các nguyên nhân khác do : loạn nhịp tim , nhiễm độc ( rượu ) , tác dụng phụ của thuốc , đái tháo đường , thiếu máu , phụ nữ sau khi sinh , … nguy cơ mắc phải những ai có nguy cơ mắc phải suy tim những bệnh nhân mắc các bệnh có khả năng dẫn đến suy tim như bệnh tăng huyết áp , bệnh mạch vành , bệnh van tim , bệnh mạch vành .",
+    "entities": [
+      {
+        "text": "bệnh tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh van tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiếu máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thoái hóa điểm vàng ướt được đánh dấu bởi sưng do bị rò rỉ mạch máu ảnh hưởng đến điểm vàng , ở trung tâm của võng mạc - lớp mô bên trong bức thành phía sau của nhãn cầu .",
+    "entities": [
+      {
+        "text": "thoái hóa điểm vàng ướt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc lợi tiểu làm tăng tần số và khối lượng tiểu , ngăn ngừa dịch ứ trệ trong cơ thể - hiệu ứng chung của suy tim .",
+    "entities": [
+      {
+        "text": "thuốc lợi tiểu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc bảo vệ hoặc nghỉ tham gia từ tiếng ồn lớn trong các hoạt động vui chơi giải trí có thể bảo vệ tai .",
+    "entities": [
+      {
+        "text": "nghỉ tham gia từ tiếng ồn lớn",
+        "type": "THUỐC"
+      },
+      {
+        "text": "mặc bảo vệ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "dịch vụ tư vấn và các nhóm hỗ trợ bệnh động kinh có thể hỗ trợ các gia đình trong việc học để đối phó .",
+    "entities": [
+      {
+        "text": "bệnh động kinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm : xét nghiệm measles igm : phát hiện kháng thể igm đáp ứng miễn dịch đặc hiệu với virus sởi .",
+    "entities": [
+      {
+        "text": "xét nghiệm measles igm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "chính vì các lý do đó , sau khi phẫu thuật thành công trẻ cần được theo dõi một cách sát sao đồng thời đi khám lại định kỳ thường xuyên theo lịch của bác sĩ để có thể phát hiện các vấn đề bất thường và can thiệp sớm để trẻ phát triển tốt nhất .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa sa sút trí tuệ không phải là một bệnh cụ thể .",
+    "entities": [
+      {
+        "text": "sa sút trí tuệ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sốt thấp khớp là một bệnh tự miễn làm viêm các mô của cơ thể , chẳng hạn như khớp và tim , có thể gọi nó là sốt thấp khớp cấp tính .",
+    "entities": [
+      {
+        "text": "sốt thấp khớp cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nhưng nếu bị bệnh viêm ruột , chất xơ có thể làm tiêu chảy , đau đớn và khí nặng hơn .",
+    "entities": [
+      {
+        "text": "bệnh viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các loại thuốc này cũng có thể giúp điều trị trầm cảm , lo âu và rối loạn giấc ngủ thường đi kèm với nhức đầu mãn tính .",
+    "entities": [
+      {
+        "text": "điều trị trầm cảm , lo âu và rối loạn giấc ngủ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhức đầu mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư gan ở giai đoạn này có thể là một khối u duy nhất đã phát triển xâm nhập vào mạch máu ở gần đó , hoặc nó có thể nhiều khối u nhỏ trong gan .",
+    "entities": [
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi đã được chẩn đoán ung thư đại tràng , bác sĩ sau đó sẽ xét nghiệm để xác định mức độ , hoặc xâm lấn của bệnh ung thư .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc nhịp nhanh thất nhịp nhanh thất có thể tiến triển thành rung thất ( vf ) và gây ngừng tim .",
+    "entities": [
+      {
+        "text": "nhịp nhanh thất",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , nguy cơ này cao hơn ở những người từng bị viêm họng do nhiễm liên cầu khuẩn và người cao tuổi ( do calci tích tụ xung quanh van hai lá ) .",
+    "entities": [
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đừng cố gắng để tự mình loại bỏ ráy tai với bất kỳ thiết bị đặt vào ống tai , đặc biệt là nếu đã từng phẫu thuật tai , có một lỗ ở màng nhĩ hoặc là bị đau tai hoặc thoát nước .",
+    "entities": [
+      {
+        "text": "loại bỏ ráy tai",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bị đau tai",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thoát nước",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hoặc khối u có kích thước bất kỳ , xâm lấn hạch vùng hoặc hạch bạch huyết xa nhưng không có di căn xa giai đoạn 4 : ung thư hậu môn giai đoạn cuối , khối u di căn xa tới cơ quan khác .",
+    "entities": [
+      {
+        "text": "ung thư hậu môn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : liệu pháp miễn dịch tự thân – hy vọng mới cho người bệnh ung thư ung thư vòm họng : nguyên nhân , triệu chứng , chẩn đoán và điều trị ung thư thực quản : nguyên nhân , triệu chứng , chẩn đoán và điều trị chủ đề : hóa trị xạ trị ung thư ung thư khoang miệng khoang miệng sinh thiết l iệu pháp miễn dịch tự thân \" ung thư \"\" ung thư \" hóa trị \" ung thư khoang miệng \" sinh thiết \" xạ trị \"khoang miệng \"\" sinh thiết \" liệu pháp miễn dịch tự thân \"\" ung thư khoang miệng \"\" xạ trị",
+    "entities": [
+      {
+        "text": "liệu pháp miễn dịch tự thân",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư khoang miệng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hiện tượng này khiến vùng bị ảnh hưởng chuyển sang màu trắng và sau đó là màu xanh , thường kèm theo cảm giác tê hay đau .",
+    "entities": [
+      {
+        "text": "tê hay đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "việc tầm soát sớm , phát hiện sớm có ý nghĩa lớn trong việc hạn chế khởi phát bệnh và phòng ngừa các biến chứng của bệnh , trong đó có vàng da nhân .",
+    "entities": [
+      {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh tế bào thần kinh vận động khó nhai , khó nuốt , ho , khó thở và nói khó xảy ra trong tổn thương hành tủy .",
+    "entities": [
+      {
+        "text": "bệnh tế bào thần kinh vận động",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó nhai",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó nuốt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nói khó",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hội chứng sheehan : chảy máu nặng có thể dẫn tới hoại tử một phần hoặc toàn bộ thùy trước tuyến yên gây suy tuyến yên , biểu hiện bằng dấu hiệu vô kinh , rụng lông , rụng tóc , suy tuyến giáp , suy tuyến thượng thận , mất sữa .",
+    "entities": [
+      {
+        "text": "suy tuyến thượng thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng sheehan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tuyến giáp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tuyến yên",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rụng lông",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rụng tóc",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "vô kinh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mất sữa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một số người bị xơ gan đường mật có các khớp đau mà tiêu biểu cho viêm khớp dạng thấp , một rối loạn tự miễn .",
+    "entities": [
+      {
+        "text": "viêm khớp dạng thấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ gan đường mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

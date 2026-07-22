@@ -1,0 +1,386 @@
+[
+  {
+    "text": "bơ cung cấp chất béo không bão hòa đơn rất tốt cho tim mạch , giúp giảm cholesterol , giảm nguy cơ mắc bệnh tim và hội chứng chuyển hóa .",
+    "entities": [
+      {
+        "text": "bệnh tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu gặp mắt đau đớn và vấn đề tầm nhìn cùng với các dấu hiệu và triệu chứng , có thể cần chăm sóc y tế khẩn cấp .",
+    "entities": [
+      {
+        "text": "vấn đề tầm nhìn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mắt đau đớn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ở trẻ em và người lớn , các t ai nạn có thể dẫn đến chấn thương mũi và lệch vách ngăn .",
+    "entities": [
+      {
+        "text": "lệch vách ngăn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các yếu tố nguy cơ có thể thay đổi để giảm nguy cơ sa sút trí tuệ mất trí nhớ , có thể thực hiện các bước để kiểm soát các yếu tố sau : sử dụng rượu .",
+    "entities": [
+      {
+        "text": "sa sút trí tuệ mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với hầu hết mọi người , các triệu chứng sốt hay có xu hướng giảm từ từ , thường qua nhiều thập kỷ .",
+    "entities": [
+      {
+        "text": "triệu chứng sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh tắc ruột sơ sinh việc chẩn đoán tắc ruột sơ sinh dựa trên các yếu tố lâm sàng đôi khi gặp khó khăn vì không phải bệnh nhi nào cũng có đầy đủ các triệu chứng kể trên .",
+    "entities": [
+      {
+        "text": "bệnh tắc ruột sơ sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ghi chú : ( 1 ) dha - ppq dihydroartemisinin - piperaquin khi mắc bệnh sốt rét người bệnh tuyệt đối không được tự điều trị tại nhà , tránh trường hợp lây bệnh sang người khác .",
+    "entities": [
+      {
+        "text": "bệnh sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số triệu chứng giống như đau nửa đầu bao gồm buồn nôn , nhạy cảm với ánh sáng , âm thanh và hào quang .",
+    "entities": [
+      {
+        "text": "nhạy cảm với ánh sáng , âm thanh và hào quang",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau nửa đầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bởi vì đó là một tình trạng di truyền , yếu tố nguy cơ lớn nhất đối với hội chứng marfan là có cha hoặc mẹ mắc chứng rối loạn này .",
+    "entities": [
+      {
+        "text": "hội chứng marfan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , khuyến cáo trẻ em tuổi đi học được kiểm tra tại trường hoặc thông qua các chương trình cộng đồn , g khoảng hai năm một lần kiểm tra các vấn đề tầm nhìn .",
+    "entities": [
+      {
+        "text": "các vấn đề tầm nhìn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "barrett thực quản thường được chẩn đoán ở những người có bệnh trào ngược dạ dày lâu dài ( gerd ) - trào ngược mãn tính acid từ dạ dày vào thực quản vùng thấp .",
+    "entities": [
+      {
+        "text": "bệnh trào ngược dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "barrett thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gerd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những kính áp tròng giúp bảo vệ che chắn bề mặt của mắt , bẫy độ ẩm cho mắt để làm giảm các triệu chứng khô mắt .",
+    "entities": [
+      {
+        "text": "kính áp tròng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật : trong trường hợp sinh thiết chẩn đoán có thể cắt bỏ các khối u lympho ngoài hạch ( dạ dày , ruột ) có nguy cơ chảy máu , tắc ruột hoặc thủng tạng rỗng xạ trị : điều trị phối hợp với hóa trị trong điều trị triệt căn u lympho tế bào t xạ trị đơn thuần trong các trường hợp chống chỉ định với hóa chất xạ trị bổ trợ sau hóa chất thì tia khu trú vào các vùng hạch lớn ban đầu hoặc vùng hạch còn sót lại sau hóa trị .",
+    "entities": [
+      {
+        "text": "u lympho tế bào t",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thủng tạng rỗng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tắc ruột",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu xuất hiện các triệu chứng như khó thở , buồn nôn , nhịp tim không đều hoặc chóng mặt , hãy ngừng tập thể dục .",
+    "entities": [
+      {
+        "text": "nhịp tim không đều",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chủ đề : hóa trị tầm soát ung thư xạ trị ung thư phổi ung thư phổi hút thuốc lá thuốc lá hút thuốc lá thụ động",
+    "entities": [
+      {
+        "text": "ung thư phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tính chất ù tai : vị trí ( trong đầu , một bên , hai bên ) , cao độ , âm đơn hay âm phức , kiểu tiếng ù ( đều đều , theo nhịp mạch , tiếng click , tiếng thổi ) , cường độ , mức độ gây khó chịu , ảnh hưởng của môi trường , liên tục hay ngắt quãng .",
+    "entities": [
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đo áp lực thực quản ( esophageal manometry ) : xét nghiệm này đo các cơn co thắt trong thực quản của bạn khi người bệnh nuốt .",
+    "entities": [
+      {
+        "text": "esophageal manometry",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đo áp lực thực quản",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "chẩn đoán hình ảnh : khi triệu chứng viêm ruột thừa cấp không điển hình thì chẩn đoán hình ảnh đóng vai trò rất quan trọng .",
+    "entities": [
+      {
+        "text": "chẩn đoán hình ảnh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm ruột thừa cấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra và chẩn đoán chẩn đoán ung thư gan các xét nghiệm và thủ tục được sử dụng để chẩn đoán ung thư gan bao gồm : xét nghiệm máu .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm soát bệnh tuyến giáp ( do bệnh nhược giáp có thể bị che dấu bởi triệu chứng suy tim , cường giáp làm nặng thêm suy tim tâm thu ) .",
+    "entities": [
+      {
+        "text": "bệnh tuyến giáp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh nhược giáp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim tâm thu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cường giáp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu viêm hồi tràng can thiệp vào khả năng hấp thụ vitamin này , có thể cần tiêm b12 hàng tháng .",
+    "entities": [
+      {
+        "text": "viêm hồi tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiêm b12",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu có đau đầu mãn tính hoặc tái phát , bác sĩ có thể thử để xác định loại và nguyên nhân gây ra đau đầu bằng cách sử dụng phương pháp tiếp cận nhất định .",
+    "entities": [
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "liên hệ nhiều loại kính áp tròng có sẵn - cứng , mềm , mặc mở rộng , dùng một lần , cứng nhắc khí thấm ( rgp ) và bifocal .",
+    "entities": [
+      {
+        "text": "kính áp tròng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bifocal",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "diện tích bình thường của lỗ van hai lá là 4 - 5cm 2. mức độ nghiêm trọng của hẹp van hai lá trên siêu âm tim như sau : trung bình : diện tích van &gt; 1,5 - 2,5cm 2 hoặc áp suất tâm trương trong nửa thời gian &lt; 150ms .",
+    "entities": [
+      {
+        "text": "hẹp van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống thực hiện theo các mẹo này để tránh màng nhĩ thủng : được điều trị các bệnh nhiễm trùng tai giữa .",
+    "entities": [
+      {
+        "text": "bệnh nhiễm trùng tai giữa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "màng nhĩ thủng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bao gồm các vấn đề tai khác , điều kiện sức khỏe mãn tính , và thương tích hoặc điều kiện có ảnh hưởng đến dây thần kinh thính giác hoặc trung tâm thính giác trong não .",
+    "entities": []
+  },
+  {
+    "text": "nhịp nhanh thất đa hình : phức bộ qrs thay đổi từ nhịp này đến nhịp khác ở cùng một chuyển đạo trên bất kỳ một chuyển đạo nào .",
+    "entities": [
+      {
+        "text": "nhịp nhanh thất đa hình",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thủ thuật có thể được xem xét nếu bệnh toàn thân liên quan đến tim được cho là nguyên nhân gây ra bệnh cơ tim .",
+    "entities": [
+      {
+        "text": "bệnh cơ tim .",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu cần , liệu pháp chống loạn nhịp trực tiếp , bao gồm thuốc chống loạn nhịp , khử rung tim , máy khử rung tim cấy ghép ( icd ) , máy tạo nhịp tim ( và một dạng tạo nhịp đặc biệt , liệu pháp tái đồng bộ tim ) , cắt bỏ qua ống thông , phẫu thuật hoặc kết hợp được sử dụng .",
+    "entities": [
+      {
+        "text": "máy khử rung tim cấy ghép",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chống loạn nhịp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cắt bỏ qua ống thông",
+        "type": "THUỐC"
+      },
+      {
+        "text": "máy tạo nhịp tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục trước khi phát hiện h . pylori , các bác sĩ thường khuyên những người có vết loét ăn một chế độ ăn uống hạn chế và giảm số lượng căng thẳng trong cuộc sống .",
+    "entities": []
+  }
+]

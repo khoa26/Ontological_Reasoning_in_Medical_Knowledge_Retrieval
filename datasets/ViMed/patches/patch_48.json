@@ -1,0 +1,368 @@
+[
+  {
+    "text": "yếu tố nguy cơ một số yếu tố có thể góp phần vào điểm yếu trong thành động mạch và làm tăng nguy cơ chứng phình động mạch não .",
+    "entities": [
+      {
+        "text": "chứng phình động mạch não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến nhồi máu cơ tim tim là cơ quan chính trong hệ thống tim mạch của bạn , cũng bao gồm các loại mạch máu khác nhau .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nội soi cắt dây thần kinh giao cảm , ngăn tiết mồ hôi chủ đề : đổ mồ hôi mồ hôi nhiều hôi nách tăng tiết mồ hôi hạch giao cảm dây thần kinh giao cảm",
+    "entities": [
+      {
+        "text": "nội soi cắt dây thần kinh giao cảm",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hạn chế uống cà phê , có thể làm trầm trọng thêm các triệu chứng của táo bón bằng cách gây mất nước .",
+    "entities": [
+      {
+        "text": "táo bón",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây viêm các mạch máu nhỏ trong kết mạc để trở nên nổi bật , đó là những gì gây ra màu hồng hoặc đỏ với lòng trắng của mắt .",
+    "entities": [
+      {
+        "text": "màu hồng hoặc đỏ với lòng trắng của mắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mẫu bệnh phẩm có thể lấy được nhờ áp lam vào tổn thương tại lưỡi hoặc chọc hút hạch nghi ngờ bằng kim nhỏ .",
+    "entities": [
+      {
+        "text": "chọc hút hạch",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh tiêu chảy nhiễm trùng nguyên nhân phổ biến nhất gây tiêu chảy nhiễm trùng đường ruột là do mầm bệnh xâm nhập qua đường miệng , hoặc cũng một phần do một phần hệ miễn dịch của người bệnh yếu nên vi khuẩn dễ tấn công .",
+    "entities": [
+      {
+        "text": "tiêu chảy nhiễm trùng đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tiêu chảy nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sởi là bệnh truyền nhiễm cấp tính qua đường hô hấp do virus thuộc giống morbillivirus , họ paramyxoviridae gây ra , thường gặp ở trẻ em .",
+    "entities": [
+      {
+        "text": "sởi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hiện nay vinmec là hệ thống y tế đầu tiên áp dụng 2 liệu pháp miễn dịch trong điều trị ung thư mới , đó là các liệu pháp tăng cường hệ miễn dịch tự thân .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc này ổn định mức dopamine , có thể cải thiện động cơ , nhận thức và chức năng tâm thần .",
+    "entities": [
+      {
+        "text": "thuốc này ổn định mức dopamine",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "celecoxib và các loại thuốc được gọi là chất ức chế cox – 2, tác dụng tương tự như nsaids để giảm đau .",
+    "entities": [
+      {
+        "text": "celecoxib",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nsaids",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng sốt thấp khớp thông thường bao gồm : các khớp sưng tấy , mềm và đỏ , đặc biệt là các khớp lớn như đầu gối , mắt cá chân và khuỷu tay .",
+    "entities": [
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khớp sưng tấy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mềm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đỏ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mỗi ngày bạn cần ghi chép lại nhật ký thực phẩm bạn ă để giúp tìm ra loại thực phẩm gây nên tình trạng đầy hơi .",
+    "entities": [
+      {
+        "text": "đầy hơi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "rối loạn ăn uống - ăn quá nhiều thực phẩm khi có rối loạn ăn , thường xuyên ăn quá nhiều thực phẩm .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kính áp tròng bifocal , giống như kính bifocal , cung cấp và sửa chữa khoảng cách gần lên liên lạc với nhau .",
+    "entities": [
+      {
+        "text": "kính áp tròng bifocal",
+        "type": "THUỐC"
+      },
+      {
+        "text": "kính bifocal",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thay đổi lối sống đơn giản , chẳng hạn như tập thể dục nhiều hơn và ăn chế độ ăn uống nhiều chất xơ có thể về hướng xóa giảm táo bón .",
+    "entities": [
+      {
+        "text": "táo bón",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các loại ung thư tuyến tụy bao gồm : ung thư hình thành trong các ống tuyến tụy ( adenocarcinoma ) .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "adenocarcinoma",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu với một ai đó phàn nàn bất ngờ đau đầu nặng , hoặc những người mất ý thức hoặc có một cơn động kinh , hãy gọi khẩn cấp y tế .",
+    "entities": [
+      {
+        "text": "bất ngờ đau đầu nặng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "có một cơn động kinh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mất ý thức",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa bệnh gan nhiễm mỡ không do rượu ( nonalcoholic ) là một thuật ngữ dùng để mô tả sự tích tụ chất béo trong gan của những người uống rượu ít hoặc không uống .",
+    "entities": [
+      {
+        "text": "bệnh gan nhiễm mỡ không do rượu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nonalcoholic",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu được thẩm phân phúc mạc , thực hiện các bước sau đây để ngăn ngừa viêm phúc mạc : rửa tay , bao gồm bên dưới móng tay và giữa các ngón tay , trước khi chạm vào ống thông .",
+    "entities": [
+      {
+        "text": "thẩm phân phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khám thần kinh nếu bệnh nhân xuất hiện tình trạng tâm thần , rung giật nhãn cầu , viêm màng não ( ví dụ : gáy cứng , dấu hiệu kernig hoặc dấu hiệu brudzinski ) , và các dấu hiệu thị giác trong tăng áp lực nội sọ ( ví dụ : phù gai thị , mất nhịp đập tĩnh mạch , liệt dây thần kinh số 3 ) hoặc xuất huyết dưới nhện ( xuất huyết võng mạc ) .",
+    "entities": [
+      {
+        "text": "liệt dây thần kinh số 3",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mất nhịp đập tĩnh mạch",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xuất huyết dưới nhện",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "dấu hiệu brudzinski",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xuất huyết võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "dấu hiệu kernig",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm màng não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phù gai thị",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "gáy cứng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng rối loạn ăn uống gây ra nhiều biến chứng , một số người trong số họ bị đe dọa tính mạng .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tìm kiếm sự cấp cứu y tế nếu có bất kỳ dấu hiệu hoặc triệu chứng nghiêm trọng sau đây ngứa bắt đầu ở chân hoặc ngón chân và tăng dần lên cơ thể .",
+    "entities": [
+      {
+        "text": "ngứa bắt đầu ở chân",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hiếm gặp nhưng nguy hiểm , bởi vì thuốc được liên kết với leukoencephalopathy multifocal nghiêm trọng - một bệnh não thường dẫn đến tử vong hoặc tàn tật nặng , phải được ghi danh vào một chương trình phân phối đặc biệt hạn chế sử dụng nó .",
+    "entities": [
+      {
+        "text": "bệnh não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc bệnh đau bụng đau bụng có thể là hậu quả của một căn bệnh tiềm ẩn nào đó hoặc là dấu hiệu cấp tính .",
+    "entities": [
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm ambulatory acid ( ph ) : bằng cách sử dụng một thiết bị theo dõi đặt trong thực quản nhằm thăm dò , xác định khi nào và trong bao lâu , acid dạ dày bị trào ngược lên thực quản .",
+    "entities": [
+      {
+        "text": "xét nghiệm ambulatory acid",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nói chung , nếu đã bất ngờ đau , nặng bụng hoặc đau với sốt , tiêu chảy ra máu hoặc nôn mửa , hãy gọi cho bác sĩ ngay .",
+    "entities": [
+      {
+        "text": "tiêu chảy ra máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nặng bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nôn mửa",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thử nghiệm phương pháp điều trị và nghiên cứu mới các nhà khoa học đang làm việc để cố gắng đưa ra các phương pháp điều trị mới để làm chậm quá trình của bệnh huntington .",
+    "entities": [
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các mạch máu có vách mỏng , và gia tăng áp lực trong tĩnh mạch có thể gây chảy máu dạ dày thực quản phía .",
+    "entities": [
+      {
+        "text": "chảy máu dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với tăng huyết áp nguyên phát nặng : sử dụng các nhóm thuốc sau để điều trị : thuốc lợi tiểu , thuốc ức chế canxi , thuốc chẹn beta , thuốc tác động lên hệ thần kinh trung ương , thuốc ức chế men chuyển và thuốc ức chế thụ thể angiotensin .",
+    "entities": [
+      {
+        "text": "tăng huyết áp nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

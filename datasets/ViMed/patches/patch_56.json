@@ -1,0 +1,436 @@
+[
+  {
+    "text": "nếu không có chống chỉ định , hãy bắt đầu dùng thuốc chẹn beta ( nitrat là một giải pháp thay thế ) .",
+    "entities": [
+      {
+        "text": "dùng thuốc chẹn beta",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nitrat",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nhưng bằng cách sử dụng aspirin trong cách này có thể gây tác dụng phụ , chẳng hạn như chảy máu đường tiêu hóa và viêm loét .",
+    "entities": [
+      {
+        "text": "chảy máu đường tiêu hóa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm loét",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "aspirin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể chẩn đoán này nếu người đó quan sát các dấu hiệu của chất dịch trong tai giữa , nếu có những dấu hiệu hoặc triệu chứng của nhiễm trùng và nếu có triệu chứng tương đối bất ngờ .",
+    "entities": [
+      {
+        "text": "dấu hiệu của chất dịch trong tai giữa",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khám bác sĩ nếu chứng ợ nóng trở nên thường xuyên hơn hay không còn đáp ứng với thuốc không kê đơn .",
+    "entities": [
+      {
+        "text": "chứng ợ nóng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh teo dây thần kinh thị giác tổng quan bệnh teo dây thần kinh thị giác teo dây thần kinh thị giác là trình trạng dây thần kinh thị giác bi phá hủy do bất cứ nguyên nhân gì , hạn chế khả năng truyền tải thông tin từ mắt về não .",
+    "entities": [
+      {
+        "text": "bệnh teo dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong trường hợp nghiêm trọng của chứng khó nuốt , có thể cần ống cho ăn để bỏ qua các phần cơ chế nuốt không làm việc bình thường .",
+    "entities": [
+      {
+        "text": "chứng khó nuốt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với cơ thắt thực quản chặt ( achalasia ) hoặc bệnh teo thực quản , bác sĩ có thể sử dụng nội soi với một quả bóng đặc biệt nhẹ nhàng mở rộng thực quản hoặc thông qua ống mềm để giãn thực quản .",
+    "entities": [
+      {
+        "text": "bệnh teo thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nội soi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "gọi cho bác sĩ nếu ngứa nhẹ ở ngón chân hoặc ngón tay mà có vẻ lan truyền hoặc trở nên tệ hơn .",
+    "entities": [
+      {
+        "text": "ngứa nhẹ ở ngón chân hoặc ngón tay",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "những thương tổn này có thể chèn ép dây thần kinh thị , phù nề đĩa thị và mất thị giác tiến triển .",
+    "entities": [
+      {
+        "text": "chèn ép dây thần kinh thị",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mất thị giác tiến triển",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phù nề đĩa thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mỗi vị trí cho khoảng 30 giây sau khi xuất hiện triệu chứng bất kỳ hoặc chuyển động mắt bất thường .",
+    "entities": [
+      {
+        "text": "chuyển động mắt bất thường",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phù phổi : máu và dịch trào ngược vào phổi , gây phù phổi dẫn đến khó thở và ho ra máu .",
+    "entities": [
+      {
+        "text": "ho ra máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phù phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "việc sử dụng các sản phẩm thuốc lá cũng làm tăng nguy cơ ung thư cổ họng , miệng và thanh quản .",
+    "entities": [
+      {
+        "text": "ung thư cổ họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vi tính cắt lớp ( ct scan ) máy chụp cắt lớp là một loại hình ảnh x - ray cho phép bác sĩ để xác định vị trí polyp mũ i và bất thường khác liên quan đến viêm mãn tính .",
+    "entities": [
+      {
+        "text": "vi tính cắt lớp",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "polyp mũ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ct scan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "x - ray",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu và triệu chứng của viêm mống mắt có thể bao gồm : mắt đỏ , thường được xem là một màu hồng đỏ trong vùng trắng của mắt ( màng cứng ) xung quanh con ngươi .",
+    "entities": [
+      {
+        "text": "viêm mống mắt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mắt đỏ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phác đồ điều trị theo hướng dẫn của bộ y tế ,2020, số : 2699/qđ - byt , hướng dẫn chẩn đoán , điều trị bệnh sốt rét .",
+    "entities": [
+      {
+        "text": "bệnh sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số trường hợp hiếm hơn là bệnh nhân biểu hiện tình trạng nhiễm trùng nhiễm độc nặng , sốt cao 39 - 40 độ c , giả mạc khắp môi và hầu họng , hạch cổ sưng to gây biến dạng cổ; triệu chứng viêm cơ tim , tổn thương thận và tổn thương thần kinh xuất hiện nếu có biến chứng .",
+    "entities": [
+      {
+        "text": "hạch cổ sưng to",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm cơ tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhiễm độc",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "giả mạc",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu đó là không thể , bác sĩ phẫu thuật có thể cần phải thực hiện một thủ tục gọi là hậu môn nhân tạo .",
+    "entities": [
+      {
+        "text": "hậu môn nhân tạo",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng khác bao gồm sốt , nhức đầu , bồn chồn , khó chịu , bí tiểu , nóng rát khi đi tiểu và đại tiện mất kiểm soát .",
+    "entities": [
+      {
+        "text": "đại tiện mất kiểm soát",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nóng rát khi đi tiểu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhức đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bồn chồn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bí tiểu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ghép gan được dành cho những người bị suy gan hoặc các biến chứng nghiêm trọng khác của viêm xơ đường mật chính .",
+    "entities": [
+      {
+        "text": "viêm xơ đường mật chính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ghép gan",
+        "type": "THUỐC"
+      },
+      {
+        "text": "suy gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm thực quản bạch cầu ái toan bạch cầu ái toan là những tế bào máu trắng điều tiết chứng viêm và đóng một vai trò quan trọng trong các phản ứng dị ứng .",
+    "entities": [
+      {
+        "text": "viêm thực quản bạch cầu ái toan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng khá đa dạng , hầu hết gây ra do rối loạn chức năng tâm trương , bao gồm khó thở , đánh trống ngực , đau ngực ( thường giống cơn đau thắt ngực điển hình ) và ngất .",
+    "entities": [
+      {
+        "text": "đánh trống ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngất",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đối với nhiều người , nghe nặng hơn theo tuổi tác , thường bắt đầu từ khoảng tuổi 60. nghe kém có thể gây ù tai .",
+    "entities": [
+      {
+        "text": "nghe nặng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nghe kém",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tụ máu nội sọ có thể xảy ra bởi vì các chất dịch bao quanh não không có khả năng hấp thụ sức mạnh của một cú va đập đột ngột hoặc ngừng một cách nhanh chóng .",
+    "entities": [
+      {
+        "text": "tụ máu nội sọ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trường hợp người bị thương chưa được gây miễn dịch cơ bản đầy đủ bằng vắc xin uốn ván cần phải được tiêm 1 liều vắc xin uốn ván ngay càng sớm càng tốt sau lúc bị thương .",
+    "entities": [
+      {
+        "text": "uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đặc điểm lâm sàng biểu hiện lâm sàng của bệnh thông liên thất tùy thuộc vào kích thước lỗ thông , lưu lượng luồng thông , tình trạng tăng áp động mạch phổi và mức độ tiến triển của bệnh .",
+    "entities": [
+      {
+        "text": "bệnh thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "theo viện y tế quốc gia mỹ , ước tính một trong ba người mỹ trong độ tuổi từ 65 và 75 và gần một nửa những người lớn tuổi hơn 75 có một số mức độ nghe kém .",
+    "entities": [
+      {
+        "text": "nghe kém",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ảnh hưởng từ các bệnh lý đường tiêu hóa như viêm đại tràng , ung thư đại tràng , hội chứng ruột kích thích , kháng insulin , hệ vi sinh vật nấm men đường ruột phát triển quá mức hoặc thiếu men tiêu hóa .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tác dụng phụ của hóa chất bao gồm mệt mỏi , nôn và buồn nôn , rụng tóc , tiêu chảy , chán ăn .",
+    "entities": [
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hóa chất",
+        "type": "THUỐC"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rụng tóc",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sự kết hợp này cũng có thể được sử dụng sau khi phẫu thuật để giảm nguy cơ ung thư tuyến tụy có thể tái diễn .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đối với nhiều triệu chứng khó chịu , một số thuốc có thể cung cấp cứu trợ , bao gồm : thuốc xịt mũi saline sử dụng phun mũi nước mặn , giải pháp tự chế để rửa chất kích thích và giúp loãng chất nhầy và làm dịu các màng trong mũi .",
+    "entities": [
+      {
+        "text": "thuốc xịt mũi saline sử dụng phun mũi nước mặn",
+        "type": "THUỐC"
+      },
+      {
+        "text": "triệu chứng khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

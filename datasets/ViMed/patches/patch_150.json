@@ -1,0 +1,427 @@
+[
+  {
+    "text": "mất nước dẫn đến huyết áp thấp bất thường ( hạ huyết áp ) , liên quan đến giảm đáng kể của chất lỏng và chất điện giải do tiêu chảy .",
+    "entities": [
+      {
+        "text": "huyết áp thấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hạ huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán nguyên nhân huyết áp thấp bác sĩ thường sẽ đo huyết áp của bạn , hỏi các triệu chứng bạn cảm thấy và thực hiện một số bài kiểm tra và xét nghiệm như : xét nghiệm máu ( đường huyết , công thức máu , … ) , điện tâm đồ , thử nghiệm bàn nghiêng .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "huyết áp thấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra được sử dụng để tìm ung thư dạ dày bao gồm chụp cắt lớp vi tính ( ct ) và một loại đặc biệt của x quang đôi khi được gọi là chụp bari .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chụp bari",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "x quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ung thư tụy là căn bệnh ít gặp nhưng lại rất nguy hiểm bởi khó phát hiện , khó điều trị và tỉ lệ tử vong cực cao .",
+    "entities": [
+      {
+        "text": "ung thư tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thân chung động mạch trong trẻ sơ sinh còn được gọi là thân động mạch liên tục , bởi vì giai đoạn đầu của sự phát triển tim duy trì cho đến khi sinh .",
+    "entities": [
+      {
+        "text": "thân động mạch liên tục",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thân chung động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , để chẩn đoán chính xác xem bạn có bị viêm tá tràng không bác sĩ sẽ yêu cầu thực hiện một số xét nghiệm sau : xét nghiệm máu , phân và test hơi thở : thường dùng để phát hiện vi khuẩn helicobacter pylori .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "test hơi thở",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "phân",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "máy ảnh có thể được chèn vào trong miệng ( nội soi ) để giúp nhìn thấy phần trên của ruột non .",
+    "entities": [
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "khi máu tụ trong não hoặc vào các không gian giữa não và xương sọ càng nhiều , các dấu hiệu và triệu chứng có thể trở nên rõ ràng , chẳng hạn như : trạng thái hôn mê .",
+    "entities": [
+      {
+        "text": "trạng thái hôn mê",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "máu tụ trong não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến sau ghép tim chế độ sinh hoạt : tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị và sử dụng thuốc để tránh xảy ra thải ghép cũng như các biến chứng nguy hiểm khác .",
+    "entities": [
+      {
+        "text": "ghép tim",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nhiều hiệu ứng phụ nghiêm trọng bao gồm huyết áp cao , tiểu đường loại 2 , loãng xương , gãy xương , đục thủy tinh thể và tính nhạy cảm tăng lên đến nhiễm trùng .",
+    "entities": [
+      {
+        "text": "tiểu đường loại 2",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "loãng xương",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gãy xương",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu có các dấu hiệu như đau , tê tay chân hoặc không thoải mái trên tim mạch ( đau ngực , khó thở … ) , bệnh nhân nên gặp bác sĩ càng sớm càng tốt để được chẩn đoán và điều trị sớm , tránh để tình trạng bệnh nghiêm trọng hơn .",
+    "entities": [
+      {
+        "text": "tê tay chân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ở người bị bệnh ung thư đã lan rộng ra khỏi thực quản , hóa trị có thể được sử dụng một mình để giúp làm giảm các dấu hiệu và triệu chứng gây ra bởi ung thư .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các thuốc thường dùng : rosuvastatin , atorvastatin . . xem thêm : dấu hiệu sớm của tiểu đường type 2 bệnh tiểu đường type 2 có chữa được không ?",
+    "entities": [
+      {
+        "text": "bệnh tiểu đường type 2",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tài liệu tham khảo bằng văn bản đầu tiên được biết đến về bệnh hansen là từ khoảng năm 600 trước công nguyên .",
+    "entities": [
+      {
+        "text": "bệnh hansen",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của nôn chế độ sinh hoạt tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị .",
+    "entities": [
+      {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính ( ct scan ) hay cộng hưởng từ ( mri ) cũng có thể được yêu cầu khi chẩn đoán chưa rõ ràng .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct scan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "đa ối , đa thai , nhau tiền đạo , nhau bong non , sản giật . . . . tổn thương tử cung hoặc cổ tử cung .",
+    "entities": [
+      {
+        "text": "nhau tiền đạo",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhau bong non",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sản giật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đa thai",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đa ối",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ssris , như fluoxetine ( prozac , sarafem ) hoặc paroxetin ( paxil ) có thể hữu ích nếu đang chán nản , bị đau và táo bón .",
+    "entities": [
+      {
+        "text": "fluoxetine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "paroxetin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chán nản",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sarafem",
+        "type": "THUỐC"
+      },
+      {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "prozac",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ssris",
+        "type": "THUỐC"
+      },
+      {
+        "text": "paxil",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh tiêu chảy nhiễm trùng tổng quan bệnh tiêu chảy nhiễm trùng tiêu chảy nhiễm trùng ( tiếng anh là infectious diarrhea / stomach flu ) , còn được gọi là t iêu chảy nhiễm trùng đường ruột .",
+    "entities": [
+      {
+        "text": "iêu chảy nhiễm trùng đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tiêu chảy nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . điều trị ngoại khoa phẫu thuật loại bỏ các nguyên nhân gây ù tai là các khối choán chỗ trong góc cầu tiểu não , u tân sinh của thùy thái dương hoặc các ù tai đi kèm với điếc dẫn truyền .",
+    "entities": [
+      {
+        "text": "điều trị ngoại khoa phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "điếc",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "khiếm khuyết bẩm sinh trong tim : một số khiếm khuyết di truyền phức tạp trong tim , làm nhịp tim chậm lại khi sử dụng một số loại thuốc và dẫn đến hội chứng qt kéo dài .",
+    "entities": [
+      {
+        "text": "hội chứng qt kéo dài",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhịp tim chậm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một số hóa chất , chẳng hạn như những chất được sử dụng để tiêu diệt côn trùng và cỏ dại , có thể làm tăng nguy cơ phát triển ung thư hạch không hodgkin .",
+    "entities": [
+      {
+        "text": "ung thư hạch không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "barrett thực quản phổ biến hơn ở người lớn tuổi , nhưng nó có thể xảy ra ở mọi lứa tuổi .",
+    "entities": [
+      {
+        "text": "barrett thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng nếu hút thuốc , bây giờ là thời gian dừng lại bởi vì : hút thuốc làm cho điều trị ít hiệu quả .",
+    "entities": []
+  },
+  {
+    "text": "nếu ù tai nặng hơn hay thay đổi , có thể giúp xác định một rối loạn cơ bản cần điều trị .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa nhịp nhanh thất để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : điều chỉnh chế độ ăn hợp lý và khoa học; uống nhiều nước , ăn nhiều rau củ; kiểm soát cân nặng , huyết áp và đường huyết; ngủ đủ giấc .",
+    "entities": [
+      {
+        "text": "nhịp nhanh thất",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đột quỵ : cao huyết áp cũng có thể làm vỡ hoặc tắc nghẽn các động mạch cung cấp máu và oxy cho não gây ra đột quỵ .",
+    "entities": [
+      {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra tim thử nghiệm này sử dụng sóng âm thanh để ghi lại hình ảnh thời gian thực của trái tim đang chuyển động .",
+    "entities": [
+      {
+        "text": "sóng âm thanh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tình trạng kinh tế xã hội : người ở mức kinh tế thấp có tỷ lệ mắc ung thư dạ dày vùng thân vị cao gấp 2 lần .",
+    "entities": [
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bên cạnh đó , khi các mảng xơ vữa vỡ ra tạo cục máu đông sẽ gây các cơn đau tim , đột quỵ nguy hiểm đến tính mạng .",
+    "entities": [
+      {
+        "text": "cơn đau tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

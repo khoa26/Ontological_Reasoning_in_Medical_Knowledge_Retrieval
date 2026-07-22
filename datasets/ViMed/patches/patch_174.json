@@ -1,0 +1,375 @@
+[
+  {
+    "text": "bổ sung một số hệ men vi sinh cho đường ruột như bifidobacterium , lactobacillus giúp hệ tiêu hóa làm việc tốt hơn .",
+    "entities": [
+      {
+        "text": "bifidobacterium",
+        "type": "THUỐC"
+      },
+      {
+        "text": "lactobacillus",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa rung thất xảy ra khi tim đập nhanh , xung điện thất thường .",
+    "entities": [
+      {
+        "text": "tim đập nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tinh hoàn lạc chỗ : sau khi ra khỏi lỗ bẹn nông , tinh hoàn đi lạc tới một vị trí khác mà không đến bìu ( tầng sinh môn , dây chằng bẹn , cân đùi ) .80% các trường hợp xảy ra ở một bên tinh hoàn , kích thước và chức năng thường bình thường .",
+    "entities": [
+      {
+        "text": "tinh hoàn lạc chỗ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán bệnh mạch vành khai thác bệnh sử .",
+    "entities": [
+      {
+        "text": "bệnh mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "diltiazem : 0,25 mg/kg ( tối đa 25 mg ) tiêm tĩnh mạch hoặc truyền liên tục 5 - 10 mg/giờ .",
+    "entities": [
+      {
+        "text": "diltiazem",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "điều trị xuất huyết truyền tĩnh mạch ( iv ) , hồi sức huyết động : truyền quá nhiều có thể làm tăng áp lực tĩnh mạch cửa và tăng nguy cơ chảy máu .",
+    "entities": [
+      {
+        "text": "tăng áp lực tĩnh mạch cửa",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hồi sức huyết động",
+        "type": "THUỐC"
+      },
+      {
+        "text": "truyền tĩnh mạch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xuất huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu có đầy hơi khó chịu hoặc đánh hơi một lượng đáng kể , bác sĩ có thể khuyên nên cắt bỏ các hạng mục như đồ uống có ga , xà lách , trái cây tươi và rau quả , đặc biệt là bắp cải , bông cải xanh và súp lơ .",
+    "entities": [
+      {
+        "text": "đầy hơi khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đánh hơi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "lasik là một thủ tục trong đó bác sĩ nhãn khoa sử dụng một dụng cụ gọi là keratome hoặc laser đặc biệt được gọi là một laser femto giây để thực hiện một vòng tròn , cắt mỏng khớp nối vào giác mạc .",
+    "entities": [
+      {
+        "text": "lasik",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống những lời khuyên sau đây có thể làm giảm nguy cơ nhiễm trùng tai phát triển : ngăn chặn cảm lạnh và các bệnh khác .",
+    "entities": [
+      {
+        "text": "nhiễm trùng tai",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cảm lạnh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trĩ ngoại là hiện tượng các đám rối tĩnh mạch ở dưới đường lược ( phía ngoài , bờ của hậu môn ) bị giãn ra và gấp khúc , nổi lên , che phủ bởi một lớp da mỏng được gọi là búi trĩ .",
+    "entities": [
+      {
+        "text": "trĩ ngoại",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố này có thể đi kèm với yếu tố giới tính : phụ nữ có độ tuổi trên 60 dễ bị tăng huyết áp hơn đàn ông cùng độ tuổi và đàn ông dưới 45 tuổi lại có nguy cơ mắc bệnh nhiều hơn phụ nữ ở giai đoạn này .",
+    "entities": [
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong rung nhĩ , nhịp điệu hỗn loạn có thể gây ra máu ứ đọng trong tâm nhĩ và các cục máu đông hình thành .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . các tình trạng ở tim như cơn đau tim , rối loạn thần kinh tim nhiễm ceton axit ( một biến chứng của lượng đường trong máu cao ở bệnh nhân mắc bệnh tiểu đường tuýp 1 ) chấn thương vùng đầu , tổn thương cầu não , hành não và trung não , chấn thương sọ não , áp lực nội sọ đi du lịch đến độ cao trên 800m triệu chứng bệnh tăng thông khí tăng thông khí có hai hình thức chính : tăng thông khí hàng ngày và tăng thông khí đột ngột .",
+    "entities": [
+      {
+        "text": "tăng thông khí hàng ngày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng thông khí đột ngột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tiểu đường tuýp 1",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tăng thông khí",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cơn đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi bị hở van hai lá nếu tình trạng ở mức độ nhẹ , bệnh chỉ ảnh hưởng tới chất lượng sống của người bệnh .",
+    "entities": [
+      {
+        "text": "hở van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm trùng có thể gây ra vấn đề trong các tĩnh mạch quanh xoang , can thiệp vào nguồn cung cấp máu cho não và có nguy cơ bị đột quỵ .",
+    "entities": [
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mesna : 1mg mesna được trộn với 1mg cyclophosphamide đường truyền tĩnh mạch để gắn với acrolein , một sản phẩm thoái giáng của cyclophosphamide gây độc cho biểu mô bàng quang và có thể dẫn đến viêm bàng quang chảy máu hay nghiêm trọng hơn là ung thư biểu mô tế bào chuyển tiếp của bàng quang .",
+    "entities": [
+      {
+        "text": "cyclophosphamide",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu mức độ viễn thị không thể thực hiện một nhiệm vụ cũng như mong muốn , hoặc nếu chất lượng về tầm nhìn làm giảm đi sự thú vị của các hoạt động , hãy gặp bác sĩ mắt .",
+    "entities": [
+      {
+        "text": "viễn thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong khi đó , tắc ống phóng tinh do sẹo hậu viêm , ngoài lý do sẹo hẹp lan rộng còn có lý do khó cắt được hết chỗ tắc do sẹo để giải phóng hai lỗ ống phóng tinh .",
+    "entities": [
+      {
+        "text": "tắc ống phóng tinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ cũng có thể làm thử nghiệm gọi là nội soi đánh giá nuốt , sử dụng ống nhỏ đặt trong mũi , cho phép bác sĩ để xem những gì đang xảy ra khi nuốt .",
+    "entities": [
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "một số nghiên cứu đã chỉ ra rằng việc kết hợp memantine với một chất ức chế cholinesterase có thể có kết quả tốt hơn .",
+    "entities": [
+      {
+        "text": "kết hợp memantine với một chất ức chế cholinesterase có thể có kết quả tốt hơn",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "suy tim có thể là tạm thời hoặc nó có thể là một tình trạng mãn tính do tổn thương tim của bạn trên diện rộng và vĩnh viễn .",
+    "entities": [
+      {
+        "text": "suy tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phụ thuộc vào vị trí của búi trĩ xuất hiện ở phía trên hay dưới đường lược của ống hậu môn , bệnh trĩ phân thành 2 loại chính là : bệnh trĩ nộ i và trĩ ngoại .",
+    "entities": [
+      {
+        "text": "bệnh trĩ nộ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "trĩ ngoại",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa run là một rối loạn của hệ thần kinh gây ra lắc theo nhịp điệu .",
+    "entities": [
+      {
+        "text": "run",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ứng cử viên cho phẫu thuật phải có đau đầu chỉ ở một bên của đầu bởi vì phẫu thuật có thể được thực hiện chỉ một lần .",
+    "entities": [
+      {
+        "text": "đau đầu chỉ ở một bên của đầu bởi vì phẫu thuật có thể được thực hiện chỉ một lần",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "olopatadine thuốc nhỏ mắt ( patanol , pataday ) giúp giảm ngứa mắt và kích thích mắt do sốt cỏ khô .",
+    "entities": [
+      {
+        "text": "kích thích mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thuốc nhỏ mắt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "olopatadine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sốt cỏ khô",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ngứa mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "patanol",
+        "type": "THUỐC"
+      },
+      {
+        "text": "pataday",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phạm vi rộng của bệnh và điều kiện liên quan đến bệnh gan nhiễm mỡ không do rượu rất đa dạng mà rất khó để xác định bất kỳ nguyên nhân .",
+    "entities": [
+      {
+        "text": "bệnh gan nhiễm mỡ không do rượu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu phát hiện nhịp nhanh thất hoặc rung thất , nó sẽ gửi ra những cú sốc năng lượng cao hoặc thấp để thiết lập lại tim với nhịp điệu bình thường .",
+    "entities": [
+      {
+        "text": "nhịp nhanh thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ở những người bị ung thư tuyến nước bọt tiến triển để làm giảm với các triệu chứng như đau , chảy máu hoặc khó nuốt hóa trị : hóa tr ị là điều trị bằng thuốc chống ung thư được truyền vào tĩnh mạch hoặc bằng đường uống .",
+    "entities": [
+      {
+        "text": "ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc chống ung thư",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó nuốt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ngày bắt đầu và thời gian của từng giai đoạn cơn đau có thể thống nhất thời kỳ đau với chu kỳ .",
+    "entities": [
+      {
+        "text": "cơn đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thử nghiệm h . pylori sau khi điều trị bác sĩ có thể khuyên nên trải qua thử nghiệm h . pylori vài tuần sau khi điều trị .",
+    "entities": []
+  }
+]

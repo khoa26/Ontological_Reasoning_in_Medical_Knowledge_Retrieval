@@ -1,0 +1,443 @@
+[
+  {
+    "text": "nặng hơn có thể gây ra hoại tử khô các ngón chân , nguy cơ phải tháo ngón , cắt cụt .",
+    "entities": [
+      {
+        "text": "hoại tử khô các ngón chân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tháo ngón",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cắt cụt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một số cách điều trị bệnh hiệu quả : điều trị bằng thuốc : chủ yếu là điều trị suy tim và rối loạn nhịp tim .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , những người có thành viên trong gia đình đã từng bị mắc bệnh tân sinh đa tuyến nội tiết loại 1 sẽ có nguy cơ cao mắc phải bệnh u tuyến yên .",
+    "entities": [
+      {
+        "text": "bệnh u tuyến yên",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số người có cụm các tế bào viêm được gọi là u hạt , giúp xác định chẩn đoán bệnh crohn vì u hạt không xảy ra với viêm loét đại tràng .",
+    "entities": [
+      {
+        "text": "viêm loét đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u hạt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chọc dò tủy sống và xét nghiệm chức năng thần kinh thường được sử dụng để giúp xác định chẩn đoán hội chứng guillain - barre .",
+    "entities": [
+      {
+        "text": "xét nghiệm chức năng thần kinh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "hội chứng guillain - barre",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chọc dò tủy sống",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu và triệu chứng của bệnh huntington có thể thay đổi đáng kể từ người sang người .",
+    "entities": [
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cũng cần cân nhắc đặt icd ở những bệnh nhân bị nhịp nhanh thất không bền bỉ có kèm bệnh tim cấu trúc , đặc biệt nếu có phân suất tống máu &lt; 0,35. dự phòng nhịp nhanh thất là việc rất quan trọng ( thường ở người bệnh đã đặt máy icd và có cơn nhịp nhanh thất tái phát thường xuyên ) , cần sử dụng thêm thuốc chống loạn nhịp , cắt đốt điện bằng catheter .",
+    "entities": [
+      {
+        "text": "cắt đốt điện bằng catheter",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chống loạn nhịp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cơn nhịp nhanh thất",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "máy icd",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "di căn giàu mạch máu thường thấy ở các khối u nội tiết ( u carcinoid , tụy , vỏ thượng thận ) , ung thư tế bào rau thai , ung thư thận .",
+    "entities": [
+      {
+        "text": "ung thư tế bào rau thai",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u carcinoid",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u nội tiết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh thiếu máu do thiếu vitamin b12 chẩn đoán xác định thiếu máu do thiếu vitamin b12 ngoài các biểu hiện lâm sàng thiếu máu của bệnh nhân còn cần đến xét nghiệm để đo số lượng tế bào hồng cầu và mức độ vitamin b12 đang có trong máu để xác định được tình trạng bệnh của bệnh nhân .",
+    "entities": [
+      {
+        "text": "xét nghiệm để đo số lượng tế bào hồng cầu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh thiếu máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ở người lớn mắc bệnh rubella thường sốt và phát ban nhiều hơn , kèm theo mệt mỏi , biếng ăn , đau khớp .",
+    "entities": [
+      {
+        "text": "phát ban",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "biếng ăn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau khớp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các loại phẫu thuật phụ thuộc vào số lượng , kích thước và vị trí của các khối u . phẫu thuật lựa chọn cho polyp mũi bao gồm : cắt polyp .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "polyp mũi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cắt polyp",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thuốc kháng sinh phổ biến nhất liên quan với viêm đại tràng màng giả bao gồm : quinolone , chẳng hạn như ciprofloxacin ( cipro ) , và levofloxacin ( levaquin ) .",
+    "entities": [
+      {
+        "text": "viêm đại tràng màng giả",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ciprofloxacin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "levofloxacin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "quinolone",
+        "type": "THUỐC"
+      },
+      {
+        "text": "levaquin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu đã được chẩn đoán loét , chắc chắn rằng bác sĩ biết điều này khi chỉ định bất kỳ thuốc giảm đau .",
+    "entities": [
+      {
+        "text": "thuốc giảm đau",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "độ tuổi 50, khoảng một nửa số người lớn đã có khó chịu , ngứa và chảy máu hậu môn , và có thể là báo hiệu sự hiện diện của trĩ .",
+    "entities": [
+      {
+        "text": "chảy máu hậu môn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngứa",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xác định mức độ bệnh ung thư gan khi ung thư được chẩn đoán , bác sĩ sẽ làm việc để xác định mức độ ( giai đoạn ) của ung thư gan .",
+    "entities": [
+      {
+        "text": "bệnh ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có 5 loại sưởi ấm ngoài cơ thể ( ecr ) : thẩm tách máu , tĩnh mạch , động tĩnh mạch liên tục , tim phổi nhân tạo và trao đổi oxy qua màng ngoài cơ thể .",
+    "entities": [
+      {
+        "text": "trao đổi oxy qua màng ngoài cơ thể",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tim phổi nhân tạo",
+        "type": "THUỐC"
+      },
+      {
+        "text": "động tĩnh mạch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thẩm tách máu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của thiếu máu cơ tim chế độ dinh dưỡng : uống nhiều nước .",
+    "entities": [
+      {
+        "text": "thiếu máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp , bác sĩ có thể đề nghị một thủ tục để loại bỏ một mẫu mô ( sinh thiết ) từ mắt .",
+    "entities": [
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù liên cầu khuẩn họng có thể xảy ra bất cứ lúc nào trong năm , nó có xu hướng lưu thông vào cuối mùa thu và mùa xuân .",
+    "entities": []
+  },
+  {
+    "text": "ít hơn 1 trong 10 người có hội chứng guillain - barre trải nghiệm biến chứng lâu dài , chẳng hạn như : vấn đề nghiêm trọng lâu dài với cảm giác và sự phối hợp , bao gồm một số trường hợp tàn tật nặng .",
+    "entities": [
+      {
+        "text": "hội chứng guillain - barre",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc ( bị ) sốt hồi quy nhiều yếu tố có thể làm tăng nguy cơ bị sốt hồi quy : những người nuôi chó mèo thường có nguy cơ mắc bệnh cao hơn; tiếp xúc với những người bị bệnh; tới những vùng đang có dịch bệnh; sống trong môi trường ô nhiễm , điều kiện vệ sinh kém tạo điều kiện cho chấy rận , ve bọ phát triển .",
+    "entities": [
+      {
+        "text": "sốt hồi quy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh u máu việc chẩn đoán u màu thường chỉ cần hỏi bệnh và thăm khám lâm sàng là đủ .",
+    "entities": [
+      {
+        "text": "bệnh u máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u màu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "càng ngày , các bác sĩ sử dụng hình thức ít xâm lấn hơn như chụp động mạch , là thử nghiệm cho bệnh viêm động mạch takayasu .",
+    "entities": [
+      {
+        "text": "bệnh viêm động mạch takayasu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chụp động mạch",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "khi bệnh u não ở trẻ đã trở nên nặng , trẻ thường lơ mơ , bán mê hoặc hôn mê .",
+    "entities": [
+      {
+        "text": "bệnh u não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bán mê",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hôn mê",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lơ mơ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra nhận thức và tâm lý học thần kinh sàng lọc cho bất cứ ai có triệu chứng sa sút trí tuệ , đánh giá chức năng nhận thức .",
+    "entities": [
+      {
+        "text": "đánh giá chức năng nhận thức",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "tâm lý học thần kinh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "kiểm tra nhận thức",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sa sút trí tuệ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với các khối u thực quản lành tính , các tế bào không bị tiêu diệt tự nhiên mà tiếp tục phát triển , tuy nhiên nó chỉ tăng sinh tại chỗ mà không xâm lấn ra xung quanh hoặc đi đến những cơ quan khác .",
+    "entities": [
+      {
+        "text": "u thực quản lành tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các loại thuốc khác có thể bao gồm ức chế men chuyển ace ) , chặn kênh canxi hoặc thuốc amiodarone ( cordarone ) .",
+    "entities": [
+      {
+        "text": "ức chế men chuyển ace",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc amiodarone",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chặn kênh canxi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cordarone",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một đến hai năm đầu ở tuổi 65. nếu có nguy cơ cao về bệnh mắt , chẳng hạn như bệnh tăng nhãn áp , tần số của chuyến thăm sẽ được tăng lên : năm đến 10 năm đến 40 tuổi .",
+    "entities": [
+      {
+        "text": "bệnh tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu viêm mũi dị ứng không quá nặng , thuốc không kê đơn có thể đủ để giảm bớt triệu chứng .",
+    "entities": [
+      {
+        "text": "thuốc không kê đơn",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm mũi dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số dấu hiệu của thân chung động mạch có thể chỉ ra một vấn đề cần được chăm sóc khẩn cấp .",
+    "entities": [
+      {
+        "text": "thân chung động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

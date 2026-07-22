@@ -1,0 +1,404 @@
+[
+  {
+    "text": "các dấu hiệu và triệu chứng có thể không xuất hiện cho đến khi bệnh ung thư tuyến tụy khá muộn và phẫu thuật cắt bỏ là không thể .",
+    "entities": [
+      {
+        "text": "bệnh ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thôi miên được chỉ định để giúp kiểm soát được hành vi nhất định hoặc để đối phó với một loạt các vấn đề y tế .",
+    "entities": [
+      {
+        "text": "thôi miên",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "súc miệng nước mặn - 1 muỗng cà phê ( 5 ml ) muối ăn với 237 ml nước ấm có thể giúp làm dịu đau họng .",
+    "entities": [
+      {
+        "text": "nước ấm có thể giúp làm dịu đau họng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "súc miệng nước mặn",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "mất trí nhớ , sa sút trí tuệ đơn độc nhưng không có nghĩa là đã mất trí nhớ hoàn toàn .",
+    "entities": [
+      {
+        "text": "sa sút trí tuệ đơn độc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mất trí nhớ hoàn toàn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh tiêu chảy nhiễm trùng để chẩn đoán tiêu chảy nhiễm trùng , các sĩ có thể yêu cầu người bệnh mô tả về các triệu chứng và yêu cầu thực hiện một số xét nghiệm liên quan như xét nghiệm mẫu phân để xác định nhiễm khuẩn đường ruột là do virus hay vi khuẩn .",
+    "entities": [
+      {
+        "text": "bệnh tiêu chảy nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xét nghiệm mẫu phân",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": ". . phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán hạ thân nhiệt đo thân nhiệt trung tâm ; xem xét tình trạng nhiễm độc , phù nề , nhiễm trùng huyết , hạ đường huyết và chấn thương .",
+    "entities": [
+      {
+        "text": "đo thân nhiệt trung tâm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "tình trạng nhiễm độc",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể chèn đèn nội soi vào cổ họng hoặc thanh quản và sau đó phẫu thuật hoặc laser đặc biệt .",
+    "entities": [
+      {
+        "text": "phẫu thuật hoặc laser đặc biệt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân viêm đại tràng giả xảy ra khi vi khuẩn có hại trong đại tràng - thông thường nhất là c . difficile phát hành độc tố mạnh .",
+    "entities": [
+      {
+        "text": "viêm đại tràng giả",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa đau mắt đỏ ( viêm kết mạc ) là tình trạng viêm hoặc nhiễm trùng của màng trong suốt ( kết mạc ) đường mí mắt và một phần của nhãn cầu .",
+    "entities": [
+      {
+        "text": "viêm kết mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau mắt đỏ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bởi vì các ống dẫn không phát triển , một hoặc nhiều cuộc phẫu thuật để thay thế các ống dẫn thường là cần thiết vì bé đã lớn dần .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "rung thất phải được xử lý bằng thiết bị khử rung tim kịp thời , tránh gây những tổn thương nặng không phục hồi cho não và tim .",
+    "entities": [
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của bệnh mạch vành dấu hiệu thường gặp nhất là bệnh nhân có cơn đau thắt ngực hay khó thở khi gắng sức .",
+    "entities": [
+      {
+        "text": "cơn đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù không thể loại bỏ tất cả các căng thẳng từ cuộc sống , có thể thay đổi cách phản ứng với tình huống căng thẳng bằng cách sử dụng một loạt các kỹ thuật thư giãn .",
+    "entities": [
+      {
+        "text": "loại bỏ tất cả các căng thẳng từ cuộc sống",
+        "type": "THUỐC"
+      },
+      {
+        "text": "kỹ thuật thư giãn",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến sốt hồi quy nguyên nhân gây ra sốt hồi quy là do borrelia recurrentis – một loại xoắn khuẩn gây ra thông qua vật truyền nhiễm trung gian là chấy rận và bọ .",
+    "entities": [
+      {
+        "text": "sốt hồi quy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sốt thấp khớp có thể gây ra các loại tổn thương tim sau : hẹp van tim ( hẹp van ) : điều này làm giảm lưu lượng máu .",
+    "entities": [
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hẹp van tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị nội khoa : sử dụng thuốc theo chỉ định của bác sĩ điều trị triệu chứng và các điều trị hỗ trợ bao gồm : dùng các thuốc kháng cholinergic ( như trihexyphenidyl , amitriptylin , hoặc atropin ) nếu có chảy nước bọt dùng nẹp hoặc nạng giúp cho việc đi lại vật lý trị liệu để ngăn chặn sự co rút co cứng có thể giảm khi dùng baclofen hoặc diazepam chế độ ăn loãng hoặc dùng ống thông đặt qua mũi vào dạ dày là cần thiết nếu khó nuốt nặng nề .",
+    "entities": [
+      {
+        "text": "vật lý trị liệu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nội khoa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "khó nuốt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "co cứng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "co rút",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong trường hợp một số bệnh nhân cụ thể bị tái phát nhiều lần cơn rung nhĩ kịch phát mà chính bệnh nhân có thể cảm nhận được triệu chứng lúc khởi phát cơn , ta có thể cho bệnh nhân mang theo liều nạp flecanide ( 300mg cho bệnh nhân ≥ 70 kg , hoặc 200mg ) , hoặc propafenone ( 600mg cho bệnh nhân ≥ 70kg , hoặc 450mg ) và uống ngay khi thấy có triệu chứng trống ngực .",
+    "entities": [
+      {
+        "text": "propafenone",
+        "type": "THUỐC"
+      },
+      {
+        "text": "trống ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "flecanide",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chẩn đoán ban đầu của hội chứng brugada là dựa trên hình thái điện tâm đồ đặc trưng ( điện tâm đồ dạng brugada type 1 ) .",
+    "entities": [
+      {
+        "text": "hội chứng brugada",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường đến đột ngột và trở nên tồi tệ hơn; cơn đau đột ngột bắt đầu xung quanh rốn và thường chuyển sang vùng bụng dưới bên phải; đau nặng hơn khi ho , đi bộ hoặc thực hiện các cử động khác; buồn nôn và nôn ; ăn không ngon ; sốt nhẹ , có thể nặng hơn khi bệnh tiến triển; táo bón hoặc tiêu chảy ; chướng bụng ; đầy hơi .",
+    "entities": [
+      {
+        "text": "ăn không ngon",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chướng bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cơn đau",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt nhẹ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đầy hơi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù mọi trường hợp đều khác nhau , hãy nhớ rằng nhiều trẻ em bị dị thông liên thất phát triển cơ thể lành mạnh .",
+    "entities": [
+      {
+        "text": "thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều kiện này , còn gọi là ung thư đại trực tràng di truyền không polyp ( hnpcc ) là hình thức phổ biến nhất của ung thư đại tràng di truyền .",
+    "entities": [
+      {
+        "text": "ung thư đại trực tràng di truyền không polyp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư đại tràng di truyền",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hnpcc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay vào đó , xạ phẫu thuật sử dụng nhiều chùm bức xạ tập trung cao phóng xạ để diệt các tế bào khối u trong một diện tích nhỏ .",
+    "entities": [
+      {
+        "text": "xạ phẫu thuật sử dụng nhiều chùm bức xạ tập trung cao phóng xạ để diệt các tế bào khối u trong một diện tích nhỏ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "giãn tĩnh mạch thực quản là biến chứng thường xuyên nhất của xơ gan , không thể đảo ngược lại sẹo gan .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù không thể thay đổi bản chất của công việc hoặc tất cả các yếu tố có thể gây mỏi mắt , có thể thực hiện các bước để giảm mỏi mắt .",
+    "entities": [
+      {
+        "text": "mỏi mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các loại ung thư tuyến tụy ung thư tuyến tụy xảy ra khi các tế bào trong tuyến tụy phát triển đột biến gen .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ăn vô độ tâm thần - dấu hiệu và triệu chứng có thể bao gồm : ăn cho đến khi tới sự khó chịu hoặc đau , thường với các loại thực phẩm giàu chất béo hay ngọt .",
+    "entities": [
+      {
+        "text": "tâm thần",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh thoát vị não điều trị thoát vị não phụ thuộc vào mức độ nghiêm trọng của bệnh .",
+    "entities": [
+      {
+        "text": "bệnh thoát vị não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nó thường kết hợp với thuốc xổ bari để hình dung toàn bộ đại tràng , hoặc bác sĩ có thể khuyên nên thực hiện nội soi thay thế .",
+    "entities": [
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của hội chứng marfan các dấu hiệu và triệu chứng của hội chứng marfan có thể rất khác nhau , ngay cả giữa các thành viên trong cùng một gia đình , vì hội chứng này có thể ảnh hưởng đến rất nhiều vùng khác nhau của cơ thể .",
+    "entities": [
+      {
+        "text": "hội chứng marfan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ điều trị cơ bản như sau : điều trị nội khoa nghỉ ngơi và nằm nghiêng trái thuốc an thần : diazepam tiêm hoặc uống sử dụng magnesium sulfate thuốc hạ huyết áp : sử dụng khi có huyết áp cao ( 160/110mmhg ) thuốc lợi tiểu : chỉ sử dụng khi có đe dọa phù phổi cấp và thiểu niệu điều trị sản khoa và ngoại khoa nếu tiền sản giật nặng không đáp ứng với điều trị hoặc xảy ra sản giật thì chấm dứt thai kỳ với mọi tuổi thai .",
+    "entities": [
+      {
+        "text": "thuốc hạ huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc lợi tiểu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiền sản giật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phù phổi cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiểu niệu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

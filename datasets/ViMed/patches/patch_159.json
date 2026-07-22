@@ -1,0 +1,436 @@
+[
+  {
+    "text": "viêm phổi , nhiễm trùng ổ bụng , du khuẩn huyế t , u nhọt , nhiễm trùng thần kinh trung ương , .",
+    "entities": [
+      {
+        "text": "nhiễm trùng thần kinh trung ương",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng ổ bụng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "du khuẩn huyế",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u nhọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khối u đại tràng được tìm thấy trong giai đoạn đầu thường có thể được gỡ bỏ một cách an toàn và hoàn toàn , giúp ngăn ngừa ung thư , một căn bệnh phổ biến thường gây tử vong khi tìm thấy trong các giai đoạn sau .",
+    "entities": [
+      {
+        "text": "khối u đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "như đục thủy tinh thể lớn hơn , u ám nhiều ống kính và làm biến dạng ánh sáng đi qua ống kính .",
+    "entities": [
+      {
+        "text": "đục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ám nhiều ống kính",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán bác sĩ có lẽ sẽ kiểm tra các dấu hiệu của bệnh tật , nhiễm trùng hoặc các vấn đề thần kinh .",
+    "entities": [
+      {
+        "text": "vấn đề thần kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đôi khi các vi khuẩn gây nhiễm trùng gây ra viêm nắp thanh quản ở nơi khác trong cơ thể , chẳng hạn như viêm phổi , viêm màng não hoặc nhiễm trùng máu ( nhiễm trùng huyết ) .",
+    "entities": [
+      {
+        "text": "viêm nắp thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm màng não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . ; tăng áp lực lên thành động mạch chủ; tăng huyết áp ; giãn động mạch chủ; van động mạch chủ một hoặc hai lá; động mạch chủ bị giảm sức chịu tải; tuổi già; hội chứng marfan , hội chứng ehlers - danlos ; thai nghén; có các yếu tố nguy cơ xơ vữa động mạch ; chấn thương; mắc bệnh lý rối loạn mô liên kết bẩm sinh hoặc di truyền .",
+    "entities": [
+      {
+        "text": "hội chứng ehlers - danlos",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng marfan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phát hiện và điều trị sớm các tình trạng nhiễm trùng , viêm khớp và các bệnh lý khác duy trì tinh thần thoải mái , cân bằng .",
+    "entities": [
+      {
+        "text": "viêm khớp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tần suất xuất hiện bốc hỏa cũng biến đổi tùy từng người , có người bốc hỏa mỗi giờ một cơn , có người chỉ thỉnh thoảng mới bốc hỏa , nhưng cũng có những người không trải qua triệu chứng này .",
+    "entities": [
+      {
+        "text": "bốc hỏa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "người bệnh mắc hội chứng tăng thông khí đột ngột có thể phải trải qua cảm giác khó chịu , đau nhức một số bộ phận trên cơ thể như bụng , ngực , hệ thần kinh và cảm giác .",
+    "entities": [
+      {
+        "text": "hội chứng tăng thông khí đột ngột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau nhức",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": ". . ) ăn nhiều trái cây và rau xanh đeo kính bảo hộ khi chơi thể thao , làm việc để ngăn ngừa chấn thương kiểm soát bệnh tiểu đường , cao huyết áp và bệnh tim mạch không tự ý điều trị bằng kinh nghiệm dân giản hay sử dụng các loại thuốc khôngrõ nguồn gốc , cần đến gặp bác sĩ để được tư vấn điều trị .",
+    "entities": [
+      {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mra sản xuất hình ảnh chi tiết các mạch máu mà không cần sử dụng ống thông hay x quang , mặc dù tương phản thường được sử dụng .",
+    "entities": [
+      {
+        "text": "ống thông",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "x quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mra",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "một số trong những biến chứng có thể là có thể xảy ra sau khi phẫu thuật khúc xạ bao gồm : quá mức hiệu chỉnh hoặc vấn đề ban đầu .",
+    "entities": [
+      {
+        "text": "phẫu thuật khúc xạ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các trường hợp block nhĩ thất còn lại là do : thuốc ( ví dụ : thuốc chẹn beta , thuốc chẹn kênh calci , amiodarone , digoxin .",
+    "entities": [
+      {
+        "text": "block nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nghiên cứu sớm về thuốc này đã cho thấy hứa hẹn trong điều trị mệt mỏi , nhưng cần nghiên cứu thêm để xác định vai trò của nó trong xơ gan đường mật .",
+    "entities": [
+      {
+        "text": "xơ gan đường mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng sớm nặng của hội chứng guillain - barre tăng đáng kể nguy cơ biến chứng nghiêm trọng lâu dài .",
+    "entities": [
+      {
+        "text": "hội chứng guillain - barre",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc thư giãn cơ bắp , có thể bao gồm thuốc nitrate , như isosorbide ( isordil ) , nifedipine ( procardia ) , diltiazem ( cardizem , tiazac … ) hoặc dicyclomin ( bentyl ) .",
+    "entities": [
+      {
+        "text": "thuốc nitrate",
+        "type": "THUỐC"
+      },
+      {
+        "text": "isosorbide",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nifedipine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "dicyclomin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "procardia",
+        "type": "THUỐC"
+      },
+      {
+        "text": "diltiazem",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cardizem",
+        "type": "THUỐC"
+      },
+      {
+        "text": "isordil",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiazac",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bentyl",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "chứng phình động mạch trong động mạch chủ , xảy ra khi thành của các mạch máu bị yếu đi và căng ra , có khả năng vỡ .",
+    "entities": [
+      {
+        "text": "chứng phình động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "siêu âm hoặc chụp cắt lớp vi tính ổ bụng : phát hiện tinh hoàn ẩn , các hạch di căn ổ bụng .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "một số có trầm cảm sau sinh nặng đáp ứng kém hoặc không đáp ứng với liệu pháp tâm lý hoặc thuốc , bác sĩ có thể gợi ý điều trị điện ( ect ) , là phương pháp đưa 1 dòng điện nhỏ truyền vào trong khi bệnh nhân được gây mê toàn thân nhằm kích thích điện làm thay đổi các chất hóa học trong não giúp cải thiện triệu chứng trầm cảm .",
+    "entities": [
+      {
+        "text": "đưa 1 dòng điện nhỏ truyền vào trong khi bệnh nhân được gây mê toàn thân nhằm kích thích điện làm thay đổi các chất hóa học trong não",
+        "type": "THUỐC"
+      },
+      {
+        "text": "trầm cảm sau sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "liệu pháp tâm lý",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "điều trị điện",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ect",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục chăm sóc tốt sức khỏe tổng thể có thể giúp cảm thấy tốt hơn và cải thiện một số triệu chứng của xơ gan đường mật : ăn một chế độ ăn uống giảm natri , vì natri làm tăng nguy cơ sưng phù mô và tích lũy chất lỏng trong khoang bụng ( cổ trướng ) .",
+    "entities": [
+      {
+        "text": "xơ gan đường mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cổ trướng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , động tác sờ , chạm lên vật dụng trong nhà của người đã bị nhiễm cũng có thể lây lan bạch hầu .",
+    "entities": [
+      {
+        "text": "bạch hầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xạ trị đơn thuần : xạ trị triệt căn có thể được chỉ định cho bệnh nhân ung thư lưỡi phát hiện sớm; ngoài ra , xạ trị còn là phương pháp điều trị cho bệnh nhân ung thư lưỡi quá giai đoạn phẫu thuật , xạ trị bỗ trợ sau phẫu thuật : mục đích của xạ trị trong trường hợp này là tiêu diệt những tế bào ung thư còn sót lại sau quá trình phẫu thuật , mang lại hiệu quả lớn hơn so với phẫu thuật đơn thuần .",
+    "entities": [
+      {
+        "text": "ung thư lưỡi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tại hoa kỳ , những người nhập cư châu á có nguy cơ cao hơn của loại ung thư này hơn những người mỹ gốc châu á . tuổi ung thư vòm họng có thể xảy ra ở mọi lứa tuổi , nhưng nó thường được chẩn đoán ở người lớn tuổi từ 30 và 50. chất bảo quản thực phẩm hóa chấ t phát hành trong hơi khi nấu ăn từ chất bảo quản thực phẩm như cá và rau , có thể vào khoang mũi , làm tăng nguy cơ ung thư vòm họng .",
+    "entities": [
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những xét nghiệm chẩn đoán hình ảnh thường được sử dụng để phát hiện ung thư tụy gồm : siêu âm bụng : đây là xét nghiệm bước đầu ở một bệnh nhân đau bụng và vàng da .",
+    "entities": [
+      {
+        "text": "siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ung thư tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mọi trường hợp phát hiện được trẻ trai bị tinh hoàn ẩn , cha mẹ cần đưa con đi khám để được chẩn đoán và điều trị sớm , tránh nguy cơ vô sinh và ung thư hóa tinh hoàn cũng như những biến chứng khác .",
+    "entities": [
+      {
+        "text": "ung thư hóa tinh hoàn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tinh hoàn ẩn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khối u . một khối u có thể ngăn mật thoát ra khỏi túi mật , gây tích tụ mật và có thể dẫn đến viêm túi mật .",
+    "entities": [
+      {
+        "text": "viêm túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cần tiến hành xét nghiệm viêm gan b và bệnh lao , những bệnh có thể bị kích hoạt trở lại bằng một số liệu pháp ức chế miễn dịch .",
+    "entities": [
+      {
+        "text": "viêm gan b",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh lao",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu các sợi lông bên trong tai trong uốn cong hoặc bị hỏng , có thể \"rò rỉ\" ngẫu nhiên xung điện đến bộ não , gây ra chứng ù tai .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thực tế bệnh có thể nguy hiểm đến tính mạng người mẹ và con do hành vi tự sát và làm hại con mình do bệnh trầm cảm gây nên .",
+    "entities": [
+      {
+        "text": "bệnh trầm cảm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến hở van ba lá hở van ba lá thường là do van ba lá bị hở bẩm sinh hoặc do những bệnh lý sức khỏe gây ra .",
+    "entities": [
+      {
+        "text": "hở van ba lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

@@ -1,0 +1,420 @@
+[
+  {
+    "text": "với thủ tục ent sẽ áp dụng một hóa chất để các cạnh của những vết rách kích thích tăng trưởng và sau đó áp dụng một bản vá lỗ .",
+    "entities": [
+      {
+        "text": "với thủ tục ent sẽ áp dụng một hóa chất để các cạnh của những vết rách kích thích tăng trưởng và sau đó áp dụng một bản vá lỗ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tùy thuộc vào mức độ nghiêm trọng của bệnh crohn , bác sĩ có thể khuyên nên một hoặc nhiều điều sau đây : chống tiêu chảy bổ sung chất xơ , như chất psyllium bột hoặc methylcellulose có thể giúp làm giảm nhẹ đến vừa phải tiêu chảy .",
+    "entities": [
+      {
+        "text": "methylcellulose",
+        "type": "THUỐC"
+      },
+      {
+        "text": "psyllium bột",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân cũng có thể đi khám vì triệu chứng nuốt đau , nuốt khó , tức ngực , buồn nôn , nôn , người mệt mỏi , chán ăn , .",
+    "entities": [
+      {
+        "text": "người mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nuốt đau",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nuốt khó",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tức ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong liệt giả hành tủy : lưỡi nhỏ và co làm cho người bệnh không thể đưa nhanh lưỡi sang hai bên .",
+    "entities": [
+      {
+        "text": "liệt giả hành tủy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lưỡi nhỏ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể khuyên nên đ iều trị để giúp giảm triệu chứng viêm xoang , bao gồm : nước muối xịt mũi , xịt vào mũi nhiều lần trong ngày để rửa mũi .",
+    "entities": [
+      {
+        "text": "xịt vào mũi nhiều lần trong ngày để rửa mũi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "iều trị để giúp giảm triệu chứng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nước muối xịt mũi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm xoang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu đã được chẩn đoán bệnh viêm động mạch takayasu , hãy ghi nhớ rằng các triệu chứng của bệnh bùng phát ( tái phát ) thường tương tự như đã xảy ra khi căn bệnh bắt đầu đầu tiên .",
+    "entities": [
+      {
+        "text": "bệnh viêm động mạch takayasu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều quan trọng là phải có đủ axit folic trong cơ thể của bạn vào những tuần đầu của thai kỳ để ngăn ngừa bệnh thoát vị não .",
+    "entities": [
+      {
+        "text": "bệnh thoát vị não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh ung thư bàng quang điều trị ung thư bàng quang hiện nay rất hiệu quả , bệnh có thể dễ dàng chữa khỏi nếu chúng ta phát hiện và điều trị ở giai đoạn sớm .",
+    "entities": [
+      {
+        "text": "bệnh ung thư bàng quang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cuồng động nhĩ tương tự như rung nhĩ , nhưng nhịp điệu nhĩ có tổ chức hơn và ít lộn xộn hơn so với các mô hình bất thường phổ biến với rung nhĩ .",
+    "entities": [
+      {
+        "text": "cuồng động nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật/thủ thuật khác cắt bỏ thực quản : trong một số trường hợp hiếm gặp , chảy máu không kiểm soát được .",
+    "entities": [
+      {
+        "text": "cắt bỏ thực quản",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tùy thuộc vào nguyên nhân cơ bản , lá gan to có thể cảm thấy mềm mại , cứng hoặc bất thường .",
+    "entities": [
+      {
+        "text": "gan to",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng viêm mạch các biến chứng của viêm mạch phụ thuộc vào loại viêm mạch mà bạn mắc phải , bao gồm : cục máu đông .",
+    "entities": [
+      {
+        "text": "viêm mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng khi bị căng , đè ép hoặc kích thích do phân có thể làm tổn thương bề mặt của búi trĩ và gây ra chảy máu .",
+    "entities": [
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "rối loạn nhịp tim : thiếu máu cơ tim gây ảnh hưởng đến hệ thống điện tim , khiến tim , khiến tim đập bất thường .",
+    "entities": [
+      {
+        "text": "tim đập bất thường",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thiếu máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc viêm thanh quản cấp tính gây ra bởi một loại virus thường tự tốt hơn trong vòng một tuần .",
+    "entities": [
+      {
+        "text": "viêm thanh quản cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu không khí trong nhà khô , chẳng hạn như nếu buộc phải nhiệt khí nóng , thêm độ ẩm cho không khí có thể giúp ngăn ngừa viêm xoang .",
+    "entities": [
+      {
+        "text": "viêm xoang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "gặp bác sĩ ngay lập tức nếu có dấu hiệu hoặc triệu chứng có thể chỉ ra một nhiễm trùng nghiêm trọng : - đau hoặc sưng quanh mắt .",
+    "entities": [
+      {
+        "text": "sưng quanh mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bổ sung canxi và vitamin d hầu hết mọi người với bệnh crohn cần phải bổ sung thêm canxi với vitamin d . điều này là do bệnh crohn và steroid dùng để điều trị nó có thể làm tăng nguy cơ loãng xương .",
+    "entities": [
+      {
+        "text": "loãng xương",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vitamin d",
+        "type": "THUỐC"
+      },
+      {
+        "text": "steroid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "canxi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến cơ tim phì đại hầu hết các trường hợp bệnh cơ tim phì đại đều do di truyền .",
+    "entities": [
+      {
+        "text": "bệnh cơ tim phì đại",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hiếm , nhưng mất trí nhớ có thể là kết quả của thiệt hại gây ra bởi một khối u não .",
+    "entities": [
+      {
+        "text": "mất trí nhớ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc bệnh tim mạch suy tim : suy tim là một trong những biến chứng phổ biến nhất của bệnh tim , xảy ra khi tim không thể bơm đủ máu để đáp ứng nhu cầu của cơ thể .",
+    "entities": [
+      {
+        "text": "bệnh tim mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "giải phẫu bệnh mô gan nếu nghi ngờ có một hình thức nghiêm trọng hơn của bệnh gan nhiễm mỡ không do rượu , bác sĩ có thể đề nghị một thủ tục để loại bỏ một mẫu mô từ gan ( sinh thiết gan ) .",
+    "entities": [
+      {
+        "text": "bệnh gan nhiễm mỡ không do rượu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sinh thiết gan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh mô gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "suy tim giai đoạn b : bệnh nhân có bệnh tim thực thể ( có tiền căn nhồi máu cơ tim , rối loạn chức năng tâm thu thất trái , bệnh van tim không triệu chứng ) , nhưng chưa có triệu chứng của suy tim .",
+    "entities": [
+      {
+        "text": "rối loạn chức năng tâm thu thất trái",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh van tim không triệu chứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng công cụ nhỏ để loại bỏ khối u và các vật cản khác ngăn chặn dòng chảy của chất lỏng từ xoang .",
+    "entities": [
+      {
+        "text": "sử dụng công cụ nhỏ để loại bỏ khối u",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một nhiễm trùng do vi khuẩn hoặc virus của chất lỏng này thường là những gì gây ra các triệu chứng của nhiễm trùng tai .",
+    "entities": [
+      {
+        "text": "nhiễm trùng tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các tế bào gốc có thể biệt hoá thành các tế bào tiếp nhận ánh sáng , giúp cải thiện tầm nhìn , độ nhạy với ánh sáng , thị lực , có thể làm chậm hoặc ngừng việc mất thị lực .",
+    "entities": [
+      {
+        "text": "mất thị lực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "quan hệ tình dục bằng miệng : quan hệ tình dục bằng miệng không những làm tăng nguy cơ mắc bệnh ung thư vòm họng mà còn tăng nguy cơ mắc các bệnh lây truyền qua đường tình dục như lậu , giang mai , sùi mào gà … triệu chứng bệnh ung thư vòm họng biểu hiện ung thư vòm họng giai đoạn sớm thường nghèo nàn , dễ bỏ qua vì hay nhầm với các triệu chứng viêm nhiễm vùng tai mũi họng .",
+    "entities": [
+      {
+        "text": "viêm nhiễm vùng tai mũi họng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sùi mào gà",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "giang mai",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lậu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . có thể làm giảm khả năng phát triển ung thư tuyến nước bọt , nhưng kết quả thì hiện này chưa khẳng định chắc chắn điều này .",
+    "entities": [
+      {
+        "text": "ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trường hợp bệnh tiến triển hoặc chống chỉ định hóa trị có thể xạ trị toàn não ( có thể kèm corticoid ) điều trị u lympho không hodgkin ở người bệnh hiv/aids , người suy giảm miễn dịch : đa hóa trị liệu tương tự kèm g - csf . theo dõi sau điều trị các trường hợp đặc biệt : xuất hiện hạch to , sốt , gầy sút cân …phải khám ngay .",
+    "entities": [
+      {
+        "text": "u lympho không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh hiv/aids",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hóa trị liệu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "gầy sút cân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hạch to",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "cũng yêu cầu chăm sóc y tế nếu gặp bất cứ dấu hiệu hay triệu chứng sau đây , mà có thể chỉ ra một vấn đề sức khỏe nghiêm trọng hơn : không đi tiêu xảy ra hơn ba ngày , mặc dù những thay đổi khắc phục trong chế độ ăn uống hoặc tập thể dục .",
+    "entities": [
+      {
+        "text": "không đi tiêu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

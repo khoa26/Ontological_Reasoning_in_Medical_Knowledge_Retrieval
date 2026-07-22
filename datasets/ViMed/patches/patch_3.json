@@ -1,0 +1,323 @@
+[
+  {
+    "text": "vậy ung thư tuyến nước bọt có lây hay không khi việc tiếp xúc với người bệnh qua ăn chung và thậm chí là hôn , sẽ có chi tiết ở bài viết bên dưới .",
+    "entities": [
+      {
+        "text": "ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhồi máu cơ tim xảy ra khi động mạch vành tắc bị tắc nghẽn hoàn toàn làm thiếu oxy và máu đến nuôi dưỡng tim , gây ra kết quả cơ tim bị hoại tử một phần .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các loại polyp thực quản : dựa vào vị trí của polyp thực quản , có thể chia làm 2 loại : polyp trong thành thực quản .",
+    "entities": [
+      {
+        "text": "polyp thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh thoát vị hoành ở trẻ em thoát vị hoành ở trẻ em là một bệnh lý bẩm sinh nguy hiểm với nguyên nhân hiện nay vẫn chưa được biết rõ .",
+    "entities": [
+      {
+        "text": "bệnh thoát vị hoành",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không phải là quá dài trước các yếu tố lối sống , như thực phẩm nhiều gia vị hoặc công việc căng thẳng , được cho là nguồn gốc của hầu hết các vết loét dạ dày tá tràng .",
+    "entities": [
+      {
+        "text": "loét dạ dày tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị bệnh van tim hiệu quả điều trị bệnh van tim phụ thuộc vào các triệu chứng , mức độ nghiêm trọng của tình trạng và tiên lượng của bệnh nhân .",
+    "entities": [
+      {
+        "text": "bệnh van tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi các dấu hiệu này xảy ra cần khẩn trương đi khám bác sĩ để điều trị đối tượng nguy cơ bệnh thoát vị rốn thoái vị rốn có thể gặp ở tất cả mọi đối tượng và mọi độ tuổi kể cả trẻ sơ sinh và người lớn .",
+    "entities": [
+      {
+        "text": "bệnh thoát vị rốn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thoái vị rốn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng điện cực đặt trên da đầu , bác sĩ có thể phát hiện và ghi lại các mẫu hoạt động điện và kiểm tra bất thường .",
+    "entities": [
+      {
+        "text": "phát hiện và ghi lại các mẫu hoạt động điện và kiểm tra bất thường",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sử dụng điện cực đặt trên da đầu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân và cách điều trị bệnh trĩ sau sinh tổng hợp những điều bạn cần biết về bệnh trĩ nội chủ đề : bệnh trĩ trĩ ngoại chất xơ tiêu hóa cắt trĩ trĩ nội",
+    "entities": [
+      {
+        "text": "trĩ ngoại",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "trĩ nội",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu không có biến chứng , bác sĩ có thể khuyên nên phẫu thuật trong vòng vài ngày hoặc vài tuần , tùy theo tình hình .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ sẽ chẩn đoán tiền sản giật bằng cách kiểm tra huyết áp và xét nghiệm protein trong nước tiểu mỗi lần khám thai .",
+    "entities": [
+      {
+        "text": "tiền sản giật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng trở nên tồi tệ hơn ở các bộ phận của cơ thể nơi trứng schistosoma di chuyển đến và gây nhiễm trùng .",
+    "entities": []
+  },
+  {
+    "text": "nếu điều này là nguyên nhân của viêm tụy , bác sĩ có thể đề nghị chương trình điều trị cho người nghiện rượu .",
+    "entities": [
+      {
+        "text": "viêm tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đau lan tỏa khắp vùng bụng ( không phải ở một vùng cụ thể ) có thể cho thấy : viêm ruột thừa ( viêm ruột thừa ) .",
+    "entities": [
+      {
+        "text": "đau lan tỏa khắp vùng bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm ruột thừa",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán nhịp tim chậm chẩn đoán bị nhịp tim chậm bằng điện tâm đồ .",
+    "entities": [
+      {
+        "text": "nhịp tim chậm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các nguyên nhân mặc dù các loại kháng sinh thường được kết hợp với sự phát triển của viêm đại tràng màng giả , thuốc khác cũng có thể phải chịu trách nhiệm .",
+    "entities": [
+      {
+        "text": "viêm đại tràng màng giả",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống mặc dù không có cách nào chắc chắn để ngăn ngừa rối loạn ăn uống , một số bước có thể giúp ngăn ngừa rối loạn ăn uống ở những người thân : tranh thủ bác sĩ giúp đỡ .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tiền sản giật : nếu bạn có tiền sử bị tiền sản giật , hoặc huyết áp cao khi mang thai , bạn có thể có nhiều nguy cơ mắc các vấn đề về tim sau này trong cuộc sống .",
+    "entities": [
+      {
+        "text": "tiền sản giật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chảy máu hoặc ngạt mũi có thể là dấu hiệu đầu tiên của khối u tuyến nước bọt phụ tại vách ngăn mũi .",
+    "entities": [
+      {
+        "text": "u tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngạt mũi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm sàng lọc tiền sản giật khi thai 12 – 14 tuần để dùng thuốc dự phòng cho những sản phụ có nguy cơ cao mắc bệnh sử dụng aspirin ở liều thấp và bổ sung đủ canxi trong quá trình mang thai có thể hạn chế được nguy cơ tiền sản giật .",
+    "entities": [
+      {
+        "text": "tiền sản giật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tăng huyết áp , thường gặp trong các hoạt động như cử tạ , gây căng thẳng lên động mạch chủ .",
+    "entities": [
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tùy thuộc vào các triệu chứng , có thể : xét nghiệm máu : để xác nhận nhiễm trùng liên cầu .",
+    "entities": [
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các thủ tục có tỷ lệ thành công cao , nhưng bởi vì nó thường đòi hỏi phải phẫu thuật tim hở , nó thường được dành cho những người không đáp ứng với phương pháp điều trị khác hoặc khi nó có thể được thực hiện trong thời gian phẫu thuật tim cần thiết khác , chẳng hạn như phẫu thuật bắc cầu động mạch vành hoặc sửa chữa van tim .",
+    "entities": [
+      {
+        "text": "phẫu thuật bắc cầu động mạch vành hoặc sửa chữa van tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật tim hở",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu đã có viêm phúc mạc tự phát trước , hoặc nếu có sự tích tụ chất dịch phúc mạc do một vấn đề y tế như xơ gan , bác sĩ có thể kê toa thuốc kháng sinh để phòng ngừa viêm phúc mạc .",
+    "entities": [
+      {
+        "text": "viêm phúc mạc tự phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa viêm mống mắt là một loại viêm màng bồ đào - viêm lớp giữa của mắt ( uvea ) , có ảnh hưởng đến mống mắt .",
+    "entities": [
+      {
+        "text": "viêm mống mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xì gà , hút tẩu có nguy cơ mắc ung thư khoang miệng cao hơn thuốc lá thông thường , hút tẩu còn làm tăng nguy cơ ung thư môi .",
+    "entities": [
+      {
+        "text": "ung thư khoang miệng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư môi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đánh giá tim và phổi mức tiêu thụ oxy tĩnh mạch tối đa ( mvo2 ) : đánh giá chức năng tim tổng thể và là một yếu tố dự đoán mức độ nghiêm trọng của suy tim sung huyết và khả năng sống sót .",
+    "entities": [
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán để tìm nguyên nhân của triệu chứng , bác sĩ sẽ tìm cảm giác đau ở mũi hay cổ họng .",
+    "entities": [
+      {
+        "text": "cảm giác đau ở mũi hay cổ họng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trẻ khóc bé , khó thở nhẹ hoặc nặng , bụng trẻ phẳng bất thường do ống tiêu hóa lên ngực .",
+    "entities": [
+      {
+        "text": "khóc bé",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "có đến 20 phần trăm trẻ sơ sinh có ống dẫn nước mắt bị chặn khi sinh , nhưng nó thường sẽ tự hết trong năm đầu tiên của cuộc sống .",
+    "entities": [
+      {
+        "text": "ống dẫn nước mắt bị chặn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

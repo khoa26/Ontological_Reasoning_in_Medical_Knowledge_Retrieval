@@ -1,0 +1,440 @@
+[
+  {
+    "text": "ung thư da đầu hay di căn hạch khu vực vùng cổ , vùng chẩm , hạch trước tai , hạch dưới cằm , dưới hàm .",
+    "entities": [
+      {
+        "text": "hạch khu vực vùng cổ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ung thư da đầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hạch trước tai",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hạch dưới cằm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân không bị tắc nghẽn thường có tình trạng lâm sàng ổn định và không có triệu chứng đáng kể , một số khác có thể có triệu chứng suy tim do rối loạn chức năng tâm trương .",
+    "entities": [
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị khối u tuyến nước bọt phụ thuộc vào loại , kích thước và giai đoạn của khối u tuyến nước bọt bao gồm phẫu thuật , có hoặc không có xạ trị .",
+    "entities": [
+      {
+        "text": "u tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một số triệu chứng phổ biến khi có tổn thương ác tính hay khối u ở trẻ em như : đau ngực và gầy sút cân .",
+    "entities": [
+      {
+        "text": "gầy sút cân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sinh thiết : được xem là tiêu chuẩn vàng để chẩn đoán xác định các loại ung thư nói chung và ung thư lưỡi nói riêng .",
+    "entities": [
+      {
+        "text": "ung thư lưỡi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "chẩn đoán giai đoạn ung thư hạch không hodgkin : biết giai đoạn ung thư giúp tiên lượng và lựa chọn phương pháp điều trị phù hợp các giai đoạn của ung thư hạch không hodgkin bao gồm : giai đoạn i . ung thư được giới hạn ở một vùng hạch bạch huyết hoặc một nhóm các nút gần đó .",
+    "entities": [
+      {
+        "text": "ung thư hạch không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các thuốc chẹn kênh calci ( ccb ) : điều trị khởi đầu bằng ccb nhóm nondihydropyridine với trường hợp thiếu máu cơ tim tái phát và chống chỉ định với thuốc bb ở những bn không có rối loạn chức năng thất trái , không có tăng nguy cơ bị sốc tim pr &gt; 0,24 giây hoặc block nhĩ thất độ 2 - 3 không có máy tạo nhịp .",
+    "entities": [
+      {
+        "text": "các thuốc chẹn kênh calci",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nondihydropyridine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thiếu máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu đang dùng thuốc giảm đau , ngay cả thuốc giảm đau mua không cần toa hơn ba ngày một tuần , có nguy cơ đau đầu hồi ứng .",
+    "entities": [
+      {
+        "text": "đau đầu hồi ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm trùng huyết không rõ nguyên nhân ( đặc biệt khi vi khuẩn gây bệnh là loại thường gặp trong viêm nội tâm mạc nhiễm khuẩn ) .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc nhiễm khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán bác sĩ thường có thể chẩn đoán dựa trên các câu trả lời cho các câu hỏi về các triệu chứng , một tổng thể kiểm tra mũi .",
+    "entities": [
+      {
+        "text": "tổng thể kiểm tra mũi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh tắc mạch ối giai đoạn đầu : triệu chứng khởi đầu là suy hô hấp , tím tái xảy ra đột ngột trong vài phút , tiếp đến là tụt huyết áp , choáng , phù phổi , biểu hiện thần kinh như lú lẫn mất ý thức và co giật .",
+    "entities": [
+      {
+        "text": "bệnh tắc mạch ối",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tụt huyết áp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy hô hấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mất ý thức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phù phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tím tái",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "co giật",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "choáng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lú lẫn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "khi bệnh nhi có dấu hiệu đại tiện ra máu là lồng ruột đã xảy ra được một khoảng thời gian , có thể là một đến hai ngày .",
+    "entities": [
+      {
+        "text": "đại tiện ra máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lồng ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong thủ tục này , bác sĩ phẫu thuật cắt , đốt hoặc kẹp các dây thần kinh cột sống kiểm soát mồ hôi trên tay của bạn .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh u lympho tế bào t điều trị u lympho tế bào t dựa vào giai đoạn bệnh và thể mô bệnh học , chủ yếu là kết hợp hóa - xạ trị , phẫu thuật chỉ áp dụng trong một số trường hợp cụ thể .",
+    "entities": [
+      {
+        "text": "bệnh u lympho tế bào t",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hóa - xạ trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "mô bệnh học",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh tắc ống dẫn tinh có rất nhiều nguyên nhân dẫn đến việc nam giới bị tắc ống dẫn tinh .",
+    "entities": [
+      {
+        "text": "bệnh tắc ống dẫn tinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh thai ngoài tử cung nguyên nhân thai ngoài tử cung : viêm nhiễm vòi trứng : chlamydia , lậu các can thiệp tại vòi trứng : nạo phá thai , phẫu thuật vòi trứng , phẫu thuật vùng chậu bẩm sinh : hẹp , tắc vòi trứng bẩm sinh nguyên nhân khác : u nang buồng trứng , lạc nội mạc tử cung không rõ nguyên nhân triệu chứng bệnh thai ngoài tử cung thông thường sau quan hệ tình dục , nếu quá trình thụ tinh được xảy ra thì sau 5 - 10 ngày thai đã làm tổ trong buồng tử cung .",
+    "entities": [
+      {
+        "text": "bệnh thai ngoài tử cung",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tắc vòi trứng bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm nhiễm vòi trứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lạc nội mạc tử cung",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u nang buồng trứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "giãn tĩnh mạch thực quản là tình trạng giãn các tĩnh mạch thực quản dưới niêm mạc nối với hệ tuần hoàn .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . đối tượng nguy cơ bệnh thiên đầu thống ( tăng nhãn áp ) tuổi : trên 40, thường nữ giới nhiều hơn nam giới tiền sử gia đình : trong gia đình có người bị tăng nhãn áp thuốc : sử dụng corticosteroid trong thời gian dài bệnh nền kèm theo : tăng huyết áp , tiểu đường , tim mạch , bệnh về mắt : cận thị , chấn thương mắt khác hoặc có tiền sử phẫu thuật mắt trước đó .",
+    "entities": [
+      {
+        "text": "bệnh thiên đầu thống",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật mắt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cận thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "loạn thị xảy ra khi mặt trước của mắt ( giác mạc ) hoặc ống kính bên trong mắt , có một độ cong bề mặt hơi khác nhau theo một hướng khác .",
+    "entities": [
+      {
+        "text": "loạn thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trẻ em gái tuổi teen và phụ nữ trẻ có nhiều khả năng hơn so với nam thiếu niên và thanh niên để có các rối loạn ăn uống .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "để duy trì lui bệnh , người bệnh cần tiếp tục sử dụng các thuốc ức chế miễn dịch có hoặc không kết hợp với corticosteroid liều thấp .",
+    "entities": [
+      {
+        "text": "thuốc ức chế miễn dịch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "corticosteroid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thoái hóa võng mạc do đái tháo đường là nguyên nhân hàng đầu gây mù ở nhóm người trong tuổi lao động .",
+    "entities": [
+      {
+        "text": "thoái hóa võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mù",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đường lây truyền bệnh tế bào thần kinh vận động bệnh tế bào thần kinh vận động không phải là bệnh truyền nhiễm nên không có khả năng lây truyền cho người khác qua tiếp xúc thông thường .",
+    "entities": [
+      {
+        "text": "bệnh tế bào thần kinh vận động",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân thường đến viện khi mà tổn thương ung thư không còn khu trú tại chỗ nữa , nó đã xâm lấn và lan ra xung quanh .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "time : bệnh nhân có nguy cơ tai biến mạch máu não rất cao nếu xảy ra cả 3 dấu hiệu trên .",
+    "entities": [
+      {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tác động của viêm màng ngoài tim đối với sức khỏe thông thường viêm màng ngoài tim thường nhẹ và hết sau khoảng 3 tuần .",
+    "entities": [
+      {
+        "text": "viêm màng ngoài tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "lịch sử gia đình có chứng phình động mạch não , đặc biệt là thế hệ một , chẳng hạn như cha mẹ hoặc anh chị em .",
+    "entities": [
+      {
+        "text": "chứng phình động mạch não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp , siêu âm có thể đem lại một số thông tin giúp phân biệt u lành với u ác .",
+    "entities": [
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu có viêm kết mạc dị ứng , có thể gặp ngứa dữ dội , chảy nước mắt và viêm mắt - cũng như hắt hơi và chảy nước mũi chảy nước .",
+    "entities": [
+      {
+        "text": "viêm kết mạc dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy nước mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chảy nước mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngứa dữ dội",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hắt hơi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bài này sẽ đề cập đến bệnh lý thiếu máu cơ tim cục bộ mạn tính ( đau ngực ổn định , bệnh mạch vành ổn định ) .",
+    "entities": [
+      {
+        "text": "thiếu máu cơ tim cục bộ mạn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh mạch vành ổn định",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau ngực ổn định",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

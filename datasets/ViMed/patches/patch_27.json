@@ -1,0 +1,379 @@
+[
+  {
+    "text": "nhóm iv thông liên thất kèm hẹp động mạch phổi có thể do bẩm sinh hay do quá trình tiến triển của bệnh .",
+    "entities": [
+      {
+        "text": "thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tùy thuộc vào nguyên nhân gây bệnh , các dấu hiệu và triệu chứng có thể bao gồm : tiêu chảy .",
+    "entities": [
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh u thực quản ( polyp thực quản lành tính ) điều trị u thực quản lành tính như thế nào ?",
+    "entities": [
+      {
+        "text": "polyp thực quản lành tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u thực quản lành tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh u thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong kênh nhĩ thất , siêu âm tim cho thấy một lỗ trong thành giữa các buồng tim và bất thường van .",
+    "entities": [
+      {
+        "text": "kênh nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp chẩn đoán thiếu máu cơ tim để chẩn đoán bệnh thiếu máu cơ tim ngoài việc xem xét bệnh sử và khám sức khỏe .",
+    "entities": [
+      {
+        "text": "bệnh thiếu máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biết đã mất một phần khả năng có nghĩa là đang ở trong một vị trí để thực hiện các bước để ngăn ngừa mất thính lực thêm .",
+    "entities": [
+      {
+        "text": "mất thính lực",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ghép gan là chữa trị duy nhất được biết đến với viêm xơ đường mật , nhưng cấy ghép thường dành cho những người bị tổn thương gan nặng .",
+    "entities": [
+      {
+        "text": "viêm xơ đường mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ghép gan",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "viêm tá tràng do nguyên nhân khác : tùy vào triệu chứng cũng như tình trạng đáp ứng của bạn mà bác sĩ sẽ kê thuốc phù hợp cho bạn .",
+    "entities": [
+      {
+        "text": "viêm tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tác động của sốt thấp khớp đối với sức khỏe khi bị sốt thấp khớp , nó thường phát triển từ hai đến ba tuần sau khi bị viêm họng hoặc sốt ban đỏ không được điều trị .",
+    "entities": [
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt ban đỏ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tiếng động lớn , chẳng hạn như từ các thiết bị nặng , cưa xích và súng cầm tay , là những nguồn phổ biến .",
+    "entities": []
+  },
+  {
+    "text": "điều trị dùng thuốc các thuốc chẹn kênh calci : nifedipin thường được sử dụng nhất do nó có dạng phóng thích chậm , hạn chế tác dụng phụ gây giãn mạch .",
+    "entities": [
+      {
+        "text": "thuốc chẹn kênh calci",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "insulin giúp cho đường ( glucose ) từ máu di chuyển vào tế bào , từ đó chuyển hóa và tạo ra năng lượng tiểu đường gồm hai thể chính là tiểu đường tuýp 1 và tiểu đường tuýp 2 . tiểu đường tuýp 2 là bệnh mà có sự đề kháng insulin , có nghĩa là cơ thể sử dụng rất kém insulin ( mặc dù insulin vẫn tiết ra ) .",
+    "entities": [
+      {
+        "text": "tiểu đường tuýp 1",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiểu đường tuýp 2",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thiếu máu cục bộ mạc treo đây là loại thiếu máu cục bộ đường ruột thường ảnh hưởng đến ruột non .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiếu máu cục bộ mạc treo",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ví dụ bao gồm omeprazole ( prilosec ) , lansoprazole ( prevacid ) , pantoprazole ( protonix ) , rabeprazole ( aciphex ) và esomeprazole ( nexium ) .",
+    "entities": [
+      {
+        "text": "lansoprazole",
+        "type": "THUỐC"
+      },
+      {
+        "text": "pantoprazole",
+        "type": "THUỐC"
+      },
+      {
+        "text": "esomeprazole",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rabeprazole",
+        "type": "THUỐC"
+      },
+      {
+        "text": "prilosec",
+        "type": "THUỐC"
+      },
+      {
+        "text": "prevacid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "protonix",
+        "type": "THUỐC"
+      },
+      {
+        "text": "aciphex",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nexium",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trong quá trình đó , các nút gần nhất với nhiễm trùng có thể trở nên đau và sưng lên - ví dụ , các hạch bạch huyết ở cổ có thể sưng lên khi có đau họng .",
+    "entities": [
+      {
+        "text": "đau họng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sưng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hậu môn , trực tràng bị kích thích do vùng hậu môn bị nóng , lạnh quá mức do tiêu chảy , táo bón … .",
+    "entities": [
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "táo bón",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu bị bệnh , giữ ở nhà cho đến khi không có dấu hiệu của sốt và anh ta cảm thấy tốt hơn và đã hoàn thành tối thiểu 24 giờ điều trị kháng sinh .",
+    "entities": [
+      {
+        "text": "điều trị kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trước hết cần xác định chính xác nguyên nhân gây tắc ống dẫn tinh : do bẩm sinh , do mắc bệnh hay do chấn thương .",
+    "entities": [
+      {
+        "text": "tắc ống dẫn tinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khối u ở vùng cổ , trung thất : thường kèm theo ho , phù nề mặt cổ , khó thở .",
+    "entities": [
+      {
+        "text": "khối u ở vùng cổ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phù nề mặt cổ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tiêm chưa đủ liều trường hợp người bị thương chưa được tiêm đủ 3 liều vắc xin uốn ván hoặc không rõ tiền sử tiêm vắc xin uốn ván và có vết thương sâu hoặc bị nhiễm bẩn thì cho tiêm tig với liều thấp nhất là 250 iu hoặc sat với liều 1500 - 5000 iu .",
+    "entities": [
+      {
+        "text": "uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mờ mắt có thể xảy ra nhiều hơn trong một hướng hoặc là theo chiều ngang , chiều dọc hoặc theo đường chéo .",
+    "entities": [
+      {
+        "text": "mờ mắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa phình động mạch não để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : lối sống lành mạnh , không sử dụng các chất kích thích .",
+    "entities": [
+      {
+        "text": "phình động mạch não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các hiệu ứng này bao gồm mất mật độ xương , chậm tăng trưởng ở trẻ em , mụn trứng cá , bệnh tiểu đường và rối loạn tâm trạng .",
+    "entities": [
+      {
+        "text": "bệnh tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vì lý do này , các bác sĩ khuyên nên xét nghiệm thường xuyên để giúp ngăn ngừa ung thư đại tràng bằng cách xác định khối u trước khi chúng trở thành ung thư đại tràng .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kết hợp hóa trị và xạ trị kết hợp hóa trị và xạ trị có thể tăng cường hiệu quả của từng điều trị .",
+    "entities": [
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù sốt hay có thể bắt đầu ở bất cứ tuổi nào , đang có nhiều khả năng để phát triển nó trong suốt thời thơ ấu hay tuổi trưởng thành sớm .",
+    "entities": [
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "khi đặt stent kim loại , các tế bào nội mạc tăng sinh , mọc bò lên và phủ kín khung stent , làm gia tăng nguy cơ huyết khối trong stent , tuy nhiên sử dụng stent phủ thuốc chống nội mạc hóa ức chế quá trình nội mạc tăng sinh và làm giảm nguy cơ huyết khối .",
+    "entities": [
+      {
+        "text": "thuốc chống nội mạc hóa",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "cũng có thể tái thông mạch vành ở những bệnh nhân có bệnh lý 2 - 3 mạch vành , hẹp thân chung động mạch vành trái &gt;50% , có suy tim kèm theo…để cải thiện tiên lượng .",
+    "entities": [
+      {
+        "text": "tái thông mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguy cơ bệnh alzheimer , sa sút trí tuệ mạch máu và sa sút trí tuệ khác tăng với một số đáng kể khi tuổi tác .",
+    "entities": [
+      {
+        "text": "sa sút trí tuệ mạch máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sa sút trí tuệ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh alzheimer",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hội chứng đột tử ở trẻ sơ sinh ( sids ) : nếu được sinh ra với một loại rối loạn nhịp tim di truyền , con bạn có thể có nguy cơ cao bị sids .",
+    "entities": [
+      {
+        "text": "hội chứng đột tử ở trẻ sơ sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sids",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

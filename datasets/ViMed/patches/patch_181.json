@@ -1,0 +1,383 @@
+[
+  {
+    "text": "hiện nay mặc dù có những tiến bộ về phẫu thuật nối thực quản một thì và hồi sức nhưng teo thực quản vẫn còn là một bệnh có tỷ lệ tử vong cao do thường kèm dò khí quản - thực quản gây viêm phổi hít .",
+    "entities": [
+      {
+        "text": "phẫu thuật nối thực quản một thì",
+        "type": "THUỐC"
+      },
+      {
+        "text": "teo thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phổi hít",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân có triệu chứng nhẹ thường đáp ứng với thuốc lợi tiểu và thuốc chẹn beta hoặc thuốc chẹn kênh calci để kiểm soát nhịp thất nếu có nhịp nhanh xoang hoặc rung nhĩ .",
+    "entities": [
+      {
+        "text": "thuốc chẹn kênh calci",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chẹn beta",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc lợi tiểu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên còn phụ thuộc vào độ tuổi và tình trạng toàn thân của bệnh nhân mà có chỉ định can thiệp ngoại khoa hay không mổ thoát vị bẹn cho người lớn có 2 kiểu thủ thuật : tái tạo lại thành bụng bằng các mũi khâu các lớp tổ chức giải phẫu hoặc tăng cường sức bền thành bụng bằng một loại lưới tổng hợp trong mọi trường hợp thì thời gian cho sức bền vững chắc chắn là từ 3 - 4 tuần , bệnh nhân nên tránh hoạt động gắng sức trong thời gian này .",
+    "entities": [
+      {
+        "text": "thoát vị bẹn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh thiếu men g6pd di truyền nguyên nhân gây bệnh thiếu men g6pd là sự khiếm khuyết gen trên nhiễm sắc thể giới tính x . nam giới bình thường chỉ có một nhiễm sắc thể giới tính x ( xy ) trong khi nữ giới có tới 2 nhiễm sắc thể giới tính x ( xx ) .",
+    "entities": [
+      {
+        "text": "bệnh thiếu men g6pd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh viêm gan vi rút có thể lây lan bằng kim hoặc máu hoặc chất dịch cơ thể do vô tình dọn dẹp không đúng .",
+    "entities": [
+      {
+        "text": "bệnh viêm gan vi rút",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu đã được chẩn đoán mắc bệnh sốt thấp khớp , bác sĩ có thể kê toa thuốc kháng sinh dài hạn ( tiêm penicillin hàng tháng ) để ngăn ngừa các đợt viêm họng liên cầu trong tương lai và ngăn ngừa các đợt tái phát của sốt thấp khớp .",
+    "entities": [
+      {
+        "text": "viêm họng liên cầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "penicillin",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh tăng tiết mồ hôi tăng tiết mồ hôi là một tình trạng rất khó phòng tránh , các biện pháp giảm tỷ lệ mắc chủ yếu làm giảm các yếu tố nguy cơ gây bệnh : đảm bảo chế độ ăn và sinh hoạt cân bằng giúp phòng các bệnh đái tháo đường .",
+    "entities": [
+      {
+        "text": "bệnh tăng tiết mồ hôi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số biện pháp phòng ngừa có thể bao gồm : điều trị nhiễm trùng phổi , như viêm phế quản .",
+    "entities": [
+      {
+        "text": "điều trị nhiễm trùng phổi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm phế quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đây có thể xác định một viêm sâu hoặc trở ngại vật lý mà khó phát hiện bằng cách sử dụng một nội soi .",
+    "entities": [
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của xơ vữa động mạch bạn có thể không nhận thấy các triệu chứng cho tới khi động mạch gần như tắc nghẽn hoặc khi có các cơn đau tim , đột quỵ .",
+    "entities": [
+      {
+        "text": "cơn đau tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những phương pháp điều trị tương tự có thể giúp ngăn ngừa chảy máu ở những người được chẩn đoán giãn tĩnh mạch thực quản .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thiểu sản men răng do bệnh giang mai bẩm sinh có đặc trưng bởi 2 răng cửa trên lệch hướng , bề lõm có hình bán nguyệt , được gọi là các “răng hutchinson” .",
+    "entities": [
+      {
+        "text": "bệnh giang mai bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiểu sản men răng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thể loét chiếm ưu thế ở giai đoạn này , loét ăn sâu vào bên dưới và lan rộng ra xung quanh , khiến bệnh nhân đau đớn dữ dội , dễ bị chảy máu và bội nhiễm .",
+    "entities": [
+      {
+        "text": "đau đớn dữ dội",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "dễ bị chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "loét",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mục tiêu ít nhất 30 đến 60 phút hoạt động thể chất trên hầu hết các ngày trong tuần để đạt được và duy trì trọng lượng khỏe mạnh và giảm nguy cơ của nhiều bệnh mãn tính .",
+    "entities": [
+      {
+        "text": "bệnh mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chất chống oxy hóa này xuất hiện tự nhiên trong cơ thể và là cần thiết cho phản ứng tế bào bình thường .",
+    "entities": [
+      {
+        "text": "chất chống oxy hóa",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thoát vị hoành sơ sinh được biểu hiện rõ nhất về mặt hô hấp với tình trạng xuất hiện khó thở ngay sau khi sinh vài giờ ở mức độ nhẹ hoặc nặng .",
+    "entities": [
+      {
+        "text": "thoát vị hoành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "có thể xuất hiện từ lâu trước khi thiệt hại ống mật được chẩn đoán , hoặc rối loạn tuyến giáp có thể phát triển sau khi đã được chẩn đoán xơ gan đường mật .",
+    "entities": [
+      {
+        "text": "xơ gan đường mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra còn dùng kim để sinh thiết hoặc tiêm hóa chất điều trị vào khối u tụy sau khi xác nhận chẩn đoán ung thư tụy , cần thực hiện thêm các xét nghiệm máu thường quy để đánh giá chức năng gan , thận .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu thường quy",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "tiêm hóa chất",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "cetuximab ( erbitux ) là một trong những mục tiêu điều trị được chấp thuận cho điều trị ung thư cổ họng trong các tình huống nhất định .",
+    "entities": [
+      {
+        "text": "ung thư cổ họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cetuximab",
+        "type": "THUỐC"
+      },
+      {
+        "text": "erbitux",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra nếu những biến đổi điện tim đó xuất hiện trong cơn đau thì càng khẳng định bệnh tim thiếu máu .",
+    "entities": [
+      {
+        "text": "bệnh tim thiếu máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "điện tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "cơn đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm nước tiểu để xác định tổn thương thận cần kiểm tra xem có hồng cầu , trụ hồng cầu và protein hay không .",
+    "entities": [
+      {
+        "text": "xét nghiệm nước tiểu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu có một tình trạng mí mắt , như một bất thường giải phẫu hoặc một điều kiện mà làm cho nó khó khăn để đóng mắt hoàn toàn khi chớp mắt , bác sĩ có thể giới thiệu đến một bác sĩ phẫu thuật mắt - những người chuyên về phẫu thuật thẩm mỹ của mí mắt .",
+    "entities": [
+      {
+        "text": "bác sĩ có thể giới thiệu đến một bác sĩ phẫu thuật mắt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "điều gì xảy ra trong khi phẫu thuật đục thủy tinh thể phẫu thuật đục thủy tinh thể bao gồm việc loại bỏ ống kính mờ và thay thế nó bằng một cấy ghép ống kính nhựa .",
+    "entities": [
+      {
+        "text": "thay thế nó bằng một cấy ghép ống kính nhựa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật đục thủy tinh thể",
+        "type": "THUỐC"
+      },
+      {
+        "text": "loại bỏ ống kính mờ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục không thể hoàn toàn tránh gây dị ứng , nhưng có thể làm giảm triệu chứng bằng cách tham gia một số bước để hạn chế tiếp xúc .",
+    "entities": [
+      {
+        "text": "hạn chế tiếp xúc",
+        "type": "THUỐC"
+      },
+      {
+        "text": "dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khối phồng này có thể cần phải phẫu thuật vì nếu vỡ sẽ gây xuất huyết khoang dưới nhện , tụ máu não , tổn thương não , liệt , hôn mê hay tử vong .",
+    "entities": [
+      {
+        "text": "xuất huyết khoang dưới nhện",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tổn thương não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tụ máu não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hôn mê",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "liệt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra d - dimer xét nghiệm máu d - dimer đo sự hiện diện của một chất được giải phóng khi cục máu đông vỡ ra .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu d - dimer",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù chóng mặt báo hiệu một căn bệnh nghiêm trọng không phổ biến , gặp bác sĩ ngay lập tức nếu chóng mặt hoặc chóng mặt cùng với những điều sau đây : chóng mặt khác trước đây hoặc nhức đầu dữ dội .",
+    "entities": [
+      {
+        "text": "nhức đầu dữ dội",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sự hiện diện của bất thường craniofacial , bao gồm các rối loạn nào đó như hội chứng down , làm tăng khả năng tắc nghẽn của ống dẫn nước mắt .",
+    "entities": [
+      {
+        "text": "hội chứng down",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thần kinh : độc tố cũng có thể gây tổn thương thần kinh , điển hình là tổn thương các dây thần kinh vùng cổ họng gây khó nuốt .",
+    "entities": []
+  },
+  {
+    "text": "các dấu hiệu và triệu chứng của bệnh lồng ruột ở người lớn có thể đến và đi ( triệu chứng không liên tục ) , hoặc có thể ngừng .",
+    "entities": [
+      {
+        "text": "bệnh lồng ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

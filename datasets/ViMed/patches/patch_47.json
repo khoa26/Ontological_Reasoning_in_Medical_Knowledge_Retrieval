@@ -1,0 +1,383 @@
+[
+  {
+    "text": "riêng ở việt nam , tỷ lệ bệnh thấp tim đã giảm nhiều nhưng vẫn còn nhiều bệnh nhân phải nhập viện vì di chứng tổn thương ở van tim , do hậu quả của việc bị thấp tim từ lúc trẻ .",
+    "entities": [
+      {
+        "text": "bệnh thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "gặp bác sĩ nếu : - nếu đã có viêm xoang một số lần và tình trạng không đáp ứng với điều trị .",
+    "entities": [
+      {
+        "text": "viêm xoang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số người cho rằng men vi sinh , châm cứu và thôi miên có thể giúp đỡ với các triệu chứng dị ứng theo mùa .",
+    "entities": [
+      {
+        "text": "triệu chứng dị ứng theo mùa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "qua thời gian , tiếp xúc với tiếng ồn lớn có thể làm hỏng các dây thần kinh trong tai , gây mất thính giác và chứng ù tai .",
+    "entities": [
+      {
+        "text": "mất thính giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mri là một thử nghiệm có sử dụng một từ trường và các xung năng lượng sóng radio để tạo hình ảnh của cơ thể .",
+    "entities": [
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "một số người bị đổ mồ hôi quá mức ( t ăng tiết mồ hôi ) ngay cả khi nghỉ ngơi hay làm việc ít , tay chân luôn ẩm ướt có khi nhỏ thành giọt gây bất tiện trong giao tiếp và làm việc ( ướt tất cả vật dụng mà người bệnh cầm ) .",
+    "entities": [
+      {
+        "text": "tay chân luôn ẩm ướt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ăng tiết mồ hôi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù đau thắt ngực tương đối phổ biến nhưng cơn đau này có thể rất khó phân biệt với các loại đau ngực khác , chẳng hạn như cảm giác đau ngực do tình trạng khó tiêu hoặc do bệnh lý dạ dày - tá tràng .",
+    "entities": [
+      {
+        "text": "bệnh lý dạ dày - tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cơn đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , như nhiều ống dẫn mật bị phá hủy và làm chậm dòng chảy của mật , bilirubin bắt đầu tích tụ trong máu và cuối cùng trở nên vàng da và mắt có thể nhìn thấy bằng mắt .",
+    "entities": [
+      {
+        "text": "vàng da và mắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục những đề nghị sau đây đôi khi có thể giúp giảm bớt hoặc làm giảm run : tránh chất caffeine .",
+    "entities": [
+      {
+        "text": "tránh chất caffeine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "run",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chụp ảnh bụng , bao gồm chụp cắt lớp vi tính hoặc chụp cộng hưởng từ ruột cho bệnh nhân bị táo bón , phẫu thuật bụng trước đó , bệnh crohn hoặc rối loạn chức năng ruột non đã biết hoặc nghi ngờ .",
+    "entities": [
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều kiện y tế sau đây làm tăng nguy cơ viêm phúc mạc phát triển : xơ gan , viêm ruột thừa , bệnh crohn , viêm loét dạ dày , viêm túi thừa và viêm tụy .",
+    "entities": [
+      {
+        "text": "viêm loét dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm ruột thừa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm túi thừa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ bất cứ ai cũng có thể bị chứng ù tai , nhưng có thể có nguy cơ tăng lên nếu : tiếp xúc với tiếng ồn lớn mà không có bảo vệ tai , đặc biệt liên tục .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sửa chữa ống kính nếu đã tốt , tầm nhìn không đúng trước khi phát triển viễn , có thể sử dụng thuốc không cần toa kính đọc sách .",
+    "entities": [
+      {
+        "text": "sửa chữa ống kính",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": ". . tỷ lệ biến chứng phụ thuộc vào ruột thừa viêm có biến chứng hay chưa , phương pháp phẫu thuật , các bệnh lý kèm theo của bệnh nhân .",
+    "entities": []
+  },
+  {
+    "text": ". . phòng ngừa bệnh ung thư thực quản để phòng ngừa ung thư thực quản hiệu quả , trước hết cần hạn chế các nguy cơ gây bệnh với các biện pháp sau : hạn chế tối đa việc lạm dụng các chất kích thích , đặc biệt là rượu , thuốc lá có chế độ sinh hoạt khoa học , chế độ dinh dưỡng bổ sung đầy đủ vitamin , các chất dinh dưỡng cần thiết cho cơ thể với những bệnh nhân có tiền sử viêm thực quản kéo dài , ung thư vùng cổ .",
+    "entities": [
+      {
+        "text": "bệnh ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm thực quản kéo dài",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư vùng cổ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán chẩn đoán ung thư túi mật các xét nghiệm và thủ tục được sử dụng để chẩn đoán ung thư túi mật , bao gồm : xét nghiệm máu .",
+    "entities": [
+      {
+        "text": "ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các yếu tố nguy cơ mặc dù nguyên nhân chính xác của kênh nhĩ thất không rõ , một số yếu tố có thể làm tăng nguy cơ khuyết tật tim bẩm sinh , chẳng hạn như : hội chứng down .",
+    "entities": [
+      {
+        "text": "hội chứng down",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , cần xét nghiệm thêm marker ung thư ca 19 - 9 . ca 19 - 9 được khối ung thư tụy sản xuất , mức độ của nó tăng cao trong 80% trường hợp ung thư tụy .",
+    "entities": [
+      {
+        "text": "marker ung thư",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ung thư tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ca 19 - 9",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "vậy bệnh trĩ và nguyên nhân bệnh trĩ là gì sẽ được đề cập chi tiết ở bài viết bên dưới .",
+    "entities": [
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thoái hóa khớp háng sau biến dạng mắc phải coxa plana hoặc sau khi bị hoại tử vô khuẩn chỏm xương đùi .",
+    "entities": [
+      {
+        "text": "hoại tử vô khuẩn chỏm xương đùi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thoái hóa khớp háng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong khi tiêm gây ra ít hoặc không đau , tuy nhiên biện pháp này thể kém hiệu quả hơn so với thắt vòng cao su .",
+    "entities": [
+      {
+        "text": "thắt vòng cao su",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa xơ vữa động mạch hiệu quả để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : duy trì thói quen sống lành mạnh , thường xuyên tập thể dục nâng cao sức khỏe .",
+    "entities": [
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu ung thư bàng quang còn ở bề mặt , bệnh nhân sẽ được đưa hóa chất vào bàng quang sau khi đã phẫu thuật lấy u bàng quang qua đường niệu đạo .",
+    "entities": [
+      {
+        "text": "ung thư bàng quang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng máy ghi điện tâm đồ kéo dài trong một số trường hợp tỏ ra rất cần thiết để phát hiện các cơn rung nhĩ không có riệu chứng .",
+    "entities": [
+      {
+        "text": "máy ghi điện tâm đồ kéo dài",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "giãn tĩnh mạch chi dưới , còn gọi là suy ( giãn ) tĩnh mạch chi dưới hay suy ( giãn ) tĩnh mạch chân , có thể hình thành ở bất cứ đâu từ mắt cá chân đến bẹn , là tình trạng các tĩnh mạch nông ở chi dưới bị biến dạng , giãn ra , làm suy giảm chức năng đưa máu trở về tim dẫn đến hiện tượng máu ứ đọng ở chi dưới gây ra các biến động về huyết động và làm biến dạng các tổ chức mô xung quanh .",
+    "entities": [
+      {
+        "text": "suy ( giãn ) tĩnh mạch chi dưới",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy ( giãn ) tĩnh mạch chân",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "giãn tĩnh mạch chi dưới",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ví dụ , nếu nguyên nhân là suy giáp hoặc chức năng tuyến giáp thấp , điều trị có thể khắc phục được vấn đề nhịp tim .",
+    "entities": [
+      {
+        "text": "suy giáp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tương tự như máy trợ thính , các thiết bị này tạo ra tiếng ồn liên tục thấp , ngăn chặn triệu chứng ù tai .",
+    "entities": [
+      {
+        "text": "các thiết bị này tạo ra tiếng ồn liên tục thấp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "máy trợ thính",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp , thuốc kháng sinh được quản lý trong thuốc mỡ , ke m hoặc dưới dạng thuốc viên .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc viên",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc mỡ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ke",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thiết bị này , tương tự như kẹp áo , clip vào một ngón tay và các biện pháp đo số lượng bão hòa oxy trong máu .",
+    "entities": [
+      {
+        "text": "biện pháp đo số lượng bão hòa oxy trong máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán đau bụng tiền sử bệnh khai thác tiền sử bệnh khi chẩn đoán đau bụng để tìm nguyên nhân gây đau bụng : vị trí đau ( đau cục b ộ hay toàn thân , đau ở vùng bụng trái/phải , … ) .",
+    "entities": [
+      {
+        "text": "đau ở vùng bụng trái/phải",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau cục b",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "toàn thân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

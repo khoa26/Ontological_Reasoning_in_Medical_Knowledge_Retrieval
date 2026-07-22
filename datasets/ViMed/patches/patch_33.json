@@ -1,0 +1,331 @@
+[
+  {
+    "text": "xét nghiệm máu để đánh giá chức năng gan có thể giúp bác sĩ xác định nguyên nhân gây ra các dấu hiệu và triệu chứng .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "thiết bị trợ thính , như tv - nghe điện thoại , hệ thống hoặc các thiết bị khuếch đại , có thể giúp nghe tốt hơn trong khi giảm tiếng ồn khác xung quanh .",
+    "entities": [
+      {
+        "text": "hệ thống hoặc các thiết bị khuếch đại",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thiết bị trợ thính",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa chướng bụng hiệu quả để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : xác định sự nhạy cảm với thực phẩm và thay đổi chế độ ăn uống phù hợp .",
+    "entities": [
+      {
+        "text": "chướng bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "teo cơ tủy cũng là một bệnh lý di truyền tuổi tác : sau 40 tuổi , nguy cơ mắc bệnh tế bào thần kinh vận động tăng cao đáng kể .",
+    "entities": [
+      {
+        "text": "bệnh tế bào thần kinh vận động",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "teo cơ tủy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong một khoảng thời gian 3 - 5 năm , sẽ nhận được một lượng nhỏ chất gây dị ứng tiêm .",
+    "entities": []
+  },
+  {
+    "text": "khám bụng , xác định các vị trí đã từng phẫu thuật; nghe nhu động ruột xem có bình thường hay không và cường độ như thế nào ( ví dụ : bình thường , cao ) ; gõ bụng chướng ; sờ xác định điểm đau , khám các dấu phúc mạc ( ví dụ , phản ứng thành bụng , cảm ứng phúc mạc ) , và bất kỳ khối u nào , cơ quan tăng kích thước , hoặc thoát vị .",
+    "entities": [
+      {
+        "text": "phản ứng thành bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cảm ứng phúc mạc",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "gõ bụng chướng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "u máu trên da trông giống như một vết bớt đỏ , có thể phẳng hoặc lồi ra trên bề mặt da .",
+    "entities": [
+      {
+        "text": "u máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau vài ngày cho đến một tuần , đau khớp thường đỡ nhanh hoặc khi dùng aspirin hoặc các thuốc giảm đau khác và thường không để lại di chứng ở khớp .",
+    "entities": [
+      {
+        "text": "dùng aspirin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau khớp",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh ung thư bàng quang để phòng tránh ung thư bàng quang xảy ra , cần thực hiện những điều sau : không hút thuốc lá tránh phơi nhiễm với những loại hóa chất và nguồn nước mới uống nhiều nước mỗi ngày .",
+    "entities": [
+      {
+        "text": "bệnh ung thư bàng quang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều này xảy ra khi giác mạc là cong quá ít hoặc mắt ngắn hơn từ trước ra sau hơn bình thường .",
+    "entities": []
+  },
+  {
+    "text": "mạch yếu hoặc vắng mặt ở cổ tay , viêm động mạch takayasu đôi khi gọi là bệnh mạch yếu vì động mạch thu hẹp có thể làm bắt mạch khó hoặc không thể phát hiện .",
+    "entities": [
+      {
+        "text": "viêm động mạch takayasu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh mạch yếu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cdh1 là gen ức chế tế bào dạ dày phát triển , khi bị đột biến làm mất khả năng kiểm soát này dẫn tới ung thư .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù phình động mạch có thể do chấn thương , nhiễm khuẩn hay khối u nhưng đa số là do tự phát .",
+    "entities": [
+      {
+        "text": "phình động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm mống mắt có thể được phân loại là các triệu chứng cấp tính khi phát triển nhanh chóng , hoặc là mãn tính khi các triệu chứng phát triển dần dần và có xu hướng mới nhất trong khoảng thời gian vài tuần đến vài tháng .",
+    "entities": [
+      {
+        "text": "viêm mống mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu trải nghiệm chủ yếu là đau rút và đầy hơi sau khi ăn sản phẩm từ sữa , thực phẩm có chứa caffeine , hoặc không đường hoặc kẹo cao su , vấn đề có thể không phải hội chứng ruột kích thích .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trước đây , bệnh hay xảy ra ở người trẻ tuổi đã được xác định là có bệnh van tim từ trước ( chủ yếu là bệnh van tim do thấp ) .",
+    "entities": [
+      {
+        "text": "bệnh van tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cấp cứu điều trị rung thất bao gồm hồi sức tim phổi ( cpr ) và sốc tim với một thiết bị gọi là máy khử rung .",
+    "entities": [
+      {
+        "text": "hồi sức tim phổi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "máy khử rung",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốc tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cpr",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hóa chất thải , chẳng hạn như những người có thể tiếp xúc với những nghề nhất định , cũng có thể là thủ phạm .",
+    "entities": []
+  },
+  {
+    "text": "đồng thời các chất phụ thuộc dạ dày thực quản chảy vào tĩnh mạch azygos và dẫn đến sự phát triển của giãn tĩnh mạch thực quản .",
+    "entities": []
+  },
+  {
+    "text": "việc người phụ nữ có thể mang thai sau phẫu thuật hay không phụ thuộc vào lứa tuổi , chất lượng tinh trùng , mức độ tổn thương của ống dẫn trứng .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tùy theo độ tuổi của người bệnh , các khối u trung thất có thể có ở tại nhiều vị trí khác nhau .",
+    "entities": []
+  },
+  {
+    "text": "với các bệnh nhân có sốt , nghi ngờ chẩn đoán được tăng thêm bởi các dấu hiệu xét nghiệm có tình trạng nhiễm trùng , như tăng protein phản ứng c ( crp ) , hoặc máu lắng tăng , bạch cầu tăng , thiếu máu , đái máu vi thể .",
+    "entities": [
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đây là bệnh lý nhãn khoa thường gặp , xảy ra khi áp lực thủy dịch trong nhãn cầu tăng cao và gây tổn thương hệ thần kinh thị giác , hậu quả nghiêm trọng nhất là dẫn đến mù loà .",
+    "entities": [
+      {
+        "text": "mù loà",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với các khối u nhỏ , bác sĩ có thể loại bỏ các phần của thanh quản bị ảnh hưởng bởi bệnh ung thư , để lại nhiều phần thanh quản như có thể .",
+    "entities": [
+      {
+        "text": "bác sĩ có thể loại bỏ các phần của thanh quản bị ảnh hưởng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "để chuẩn bị cho kiểm tra , làm theo hướng dẫn của bác sĩ về chế độ ăn uống và dùng thuốc nhuận tràng để làm sạch đường ruột .",
+    "entities": [
+      {
+        "text": "thuốc nhuận tràng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "điều này giải thích tại sao đa số các bệnh nhân ung thư tụy thường chỉ được phát hiện ở giai đoạn tiến triển của bệnh .",
+    "entities": [
+      {
+        "text": "ung thư tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng viêm nội tâm mạc có thể bao gồm : ho khan hoặc dai dẳng; sốt ; nhịp tim thay đổi ; khó thở ; phát ban trên da hoặc các nốt bất thường ; sưng chân hoặc vùng bụng ; suy nhược hoặc mệt mỏi .",
+    "entities": [
+      {
+        "text": "nhịp tim thay đổi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm nội tâm mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phát ban trên da",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nốt bất thường",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sưng chân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "vùng bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy nhược",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ho khan",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thuốc thay thế nếu đang quan tâm đến việc cố gắng trị liệu bổ sung và thay thế cho tiêu chảy do kháng sinh , thảo luận về các tùy chọn với bác sĩ .",
+    "entities": [
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù có đến 1 trong 5 người mỹ trưởng thành có các dấu hiệu và triệu chứng của hội chứng ruột kích thích , ít hơn một nửa tìm kiếm sự trợ giúp y tế .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nghề nghiệp dễ mắc ung thư như làm cao su , chất hóa học , da thuộc , thợ làm tóc , thợ kim khí , thợ in , thợ dệt , tài xế xe tải .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

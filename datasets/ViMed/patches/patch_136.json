@@ -1,0 +1,382 @@
+[
+  {
+    "text": "tiêu chảy do kháng sinh có thể sẽ bắt đầu khoảng năm đến 10 ngày sau khi bắt đầu điều trị bằng kháng sinh .",
+    "entities": [
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu có cha mẹ với đột biến gene gây run , có cơ hội phát triển 50 phần trăm rối loạn này .",
+    "entities": []
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu và triệu chứng của viêm đại tràng màng giả bao gồm : tiêu chảy có thể tiêu chảy nước và đôi khi có máu .",
+    "entities": [
+      {
+        "text": "viêm đại tràng màng giả",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , các nghiên cứu aspirin liều thấp hoặc sử dụng ngắn hạn aspirin đã không tìm thấy điều này đúng .",
+    "entities": [
+      {
+        "text": "aspirin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "u tuyến yên có nguy hiểm với sức khoẻ của con người và đặc biệt nguy hiểm hơn khi không được phát hiện và điều trị kịp thời .",
+    "entities": [
+      {
+        "text": "u tuyến yên",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những loại thuốc khi vào máu và đến tất cả các khu vực của cơ thể , làm cho phương pháp điều trị này hữu ích đối với các bệnh ung thư đã di căn ra khỏi đầu và cổ .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bạn có thể đổ mồ hôi quá nhiều đến mức thấm qua quần áo , và có thể làm gián đoạn các hoạt động hàng ngày và gây lo lắng hay bối rối cho người bệnh .",
+    "entities": [
+      {
+        "text": "lo lắng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": ". . đối tượng nguy cơ bệnh tắc vòi trứng nguy cơ lớn nhất của bệnh là có nhiều bạn tình và quan hệ tình dục không an toàn .",
+    "entities": [
+      {
+        "text": "bệnh tắc vòi trứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhật ký đau đầu có thể cung cấp manh mối có giá trị mà có thể giúp bác sĩ chẩn đoán cụ thể loại đau đầu và khám phá nguyên nhân có thể gây ra đau đầu .",
+    "entities": [
+      {
+        "text": "nhật ký đau đầu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "dịch truyền tĩnh mạch hoặc máu nên được làm nóng đến 40 - 42°c , đặc biệt là khi hồi sức thể tích lớn .",
+    "entities": [
+      {
+        "text": "dịch truyền tĩnh mạch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "máu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp bác sĩ có thể khuyên nên làm một thủ tục gọi là cắt bỏ để cố gắng loại bỏ các xung trong tim gây nhịp nhanh thất .",
+    "entities": [
+      {
+        "text": "nhịp nhanh thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . tập vật lý trị liệu : các bài tập thường có tác dụng giúp tăng cường lưu thông máu , tăng cường sự linh hoạt của các khớp và tăng cường cơ bắp xung quanh hông .",
+    "entities": [
+      {
+        "text": "tập vật lý trị liệu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đối phó và hỗ trợ nhận được chẩn đoán bệnh sa sút trí tuệ mất trí nhớ có thể khủng hoảng cho bản thân và những người thân .",
+    "entities": [
+      {
+        "text": "bệnh sa sút trí tuệ mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết những người có tầm nhìn màu sắc nghèo nàn , không thể phân biệt giữa các sắc thái nhất định của màu đỏ và màu xanh lá cây .",
+    "entities": [
+      {
+        "text": "không thể phân biệt giữa các sắc thái",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "có tầm nhìn màu sắc nghèo nàn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong nhiều trường hợp , các giai đoạn của ung thư có thể không được xác định cho đến sau khi phẫu thuật ung thư đại tràng .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khô mắt cũng liên kết với một số bệnh như tiểu đường , viêm khớp dạng thấp , lupus , xơ cứng bì , hội chứng sjogren 's , rối loạn tuyến giáp và thiếu vitamin a . đã có phẫu thuật mắt laser .",
+    "entities": [
+      {
+        "text": "đã có phẫu thuật mắt laser",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng sjogren 's",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh như tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm khớp dạng thấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rối loạn tuyến giáp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiếu vitamin a",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ cứng bì",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khô mắt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lupus",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các tế bào ác tính đã thay đổi dna và kiểm tra này có thể phát hiện những đột biến dna cho một số loại khối u ung thư và khối u tiền ung thư .",
+    "entities": []
+  },
+  {
+    "text": "có thể xác định được mức độ hẹp , dự trữ mạch vành qua siêu âm lòng mạch ( ivus ) và đo ffr .",
+    "entities": [
+      {
+        "text": "siêu âm lòng mạch",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đo ffr",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "virus epstein - barr cũng liên kết với một số bệnh ung thư hiếm gặp , bao gồm cả ung thư vòm họng .",
+    "entities": [
+      {
+        "text": "bệnh ung thư hiếm gặp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "liên hệ với bác sĩ ngay lập tức nếu bị đau nặng hoặc đau ở bụng , đầy hơi bụng , hoặc cảm giác đầy kết hợp với : sốt .",
+    "entities": [
+      {
+        "text": "đầy hơi bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau ở bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau nặng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh ung thư khoang miệng nam giới , có tiền sử hút thuốc lá và uống rượu người có thói quen nhai trầu người có các tổn thương tiền ung thư tái đi tái lại , không điều trị dứt điểm người mắc virus hpv , quan hệ tình dục không an toàn , quan hệ qua đường miệng .",
+    "entities": [
+      {
+        "text": "bệnh ung thư khoang miệng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "virus hpv",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hiện nay tỉ lệ sống ở bệnh nhi teo thực quản được phẫu thuật ở nhóm a rất cao &gt;80% , trong khi đó nhóm c hầu hết tử vong .",
+    "entities": [
+      {
+        "text": "teo thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật có thể là một lựa chọn ở những người có suy cơ quan tiến triển , vỡ đại tràng và viêm niêm mạc của thành bụng ( viêm phúc mạc ) .",
+    "entities": [
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vỡ đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "làm như vậy vừa làm mềm phân và tăng số lượng lớn , từ đó sẽ giúp người bệnh tránh được sự đè ép có thể gây ra bệnh trĩ .",
+    "entities": [
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng có thể có u nang tuyến tụy , bao gồm u nang giả , nhưng không trải nghiệm triệu chứng .",
+    "entities": [
+      {
+        "text": "u nang tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u nang giả",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi các xung động truyền từ tâm nhĩ xuống tâm thất nhưng bị cản trở tại nút nhĩ thất hoặc bó his thì được gọi là bị block nhĩ thất .",
+    "entities": [
+      {
+        "text": "block nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc rubella rubella nếu không được phát hiện và can thiệp kịp thời , có thể gây ra các biến chứng nguy hiểm : đối với người bệnh nói chung : rubella là dạng nhiễm trùng nhẹ hơn so với sởi , hình thành miễn dịch sau khi mắc và khỏi bệnh .",
+    "entities": [
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sởi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "shape {behavior : url ( #default#vml ) ;} normal 0 false false false microsoftinternetexplorer4 định nghĩa vòm họng ung thư là ung thư xảy ra trong vòm họng , được đặt phía sau mũi và trên mặt sau của cổ họng .",
+    "entities": [
+      {
+        "text": "vòm họng ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu không sản xuất enzyme này , có thể có vấn đề tương tự như gây ra bởi hội chứng ruột kích thích , bao gồm cả khí bụng , đau và tiêu chảy .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau và tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của huyết khối tĩnh mạch sâu các dấu hiệu thường gặp của huyết khối tĩnh mạch sâu bao gồm : sưng vù cả chân hoặc dọc theo mạch máu ; chân bị đau nhức khi đứng hoặc đi bộ; cảm thấy nóng ở vùng chân bị sưng hoặc đau; da bị bầm đỏ .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "dọc theo mạch máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chân bị đau nhức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nóng ở vùng chân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sưng vù cả chân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "da bị bầm đỏ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

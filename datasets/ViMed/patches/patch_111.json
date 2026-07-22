@@ -1,0 +1,350 @@
+[
+  {
+    "text": "ung thư amidan , một dạng khác của ung thư cổ họng , ảnh hưởng đến amidan nằm trên mặt sau của cổ họng .",
+    "entities": [
+      {
+        "text": "ung thư cổ họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư amidan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng trong cả hai trẻ em và người lớn , mắt đỏ có thể gây ra viêm giác mạc , có thể ảnh hưởng đến thị lực .",
+    "entities": [
+      {
+        "text": "ảnh hưởng đến thị lực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mắt đỏ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "châm cứu trị liệu : cũng có thể là một cách điều trị hiệu quả cho hội chứng tăng thông khí .",
+    "entities": [
+      {
+        "text": "hội chứng tăng thông khí",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "châm cứu trị liệu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một loại nấm thường hiện diện trong miệng được gọi là candida albicans là một nguyên nhân phổ biến của viêm thực quản truyền nhiễm .",
+    "entities": [
+      {
+        "text": "viêm thực quản truyền nhiễm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , một số nguyên nhân khác gây viêm tá tràng như : bệnh crohn ( viêm đường tiêu hóa ) ; stress do phẫu thuật hoặc chấn thương nặng; tình trạng tự miễn ; tổn thương ở ruột non ; sử dụng máy trợ thở ; xạ trị hoặc hóa trị ung thư; trào ngược dịch mật ( tình trạng dịch mật từ tá tràng vào dạ dày ) ; lạm dụng chất kích thích như rượu , bia , thuốc lá ; cơ thể nhiễm virus nhất định , ví dụ như virus herpes dạng đơn , cùng với một hệ thống miễn dịch yếu; ăn các chất ăn da , chất độc .",
+    "entities": [
+      {
+        "text": "viêm đường tiêu hóa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "trào ngược dịch mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong những trường hợp này , các hạch bạch huyết sưng được tìm thấy trong kiểm tra hình ảnh cho các vấn đề khác .",
+    "entities": [
+      {
+        "text": "hạch bạch huyết sưng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "liên quan đến lão hóa võng mạc dẫn đến bong võng mạc như các tuổi , thủy tinh thể có thể thay đổi trong tính nhất quán và thu hẹp hoặc trở nên lỏng .",
+    "entities": [
+      {
+        "text": "bong võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm chẩn đoán điện tâm đồ ( ekg hoặc ecg ) là xét nghiệm phổ biến nhất để chẩn đoán rối loạn nhịp tim .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ekg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ecg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "trong khi đó , bác sĩ có thể khuyên các kỹ thuật nên chăm sóc tại nhà để giúp đối phó với bệnh tiêu chảy cho đến khi nó được giải quyết .",
+    "entities": [
+      {
+        "text": "bệnh tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "học viện mắt mỹ khuyến cáo nên khám mắt hoàn thành : ít nhất một lần trong độ tuổi từ 20 đến 29. có ít nhất hai lần giữa các độ tuổi từ 30 và 39. mỗi 2 - 4 năm giữa tuổi 40 và 64. mỗi một đến hai năm đầu ở tuổi 65. tùy thuộc vào kết quả , bác sĩ có thể khuyên nên kiểm tra thường xuyên hơn .",
+    "entities": [
+      {
+        "text": "kiểm tra thường xuyên hơn",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu các bộ phận của võng mạc bị rách hoặc bong ra từ phía sau mắt , phẫu thuật sửa chữa thường thành công .",
+    "entities": [
+      {
+        "text": "võng mạc bị rách",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bong ra",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân khi có viêm xoang , các màng nhầy của mũi , xoang , họng ( đường hô hấp trên ) bị viêm và gây sưng cản trở các lỗ xoang và ngăn chất nhờn thoát ra bình thường , mặt khác gây ra đau và các triệu chứng khác viêm xoang .",
+    "entities": [
+      {
+        "text": "viêm xoang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gây sưng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng của bệnh tiểu đường có thể dẫn đến thiệt hại túi mật và tăng nguy cơ phát triển viêm túi mật .",
+    "entities": [
+      {
+        "text": "bệnh tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "- trong trường hợp tiếp tục chống lại điều trị hoặc thuốc , phẫu thuật nội soi xoang có thể là một lựa chọn .",
+    "entities": [
+      {
+        "text": "phẫu thuật nội soi xoang",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "lối sống và các biện pháp khắc phục điểm vàng bị thoái hóa không ảnh hưởng đến tầm nhìn bên ( ngoại vi ) và thường không gây mù hoàn toàn .",
+    "entities": [
+      {
+        "text": "điểm vàng bị thoái hóa",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hãy hỏi bác sĩ nên được chủng ngừa viêm gan b . nếu lo ngại về nguy cơ xơ gan , hãy nói chuyện với bác sĩ về cách có thể giảm nguy cơ .",
+    "entities": [
+      {
+        "text": "viêm gan b",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , phình động mạch ổn định lớn có thể chèn vào các mô não và dây thần kinh , có thể gây ra : đau ở trên và phía sau một mắt .",
+    "entities": [
+      {
+        "text": "đau ở trên và phía sau một mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phình động mạch ổn định lớn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "lasek có thể là một lựa chọn tốt hơn nếu có một giác mạc mỏng hoặc nếu đang có nguy cơ cao của một chấn thương mắt tại nơi làm việc hoặc từ chơi thể thao .",
+    "entities": [
+      {
+        "text": "lasek",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa sa van hai lá hiệu quả để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : tập thể dục để nâng cao sức khỏe , nhưng tập ở mức độ vừa phải; thực hiện một chế độ ăn uống lành mạnh cho tim mạch; giữ cân nặng ổn định , giảm cân nếu cần thiết; tránh để cơ thể căng thẳng , lo âu kéo dài; không hút thuốc lá hoặc tránh xa khói thuốc lá; kiểm tra sức khỏe thường xuyên nếu có những bệnh lý liên quan tới tim .",
+    "entities": [
+      {
+        "text": "sa van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với những người khác , các triệu chứng sốt hay tồi tệ hơn vào những thời điểm nhất định trong năm , thường là vào mùa hè , mùa xuân hay mùa thu .",
+    "entities": [
+      {
+        "text": "triệu chứng sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh thoát vị đùi yếu tố nguy cơ làm tăng thoát vị đùi như sau : nam giới thường bị thoát vị đùi nhiều hơn nữ giới .",
+    "entities": [
+      {
+        "text": "thoát vị đùi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm xác định virus quai bị : được chỉ định khi nghi ngờ người bệnh có những triệu chứng nhiễm virus quai bị .",
+    "entities": []
+  },
+  {
+    "text": "phẫu thuật cắt búi trĩ : bác sĩ sẽ đề nghị tiến hành cắt búi trĩ nếu chúng quá lớn và các phương pháp khác không hiệu quả .",
+    "entities": [
+      {
+        "text": "phẫu thuật cắt búi trĩ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết phụ nữ có gen chống lại sự thiếu hụt , và hơn 1 phần trăm phụ nữ gốc bắc âu có loại thiếu màu sắc .",
+    "entities": []
+  },
+  {
+    "text": "do vòm họng nằm gần ống eustachian , viêm hoặc phì đại của vòm họng có thể chặn các ống , góp phần nhiễm trùng tai giữa .",
+    "entities": [
+      {
+        "text": "nhiễm trùng tai giữa",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thủ tục can thiệp và phẫu thuật các thủ thuật can thiệp ( nong động mạch , đặt stent ) hoặc phẫu thuật bắc cầu có thể được khuyên dùng để điều trị bệnh mạch vành .",
+    "entities": [
+      {
+        "text": "phẫu thuật bắc cầu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nong động mạch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đặt stent",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh trầm cảm sau sinh tổng quan bệnh trầm cảm sau sinh bệnh trầm cảm sau sinh là trầm cảm xuất hiện sau khi sinh đẻ ở người phụ nữ nhất là trong 3 tuần đầu sau sinh .",
+    "entities": [
+      {
+        "text": "bệnh trầm cảm sau sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đôi khi , loại viêm mũi có thể trở thành mãn tính , chảy nước mũi gây đổi màu liên tục , đau mặt và áp suất ( viêm xoang ) .",
+    "entities": [
+      {
+        "text": "chảy nước mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm xoang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm mũi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau mặt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "vòng đời của bệnh sán máng khi vào trong cơ thể người , ấu trùng sán máng phát triển thành giun trưởng thành và trứng chúng đẻ ra có thể bị mắc kẹt trong các mô của cơ thể .",
+    "entities": [
+      {
+        "text": "bệnh sán máng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ dinh dưỡng : nên ăn các loại thực phẩm sau : các loại ngũ cốc; rau; trái cây; protein nạc; phương pháp phòng ngừa nhồi máu cơ tim hiệu quả để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : kiểm soát huyết áp .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

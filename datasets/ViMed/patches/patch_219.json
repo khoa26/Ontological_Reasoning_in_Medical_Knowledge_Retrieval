@@ -1,0 +1,378 @@
+[
+  {
+    "text": "u sắc tố mắt ( melanomas ) , hầu hết các mẫu trong một phần của mắt không thể nhìn thấy khi nhìn vào gương .",
+    "entities": [
+      {
+        "text": "không thể nhìn thấy khi nhìn vào gương",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "u sắc tố mắt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "melanomas",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc đường huyết cao có rất nhiều yếu tố nguy cơ của bệnh tăng đường huyết bao gồm : bỏ qua hay quên tiêm insulin , hoặc không uống thuốc hạ đường huyết .",
+    "entities": [
+      {
+        "text": "bệnh tăng đường huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đái tháo đường , gây ra bệnh lý võng mạc đái tháo đường , là nguyên nhân phổ biến nhất của bệnh võng mạc tăng sinh trên thế giới .",
+    "entities": [
+      {
+        "text": "bệnh lý võng mạc đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh võng mạc tăng sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu và triệu chứng của hội chứng horner thường xảy ra ở một bên của khuôn mặt và thường bao gồm : rủ mí trên xuống ( ptosis ) và độ cao của mí trên thấp .",
+    "entities": [
+      {
+        "text": "rủ mí trên xuống ( ptosis )",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "độ cao của mí trên thấp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hội chứng horner",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xác định mức độ ung thư tuyến nước bọt : nếu được chẩn đoán mắc bệnh ung thư tuyến nước bọt , bác sĩ sẽ xác định mức độ ( giai đoạn ) của bệnh ung thư .",
+    "entities": [
+      {
+        "text": "bệnh ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết thoát vị não màng nã o đều là các trường hợp bất thường bẩm sinh nên thường chỉ gặp thoát vị não ở trẻ sơ sinh .",
+    "entities": [
+      {
+        "text": "thoát vị não màng nã",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ít thường xuyên hơn , các triệu chứng viêm thanh quản là do một cái gì đó nghiêm trọng hơn hoặc lâu dài .",
+    "entities": [
+      {
+        "text": "viêm thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "u nang thường theo sau một cơn viêm tụy , một tình trạng đau đớn , trong đó các enzym tiêu hóa của tuyến tụy sớm trở thành hoạt động và tiêu hóa một số chính các tuyến tụy .",
+    "entities": [
+      {
+        "text": "viêm tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u nang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh ung thư xương các yếu tố nguy cơ của ung thư xương nguyên phát bao gồm : di truyền : có người thân trong gia đình mắc các hội chứng li - fraumeni , rothmund - thomson , u nguyên bào võng mạc… bệnh paget xương : do rối loạn tạo xương và hủy xương dẫn đến hình thành một tổ chức xương mới có cấu trúc bất thường .",
+    "entities": [
+      {
+        "text": "bệnh ung thư xương",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh paget xương",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đôi khi vấn đề là do tai nạn : có thể không biết một loại thuốc họ đang dùng chứa một nsaid .",
+    "entities": [
+      {
+        "text": "nsaid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "siêu âm qua nội soi : có thể góp phần chẩn đoán ung thư tụy chụp cắt lớp vi tính ( ct scan ) : đây là xét nghiệm được lựa chọn để giúp chẩn đoán ung thư tụy .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ung thư tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct scan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu gặp đau đầu trong hoặc sau khi tập thể dục , tham khảo ý kiến bác sĩ , đặc biệt là nếu nó bắt đầu đột ngột hoặc nếu cơn đau đầu đầu tiên thuộc loại này .",
+    "entities": [
+      {
+        "text": "đau đầu trong hoặc sau khi tập thể dục",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cơn đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù các triệu chứng tụ máu nội sọ có thể không được rõ ràng ngay lập tức , giám sát chặt chẽ đối với những thay đổi tiếp theo về thể chất , tinh thần và tình cảm .",
+    "entities": [
+      {
+        "text": "tụ máu nội sọ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các bác sĩ nghĩ rằng điều này là do áp lực chất lỏng bên trong tai hoặc thành phần bất thường .",
+    "entities": []
+  },
+  {
+    "text": "u tuyến mang tai : u lành tính cắt thùy nông hay thùy sâu nhưng cần bảo tồn dây thần kinh vii .",
+    "entities": [
+      {
+        "text": "u tuyến mang tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay thế thuốc thông thường , chuyển sang thuốc thay thế để cải thiện sức khỏe , nhưng đối với những người bị rối loạn ăn uống không phải luôn luôn như vậy .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ cũng có thể sử dụng một lựa chọn nước hoặc ống tiêm một bóng đèn cao su chứa đầy nước ấm .",
+    "entities": [
+      {
+        "text": "bác sĩ cũng có thể sử dụng một lựa chọn nước hoặc ống tiêm một bóng đèn cao su chứa đầy nước ấm",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một tiếng động lớn hay vụ nổ , như từ một vụ nổ hoặc đạn bắn - bản chất là một làn sóng âm thanh quá mạnh có thể gây rách màng nhĩ .",
+    "entities": []
+  },
+  {
+    "text": "bạn bị đổ mồ hôi đêm mà không có lý do rõ ràng đối tượng nguy cơ bệnh tăng tiết mồ hôi những yếu tố có thể làm tăng nguy cơ mắc tăng tiết mồ hôi bao gồm : thường xuyên lo lắng , căng thẳng hay hồi hộp ; yếu tố di truyền; mắc các bệnh lý như : viêm khớp , bệnh căng thẳng thần kinh và chấn thương tủy sống và rối loạn hệ máu; sử dụng một số loại thuốc như thuốc tiểu đường .",
+    "entities": [
+      {
+        "text": "bệnh căng thẳng thần kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tăng tiết mồ hôi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "căng thẳng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lo lắng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hồi hộp",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "táo bón là do ung thư làm hẹp lòng ruột , cản trở lưu thông của phân , gây ứ đọng phân .",
+    "entities": [
+      {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuân thủ trị liệu theo hướng dẫn của bác sĩ , đặc biệt là nếu có đang mắc các bệnh về tim mạch , huyết áp , đái tháo thường , rối loạn lipid máu .",
+    "entities": [
+      {
+        "text": "đái tháo thường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thường gây nên chẳng hạn như chất béo hoặc các loại thực phẩm rán , rượu , chocolate , bạc hà , tỏi , hành tây , caffeine và nicotine có thể làm cho chứng ợ nóng tệ hơn .",
+    "entities": [
+      {
+        "text": "ợ nóng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "siêu âm bơm nước buồng tử cung ( shg ) : phương pháp tương tự như chụp cản quang tử cung – vòi trứng nhưng sử dụng sóng âm để quan sát được hình ảnh của ống dẫn trứng .",
+    "entities": [
+      {
+        "text": "chụp cản quang tử cung – vòi trứng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm bơm nước buồng tử cung",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "shg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "đối với ngành công nghiệp có nguy cơ truyền bệnh than , thực hiện phòng chống bụi , thông gió tốt , trong khâu chế biến nguyên vật liệu từ động vật thô .",
+    "entities": [
+      {
+        "text": "bệnh than",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh thống kinh thống kinh vô căn là hiện tượng mà phần lớn phụ nữ đã từng gặp phải , khi đã hết kinh nguyệt , các triệu chứng sẽ thuyên giảm dần mà không cần phải can thiệp điều trị gì .",
+    "entities": [
+      {
+        "text": "thống kinh vô căn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh thống kinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị ung thư túi mật giai đoạn cuối phẫu thuật không thể chữa khỏi bệnh ung thư túi mật đã lan rộng ra khỏi túi mật .",
+    "entities": [
+      {
+        "text": "bệnh ung thư túi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thông thường triệu chứng vàng da xuất hiện vào ngày thứ 2, thứ 3 sau sinh biểu hiện bất thường về thần kinh như li bì , bỏ bú , quấy khóc bất thường cần nghĩ đến biến chứng vàng da nhân .",
+    "entities": [
+      {
+        "text": "quấy khóc",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "li bì",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bỏ bú",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều quan trọng là phải có một đánh giá toàn diện để xác định xem phẫu thuật trước sinh có khả thi hay không .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bệnh viêm động mạch sọ rất có thể xảy ra ở lứa tuổi trưởng thành 70 - 80. bệnh tiểu đường .",
+    "entities": [
+      {
+        "text": "bệnh viêm động mạch sọ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ những người bị bệnh tiểu đường hoặc huyết áp cao ( cao huyết áp ) thường có nhiều nguy cơ .",
+    "entities": [
+      {
+        "text": "bệnh tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

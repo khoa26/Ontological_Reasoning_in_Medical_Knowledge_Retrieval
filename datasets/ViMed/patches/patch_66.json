@@ -1,0 +1,332 @@
+[
+  {
+    "text": "cao huyết áp thứ phát : huyết áp cao do một nguyên nhân nào đó gây ra , có xu hướng xuất hiện đột ngột và gây ra huyết áp cao hơn so với cao huyết áp nguyên phát .",
+    "entities": [
+      {
+        "text": "cao huyết áp nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cao huyết áp thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "natalizumab được chấp thuận cho những người bệnh crohn vừa đến nặng với bằng chứng của viêm và những người không phản ứng tốt với phương pháp điều trị bệnh crohn thông thường khác .",
+    "entities": [
+      {
+        "text": "natalizumab",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thử nghiệm này sử dụng ống mỏng linh hoạt , với máy ảnh để xem bên trong vòm họng và tìm những bất thường .",
+    "entities": [
+      {
+        "text": "thử nghiệm này sử dụng ống mỏng linh hoạt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "vì vậy , việc phát hiện sớm và điều trị trầm cảm sau sinh là vô cùng quan trọng tránh những điều đáng tiếc xảy ra .",
+    "entities": [
+      {
+        "text": "trầm cảm sau sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa xơ gan là một thuật ngữ dùng để mô tả sẹo mô gan .",
+    "entities": [
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhìn chung , giai đoạn i ung thư cổ họng cho thấy khối u nhỏ hơn , giới hạn ở một khu vực của cổ họng .",
+    "entities": [
+      {
+        "text": "ung thư cổ họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh ung thư phổi những triệu chứng ung thư phổi thường gặp gồm : bị ho kéo dài không khỏi .",
+    "entities": [
+      {
+        "text": "bệnh ung thư phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ho kéo dài",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "áp kế hậu môn trực tràn g với bóng đẩy ra ngoài để đánh giá các rối loạn hậu môn trực tràng .",
+    "entities": [
+      {
+        "text": "áp kế hậu môn trực tràn",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "dinh dưỡng : thiếu vitamin a và/hoặc ß - caroten là yếu tố nguy cơ gây ung thư biểu mô khoang miệng .",
+    "entities": [
+      {
+        "text": "ung thư biểu mô khoang miệng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ ăn uống không lành mạnh : ăn thực phẩm giàu chất béo , muối , đường và cholesterol có liên quan đến bệnh tim .",
+    "entities": [
+      {
+        "text": "bệnh tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh thiểu sản men răng nếu trong gia đình có ông bà , cha mẹ bị thiểu sản men răng , thì con sinh ra cũng có nguy cơ mắc bệnh cao hơn .",
+    "entities": [
+      {
+        "text": "bệnh thiểu sản men răng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "labetalol ( thuốc chẹn alpha và beta - adrenergic ) : 1 - 2 mg/phút truyền tĩnh mạch hoặc 5 - 20 mg iv khởi đầu và bổ sung 20 - 40 mg sau 10 - 20 phút cho đến khi huyết áp được kiểm soát hoặc tổng liều đạt 300 mg .",
+    "entities": [
+      {
+        "text": "thuốc chẹn alpha và beta - adrenergic",
+        "type": "THUỐC"
+      },
+      {
+        "text": "labetalol",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "có thể không có khả năng thực hiện một nhiệm vụ cũng như muốn , và tầm nhìn hạn chế có thể làm giảm đi sự thú vị hoạt động hàng ngày .",
+    "entities": [
+      {
+        "text": "tầm nhìn hạn chế",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc phẫu thuật là cần thiết để sửa chữa các khiếm khuyết cả hai kênh nhĩ thất hoàn toàn và một phần .",
+    "entities": [
+      {
+        "text": "kênh nhĩ thất hoàn toàn và một phần",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phục hồi chức năng sau khi điều trị điều trị ung thư cổ họng thường gây ra các biến chứng có thể yêu cầu làm việc với các chuyên gia để lấy lại khả năng nuốt , ăn thức ăn rắn và nói chuyện .",
+    "entities": [
+      {
+        "text": "ung thư cổ họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù nguy cơ này tăng lên , hơn 90 phần trăm những người bị bệnh viêm ruột không bao giờ phát triển ung thư .",
+    "entities": [
+      {
+        "text": "bệnh viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi ung thư túi mật được phát hiện ở giai đoạn sớm nhất , cơ hội chữa khỏi bệnh là rất tốt .",
+    "entities": [
+      {
+        "text": "ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu bị chảy máu cùng với sự thay đổi rõ rệt trong thói quen đại tiện hoặc phân thay đổi màu sắc hoặc tính chất của phân , thì người bệnh hãy tham khảo ý kiến bác sĩ .",
+    "entities": [
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mô này được thử nghiệm trong phòng thí nghiệm để xác định xem nó có chứa các tế bào u ác tính .",
+    "entities": [
+      {
+        "text": "u ác tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm trùng có thể gây ra vấn đề trong các tĩnh mạch quanh xoang , can thiệp vào nguồn cung cấp máu cho não đưa đến có nguy cơ bị đột quỵ .",
+    "entities": [
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu ù tai là do một điều kiện y tế , bác sĩ có thể thực hiện các bước có thể làm giảm tiếng ồn .",
+    "entities": [
+      {
+        "text": "bác sĩ có thể thực hiện các bước có thể làm giảm tiếng ồn",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu đang quan tâm đến phương pháp điều trị bổ sung và thay thế , hãy nói chuyện với bác sĩ về : thảo dược bổ sung biện pháp thảo dược đã cho thấy một số lợi ích cho bệnh đau dạ dày .",
+    "entities": [
+      {
+        "text": "bệnh đau dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những người táo bón không thường xuyên đi tiêu , đi phân cứng hoặc căng thẳng trong quá trình đi tiêu .",
+    "entities": [
+      {
+        "text": "phân cứng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "táo bón",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "rối loạn nội mạc mạch máu có thể làm gia tăng xơ vữa động mạch , góp phần làm co thắt mạch vành .",
+    "entities": [
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hóa trị : hóa chất tại chỗ : dùng kem 5 - fu có thể điều trị khỏi các thương tổn tiền ung thư hoặc ung thư biểu mô đáy nông nhỏ .",
+    "entities": [
+      {
+        "text": "ung thư biểu mô đáy nông nhỏ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "theo kết quả của những điều kiện này trong mũi và xoang , có thể gặp một số các dấu hiệu và triệu chứng sau đây : mũi chảy nước .",
+    "entities": [
+      {
+        "text": "mũi chảy nước",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đau bụng mãn tính là cơn đau liên tục hoặc tái phát , kéo dài trong khoảng thời gian 3 tháng hoặc lâu hơn .",
+    "entities": [
+      {
+        "text": "đau bụng mãn tính",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cơn đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "t iêm của sumatripta n thường được sử dụng để điều trị đau nửa đầu , cũng là điều trị hiệu quả cho đau đầu cơn cấp tính .",
+    "entities": [
+      {
+        "text": "điều trị hiệu quả cho đau đầu cơn cấp tính",
+        "type": "THUỐC"
+      },
+      {
+        "text": "iêm của sumatripta",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau nửa đầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù điều này có thể là một dấu hiệu của khối u hay ung thư đại tràng , trực tràng chảy máu có thể chỉ ra các điều kiện khác , chẳng hạn như trĩ hay vết nứt ở hậu môn của trẻ vị thành niên .",
+    "entities": [
+      {
+        "text": "trực tràng chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các bác sĩ có thể kê toa các thuốc metoclopramid ( reglan ) , nhưng thuốc này có thể có tác dụng phụ đáng kể .",
+    "entities": [
+      {
+        "text": "thuốc metoclopramid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "reglan",
+        "type": "THUỐC"
+      }
+    ]
+  }
+]

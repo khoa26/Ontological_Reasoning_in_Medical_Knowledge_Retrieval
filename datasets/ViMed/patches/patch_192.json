@@ -1,0 +1,428 @@
+[
+  {
+    "text": "gặp nhân viên tư vấn di truyền để bàn về khả năng có xét nghiệm máu để xác định xem có các gen khiếm khuyết .",
+    "entities": [
+      {
+        "text": "gặp nhân viên tư vấn di truyền để bàn về khả năng có xét nghiệm máu để xác định xem có các gen khiếm khuyết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các đặc điểm của hội chứng marfan có thể bao gồm : dáng người cao và mảnh mai ; tay , chân và ngón tay dài không cân đối ; xương ức nhô ra ngoài hoặc l õm vào trong; v òm miệng cao , cong và hàm răng mọc chen chúc ; tiếng tim đập ; cận thị cực độ ; cột sống cong bất thường ; bàn chân phẳng .",
+    "entities": [
+      {
+        "text": "chân và ngón tay dài không cân đối",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cong và hàm răng mọc chen chúc",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "dáng người cao và mảnh mai",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cột sống cong bất thường",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xương ức nhô ra ngoài",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cận thị cực độ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bàn chân phẳng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "õm vào trong;",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiếng tim đập",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "òm miệng cao",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hãy chăm sóc bản thân mình chuẩn bị cho mình để điều trị bằng cách lựa chọn lối sống lành mạnh .",
+    "entities": [
+      {
+        "text": "điều trị bằng cách lựa chọn lối sống lành mạnh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "siêu âm là một thử nghiệm không gây đau đớn , sẽ gửi các sóng âm thanh thông qua con mắt .",
+    "entities": [
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra và chẩn đoán chẩn đoán ung thư tuyến tụy nếu bác sĩ nghi ngờ ung thư tuyến tụy , có thể có một hoặc nhiều xét nghiệm sau đây để chẩn đoán bệnh ung thư : siêu âm .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "đôi khi , sinh thiết cơ tim cũng có thể được thực hiện để xác định nguyên nhân của bệnh cơ tim .",
+    "entities": [
+      {
+        "text": "sinh thiết cơ tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ibuprofen ( advil , motrin , những loại khác ) hoặc acetaminophen ( tylenol , những loại khác ) có thể giảm thiểu cơn đau họng .",
+    "entities": [
+      {
+        "text": "acetaminophen",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ibuprofen",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau họng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "uốn ván là một bệnh nhiễm trùng cấp tính nặng nề , do ngoại độc tố của vi khuẩn uốn ván có tên clostridium tetani gây nên .",
+    "entities": [
+      {
+        "text": "uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hội chứng này có thể đe dọa tính mạng cho cả mẹ và con biến chứng cho thai thai chậm phát triển trong tử cung ( trên 50% ) thai chết lưu trong tử cung sinh non ( 40% ) do tiền sản giật nặng tử vong chu sinh ( 10% ) : tỷ lệ tử vong chu sinh tăng cao nếu sinh non hoặc nhau bong non nguyên nhân bệnh tiền sản giật cho đến nay , vẫn chưa hiểu rõ nguyên nhân tiền sản giật .",
+    "entities": [
+      {
+        "text": "tiền sản giật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ yếu tố có thể làm tăng nguy cơ thiếu máu cục bộ đường ruột bao gồm : tích tụ mỡ trong động mạch ( xơ vữa động mạch ) .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ nhiều người thỉnh thoảng có dấu hiệu và triệu chứng của hội chứng ruột kích thích , nhưng có nhiều khả năng có hội chứng ruột kích thích nếu : người trẻ .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kết hợp hóa trị và xạ có thể được điều trị duy nhất , hoặc liệu pháp kết hợp có thể được sử dụng trước khi phẫu thuật .",
+    "entities": [
+      {
+        "text": "hóa trị và xạ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của cơ tim phì đại chế độ sinh hoạt : tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị .",
+    "entities": [
+      {
+        "text": "cơ tim phì đại",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm cận lâm sàng x - quang ngực : các triệu chứng suy tim trên phim chụp xq bao gồm : bóng tim to , tràn dịch màng phổi , tràn dịch rãnh liên thùy , đường kerley b . chụp xq cũng giúp gợi ý các chẩn đoán phân biệt khác ( như copd , viêm phổi , xơ hóa phổi nguyên phát , ung thư phổi ) .",
+    "entities": [
+      {
+        "text": "tràn dịch rãnh liên thùy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xơ hóa phổi nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tràn dịch màng phổi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đường kerley b",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ung thư phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bóng tim to",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "copd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các aminogluycosid có tác dụng hiệp đồng với các chất ức chế vách tế bào vi khuẩn ( như beta - lactam và glycopeptid ) trong hoạt động diệt vi khuẩn và có tác dụng rút ngắn liệu trình điều trị ( đối với liên cầu họng ) và diệt vi khuẩn ( đối với enterococcus spp . )",
+    "entities": [
+      {
+        "text": "aminogluycosid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "beta - lactam",
+        "type": "THUỐC"
+      },
+      {
+        "text": "glycopeptid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "những người bị viêm dây thần kinh thị giác và mri quét bất thường ba lần khả năng phát triển bệnh đa xơ cứng so với những người có mri quét bình thường .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh đa xơ cứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "bên cạnh các triệu chứng đặc trưng của bệnh , bệnh nhân còn có thể đối mặt với biểu hiện của các biến chứng của bệnh như : viêm phổi do thủy đậu là một biến chứng rất nặng và khó điều trị khỏi .",
+    "entities": [
+      {
+        "text": "viêm phổi do thủy đậu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hội chứng tế bào đáy dạng nơ - vi ( nevoid basal cell syndrome ) : đặc trưng bởi đột biến trội nhiễm sắc thể kết hợp với các nang xương hàm hoặc các hốc lõm ở lòng bàn tay , bàn chân .",
+    "entities": [
+      {
+        "text": "hội chứng tế bào đáy dạng nơ - vi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nevoid basal cell syndrome",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hốc lõm ở lòng bàn tay",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều này làm cho bệnh thoái hóa võng mạc tăng sinh có tiên lượng xấu hơn vì nguy cơ xuất huyết mạch cao hơn thường dẫn đến mất thị lực và mù lòa .",
+    "entities": [
+      {
+        "text": "bệnh thoái hóa võng mạc tăng sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mất thị lực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mù lòa",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong trường hợp khác , viêm niêm mạc trực tràng bức xạ có thể gây đau và chảy máu nghiêm trọng , đòi hỏi phải điều trị .",
+    "entities": [
+      {
+        "text": "viêm niêm mạc trực tràng bức xạ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "người không có điều kiện khám chữa bệnh hay thậm chí ăn uống còn khó khăn , … người đi đến nơi có dịch sốt rét .",
+    "entities": [
+      {
+        "text": "sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể kê đơn thuốc kháng sinh cho bạn để bạn có thể bắt đầu dùng thuốc ngay lập tức khi các triệu chứng xuất hiện .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "dụng cụ này cho phép các bác sĩ tìm trong các tai và đánh giá bao nhiêu chất lỏng có thể có phía sau màng nhĩ .",
+    "entities": [
+      {
+        "text": "đánh giá bao nhiêu chất lỏng có thể có phía sau màng nhĩ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ung thư túi mật mở rộng vượt ra ngoài túi mật và vào gan đôi khi được điều trị bằng phẫu thuật cắt bỏ túi mật , cũng như một phần của gan và đường mật bao quanh túi mật .",
+    "entities": [
+      {
+        "text": "phẫu thuật cắt bỏ túi mật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hở van ba lá có 4 mức độ khác nhau : hở van ba lá 1/4 : mức độ nhẹ , thường là hở van sinh lý và không cần phải điều trị .",
+    "entities": [
+      {
+        "text": "hở van ba lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu có hội chứng ruột kích thích , khó khăn trong việc đối phó với các triệu chứng khi xa nhà có thể khiến tránh các cam kết xã hội .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nói khó tăng lên khạc ra đờm nhầy , có lẫn máu , thường có mùi hôi thối .1/3 các trường hợp đến khám vì có hạch cổ , mà chưa có dấu hiệu lâm sàng rõ rệt khối u có thể là nụ sùi , hoặc loét , hoặc vừa sùi vừa loét bờ nham nhở , sờ vào bệnh nhân đau và vướng , u không có ranh giới rõ ràng , cứng , dễ chảy máu .",
+    "entities": [
+      {
+        "text": "khạc ra đờm nhầy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hạch cổ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đau nhức đầu khác có thể được gây ra bởi bệnh cơ bản khác nhau , bao gồm : viêm hoặc các vấn đề khác với các mạch máu trong và xung quanh não , bao gồm đột quỵ .",
+    "entities": [
+      {
+        "text": "đau nhức đầu khác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đau : ở giai đoạn sớm : người bệnh bị đau vùng bẹn , sau đó lan xuống đùi , đôi khi có thể xuống khớp gối , ra sau mông hoặc vùng mấu chuyển xương đùi , đau tăng khi cử động hoặc đứng lâu .",
+    "entities": [
+      {
+        "text": "đau tăng khi cử động",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau vùng bẹn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ở nữ , đau ở cơ quan sinh sản của vùng bụng dưới có thể do : đau bụng kinh dữ dội ( gọi là đau bụng kinh ) .",
+    "entities": [
+      {
+        "text": "đau bụng kinh dữ dội",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

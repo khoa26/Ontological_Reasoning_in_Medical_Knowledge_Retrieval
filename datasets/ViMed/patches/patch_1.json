@@ -1,0 +1,391 @@
+[
+  {
+    "text": "răng sứ bao bọc bên ngoài răng , giúp bảo vệ răng khỏi các kích thích từ bên ngoài , đồng thời với thiết kế riêng về hình dáng , màu sắc phù hợp với từng người , răng sứ đảm bảo được chức năng ăn nhai và tính thẩm mỹ cao .",
+    "entities": [
+      {
+        "text": "răng sứ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng rượu và ma tuý : rượu có thể làm cảm thấy ấm bên trong , nhưng cũng làm giãn nở các mạch máu , dẫn đến mất nhiệt nhanh hơn từ bề mặt da .",
+    "entities": []
+  },
+  {
+    "text": "liệu pháp bức xạ rất hiếm khi được sử dụng trong ung thư đại tràng giai đoạn đầu , nhưng là một phần bình thường của điều trị ung thư trực tràng , đặc biệt nếu ung thư đã xâm nhập qua thành của trực tràng hoặc đến các hạch bạch huyết gần đó .",
+    "entities": [
+      {
+        "text": "ung thư trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "liệu pháp bức xạ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trong siêu âm tim , các sóng âm được hướng vào tim từ một máy biến năng , một thiết bị giống như cây đũa áp vào ngực .",
+    "entities": [
+      {
+        "text": "siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "chứng khó nuốt nặng nếu gặp khó khăn khi nuốt , ngăn không cho ăn uống đầy đủ , bác sĩ có thể khuyên nên : chế độ ăn lỏng .",
+    "entities": [
+      {
+        "text": "chứng khó nuốt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số yếu tố có thể làm tăng nguy cơ mắc ung thư hạch không hodgkin bao gồm : các loại thuốc ức chế hệ thống miễn dịch của bạn .",
+    "entities": [
+      {
+        "text": "ung thư hạch không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu run trở nên nghiêm trọng , có thể khó khăn để : giữ một tách hoặc ly thủy tinh mà không đổ .",
+    "entities": [
+      {
+        "text": "run",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng các cấu trúc bất thường của tim mạch - thân chung động mạch gây vấn đề nghiêm trọng với lưu thông máu .",
+    "entities": [
+      {
+        "text": "thân chung động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng khác bao gồm : suy tim , hở van tim , nhịp tim bất thường , viêm phổi , đột quỵ… khi nào cần gặp bác sĩ ?",
+    "entities": [
+      {
+        "text": "nhịp tim bất thường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hở van tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài đo huyết áp , bệnh nhân sẽ được chỉ định làm thêm một số kỹ thuật để góp phần đánh giá ảnh hưởng của tình trạng tăng huyết áp đến sức khỏe , bao gồm : soi đáy mắt .",
+    "entities": [
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đo huyết áp",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "soi đáy mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "hạn chế ngồi lâu , đặc biệt là trên bồn cầu , có thể làm tăng áp lực lên tĩnh mạch ở hậu môn các biện pháp chẩn đoán bệnh trĩ nội có thể chẩn đoán bệnh trĩ nội đơn giản bằng cách kiểm tra khu vực trực tràng .",
+    "entities": [
+      {
+        "text": "bệnh trĩ nội",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tác dụng phụ ngắn hạn bao gồm buồn nôn , mệt mỏi và tiêu chảy , và hiếm khi nó có thể gây viêm phổi có khả năng đe dọa tính mạng .",
+    "entities": [
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nghiên cứu cho thấy bổ sung chất xơ toa , chẳng hạn như metamucil và citrucel cải thiện các triệu chứng tổng thể và chảy máu từ bệnh trĩ .",
+    "entities": [
+      {
+        "text": "metamucil",
+        "type": "THUỐC"
+      },
+      {
+        "text": "citrucel",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số người bị rung nhĩ không có triệu chứng và không biết tình trạng của họ cho đến khi nó được phát hiện trong kiểm tra thường quy .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "alosetron là một chất đối kháng thụ thể thần kinh được thiết kế để thư giãn đại tràng và làm chậm sự chuyển động của chất thải qua ruột già .",
+    "entities": [
+      {
+        "text": "alosetron",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "việc làm rỗng dạ dày chậm lại ( vận chuyển khí chậm ) ngoài việc tích tụ khí còn có thể gây đầy hơi và chướng bụng .",
+    "entities": [
+      {
+        "text": "chướng bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đầy hơi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị sốt hồi quy hiệu quả điều trị sốt hồi quy hiệu quả bằng kháng sinh như tetracycline , doxycycline .",
+    "entities": [
+      {
+        "text": "tetracycline",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sốt hồi quy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "doxycycline",
+        "type": "THUỐC"
+      },
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thay thế thuốc nếu đã được chẩn đoán ung thư tuyến tụy , có thể thử tất cả các điều trị có sẵn để chữa bệnh ung thư .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối phó và hỗ trợ chăm sóc cho một em bé với một vấn đề tim nghiêm trọng , chẳng hạn như thân chung động mạch có thể là thử thách .",
+    "entities": [
+      {
+        "text": "thân chung động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cắt lách được thực hiện để điều trị xuất huyết dạ dày do huyết khối mạch lách ( đôi khi là hậu quả của viêm tụy ) .",
+    "entities": [
+      {
+        "text": "cắt lách",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu đau nhức đầu do tập thể dục không thể đoán trước , có thể dự phòng y tế mỗi ngày .",
+    "entities": [
+      {
+        "text": "đau nhức đầu do tập thể dục",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "dự phòng y tế mỗi ngày",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trong trường hợp hiếm hoi , montelukast có liên quan đến phản ứng tâm lý như lo âu , xâm lược , ảo giác , trầm cảm và suy nghĩ tự tử .",
+    "entities": [
+      {
+        "text": "suy nghĩ tự tử",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xâm lược",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "trầm cảm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ảo giác",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tâm lý",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lo âu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu đã được chẩn đoán viêm xơ đường mật , bác sĩ có thể khuyên nên thử nghiệm bệnh viêm ruột , thậm chí nếu không có dấu hiệu hoặc triệu chứng .",
+    "entities": [
+      {
+        "text": "viêm xơ đường mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tìm kiếm các dấu hiệu của các bệnh khác , chẳng hạn như bệnh tuyến giáp , có thể gây rối loạn nhịp tim .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh tuyến giáp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm bờ mi có thể gây khó chịu và có thể là không hấp dẫn , nhưng nó thường không gây ra thiệt hại lâu dài cho thị lực .",
+    "entities": [
+      {
+        "text": "viêm bờ mi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tai biến mạch máu não do xuất huyết não : huyết áp cao khiến các mạch máu trong hộp sọ vỡ ra và chảy máu vào xung quanh não .",
+    "entities": [
+      {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc ức chế men chuyển , thuốc chẹn thụ thể angiotensin ii , và thuốc kháng aldosterone có thể làm giảm tình trạng xơ hóa cơ tim để làm giảm cơ chất gây rung nhĩ ở bệnh nhân suy tim .",
+    "entities": [
+      {
+        "text": "thuốc chẹn thụ thể angiotensin ii",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc ức chế men chuyển",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc kháng aldosterone",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng , nếu nhận thấy bất kỳ vấn đề với tầm nhìn , một cuộc hẹn với bác sĩ mắt càng sớm càng tốt , ngay cả khi gần đây đã có một bài kiểm tra mắt .",
+    "entities": [
+      {
+        "text": "vấn đề với tầm nhìn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bài kiểm tra mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tác dụng của một số loại thuốc ( procainamide , phenytoin , thuốc chống đông , hydralazine … ) , tuy nhiên trường hợp này hiếm khi xảy ra .",
+    "entities": [
+      {
+        "text": "procainamide , phenytoin , thuốc chống đông , hydralazine",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "với thủ thuật này , bác sĩ phẫu thuật mắt sử dụng hoặc là một laser đặc biệt hoặc một dụng cụ gọi là keratome để thực hiện một khớp nối , nắp mỏng ở giác mạc .",
+    "entities": [
+      {
+        "text": "phẫu thuật mắt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "laser đặc biệt",
+        "type": "THUỐC"
+      }
+    ]
+  }
+]

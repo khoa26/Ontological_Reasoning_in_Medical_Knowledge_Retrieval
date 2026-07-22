@@ -1,0 +1,399 @@
+[
+  {
+    "text": "tăng nhiệt độ cơ thể có thể do sốt hoặc sử dụng phòng xông hơi hoặc bồn tắm nước nóng , có liên quan đến nguy cơ mắc bệnh thoái vị não màng não nhẹ .",
+    "entities": [
+      {
+        "text": "bệnh thoái vị não màng não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh thoái hóa võng mạc điều trị thoái hóa võng mạc bao gồm điều trị nguyên nhân của bệnh và điều trị triệu chứng của bệnh .",
+    "entities": [
+      {
+        "text": "bệnh thoái hóa võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các bác sĩ tin rằng tính di truyền và phơi nhiễm mãn tính với tiếng ồn lớn là những yếu tố chính góp phần vào mất thính lực theo thời gian .",
+    "entities": []
+  },
+  {
+    "text": "các khối máu tụ dưới màng cứng nguy cơ lớn cho những người sử dụng aspirin hoặc thuốc chống đông máu hàng ngày , người nghiện rượu , hoặc những người lớn tuổi .",
+    "entities": [
+      {
+        "text": "khối máu tụ dưới màng cứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bốc hỏa hay nóng bừng : là dấu hiệu phổ biến nhất trong các triệu chứng tiền mãn kinh với khoảng 2/3 phụ nữ gặp phải hiện tượng này .",
+    "entities": [
+      {
+        "text": "tiền mãn kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nóng bừng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bốc hỏa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến nhịp nhanh thất nhịp nhanh thất có bệnh tim cấu trúc đi kèm : bẩm sinh , bệnh cơ tim , bệnh mạch vành .",
+    "entities": [
+      {
+        "text": "nhịp nhanh thất",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh ung thư phổi những người nằm trong nguy cơ cao bị ung thư phổi là những người hút thuốc , hút thuốc thụ động , những người có người thân bị ung thư phổi , làm việc trong môi trường có nguy cơ tiếp xúc phải các chất gây ung thư .",
+    "entities": [
+      {
+        "text": "bệnh ung thư phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc dùng trong điều trị viêm mạch thường được sử dụng là : corticosteroid : sử dụng corticosteroid liều cao thường là corticoid đường tĩnh mạch nếu điều trị tại bệnh viện .",
+    "entities": [
+      {
+        "text": "corticosteroid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "teo thần kinh thị do thiếu máu nuôi dưỡng thường thấy trong các bệnh cảnh tắc động mạch tĩnh mạch trung tâm , tắc động mạch cảnh và viêm động mạch sọ não .",
+    "entities": [
+      {
+        "text": "tắc động mạch tĩnh mạch trung tâm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm động mạch sọ não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tắc động mạch cảnh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "teo thần kinh thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù tỷ lệ u thực quản lành tính chuyển thành ung thư thực quản không cao , khối u ác tính ít khi có dạng polyp , nhưng vì tính chất nguy hiểm và tiên lượng xấu của bệnh ung thư thực quản mà tất cả các bệnh nhân được chẩn đoán u thực quản lành tính cần được điều trị và nội soi , theo dõi định kỳ 1 năm/lần tại các cơ sở y tế .",
+    "entities": [
+      {
+        "text": "bệnh ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u thực quản lành tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị để cầm máu giãn tĩnh mạch thực quản chảy máu là đe dọa tính mạng và điều trị ngay lập tức là cần thiết .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ yếu tố có thể làm tăng nguy cơ viêm mũi không dị ứng bao gồm : t iếp xúc với chất kích thích nếu đang tiếp xúc với khói bụi , khí thải hoặc khói thuốc lá có thể có nguy cơ phát triển viêm mũi không dị ứng .",
+    "entities": [
+      {
+        "text": "viêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với hầu hết những người có thông liên thất , thực hành tốt vệ sinh răng miệng và thường xuyên kiểm tra răng miệng là chiến lược hiệu quả nhất để phòng ngừa viêm nội tâm mạc .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ở giai đoạn tiến triển ung thư dạ dày có thể có các triệu chứng sau : đau bụng : thường là triệu chứng gợi ý đầu tiên , đau dai dẳng vùng thượng vị ( phía trên rốn ) .",
+    "entities": [
+      {
+        "text": "đau dai dẳng vùng thượng vị",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh lý mạch vành được chia làm hai nhóm chính là hội chứng vành cấp ( nhồi máu cơ tim có st chênh , nhồi máu cơ tim không st chênh , đau ngực không ổn định ) và đau thắt ngực ổn định ( bệnh mạch vành ổn định ) .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim không st chênh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhồi máu cơ tim có st chênh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau ngực không ổn định",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh mạch vành ổn định",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau thắt ngực ổn định",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng vành cấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biện pháp điều trị : điều trị hỗ trợ : vệ sinh miệng họng , da , mắt ; hạ sốt ; cung cấp đầy đủ dinh dưỡng ; bổ sung vitamin a : thiếu vitamin a góp phần làm chậm hồi phục và dẫn đến tỷ lệ cao biến chứng sau sởi .",
+    "entities": [
+      {
+        "text": "vệ sinh miệng họng , da , mắt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cung cấp đầy đủ dinh dưỡng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bổ sung vitamin a",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hạ sốt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sởi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bụng chướng , gõ rất trong và trung tiện nhiều lần ( ở người bình thường khí đưa ra ngoài bình quân khoảng từ 14 – 25 lần trong một ngày ) .",
+    "entities": [
+      {
+        "text": "bụng chướng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nghiên cứu cho thấy rằng trẻ em bị thoát vị não được phẫu thuật trong giai đoạn thai nhi có thể giảm thiểu khuyết tật .",
+    "entities": [
+      {
+        "text": "thoát vị não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh tắc mạch ối tắc mạch ối là một biến chứng sản khoa nguy hiểm có tỉ lệ tử vong cao tuy nhiên nếu được chẩn đoán và cấp cứu kịp thời vẫn có một tỉ lệ sống sót .",
+    "entities": [
+      {
+        "text": "bệnh tắc mạch ối",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù đau thắt ngực tương đối phổ biến nhưng cơn đau này có thể rất khó phân biệt với các loại đau ngực khác , chẳng hạn như cảm giác đau ngực do tình trạng khó tiêu hoặc bệnh lý dạ dày - tá tràng .",
+    "entities": [
+      {
+        "text": "bệnh lý dạ dày - tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cơn đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trên đó có thể thấy hình ảnh của tắc ruột non với các quai ruột phía trên chỗ lồng bị dãn có mực nước - hơi , các quai ruột phía dưới chỗ lồng thì xẹp .",
+    "entities": [
+      {
+        "text": "tắc ruột non",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán đau tim phương pháp xét nghiệm : điện tâm đồ ( ecg ) .",
+    "entities": [
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thiệt hại cho các mô thực quản từ acid dạ dày chảy ngược vào thực quản có thể dẫn đến co thắt hoặc sẹo và thu hẹp thực quản vùng thấp , làm cho nuốt khó khăn .",
+    "entities": [
+      {
+        "text": "nuốt khó",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu bác sĩ cho một chẩn đoán viêm tai giữa mạn tính mủ , họ đã tìm thấy một nhiễm trùng tai dai dẳng đã dẫn đến rách hoặc thủng màng nhĩ .",
+    "entities": [
+      {
+        "text": "viêm tai giữa mạn tính mủ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thủng màng nhĩ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rách",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các phương pháp điều trị khác phương pháp điều trị phình động mạch não khác chưa vỡ là nhằm mục đích làm giảm các triệu chứng và biến chứng .",
+    "entities": [
+      {
+        "text": "phình động mạch não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "giãn tĩnh mạch thực quản hình thành do tăng áp lực tĩnh mạch cửa , thường là kết quả của xơ gan , cản trở lưu lượng máu ở cửa và tăng dòng máu tĩnh mạch cửa .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đến gặp bác sỹ để nhận được tư vấn y tế kịp thời nếu gặp các triệu chứng của suy tim dai dẳng hoặc nặng dần .",
+    "entities": [
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu có cha mẹ , anh chị em ruột hoặc con - người đã xơ gan mật , bác sĩ có thể xét nghiệm máu tìm các kháng thể này .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xơ gan mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những sản phẩm này chứa các thành phần , chẳng hạn như nước hạt dẻ hoặc hydrocortisone có thể làm giảm đau và ngứa , ít nhất là tạm thời .",
+    "entities": [
+      {
+        "text": "hydrocortisone",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nước hạt dẻ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ngứa",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu là một người lớn khỏe mạnh lớn hơn 40, mắt được kiểm tra mỗi 2 - 4 năm cho đến khi 65 tuổi .",
+    "entities": [
+      {
+        "text": "mắt được kiểm tra",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  }
+]

@@ -1,0 +1,396 @@
+[
+  {
+    "text": "ngừng các thuốc kháng sinh hiện tại điều trị viêm đại tràng màng giả thường bắt đầu với ngưng thuốc kháng sinh được cho là gây ra các dấu hiệu và triệu chứng .",
+    "entities": [
+      {
+        "text": "viêm đại tràng màng giả",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "rò rỉ máu hoặc dịch huyết thanh gây viêm vào khoang màng phổi trái dẫn đến dấu hiệu của tràn dịch màng phổi .",
+    "entities": [
+      {
+        "text": "tràn dịch màng phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị ngoại khoa cho viêm nội tâm mạc nhiễm khuẩn là lấy đi những mảnh sùi hoặc hoại tử mà không thể điều trị nội khoa được , sửa lại van hoặc thay van bị tổn thương .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc nhiễm khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sửa lại van",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ngoại khoa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thay van",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hoại tử",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sùi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến đường huyết cao tình trạng lượng đường trong máu tăng cao có thể xuất phát từ những nguyên nhân như : thiếu hụt vitamin d . tiếp xúc với nguồn virus gây rối loạn miễn dịch .",
+    "entities": [
+      {
+        "text": "đường huyết cao",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm h . pylori là một yếu tố nguy cơ mạnh cho một số loại ung thư dạ dày , bao gồm adenocarcinoma và niêm mạc dạ dày - mô liên kết , ung thư hạch bạch huyết ( malt ) .",
+    "entities": [
+      {
+        "text": "ung thư hạch bạch huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm h . pylori",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "adenocarcinoma",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "malt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên có thể không chính xác trong những trường hợp mạch vành vôi hóa nhiều chụp động mạch vành qua da : là biện pháp xâm lấn , kĩ thuật cao .",
+    "entities": [
+      {
+        "text": "chụp động mạch vành qua da",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu bác sĩ lại phát hiện không có loạn sản , có thể có các kỳ thi nội soi mỗi ba năm .",
+    "entities": [
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "biểu hiện lâm sàng của sốt rét ác tính : có thể xuất hiện ở một/ nhiều cơ quan : não , gan , thận , phổi , … khi xuất hiện một trong những triệu chứng dưới đây và đã loại trừ nguyên nhân khác : hôn mê , mệt lả .",
+    "entities": [
+      {
+        "text": "sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các bệnh lý da tồn tại từ trước bệnh dày sừng quang hóa : 1 - 20% chuyển thành ung thư da .",
+    "entities": [
+      {
+        "text": "ung thư da",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài 2 dấu hiệu cơ bản trên , còn một số dấu hiệu nhận biết khác như : tiết nhiều nước bọt hơn bình thường , khàn tiếng , ho kéo dài , mặt và hai bàn tay nhiều nếp nhăn nổi rõ , cơ thể giảm cân nhanh không rõ nguyên nhân , da bi sạm khô .",
+    "entities": [
+      {
+        "text": "mặt và hai bàn tay nhiều nếp nhăn nổi rõ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiết nhiều nước bọt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "giảm cân nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "da bi sạm khô",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khàn tiếng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ho kéo dài",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "để đối phó , cố gắng : tìm hiểu về ung thư cổ họng , đủ để đưa ra quyết định điều trị .",
+    "entities": [
+      {
+        "text": "ung thư cổ họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "dịch tễ học bệnh viêm nội tâm mạc đã thay đổi căn bản trong vài năm gần đây , đặc biệt ở các nước phát triển .",
+    "entities": [
+      {
+        "text": "bệnh viêm nội tâm mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu phát hiện trễ sau 24 - 48 giờ thì trẻ thường rất yếu và bệnh rất dễ nhầm với viêm màng não .",
+    "entities": [
+      {
+        "text": "viêm màng não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vì nó tiến triển từ từ , các sọc mở rộng đến các trung tâm và can thiệp với ánh sáng truyền qua trung tâm của ống kính .",
+    "entities": [
+      {
+        "text": "các sọc mở rộng đến các trung tâm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "có dấu hiệu và triệu chứng như đau tai hoặc nghe giảm , không có nghĩa là đã tích tụ ráy tai .",
+    "entities": [
+      {
+        "text": "nghe giảm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đó là lý do nhiễm trùng lây lan dễ dàng giữa các thành viên gia đình , trong các trường học và trong các thiết lập chăm sóc trẻ .",
+    "entities": [
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một đứa trẻ có thể có nhiều nốt u máu nhưng không phản ánh đến tình trạng sức khỏe của bé , phụ huynh không nên quá lo lắng về vấn đề này .",
+    "entities": [
+      {
+        "text": "u máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đôi khi vt có thể kéo dài trong 30 giây hoặc ít hơn ( nonsustained ) , và không gây ra bất kỳ triệu chứng , mặc dù nó gây ra nhịp tim không hiệu quả .",
+    "entities": [
+      {
+        "text": "vt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đây là lý do thang điểm cha2ds2 - vasc coi lứa tuổi từ 65 - 74 là yếu tố nguy cơ đột quỵ thấp và ≥ 75 tuổi có nguy cơ đột quỵ cao .",
+    "entities": [
+      {
+        "text": "thang điểm cha2ds2 - vasc",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị khối u tuyến nước bọt thường liên quan đến phẫu thuật , nhưng để điều trị ung thư , ngoài phẫu thuật ra còn bao gồm xạ trị và hóa trị .",
+    "entities": [
+      {
+        "text": "u tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "để ngăn ngừa bệnh trĩ và làm giảm các triệu chứng của bệnh trĩ , hãy làm theo những lời khuyên này : ăn nhiều thực phẩm xơ .",
+    "entities": [
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "được sử dụng phổ biến nhất cho bệnh crohn , metronidazole đôi khi có thể gây ra tác dụng phụ nghiêm trọng , bao gồm cả tê và ngứa ran ở bàn tay và bàn chân và đôi khi đau yếu cơ .",
+    "entities": [
+      {
+        "text": "metronidazole",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau yếu cơ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngứa",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tê",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ sẽ có thể cho biết các triệu chứng được gây ra bởi rung nhĩ hoặc loạn nhịp tim khác .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trước đây tiểu đường tuýp 2 được gọi là tiểu đường không phụ thuộc insulin , nhưng hiện nay nó không còn thực sự đúng nữa .",
+    "entities": [
+      {
+        "text": "tiểu đường không phụ thuộc insulin",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiểu đường tuýp 2",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số loại chứng sa sút trí tuệ mất trí nhớ mạch máu tồn tại và khác nhau về nguyên nhân và triệu chứng .",
+    "entities": [
+      {
+        "text": "chứng sa sút trí tuệ mất trí nhớ mạch máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không rõ liệu pháp điều trị bổ sung sau khi phẫu thuật thành công có thể nguy cơ ung thư túi mật sẽ không trở lại .",
+    "entities": [
+      {
+        "text": "ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay thế thuốc bổ sung và các liệu pháp thay thế có thể giúp đối phó với những tác dụng phụ của điều trị ung thư và ung thư .",
+    "entities": [
+      {
+        "text": "thay thế thuốc bổ sung",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một loại mới hơn của corticosteroid , budesonide , tác dụng nhanh hơn là steroid truyền thống và tác dụng phụ ít hơn .",
+    "entities": [
+      {
+        "text": "corticosteroid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "budesonide",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "cần thêm nghiên cứu để xác định xem neoadjuvant hóa trị liệu có thể cải thiện tỉ lệ sống sót ở những người bị ung thư vòm họng .",
+    "entities": [
+      {
+        "text": "neoadjuvant hóa trị liệu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các khối u não có ảnh hưởng đến các dây thần kinh thính giác , đặc biệt là âm thanh có thể gây ra mất thính lực ở tai bên liên quan .",
+    "entities": [
+      {
+        "text": "ảnh hưởng đến các dây thần kinh thính giác",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mất thính lực ở tai bên liên quan",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khối u não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

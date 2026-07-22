@@ -1,0 +1,343 @@
+[
+  {
+    "text": "các nhà nghiên cứu đã nghiên cứu bổ sung vitamin cho việc điều trị bệnh gan nhiễm mỡ không do rượu , nhưng kết quả đáng thất vọng .",
+    "entities": [
+      {
+        "text": "bệnh gan nhiễm mỡ không do rượu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bổ sung vitamin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh ung thư dạ dày tổng quan bệnh ung thư dạ dày ung thư dạ dày là các tế bào của dạ dày phát triển mất kiểm soát , tạo thành các khối u tại dạ dày , có thể lan ra xung quanh và các cơ quan xa hơn ( di căn xa ) .",
+    "entities": [
+      {
+        "text": "bệnh ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tắc hậu viêm của ống phóng tinh thường phát sinh sau khi bị viêm tuyến tiền liệt - niệu đạo cấp , bán cấp hay mãn tính .",
+    "entities": [
+      {
+        "text": "viêm tuyến tiền liệt - niệu đạo cấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng ở một số người có bệnh gan nhiễm mỡ không do rượu , chất béo tích tụ có thể gây viêm và sẹo trong gan .",
+    "entities": [
+      {
+        "text": "bệnh gan nhiễm mỡ không do rượu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đi khám bác sĩ nếu có thay đổi liên tục trong ruột hoặc nếu có bất kỳ dấu hiệu và triệu chứng của bệnh crohn , chẳng hạn như : đau bụng .",
+    "entities": [
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều trị nguyên nhân cơ bản của khô mắt bác sĩ sẽ làm việc để xác định những gì gây khô mắt .",
+    "entities": [
+      {
+        "text": "khô mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tiếp xúc với tiếng nổ , chẳng hạn như từ súng và pháo hoa , có thể gây ra mất thính lực trước mắt , mất thính lực vĩnh viễn .",
+    "entities": [
+      {
+        "text": "mất thính lực trước mắt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mất thính lực vĩnh viễn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh than đối với điều trị bệnh than : bệnh xảy ra qua đường da dễ điều trị nhất bệnh xảy ra qua đường hô hấp lại diễn tiến nhanh hơn và có nguy cơ dẫn đến suy hô hấp , nhiễm khuẩn huyết , sốc nhiễm khuẩn và viêm màng não nên cần được xử trí tích cực từ sớm .",
+    "entities": [
+      {
+        "text": "nhiễm khuẩn huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốc nhiễm khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm màng não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh than",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tìm kiếm sự chăm sóc y tế ngay lập tức nếu bị đau ngực , đặc biệt là khi đi kèm với các dấu hiệu và triệu chứng như khó thở hoặc đau cánh tay hoặc hàm .",
+    "entities": [
+      {
+        "text": "đau cánh tay hoặc hàm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một số trung tâm y tế chuyên ngành thực hiện giải phẩu màng nhầy nội soi ( emr ) để loại bỏ khối u lớn hơn với nội soi đại tràng .",
+    "entities": [
+      {
+        "text": "nội soi đại tràng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "emr",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "giám sát trẻ em bị nhiễm trùng thường xuyên hoặc kéo dài hoặc với chất lỏng liên tục trong tai giữa sẽ cần phải được theo dõi chặt chẽ .",
+    "entities": [
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc bệnh hẹp van hai lá tăng áp động mạch phổi : tăng áp lực trong các động mạch đưa máu từ tim đến phổi ( động mạch phổi ) khiến tim làm việc nhiều hơn .",
+    "entities": [
+      {
+        "text": "bệnh hẹp van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp nâng cao sức khỏe , ăn uống lành mạnh , tập luyện đều đặn và đi khám định kỳ cũng được chứng minh có tác dụng nhất định : bỏ thuốc lá hạn chế rượu bia và chất kích thích đi khám sức khỏe định kỳ 6 tháng/lần các biện pháp chẩn đoán bệnh ung thư túi mật sinh thiết là tiêu chuẩn vàng để chẩn đoán bệnh ung thư túi mật .",
+    "entities": [
+      {
+        "text": "bệnh ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "điều đó có nghĩa là bệnh nhân có bệnh động mạch ngoại biên có nguy cơ rất cao mắc các bệnh lý hoặc xảy ra các biến cố khác như : bệnh mạch vành ; nhồi máu cơ tim ; đau thắt ngực ; đột quỵ .",
+    "entities": [
+      {
+        "text": "bệnh động mạch ngoại biên",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều này có thể yêu cầu bác sĩ phẫu thuật để cắt giảm và loại bỏ các bộ phận của vách ngăn trước khi nó ở vị trí thích hợp .",
+    "entities": [
+      {
+        "text": "bác sĩ phẫu thuật để cắt giảm và loại bỏ các bộ phận của vách ngăn trước khi nó ở vị trí thích hợp",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân thường dung nạp tốt việc giảm cung lượng tim này trừ phi tần số thất quá nhanh ( &gt; 140 lần/phút ) , hoặc trên cơ sở bệnh nhân đã có sẵn cung lượng tim thấp hoặc ở mức ranh giới .",
+    "entities": [
+      {
+        "text": "tần số thất quá nhanh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đối phó và hỗ trợ trừ khi trải qua phẫu thuật nhanh chóng , bong võng mạc sẽ làm mất tầm nhìn trong lĩnh vực phần của tầm nhìn tương ứng với một phần tách ra của võng mạc .",
+    "entities": [
+      {
+        "text": "làm mất tầm nhìn trong lĩnh vực phần của tầm nhìn tương ứng với một phần tách ra của võng mạc",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bong võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng nếu có hội chứng ruột kích thích , vấn đề căng thẳng liên quan như đau bụng và tiêu chảy có xu hướng xảy ra với tần suất và cường độ lớn hơn .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "vãng trùng huyết cả hai yếu tố quy mô của nhiễm khuẩn huyết và khả năng gắn kết của vi khuẩn gây bệnh vào van tim đã bị tổn thương đều rất quan trọng .",
+    "entities": [
+      {
+        "text": "nhiễm khuẩn huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm mống mắt thường xuyên có thể dẫn đến bệnh tăng nhãn áp , một điều kiện mắt nghiêm trọng đặc trưng áp lực mắt tăng lên và mất thị lực bị đe dọa .",
+    "entities": [
+      {
+        "text": "bệnh tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù những dấu hiệu cho thấy bị nhiễm trùng , xuất hiện một mình không chỉ ra cho dù đó là do virus hoặc vi khuẩn .",
+    "entities": [
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống nếu đã được chẩn đoán mắc bệnh gan , có thể lo lắng về nguy cơ biến chứng nặng hơn .",
+    "entities": [
+      {
+        "text": "bệnh gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đây là một nhóm bệnh đặc trưng bởi sự thoái hóa của các tế bào thần kinh ở thùy trán của bộ não , các khu vực nói chung gắn liền với nhân cách , hành vi và ngôn ngữ .",
+    "entities": []
+  },
+  {
+    "text": "cũng có thể học cách để giảm bớt căng thẳng trong cuộc sống để ngăn chặn cơn đau dạ dày không viêm loét tái diễn .",
+    "entities": [
+      {
+        "text": "đau dạ dày không viêm loét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phình động mạch nào là việc bất cứ vị trí nào của động mạch não bị giãn ra và phình lên .",
+    "entities": [
+      {
+        "text": "phình động mạch nào",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "octreotide được ưu tiên sử dụng hơn các thuốc tương tự được sử dụng trước đây như vasopressin và terlipressin , bởi vì nó có ít tác dụng phụ hơn .",
+    "entities": [
+      {
+        "text": "octreotide",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của hở van hai lá triệu chứng của hở van hai lá phụ thuộc vào mức độ và nguyên nhân dẫn tới hở van .",
+    "entities": [
+      {
+        "text": "hở van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các thuốc mục tiêu erlotinib ( tarceva ) , nhắm chất hóa học tín hiệu tế bào ung thư phát triển và phân chia .",
+    "entities": [
+      {
+        "text": "erlotinib",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tarceva",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trẻ em và thanh thiếu niên trẻ em cần được sàng lọc bệnh về mắt và được kiểm tra tầm nhìn bởi một bác sĩ nhi khoa , bác sĩ nhãn khoa hoặc sàng lọc được đào tạo khác ở các lứa tuổi sau đây và khoảng thời gian .",
+    "entities": [
+      {
+        "text": "kiểm tra tầm nhìn",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh về mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , cảm giác khó chịu có thể nhẹ; khoảng 20% ​​ nhồi máu cơ tim cấp diễn biến im lặng ( tức là không có triệu chứng hoặc gây ra các triệu chứng mơ hồ không được bệnh nhân nhận biết là bệnh ) , thường gặp hơn ở bệnh nhân đái tháo đường .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

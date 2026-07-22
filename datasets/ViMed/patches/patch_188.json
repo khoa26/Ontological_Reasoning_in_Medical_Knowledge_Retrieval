@@ -1,0 +1,348 @@
+[
+  {
+    "text": "phẫu thuật bắc cầu tĩnh mạch cửa , ví dụ đặt shunt tĩnh mạch lách - thận , cũng hoạt động theo cơ chế tương tự nhưng phẫu thuật này xâm lấn hơn và có tỉ lệ tử vong cao hơn .",
+    "entities": [
+      {
+        "text": "phẫu thuật bắc cầu tĩnh mạch cửa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "shunt tĩnh mạch lách - thận",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thuốc vận mạch , chủ vận alpha/beta đối với những bệnh nhân không ổn định về huyết động bị block nhĩ thất , nên bắt đầu dùng dopamine hoặc dobutamine tiêm tĩnh mạch để cải thiện đồng thời sức co bóp và nhịp tim .",
+    "entities": [
+      {
+        "text": "chủ vận alpha/beta",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc vận mạch",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ti ếp xúc với tiếng ồn hay thổi , tai có thể gây ra tiếng cường độ cao hoặc ù ù , thường biến mất sau vài giờ .",
+    "entities": [
+      {
+        "text": "tai có thể gây ra tiếng cường độ cao hoặc ù ù",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh viêm đại tràng lâu dài , chẳng hạn như viêm loét đại tràng và bệnh crohn , có thể làm tăng nguy cơ ung thư đại tràng .",
+    "entities": [
+      {
+        "text": "bệnh viêm đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm loét đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiều chuyên gia được đào tạo sử dụng một cuốn sách có chứa nhiều màu - mẫu xét nghiệm cung cấp đánh giá đơn giản và chính xác của thiếu tầm nhìn màu sắc thừa kế khi sinh .",
+    "entities": [
+      {
+        "text": "một cuốn sách có chứa nhiều màu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "có thể chia thành hai nhóm nguyên nhân theo diễn tiến của bệnh như sau : bệnh thoái hóa võng mạc không tăng sinh : lưu lượng máu đến nuôi tế bào võng mạc bất thường , gây ra do những thương tổn trực tiếp hoặc là kết quả của sự tái tạo của các mạch máu nuôi dưỡng võng mạc .",
+    "entities": [
+      {
+        "text": "bệnh thoái hóa võng mạc không tăng sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "để giúp đỡ trong quá trình này , các nhà nghiên cứu đã phát triển tiêu chuẩn chẩn đoán , được gọi là tiêu chí rome cho hội chứng ruột kích thích và các rối loạn chức năng tiêu hóa khác - trong đó ruột bình thường nhưng không hoạt động bình thường .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các gia đình có một đứa trẻ bị rối loạn phổ tự kỷ có nguy cơ sinh thêm một đứa trẻ mắc chứng rối loạn này .",
+    "entities": [
+      {
+        "text": "rối loạn phổ tự kỷ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng nhức đầu khi ho ngắn bắt đầu đột ngột với và chỉ sau khi ho hoặc các loại căng thẳng .",
+    "entities": [
+      {
+        "text": "căng thẳng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhức đầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngứa ban đêm có thể làm nhiễu loạn giấc ngủ , làm cho mệt mỏi tồi tệ hơn và đôi khi dẫn đến trầm cảm .",
+    "entities": [
+      {
+        "text": "ngứa ban đêm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "trầm cảm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng ở mũi : ngạt , tắc mũi một hoặc hai bên , chảy nước mũi nhầy dính máu dai dẳng , điều trị nội khoa không đỡ .",
+    "entities": [
+      {
+        "text": "chảy nước mũi nhầy dính máu dai dẳng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tắc mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngạt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thuốc lựa chọn đầu tay : thuốc chẹn beta không chọn lọc ( nsbbs ) , làm giảm áp lực cửa và giảm nguy cơ chảy máu đầu tiên từ 25% đến 15% trong điều trị dự phòng ban đầu .",
+    "entities": [
+      {
+        "text": "thuốc chẹn beta không chọn lọc",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "khối u nhỏ có thể không gây ra vấn đề , nhưng lớn hơn có thể chặn luồng không khí làm khó thở .",
+    "entities": [
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "cấp cứu tắc mạch ối cần được phối hợp bởi các chuyên khoa khác nhau để đem lại hiệu quả cấp cứu , cụ thể : nguyên tắc xử trí hồi sức tích cực phối hợp giữa sản khoa , gây mê hồi sức và nhi khoa .",
+    "entities": [
+      {
+        "text": "tắc mạch ối",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những tiếng thổi tâm trương có thể tồn tại cùng với tiếng thổi do hẹp van hai lá : tiếng thổi tâm trương sớm của hở van hai lá đồng mắc ( ar ) , có thể lan đến mỏm tim .",
+    "entities": [
+      {
+        "text": "tiếng thổi tâm trương",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hẹp van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hở van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tổn thương là những mảng ban đỏ sần sùi , có vảy ở vùng da hở như vùng đầu cổ , có thể tự thoái triển nếu bệnh nhân thay đổi nghề nghiệp , giảm tiếp xúc với bức xạ cực tím .",
+    "entities": [
+      {
+        "text": "có vảy ở vùng da hở như vùng đầu cổ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "những mảng ban đỏ sần sùi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các thiết bị , trong đó sản xuất âm thanh mô phỏng môi trường như mưa rơi xuống đại dương , sóng , thường là một điều trị hiệu quả đối với chứng ù tai .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng đôi khi nó có thể phá vỡ các lớp niêm mạc và viêm niêm mạc dạ dày hoặc tá tràng , tạo ra loét .",
+    "entities": [
+      {
+        "text": "viêm niêm mạc dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các thử nghiệm có thể giúp xác định vị trí các khu vực thu hẹp hoặc viêm trong ruột non được thấy trong bệnh crohn .",
+    "entities": [
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh tắc ống phóng tinh tổng quan bệnh tắc ống phóng tinh tắc ống phóng tinh tuy là hiện tượng hiếm gặp nhưng là một trong những nguyên nhân gây vô sinh ở nam giới .",
+    "entities": [
+      {
+        "text": "bệnh tắc ống phóng tinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra và chẩn đoán các xét nghiệm và thủ tục được sử dụng để xác định xem liệu có nhiễm trùng h . pylori , bao gồm : xét nghiệm máu .",
+    "entities": [
+      {
+        "text": "nhiễm trùng h . pylori",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc phình động mạch não động mạch não khi phình to lên sẽ vỡ gây chảy máu , rò rỉ máu vào các khu vực quanh não , thường gọi là xuất huyết dưới nhện và khả năng tổn thương não trầm trọng khoảng 66% và khả năng tử vong lên đến 40% .",
+    "entities": [
+      {
+        "text": "xuất huyết dưới nhện",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phình động mạch não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một loại thoát vị tổ chức thần kinh nữa cũng tương tự như thoát vị não màng não là thoát vị màng não tủy .",
+    "entities": [
+      {
+        "text": "thoát vị não màng não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thoát vị màng não tủy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "căng thẳng : bạn có thể phản ứng với căng thẳng theo những cách có thể làm tăng nguy cơ bị đau tim .",
+    "entities": [
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán bởi vì rung thất là một tình trạng đe dọa tính mạng , nó không thể chẩn đoán theo thông lệ thông thường , trừ khi xảy ra trong phòng điều trị .",
+    "entities": [
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số tắc tuyến lệ gây ra bởi khối u chèn ép vào hệ thống thoát nước mắt , xác định nhanh chóng của khối u sẽ cho lựa chọn điều trị tốt hơn .",
+    "entities": [
+      {
+        "text": "tắc tuyến lệ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "lymphoma ( u lympho ) : là bệnh ung thư phát sinh trong các tế bào chống ung thư được gọi là tế bào lympho .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lymphoma",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u lympho",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu chảy máu đã xảy ra , sẽ xác định xem nguyên nhân chảy máu có phải do chứng phình động mạch vỡ .",
+    "entities": [
+      {
+        "text": "chứng phình động mạch vỡ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đa số bệnh nhân bị nhịp nhanh thất dai dẳng kèm bệnh tim cấu trúc cần được chỉ định thuốc beta blocker giao cảm .",
+    "entities": [
+      {
+        "text": "thuốc beta blocker giao cảm",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhịp nhanh thất",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của hội chứng raynaud hội chứng có các biểu hiện đặc trưng sau đây : thay đổi màu sắc da từ hồng hào sang trắng hoặc tím xanh , da bị tê rần .",
+    "entities": [
+      {
+        "text": "thay đổi màu sắc da từ hồng hào sang trắng hoặc tím xanh , da bị tê rần",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

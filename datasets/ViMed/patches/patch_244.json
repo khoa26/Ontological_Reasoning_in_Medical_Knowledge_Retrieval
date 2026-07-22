@@ -1,0 +1,362 @@
+[
+  {
+    "text": "yếu tố nguy cơ những yếu tố làm tăng nguy cơ viêm phúc mạc bao gồm : chạy thận phúc mạc .",
+    "entities": [
+      {
+        "text": "chạy thận phúc mạc",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , những hành động sau đây có thể là đủ để gây ra một mạch máu nhỏ bị vỡ trong mắt : ho dữ dội .",
+    "entities": []
+  },
+  {
+    "text": "một số tác nhân phổ biến bao gồm nhiên liệu máy bay hoặc máy bay phản lực khí , dung môi , hóa chất khác và khói từ phân hủy chất hữu cơ như phân .",
+    "entities": []
+  },
+  {
+    "text": "tuỳ thuộc vào mức độ nặng nhẹ của các triệu chứng , các phương pháp chính có thể sử dụng bao gồm : liệu pháp hormone : là lựa chọn tốt nhất để điều trị triệu chứng bốc hỏa và đổ mồ hôi ban đêm .",
+    "entities": [
+      {
+        "text": "liệu pháp hormone",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đổ mồ hôi ban đêm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bốc hỏa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục để giúp đối phó với co thắt thực quản thường xuyên , cố gắng : xác định chất gây nên .",
+    "entities": [
+      {
+        "text": "co thắt thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vì bị nôn và tiêu chảy cùng một lúc nên bệnh nhân luôn trong trạng thái mệt mỏi , kiệt sức , cơ thể gầy gò , hốc hác và thân nhiệt hạ thấp .",
+    "entities": [
+      {
+        "text": "thân nhiệt hạ thấp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cơ thể gầy gò",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hốc hác",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "kiệt sức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "khối u vùng bụng : bệnh nhân có thể tự sờ tay lên bụng và cảm nhận thấy khối u . tuy nhiên đa số các khối u thận ở sâu trong ổ bụng nên khó sờ thấy , chỉ có thể phát hiện trên chẩn đoán hình ảnh như siêu âm , chụp cắt lớp vi tính .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "khối u vùng bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nhiều người có các triệu chứng dị ứng quanh năm , nhưng các triệu chứng tồi tệ hơn trong những thời điểm nhất định trong năm .",
+    "entities": [
+      {
+        "text": "triệu chứng dị ứng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bao gồm : sử dụng một thiết bị chiếu sáng để nhìn vào cổ họng , và rất có thể tai và đường mũi .",
+    "entities": [
+      {
+        "text": "sử dụng một thiết bị chiếu sáng để nhìn vào cổ họng , và rất có thể tai và đường mũi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "khi phát hiện người có triệu chứng tai biến mạch máu não cần lập tức gọi xe cấp cứu và hỗ trợ đưa bệnh nhân đến bệnh viện .",
+    "entities": [
+      {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng của bệnh xơ nang , trào ngược dạ dày , hoặc hiv và các bệnh hệ thống miễn dịch khác có thể dẫn đến tắc nghẽn mũi .",
+    "entities": [
+      {
+        "text": "bệnh hệ thống miễn dịch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "trào ngược dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tắc nghẽn mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh xơ nang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hiv",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nói chuyện với bác sĩ về những gì thay thế phương pháp điều trị trào ngược dạ dày thực quản có thể được an toàn .",
+    "entities": [
+      {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "quá trình viêm làm cho các lớp của thành mạch máu dày lên , thu hẹp kích thước lòng mạch máu , làm giảm lưu lượng máu cung cấp , dẫn đến giảm lượng oxy và các chất dinh dưỡng cần thiết để nuôi dưỡng các mô và cơ quan của cơ thể .",
+    "entities": [
+      {
+        "text": "viêm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều này có nghĩa là đeo mặt nạ mang dưỡng khí vào phổi , mặc dù nhiều khả năng sẽ có một ống thở được đặt vào khí quản thông qua mũi hoặc miệng .",
+    "entities": [
+      {
+        "text": "đeo mặt nạ mang dưỡng khí vào phổi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đau nặng có thể thuyên giảm bằng phẫu thuật để chặn các dây thần kinh gửi tín hiệu đau từ tuyến tụy để não .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "viêm giác mạc truyền nhiễm điều trị viêm giác mạc truyền nhiễm khác nhau , tùy thuộc vào nguyên nhân gây ra nhiễm trùng .",
+    "entities": [
+      {
+        "text": "viêm giác mạc truyền nhiễm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh thoát vị hoành ở trẻ em việc điều trị thoát vị hoành ở trẻ cần phải thực hiện một cách chủ động và tích cực : đặt nội khí quản , giãn cơ , thở máy giúp cải thiện các vấn đề hô hấp của trẻ .",
+    "entities": [
+      {
+        "text": "bệnh thoát vị hoành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đặt nội khí quản",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu rối loạn chức năng sàn chậu là nguyên nhân của táo bón , bác sĩ có thể đề nghị phản hồi sinh học như là điều trị .",
+    "entities": [
+      {
+        "text": "rối loạn chức năng sàn chậu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "táo bón",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nghề nghiệp tiếp xúc với khói trong một số trường hợp viêm mũi không dị ứng được kích hoạt bởi việc tiếp xúc với một chất kích thích không khí ở nơi làm việc ( viêm mũi lao động ) .",
+    "entities": [
+      {
+        "text": "viêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm mũi lao động",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ebv đã được chứng minh là có liên quan đến cơ chế bệnh sinh trong ung thư vòm họng yếu tố di truyền : một số trường hợp ung thư vòm họng xảy ra ở nhiều thành viên trong gia đình .",
+    "entities": [
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "người suy giảm miễn dịch , dễ bị nhiễm virus , vi khuẩn… yếu tố làm tăng nguy cơ mắc viêm màng ngoài tim một số yếu tố làm tăng nguy cơ mắc viêm màng ngoài tim : tiền sử phẫu thuật tim hoặc bị các cơn đau tim .",
+    "entities": [
+      {
+        "text": "viêm màng ngoài tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cơn đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "huyết khối tĩnh mạch bề ngoài ( cục máu đông ) hiếm khi gây ra các vấn đề nghiêm trọng nhưng có thể rất đau , có thể cần đánh giá và điều trị thêm .",
+    "entities": [
+      {
+        "text": "đau",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "với bệnh tăng nhãn áp sắc tố , đặc biệt quan trọng tránh vị trí yoga đầu xuống và kéo dài , vì các vị trí này có thể làm tăng nhãn áp .",
+    "entities": [
+      {
+        "text": "bệnh tăng nhãn áp sắc tố",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phụ nữ cũng thường xuyên bị ảnh hưởng bởi táo bón hơn là nam giới , và trẻ em nhiều hơn người lớn .",
+    "entities": [
+      {
+        "text": "táo bón",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng một số nghiên cứu đã không tìm thấy một liên kết giữa mặt trời tiếp xúc với mắt u ác tính .",
+    "entities": [
+      {
+        "text": "mắt u ác tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các khối u lớn với kích thước không đều , ung thư biểu mô tuyến ức ác tính mạnh hơn và có tiên lượng xấu hơn nhiều .",
+    "entities": [
+      {
+        "text": "ung thư biểu mô tuyến ức ác tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân mắc bệnh to đầu chi do cường gh , bệnh u tủy thượng thận và chứng bệnh xơ hóa thần kinh cũng có khả năng mắc cơ tim phì đại .",
+    "entities": [
+      {
+        "text": "bệnh u tủy thượng thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh xơ hóa thần kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh to đầu chi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cơ tim phì đại",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tất cả những tác động này có thể dẫn đến tử vong đột ngột hoặc sau khi thuyên tắc phổi đã xảy ra một thời gian ngắn mà không được chữa trị .",
+    "entities": [
+      {
+        "text": "thuyên tắc phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các loại co thắt thực quản co thắt thực quản có thể xảy ra trong hai hình thức : co thắt thực quản lan tỏa .",
+    "entities": [
+      {
+        "text": "co thắt thực quản lan tỏa",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ những yếu tố làm tăng nguy cơ của thực quản barrett bao gồm : ợ nóng mạn tính .",
+    "entities": [
+      {
+        "text": "thực quản barrett",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ợ nóng mạn tính",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

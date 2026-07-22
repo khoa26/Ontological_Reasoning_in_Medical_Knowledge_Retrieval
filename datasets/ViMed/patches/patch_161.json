@@ -1,0 +1,355 @@
+[
+  {
+    "text": "đau nhức nửa đầu liên tục đau nhức đầu chỉ một nửa đầu mà không thay đổi bên và cũng : phải có hàng ngày và liên tục không có thời gian không đau .",
+    "entities": [
+      {
+        "text": "đau nhức nửa đầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau nhức đầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . yếu tố làm tăng nguy cơ mắc phải phình tách động mạch chủ một số yếu tố làm tăng nguy cơ mắc phình tách động mạch chủ , bao gồm : hẹp eo động mạch chủ; thiểu sản quai động mạch chủ; phẫu thuật động mạch chủ : đặt canuyn , nối mảnh ghép , kẹp động mạch chủ .",
+    "entities": [
+      {
+        "text": "phình tách động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phổ biến ở nam giới , loại u nang bao gồm các phân đoạn ống giãn , thường là đầu tuyến tụy .",
+    "entities": [
+      {
+        "text": "u nang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống để giúp ngăn ngừa bệnh tiêu chảy do kháng sinh , cố gắng : dùng thuốc kháng sinh chỉ khi cần thiết .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "uống steroid thường theo sau một đợt tĩnh mạch steroid , bởi vì sử dụng steroid đường uống một mình để điều trị viêm dây thần kinh thị giác có liên quan với tăng nguy cơ tái phát .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "steroid đường uống",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tĩnh mạch steroid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "uống steroid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm máu ít nhất cần có điện giải đồ , chức năng tuyến giáp , chức năng gan , thận và công thức máu .",
+    "entities": [
+      {
+        "text": "chức năng tuyến giáp",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chức năng gan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "điện giải đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "thận",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "đây là loại viêm mũi không dị ứng thường đỡ hơn sau vài tuần nhưng có thể gây kéo dài với chất nhầy ở cổ họng ( postnasal nhỏ giọt ) .",
+    "entities": [
+      {
+        "text": "viêm mũi không dị ứng thường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nó có thể giúp những người bị rối loạn ăn uống bằng cách tăng cảm giác hạnh phúc và phát huy thư giãn .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu nghi ngờ hoặc ai đó trong gia đình có viêm nắp thanh quản , tìm kiếm sự giúp đỡ khẩn cấp ngay lập tức .",
+    "entities": [
+      {
+        "text": "viêm nắp thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thở qua miệng - thường là do nghẹt mũi mãn tính - cũng có thể gây ra đau , họng khô .",
+    "entities": [
+      {
+        "text": "nghẹt mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "họng khô",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thu hẹp có thể là kết quả của sự hình thành mô sẹo , thường gây ra bởi bệnh trào ngược dạ dày ( gerd ) hoặc từ các khối u . các khối u thực quản .",
+    "entities": [
+      {
+        "text": "bệnh trào ngược dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gerd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu đang quan tâm đến việc bổ sung vitamin , mặc dù , nói chuyện với bác sĩ về những lợi ích và rủi ro .",
+    "entities": [
+      {
+        "text": "bổ sung vitamin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu không điều trị , viêm phúc mạc có thể dẫn đến nhiễm trùng khắp cơ thể nghiêm trọng đe dọa tính mạng .",
+    "entities": [
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cơn bốc hoả có thể diễn ra trong khoảng thời gian từ 30 giây đến 30 phút , đa số là 2 - 3 phút .",
+    "entities": [
+      {
+        "text": "cơn bốc hoả",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong giai đoạn này , các tế bào ung thư chỉ có ở niêm mạc , phát triển trong các lớp của đại tràng .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh teo dây thần kinh thị giác thần kinh thị giác có nhiệm vụ dẫn truyền hình ảnh thô sơ từ võng mạc đến trung tâm xử lý hình ảnh ở vỏ não dưới dạng xung điện , giúp ta nhìn rõ vật .",
+    "entities": [
+      {
+        "text": "bệnh teo dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tắc ống phóng tinh ( tên tiếng anh là ejaculatory duct obstruction - edo ) là một thuật ngữ y học miêu tả tình trạng tắc nghẽn ở một hoặc cả hai bên ống phóng tinh khiến dòng chảy của tinh trùng bị chặn lại .",
+    "entities": [
+      {
+        "text": "tắc ống phóng tinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , bác sĩ có thể chỉ định dùng chloramphenicol và penicillin ở những người bệnh bị chống chỉ định với tetracycline và doxycycline ( phụ nữ có thai và trẻ em dưới 9 tuổi ) .",
+    "entities": [
+      {
+        "text": "chloramphenicol",
+        "type": "THUỐC"
+      },
+      {
+        "text": "penicillin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hết sức cẩn trọng trong quá trình vận động , tránh va chạm chấn thương gây gãy cổ xương đùi , trật khớp háng .",
+    "entities": [
+      {
+        "text": "gãy cổ xương đùi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "trật khớp háng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ tiêu chảy do kháng sinh có thể xảy ra ở bất cứ ai trải qua điều trị bằng kháng sinh .",
+    "entities": [
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cần theo dõi các bệnh lý nhiễm khuẩn ở tất cả các bệnh nhân điều trị bằng thuốc ức chế miễn dịch .",
+    "entities": [
+      {
+        "text": "thuốc ức chế miễn dịch",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "chẩn đoán xác định dựa vào chỉ số ối : afi nhỏ hơn 5cm là thiểu ối , afi nhỏ hơn 3cm là cạn ối chẩn đoán nguyên nhân dựa vào các xét nghiệm như : siêu âm , xét nghiệm chọc dò nước ối các biện pháp điều trị bệnh thiểu ối thiểu ối điều trị theo nguyên nhân .",
+    "entities": [
+      {
+        "text": "xét nghiệm chọc dò nước ối",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh thiểu ối",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh ung thư lưỡi hiện nay , người ta vẫn chưa rõ nguyên nhân của ung thư lưỡi là gì .",
+    "entities": [
+      {
+        "text": "bệnh ung thư lưỡi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "độ nhạy và độ đặc hiệu đối với tổn thương tế bào cơ tim khác nhau đáng kể giữa các chất chỉ điểm này , nhưng troponin ( ctn ) là chất nhạy và đặc hiệu nhất và hiện là chất đánh dấu được lựa chọn .",
+    "entities": [
+      {
+        "text": "troponin",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "điện tâm đồ ( ecg hoặc ekg ) : kiểm tra những thay đổi trong hệ thống hoạt động của tim ví dụ như nhịp tim bất thường .",
+    "entities": [
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ecg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ekg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh ung thư lưỡi ung thư lưỡi rất khó để phát hiện sớm vì các triệu chứng của bệnh ở giai đoạn đầu quá mơ hồ .",
+    "entities": [
+      {
+        "text": "bệnh ung thư lưỡi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "lồng ruột là trạng thái bệnh lý khi một đoạn ruột chui lồng vào đoạn ruột tiếp theo khiến đường ruột bị bịt nút và thắt nghẹt .",
+    "entities": [
+      {
+        "text": "lồng ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chalazion xảy ra khi có t ắc nghẽn trong một trong các tuyến dầu nhỏ ở lề của mí mắt , đứng sau các lông mi .",
+    "entities": []
+  },
+  {
+    "text": "viên nang nội soi nói chung rất an toàn , nhưng nếu có tắc nghẽn một phần trong ruột , có một chút cơ hội viên có thể kẹt trong ruột .",
+    "entities": [
+      {
+        "text": "viên nang nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "giúp kiểm tra vùng háng , vùng xương chậu , độ sâu và xâm lấn của khối u . sinh thiết tế bào : sinh thiết khối u và sinh thiết hạch cho kết quả chẩn đoán bệnh chính xác .",
+    "entities": [
+      {
+        "text": "sinh thiết tế bào",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sinh thiết khối u",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sinh thiết hạch",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  }
+]

@@ -1,0 +1,356 @@
+[
+  {
+    "text": "nguyên nhân thân chung động mạch xảy ra trong quá trình tăng trưởng của thai nhi khi tim của bé đang phát triển .",
+    "entities": [
+      {
+        "text": "thân chung động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa viêm màng ngoài tim hiệu quả không có biện pháp nào để phòng ngừa viêm màng ngoài tim , đặc biệt là các trường hợp viêm do virus .",
+    "entities": [
+      {
+        "text": "viêm màng ngoài tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu có hội chứng ruột kích thích , các cơn co thắt có thể mạnh hơn và kéo dài hơn bình thường .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chất lỏng được lấy từ u nang được kiểm tra trong phòng thí nghiệm tìm các dấu hiệu có thể có của bệnh ung thư .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u nang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số phương pháp trị liệu thay thế đã có một số thử nghiệm giới hạn ở những người bị bệnh gan .",
+    "entities": [
+      {
+        "text": "phương pháp trị liệu thay thế",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tăng tiết mồ hôi có liên quan đến mùi mồ hôi bất thường ( mùi mồ hôi của cơ thể ) .",
+    "entities": [
+      {
+        "text": "tăng tiết mồ hôi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "gặp bác sĩ nếu như không giảm đau trong một tuần hoặc sớm hơn nữa nếu bị đau nặng hơn hoặc chảy máu .8.2. thuốc nếu bệnh trĩ chỉ gây ra sự khó chịu nhẹ , bác sĩ có thể chỉ định sử dụng các loại kem không kê đơn , thuốc mỡ , thuốc đạn hoặc miếng lót .",
+    "entities": [
+      {
+        "text": "đau nặng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "để giúp xác nhận chẩn đoán bệnh crohn có thể có một hoặc nhiều xét nghiệm và thủ tục sau đây : xét nghiệm máu .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của nhồi máu cơ tim chế độ sinh hoạt : tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh thường có biểu hiện cấp tính hoặc mạn tính : viêm tá tràng cấp tính : thường xảy ra đột ngột và trong khoảng một thời gian ngắn .",
+    "entities": [
+      {
+        "text": "viêm tá tràng cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , các tác nhân làm mềm chỉ có thể nới lỏng các lớp ngoài của ráy và làm sâu hơn trong ống tai hoặc chống lại các màng nhĩ .",
+    "entities": [
+      {
+        "text": "làm mềm",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "viêm tá tràng là một căn bệnh phổ biến và có thể xảy ra ở mọi lứa tuổi , giới tính .",
+    "entities": [
+      {
+        "text": "viêm tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "corticosteroid uống có thể gây ra tác dụng phụ nghiêm trọng khi được sử dụng lâu dài , do đó , chúng chỉ được sử dụng để điều trị triệu chứng hen suyễn nặng .",
+    "entities": [
+      {
+        "text": "corticosteroid uống",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hen suyễn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc chẹn beta giao cảm : nhóm thuốc này sẽ đối kháng với các chất giao cảm , thư giãn cơ tim , chậm nhịp tim để giảm nhu cầu oxy của cơ tim , vừa có tác dụng hạ áp ở người bệnh bị thiếu máu cơ tim .",
+    "entities": [
+      {
+        "text": "thuốc chẹn beta giao cảm",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "mọi bệnh nhân ghép tim đều phải dùng thuốc để ngăn chặn sự đào thải ( thuốc ức chế miễn dịch ) .",
+    "entities": [
+      {
+        "text": "ghép tim",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu nguyên nhân là do virus , bạn có thể thấy giống như bị cúm và có các triệu chứng ở dạ dày .",
+    "entities": [
+      {
+        "text": "cúm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu không chọn phẫu thuật đục thủy tinh thể bây giờ , bác sĩ mắt có thể đề nghị các kỳ kiểm tra định kỳ để theo dõi xem đục thủy tinh thể có đang tiến triển .",
+    "entities": [
+      {
+        "text": "phẫu thuật đục thủy tinh thể",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "kiểm tra định kỳ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , đối với trường hợp không biến chứng , trong đó , ví dụ , viêm giác mạc gây ra bởi một tổn thương hoặc kính áp tròng kéo dài , giải pháp ổn định mắt 24 giờ và thuốc bôi mắt thường có thể được tất cả những gì cần thiết .",
+    "entities": [
+      {
+        "text": "ổn định mắt 24 giờ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc bôi mắt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "dấu hiệu và triệu chứng viêm túi mật thường xảy ra sau bữa ăn , đặc biệt là một bữa ăn lớn hay bữa ăn nhiều chất béo .",
+    "entities": [
+      {
+        "text": "viêm túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có trường hợp tổ chức của cơ thể bị hoại tử và/hoặc các dị vật xâm nhập vào cơ thể bị nhiễm bẩn tạo ra môi trường yếm khí cho nha bào uốn ván phát triển .",
+    "entities": [
+      {
+        "text": "uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi đang chảy máu , hãy tránh dùng thuốc chẹn beta , làm giảm huyết áp và làm giảm nhịp tim tăng sinh lý trong thời kỳ xuất huyết cấp tính .",
+    "entities": [
+      {
+        "text": "thuốc chẹn beta",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sa sút trí tuệ cho thấy vấn đề với ít nhất hai chức năng não bộ , ví dụ như mất trí nhớ cùng với các dấu hiệu , người khiếm thính hoặc ngôn ngữ .",
+    "entities": [
+      {
+        "text": "sa sút trí tuệ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tai biến mạch máu não ( đột quỵ ) là tình trạng mạch máu não tắc nghẽn hoặc vỡ đột ngột mà không do chấn thương sọ não .",
+    "entities": [
+      {
+        "text": "mạch máu não tắc nghẽn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vỡ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mắc thoát vị đùi hiếm gặp , người phụ nữ tày khỏi bệnh sau 1 ngày mổ “đi lại dễ dàng không cần nạng , cảm giác ấy thật tuyệt” chủ đề : đùi thoát vị bẹn thoát vị đùi thoát vị bẹn trẻ em thoát vị bẹn ở người lớn phẫu thuật thoát vị đùi điều trị thoát vị đùi",
+    "entities": [
+      {
+        "text": "thoát vị bẹn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thoát vị đùi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ở hình thức đơn giản của nó , gan mỡ không do rượu có thể gây ra bệnh béo dư thừa mỡ gan , nhưng không có biến chứng .",
+    "entities": [
+      {
+        "text": "bệnh béo dư thừa mỡ gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gan mỡ không do rượu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phụ nữ có thai cần được tiêm tối thiểu 2 liều vắc xin uốn ván cách nhau tối thiểu 1 tháng và liều thứ 2 phải tiêm trước khi sinh 1 tháng .",
+    "entities": [
+      {
+        "text": "uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tối đa việc tiếp xúc với tiếng ồn cho phép của pháp luật mức độ âm thanh , decibel thời lượng , hàng ngày 90 8 giờ 92 6 giờ 95 4 giờ 97 3 giờ 100 2 giờ 102 1,5 giờ 105 1 giờ 110 30 phút 115 15 phút hoặc ít hơn trích : cục an toàn lao động nghề nghiệp của &amp; quản lý y tế mỹ ,2005 các biến chứng nghe kém có thể có một ảnh hưởng đáng kể chất lượng sống .",
+    "entities": [
+      {
+        "text": "nghe kém",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật được sử dụng ở những người bị ung thư tuyến tụy bao gồm : phẫu thuật khối u trong đầu tụy .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật khối u",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "những khối u có thể trở thành ác tính , vì vậy những người có vấn đề này tăng nguy cơ ung thư đại tràng .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các dấu hiệu và triệu chứng phổ biến của những biến chứng bao gồm khó thở và mệt mỏi , nhịp tim nhanh .",
+    "entities": [
+      {
+        "text": "nhịp tim nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

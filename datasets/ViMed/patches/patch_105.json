@@ -1,0 +1,432 @@
+[
+  {
+    "text": "hạn chế tiếp xúc với khuếch đại âm nhạc không có bảo vệ tai hay nghe nhạc với âm lượng rất cao với tai nghe có thể gây ra mất thính lực và ù tai .",
+    "entities": [
+      {
+        "text": "mất thính lực",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tăng huyết áp khiến tim phải hoạt động nhiều hơn để bơm máu đến các phần còn lại của cơ thể .",
+    "entities": [
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trước khi trải qua phẫu thuật , có thể cho bú thường xuyên hơn để đảm bảo dinh dưỡng và thuốc hợp lý để cải thiện chức năng tim và phổi .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu bị căng chướng bụng cơ năng và không rõ nguyên nhân , có thể cần một số xét nghiệm hơi thở hydro để giúp xác định nguyên nhân gây ra dư thừa khí trong ruột .",
+    "entities": [
+      {
+        "text": "xét nghiệm hơi thở hydro",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "căng chướng bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến bệnh động mạch ngoại biên bệnh động mạch ngoại biên thường do nguyên nhân là xơ vữa động mạch .",
+    "entities": [
+      {
+        "text": "bệnh động mạch ngoại biên",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thời điểm thực hiện có thể không có bất thường về tình trạng trào ngược nhưng nội soi có thể phát hiện viêm thực quản hoặc các biến chứng khác do bị axit dạ dày làm tổn thương .",
+    "entities": [
+      {
+        "text": "viêm thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tiếp xúc với virus khiến bạn có nguy cơ ung thư tuyến nước bọt bao gồm hiv và virus rbv ( epstein - barr ) điều trị i131 có thể làm tăng tỷ lệ u tuyến nước bọt lạm dụng chụp x quang nha khoa hoặc x quang vùng đầu cổ có thể là yếu tố làm thúc đẩy quá trình khởi phát khối u . lạm dụng rượu và thuốc lá : một vài nghiên cứu gần đây cho thấy việc lạm dụng rượu và thuốc lá có liên quan tới u warthin ( u tuyến lympho ) .",
+    "entities": [
+      {
+        "text": "ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chụp x quang nha khoa",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "x quang vùng đầu cổ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "u tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u tuyến lympho",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "virus rbv",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u warthin",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hiv",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống bởi vì hầu hết các trường hợp viêm túi mật là do sỏi mật , có thể giảm nguy cơ viêm túi mật bằng cách thực hiện các bước sau đây để ngăn ngừa sỏi mật : không được bỏ bữa .",
+    "entities": [
+      {
+        "text": "viêm túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ nhiều yếu tố có thể làm tăng nguy cơ phát triển đau nhức đầu , bao gồm : lo âu .",
+    "entities": [
+      {
+        "text": "đau nhức đầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "máu chảy từ búi trĩ và hình thành cục huyết khối có biểu hiện đau dữ dội , sưng , viêm và một cục cứng gần hậu môn .",
+    "entities": [
+      {
+        "text": "đau dữ dội",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "máu chảy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sưng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "liên hệ với bác sĩ nếu đang dùng hay gần đây đã dùng thuốc kháng sinh và phát triển bất kỳ dấu hiệu hoặc triệu chứng liên quan với viêm đại tràng màng giả , bao gồm cả tiêu chảy liên tục , đau bụng , và máu hoặc mủ trong phân .",
+    "entities": [
+      {
+        "text": "viêm đại tràng màng giả",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "máu hoặc mủ trong phân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiêu chảy liên tục",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bất cứ khi nào bị đau mắt hoặc một sự thay đổi trong tầm nhìn , làm một cuộc hẹn để gặp bác sĩ .",
+    "entities": [
+      {
+        "text": "một sự thay đổi trong tầm nhìn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bị đau mắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tăng nhãn áp có 4 loại chính : tăng nhãn áp góc mở , tăng nhãn áp góc đóng , tăng nhãn áp bẩm sinh và tăng nhãn áp thứ cấp .",
+    "entities": [
+      {
+        "text": "tăng nhãn áp góc đóng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng nhãn áp bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng nhãn áp thứ cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng nhãn áp góc mở",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đục thủy tinh thể hạt nhân có thể lần đầu tiên làm cho trở nên cận thị hoặc thậm chí là một sự cải thiện tạm thời trong tầm nhìn .",
+    "entities": [
+      {
+        "text": "đục thủy tinh thể hạt nhân",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cận thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một vấn đề là hầu hết khối u không chảy máu , cũng không loại trừ tất cả các bệnh ung thư .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi lượng oxy trong máu không đáp ứng đủ cho cơ thể làm cho trẻ thở gắng sức , tim đập nhanh dẫn đến tình trạng mệt mỏi , kém ăn làm trẻ chậm lớn , chậm phát triển , cơ thể phát triển kém .",
+    "entities": [
+      {
+        "text": "cơ thể phát triển kém",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chậm phát triển",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tim đập nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thở gắng sức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chậm lớn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "kém ăn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu không chắc chắn liệu thử nghiệm là đúng , hãy liên hệ với nhân viên tư vấn di truyền có thể giúp hiểu được ý nghĩa kết quả xét nghiệm dương tính hoặc âm tính .",
+    "entities": [
+      {
+        "text": "thử nghiệm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "trong cryopexy , bác sĩ phẫu thuật sử dụng cường độ cao để đông lạnh võng mạc quanh rách võng mạc .",
+    "entities": [
+      {
+        "text": "bác sĩ phẫu thuật sử dụng cường độ cao để đông lạnh võng mạc quanh rách võng mạc",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "giúp thở các ưu tiên hàng đầu trong điều trị viêm nắp thanh quản là đảm bảo rằng đang nhận được không khí đủ .",
+    "entities": [
+      {
+        "text": "đảm bảo rằng đang nhận được không khí đủ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm nắp thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , mắt có thể tăng áp lực sau khi tập thể dục trong hình thức của bệnh tăng nhãn áp thứ phát - bệnh tăng nhãn áp sắc tố , một rối loạn di truyền được đánh dấu bởi sự phân tán của các hạt sắc tố trong mắt .",
+    "entities": [
+      {
+        "text": "bệnh tăng nhãn áp thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tăng nhãn áp sắc tố",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguồn thức ăn canxi tốt bao gồm thức ăn loại chất béo hoặc sữa ít chất béo và các sản phẩm sữa khác , bông cải xanh , cải xoăn và cá hồi với xương đóng hộp .",
+    "entities": [
+      {
+        "text": "canxi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu các dây thần kinh vận động bị tổn thương , người bệnh có thể bị liệt nửa người hay toàn thân sau tai biến mạch máu não .",
+    "entities": [
+      {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "liệt nửa người",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "toàn thân",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán xơ vữa động mạch bác sĩ tim mạch sẽ nghe tiếng tim để xem có các âm thanh bất thường nào không ( tiếng rít khi máu chảy qua động mạch bị tắc nghẽn… ) .",
+    "entities": [
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiếng rít",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh thiếu men g6pd các cách phòng ngừa và kiểm soát bệnh thiếu men g6pd : sàng lọc sơ sinh bệnh lý thiếu men g6pd : hiện nay , cùng với bệnh lý suy giáp bẩm sinh và tăng sinh tuyến thượng thận bẩm sinh , thiếu hụt men g6pd được tiến hành tầm soát đồng thời bằng cách lấy máu tĩnh mạch tại hầu hết các bệnh viện lớn trên cả nước .",
+    "entities": [
+      {
+        "text": "tăng sinh tuyến thượng thận bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh thiếu men g6pd",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiếu hụt men g6pd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục tại nhà để đối phó với các triệu chứng của bệnh đục thủy tinh thể cho đến khi quyết định có phẫu thuật , cố gắng : hãy chắc chắn rằng kính đeo mắt hoặc kính áp tròng là những toa thuốc chính xác nhất có thể .",
+    "entities": [
+      {
+        "text": "bệnh đục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "kính áp tròng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đeo mắt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh tắc ống dẫn tinh khi bị mắc bệnh tắc ống dẫn tinh , trong quá trình xuất tinh , tinh trùng bị ngăn cản gặp trứng , gây hậu quả nghiêm trọng nhất là dẫn đến vô sinh nam .",
+    "entities": [
+      {
+        "text": "bệnh tắc ống dẫn tinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sốt cỏ khô là do một phản ứng dị ứng với chất gây dị ứng ngoài trời hoặc trong nhà , chẳng hạn như phấn hoa , mạt bụi hoặc lông vật nuôi .",
+    "entities": [
+      {
+        "text": "sốt cỏ khô",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi bị thiểu sản men răng xảy ra ở trẻ , răng sữa của bé bị mủn , cụt răng dần , thường cụt phía gần chân răng , dễ gãy răng .",
+    "entities": [
+      {
+        "text": "thiểu sản men răng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ống thông và phẫu thuật có thể làm giảm áp lực lên não do dịch não tủy vượt quá do phình động mạch vỡ .",
+    "entities": [
+      {
+        "text": "phình động mạch vỡ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ống thông",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thu hẹp hoặc xoắn gấp trong một động mạch cổ ( động mạch cảnh ) hoặc tĩnh mạch ở cổ có thể gây ra chảy máu hỗn loạn , dẫn đến chứng ù tai .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

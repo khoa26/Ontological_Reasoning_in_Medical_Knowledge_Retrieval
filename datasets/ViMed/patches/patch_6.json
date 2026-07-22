@@ -1,0 +1,416 @@
+[
+  {
+    "text": "một số rối loạn như sau hội chứng bại liệt , bệnh đa xơ cứng , loạn dưỡng cơ và bệnh parkinson , có thể được nhận thấy vì chứng khó nuốt .",
+    "entities": [
+      {
+        "text": "hội chứng bại liệt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh đa xơ cứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh parkinson",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chứng khó nuốt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "loạn dưỡng cơ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp hạn chế diễn tiến của sốt rét tuyệt đối không tự ý bỏ thuốc hoặc mua thuốc không có trong đơn thuốc của bác sĩ .",
+    "entities": [
+      {
+        "text": "sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc viêm hạch bạch huyết mạc treo ruột nhẹ , không biến chứng và những người do virus gây ra thường tự cải thiện trong vòng vài ngày hoặc vài tuần .",
+    "entities": [
+      {
+        "text": "viêm hạch bạch huyết mạc treo ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "theo ước tính , có khoảng 1/4 phụ nữ trải qua thời kỳ tiền mãn kinh với các triệu chứng trầm cảm , lo âu , mất ngủ , và tính khí thay đổi thất thường .",
+    "entities": [
+      {
+        "text": "tính khí thay đổi thất thường",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiền mãn kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "trầm cảm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mất ngủ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lo âu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ nhãn khoa có thể nhìn thấy một hố võng mạc , rách hoặc bong bằng cách nhìn vào võng mạc với một kính soi đáy mắt - một công cụ với một ánh sáng và thấu kính mạnh cho phép bác sĩ xem bên trong mắt rất chi tiết và trong ba chiều .",
+    "entities": [
+      {
+        "text": "bác sĩ xem bên trong mắt rất chi tiết và trong ba chiều",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "một kính soi đáy mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể xác định các động mạch lớn như động mạch chủ và các nhánh của nó có bị viêm không , giúp xác định loại viêm mạch và đánh giá mức độ viêm mạch ở các cơ quan .",
+    "entities": [
+      {
+        "text": "viêm mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "cũng có thể phát triển các dấu hiệu và triệu chứng tương tự như viêm nắp thanh quản nếu : nuốt một chất hóa học cháy cổ họng .",
+    "entities": [
+      {
+        "text": "viêm nắp thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc đặc biệt dành cho hội chứng ruột kích thích : hai loại thuốc hiện đang được phê duyệt đối với trường hợp hội chứng ruột kích thích cụ thể : alosetron ( lotronex ) .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "alosetron",
+        "type": "THUỐC"
+      },
+      {
+        "text": "lotronex",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải hội chứng brugada một số yếu tố làm tăng nguy cơ mắc hội chứng brugada , bao gồm : sử dụng một số loại thuốc như thuốc chẹn beta , chẹn kênh natri , chống trầm cảm ba vòng , cocain và lithium .",
+    "entities": [
+      {
+        "text": "hội chứng brugada",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh ung thư vòm họng tổng quan bệnh ung thư vòm họng ung thư vòm họng là một trong 10 loại ung thư phổ biến và là ung thư thường gặp nhất trong các bệnh lý ung thư đầu mặt cổ .",
+    "entities": [
+      {
+        "text": "bệnh ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "suy tim do hở van động mạch chủ , viêm cơ tim hoặc động mạch chủ - tình trạng trong đó van động mạch chủ bị tổn thương cho phép máu trở lại vào tim - hoặc kết hợp .",
+    "entities": [
+      {
+        "text": "viêm cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay một phần khớp háng được tiến hành khi khớp háng chỉ hư một phần và sụn đã bị bào mòn thay toàn bộ khớp háng được tiến hành để thay khớp háng nhân tạo , có chức năng tương tự như khớp háng tự nhiên .",
+    "entities": [
+      {
+        "text": "thay một phần khớp háng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "mức cao lipoprotein tỷ trọng thấp ( ldl ) cholesterol , các cholesterol \"xấu\" , có thể làm tăng nguy cơ phát triển chứng mất trí mạch máu đáng kể .",
+    "entities": [
+      {
+        "text": "chứng mất trí mạch máu đáng kể",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp hiếm hoi , đánh trống ngực có thể là dấu hiệu của tình trạng tim nghiêm trọng hơn .",
+    "entities": [
+      {
+        "text": "đánh trống ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sưng tấy và u nang chứa đầy dịch phát triển trong võng mạc ở mặt sau của mắt ( điểm vàng võng mạc ) có thể làm mờ hoặc giảm thị lực trung tâm .",
+    "entities": [
+      {
+        "text": "mờ hoặc giảm thị lực trung tâm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "u nang chứa đầy dịch",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sưng tấy",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các phẫu thuật bao gồm : cắ bỏ u ung thư bàng quang niệu đạo , cắt bỏ bàng quang bán phầ n , cắt bỏ bàng quang triệt để , cắt bỏ các hạch lân cận , cắt bỏ một phần niệu đạo .",
+    "entities": [
+      {
+        "text": "cắ bỏ u ung thư bàng quang niệu đạo",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cắt bỏ bàng quang triệt để",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cắt bỏ bàng quang bán phầ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cắt bỏ một phần niệu đạo",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cắt bỏ các hạch lân cận",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tùy thuộc vào một phần của não bị tổn thương , nó có thể gây ra các dấu hiệu và triệu chứng sa sút trí tuệ như những vấn đề bộ nhớ , phối hợp kém cũng như chấn động , chuyển động chậm và độ cứng cơ parkinsonism .",
+    "entities": [
+      {
+        "text": "độ cứng cơ parkinsonism",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chuyển động chậm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sa sút trí tuệ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vấn đề bộ nhớ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phối hợp kém",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều trị các triệu chứng thuốc chỉ có thể giúp điều trị mệt mỏi thường đi kèm với xơ gan mật là modafinil ( provigil ) .",
+    "entities": [
+      {
+        "text": "xơ gan mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "modafinil",
+        "type": "THUỐC"
+      },
+      {
+        "text": "provigil",
+        "type": "THUỐC"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù căng thẳng không phải là một nguyên nhân gây ra viêm loét dạ dày tá tràng , đó là một yếu tố góp phần .",
+    "entities": [
+      {
+        "text": "viêm loét dạ dày tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "căng thẳng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật chuyên ngành này chỉ được thực hiện tại các cơ sở y tế có nhiều chuyên gia phẫu thuật thai nhi , có các phương pháp tiếp cận chuyên khoa và chăm sóc đặc biệt cho trẻ sơ sinh .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sự giảm lưu lượng này gây ra thiếu máu cục bộ mô dẫn đến tổn thương võng mạc , gây nên bệnh võng mạc tăng huyết áp .",
+    "entities": [
+      {
+        "text": "bệnh võng mạc tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu một trong các giác mạc đã bị hư hỏng từ một chấn thương trong quá khứ , có thể dễ bị viêm giác mạc phát triển .",
+    "entities": [
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chủ đề : hóa trị xạ trị cơ xương khớp ung thư xương ung thư pet/ct xạ hình xương ung thư xương nguyên phát",
+    "entities": [
+      {
+        "text": "ung thư xương",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xạ hình xương",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "pet/ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "trong khi không cho thấy bất kỳ bằng chứng rõ ràng rằng nó có thể giúp những người bị bệnh gan , các phương pháp điều trị là tương đối an toàn khi thảo luận với bác sĩ và sử dụng theo chỉ dẫn .",
+    "entities": [
+      {
+        "text": "bệnh gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những phương pháp điều trị phẫu thuật viễn thị bằng cách định hình lại chính xác độ cong của giác mạc .",
+    "entities": [
+      {
+        "text": "phẫu thuật viễn thị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh thủy đậu việc chẩn đoán bệnh thủy đậu chủ yếu được thực hiện dựa trên các triệu chứng lâm sàng đặc trưng như các nốt bọng nước , đóng vảy .",
+    "entities": [
+      {
+        "text": "bệnh thủy đậu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong quá trình nội soi , bác sĩ cũng có thể lấy luôn mẫu mô để sinh thiết để tìm các biến chứng khác như bệnh barrett thực quản .",
+    "entities": [
+      {
+        "text": "bệnh barrett thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các dấu hiệu và triệu chứng của mất nước bao gồm khô miệng , khát nước dữ dội , đi tiểu ít hoặc không có và suy nhược cùng cực .",
+    "entities": [
+      {
+        "text": "khát nước dữ dội",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khô miệng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiểu ít",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tiêu thụ lượng rượu trung bình đến nặng , nhiều hơn một ly một ngày cho phụ nữ và hai dành cho nam giới có thể làm tăng nguy cơ bị khối u đại tràng và ung thư .",
+    "entities": [
+      {
+        "text": "u đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh ung thư lưỡi triệu chứng lâm sàng : các dấu hiệu khiến bệnh nhân đi khám sẽ là định hướng bước đầu để bác sĩ tiến hành thăm khám lâm sàng , từ đó có được chẩn đoán sơ bộ , trong đó quan trọng nhất là khám lưỡi và khám hạch để phát hiện được các tổn thương .",
+    "entities": [
+      {
+        "text": "bệnh ung thư lưỡi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

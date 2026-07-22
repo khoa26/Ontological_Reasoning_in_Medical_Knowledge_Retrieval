@@ -1,0 +1,367 @@
+[
+  {
+    "text": "một số bệnh lý toàn thân như tăng huyết áp , tiểu đường , xơ vữa động mạch cũng gây tổn thương mạch máu và làm giảm lượng máu nuôi dây thần kinh thị thường gặp ở người lớn tuổi .",
+    "entities": [
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những người có trải nghiệm này nói rằng cảm thấy đau như dùi nóng bị mắc kẹt trong mắt hoặc đang được đẩy ra khỏi ổ . những người bị đau đầu xuất hiện bồn chồn , thích tốc độ hoặc ngồi và lúc lắc để làm dịu cơn đau .",
+    "entities": [
+      {
+        "text": "đau như dùi nóng bị mắc kẹt trong mắt hoặc đang được đẩy ra khỏi ổ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thích tốc độ hoặc ngồi và lúc lắc để làm dịu cơn đau",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đầu xuất hiện bồn chồn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù không có câu trả lời dễ dàng cho đối phó với bệnh ung thư gan , một số đề nghị sau đây có thể được giúp đỡ : tìm hiểu về bệnh ung thư gan .",
+    "entities": [
+      {
+        "text": "bệnh ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu đang quan tâm về lịch sử gia đình mắc bệnh ung thư đại tràng , hãy nói chuyện với bác sĩ về việc lịch sử gia đình cho thấy có nguy cơ của những vấn đề này .",
+    "entities": [
+      {
+        "text": "bệnh ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu những vết rách hay thủng màng nhĩ không tự lành , điều trị sẽ liên quan đến thủ tục để đóng thủng .",
+    "entities": [
+      {
+        "text": "điều trị sẽ liên quan đến thủ tục để đóng thủng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tình trạng tê buốt tăng dần theo mức độ của tình trạng thiểu sản men răng , ban đầu có thể chỉ là những cơn tê buốt nhẹ , sau tăng dần thành những cơn tê buốt kéo dài , ảnh hưởng đến chất lượng cuộc sống người bệnh .",
+    "entities": [
+      {
+        "text": "thiểu sản men răng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điện tâm đồ ( ecg ) : không giúp chẩn đoán xác định , nhưng nếu điện tâm đồ bất thường , nhất là khi có các dấu hiệu nhồi máu cơ tim cũ , tăng gánh thất trái , block nhánh trái , hoặc rối loạn nhịp như rung nhĩ nhanh , càng nên nghĩ nhiều đến chẩn đoán suy tim , đồng thời , có thể giúp xác định căn nguyên gây suy tim .",
+    "entities": [
+      {
+        "text": "tăng gánh thất trái",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "block nhánh trái",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rối loạn nhịp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh động mạch ngoại biên là một bệnh lý phổ biến trong đó các động mạch nuôi các chi của cơ thể bị hẹp/tắc nghẽn làm giảm lưu lượng máu đến các chi .",
+    "entities": [
+      {
+        "text": "bệnh động mạch ngoại biên",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số trẻ em phát triển một bệnh nhiễm trùng đường hô hấp trên trước hoặc trong khi viêm hạch bạch huyết mạc treo ruột , và các chuyên gia suy đoán rằng có thể có liên kết .",
+    "entities": [
+      {
+        "text": "bệnh nhiễm trùng đường hô hấp trên",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm hạch bạch huyết mạc treo ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . các biện pháp điều trị bệnh thuyên tắc phổi điều trị hồi sức cấp cứu : hồi sức hô hấp : thở oxy qua mũi hoặc mặt nạ : để đảm bảo spo2 &gt; 90% .",
+    "entities": [
+      {
+        "text": "bệnh thuyên tắc phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp , họ có thể sử dụng một quả bóng bơm hơi nhỏ để giữ cho mạch máu mở trong khi loại bỏ cục máu đông .",
+    "entities": []
+  },
+  {
+    "text": "các dấu hiệu và triệu chứng của chứng mất trí này có thể bao gồm các hành vi xã hội không thích hợp , mất tính linh hoạt về tinh thần , vấn đề ngôn ngữ và khó khăn với tư duy và tập trung , thường xuất hiện trong độ tuổi từ 40 và 65. các rối loạn khác liên quan đến chứng mất trí bệnh huntington .",
+    "entities": [
+      {
+        "text": "mất tính linh hoạt về tinh thần , vấn đề ngôn ngữ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó khăn với tư duy và tập trung",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hành vi xã hội không thích hợp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chứng mất trí bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thủ thuật khác để tránh viêm họng bao gồm : ở trong nhà càng nhiều càng tốt vào những ngày ô nhiễm cao .",
+    "entities": [
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thoát vị não hay còn được gọi với tên đầy đủ là thoát vị não màng não là tình trạng một phần tổ chức não và dịch não tủy bị thoát ra khỏi xương sọ , tạo thành một túi thoát vị ở bên ngoài hộp sọ .",
+    "entities": [
+      {
+        "text": "thoát vị não màng não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu không chữa trị , hoặc nếu nhiễm trùng nặng , viêm giác mạc có thể dẫn đến biến chứng nghiêm trọng có thể gây tổn hại vĩnh viễn tầm nhìn .",
+    "entities": [
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có hai dạng tinh hoàn ẩn : tinh hoàn ẩn sờ thấy : sờ được tinh hoàn ở ống bẹn , tinh hoàn lò xo .",
+    "entities": [
+      {
+        "text": "tinh hoàn ẩn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đôi khi có thể chỉ định ct scan , một kỹ thuật x quang đặc biệt cung cấp chi tiết hơn x quang tiêu chuẩn .",
+    "entities": [
+      {
+        "text": "ct scan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "x quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "khám sẽ bao gồm một nỗ lực để xác định có thể nhìn thấy ( hình ảnh sắc sảo ) , thường sử dụng biểu đồ mắt tiêu chuẩn .",
+    "entities": [
+      {
+        "text": "sử dụng biểu đồ mắt tiêu chuẩn",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "cuối cùng , x quang chụp hoặc mẫu mô tế bào ( sinh thiết ) có thể được thu thập trong quá trình ercp .",
+    "entities": [
+      {
+        "text": "mẫu mô tế bào",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "x quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ercp",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thay vì tạo một vạt ở giác mạc , bác sĩ phẫu thuật tạo ra một nắp liên quan đến chỉ bao gồm của giác mạc mỏng bảo vệ ( biểu mô ) .",
+    "entities": [
+      {
+        "text": "tạo một vạt ở giác mạc",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bác sĩ phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán nếu bác sỹ nghi ngờ viêm nắp thanh quản , ưu tiên đầu tiên là để đảm bảo rằng đường thở của trẻ đang mở và có đủ oxy là nhận được thông qua .",
+    "entities": [
+      {
+        "text": "viêm nắp thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc chỉ có thể được chỉ định bởi các bác sĩ ghi danh vào một chương trình đặc biệt và dành cho những trường hợp hội chứng ruột kích thích nặng , tiêu chảy chiếm ưu thế ở những phụ nữ không đáp ứng điều trị khác .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cần phải dùng kháng sinh trước khi làm thủ tục nha khoa và phẫu thuật khác để ngăn ngừa nhiễm trùng .",
+    "entities": [
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nó cũng rất thành công ở trẻ sơ sinh và trẻ mới biết đi với ống dẫn nước mắt bị tật bẩm sinh , mặc dù nó thường được sử dụng sau khi phương pháp trị liệu khác đã được thử .",
+    "entities": [
+      {
+        "text": "ống dẫn nước mắt bị tật bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phương pháp trị liệu khác",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh u máu u máu có thể xuất hiện ngay sau sinh , nhưng phổ biến nhất vẫn là trong khoảng thời gian vài tháng đầu đời .",
+    "entities": [
+      {
+        "text": "bệnh u máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết các dấu hiệu và triệu chứng của viêm thực quản có thể được gây ra bởi một số vấn đề khác nhau ảnh hưởng đến hệ tiêu hóa .",
+    "entities": [
+      {
+        "text": "viêm thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể xét nghiệm máu tìm các protein cụ thể ( đánh dấu khối u ) từ các tế bào ung thư tuyến tụy .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các thuốc khác có chứa nsaids là alka - seltzer và subsalicylate bitmut ( pepxo - bismol , những loại khác ) .",
+    "entities": [
+      {
+        "text": "subsalicylate bitmut",
+        "type": "THUỐC"
+      },
+      {
+        "text": "alka - seltzer",
+        "type": "THUỐC"
+      },
+      {
+        "text": "pepxo - bismol",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nsaids",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các trường hợp di căn hạch , sau vét hạch cần xạ trị bổ trợ với liều xạ khoảng 55 - 60 gy .",
+    "entities": [
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù chưa được hiểu rõ , trầm cảm vào cuối cuộc đời , đặc biệt là ở nam giới có thể là một dấu hiệu cho sự phát triển của chứng mất trí alzheimer .",
+    "entities": [
+      {
+        "text": "chứng mất trí alzheimer",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "trầm cảm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

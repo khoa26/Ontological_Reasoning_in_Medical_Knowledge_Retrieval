@@ -1,0 +1,410 @@
+[
+  {
+    "text": "bác sĩ phẫu thuật sau đó sử dụng laser excimer để loại bỏ các lớp bên trong của giác mạc để lên hình mái vòm của nó .",
+    "entities": [
+      {
+        "text": "laser excimer",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "khi đó , vùng u phồng có thể sưng đau kèm theo cơn đau quặn bụng dữ dội , bụng trướng , táo bón , trẻ có thể buồn nôn hoặc nôn và quấy khóc dữ dội ngoài ra , trẻ có thể có các biểu hiện của một số bệnh khác ở vùng bẹn - bìu như : xoắn tinh hoàn , tràn dịch màng tinh hoàn , viêm tấy vùng ống bẹn bìu , viêm tinh hoàn , … đối tượng nguy cơ bệnh thoát vị bẹn trẻ em thoát vị bẹn là một bệnh lý khá phổ biến ở trẻ em , chiếm khoảng 0,8 - 4,4% bệnh lý ở trẻ em ở cả hai giới .",
+    "entities": [
+      {
+        "text": "viêm tấy vùng ống bẹn bìu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cơn đau quặn bụng dữ dội",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tràn dịch màng tinh hoàn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "quấy khóc dữ dội",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xoắn tinh hoàn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm tinh hoàn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thoát vị bẹn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bụng trướng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sưng đau",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải hội chứng qt kéo dài có rất nhiều yếu tố có thể tăng nguy cơ mắc bệnh này , như : trẻ em , trẻ vị thành niên , người trẻ tuổi bị ngất , gần chết đuối hoặc tai nạn , co giật không rõ nguyên nhân hoặc có tiền sử ngưng tim có thể dẫn đến tử vong; gia đình , họ hàng có người mắc hội chứng qt kéo dài ; ảnh hưởng bởi tác dụng phụ của một số loại thuốc .",
+    "entities": [
+      {
+        "text": "hội chứng qt kéo dài",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp có thể sử dụng đến phương pháp cấy chỉ giúp cải thiện được tầm nhìn , tăng cường thị lực cho người bệnh teo dây thần kinh thị giác .",
+    "entities": [
+      {
+        "text": "bệnh teo dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , một số những người bị rung nhĩ không có bất kỳ khuyết tật hoặc tổn thương tim , tình trạng gọi là rung nhĩ đơn độc .",
+    "entities": [
+      {
+        "text": "rung nhĩ đơn độc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù bệnh sốt rét rất nguy hiểm , các loài ký sinh trùng chỉ tồn tại trong cơ thể của muỗi và trong máu người , không không tồn tại được ở môi trường bên ngoài .",
+    "entities": [
+      {
+        "text": "bệnh sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với thủ tục này , bác sĩ sử dụng một ống mỏng linh hoạt với một ánh sáng để khám phá đoạn xoang .",
+    "entities": [
+      {
+        "text": "bác sĩ sử dụng một ống mỏng linh hoạt với một ánh sáng để khám phá đoạn xoang",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "xạ trị có thể đến từ một máy bên ngoài cơ thể , hoặc trong trường hợp rất hiếm , bức xạ có thể được đặt bên trong cơ thể gần với khối u não .",
+    "entities": [
+      {
+        "text": "khối u não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục có bệnh huntington , một số thách thức đòi hỏi sự chú ý hàng ngày hoặc thường xuyên .",
+    "entities": [
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "rung nhĩ gây ảnh hưởng huyết động liên quan đến tần số đáp ứng thất bất thường ( quá nhanh hoặc quá chậm ) và sự mất sự đồng bộ giữa nhĩ và thất .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các bác sĩ thường chỉ định sự kết hợp các loại thuốc , với hy vọng chiến lược này sẽ giúp diệt trừ được h . pylori do phát triển khả năng kháng thuốc đặc biệt .",
+    "entities": []
+  },
+  {
+    "text": "tìm hiểu đủ về bệnh ung thư của bạn để cảm thấy thoải mái khi đưa ra quyết định về việc điều trị và chăm sóc của bạn .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay vào đó , nó mô tả một nhóm các triệu chứng ảnh hưởng đến khả năng trí tuệ và xã hội nghiêm trọng , đủ để can thiệp vào hoạt động hàng ngày .",
+    "entities": [
+      {
+        "text": "triệu chứng ảnh hưởng đến khả năng trí tuệ và xã hội",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "giai đoạn đầu trong giai đoạn đầu của ung thư lưỡi , bệnh nhân có thể không có triệu chứng hoặc triệu chứng rất nghèo nàn .",
+    "entities": [
+      {
+        "text": "ung thư lưỡi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , không giống như viêm ruột thừa , hiếm khi viêm hạch bạch huyết mạc treo ruột nghiêm trọng và tự cải thiện trong một vài ngày hoặc vài tuần .",
+    "entities": [
+      {
+        "text": "viêm hạch bạch huyết mạc treo ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm ruột thừa",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , quai bị còn có thể gây ra các biến chứng khác hiếm gặp : viêm cơ tim , viêm tuyến giáp , viêm tuyến lệ , viêm thần kinh thị giác ( gây giảm thị lực tạm thời ) , viêm thanh khí phế quản , viêm phổi , rối loạn chức năng gan , xuất huyết do giảm tiểu cầu .",
+    "entities": [
+      {
+        "text": "viêm thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm thanh khí phế quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm tuyến giáp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm tuyến lệ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xuất huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "quai bị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị ngoại khoa phẫu thuật nội soi hoặc phẫu thuật mổ mở tùy từng trường hợp cụ thể loại bỏ khối chửa , cắt bỏ vòi trứng , khâu cầm máu theo dõi thoái triển tự nhiên cân nhắc kĩ , kiểm tra thường xuyên chuyển mổ nếu sau 1 thời gian theo dõi không có kết quả .",
+    "entities": [
+      {
+        "text": "điều trị ngoại khoa phẫu thuật nội soi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật mổ mở",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "steroid , thuốc dùng để điều trị viêm dây thần kinh thị giác ức chế hệ thống miễn dịch , nguyên nhân cơ thể trở nên dễ bị nhiễm trùng .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ức chế hệ thống miễn dịch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc dùng để điều trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "steroid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thuốc kháng siêu vi có thể là một lựa chọn nếu bác sĩ xác định virus viêm kết mạc là virus herpes simplex .",
+    "entities": [
+      {
+        "text": "thuốc kháng siêu vi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "làm chậm hay hạn chế tiến triển tăng áp động mạch phổi , suy tim … bằng thuốc lợi tiểu , dãn mạch , chế độ sinh hoạt nghỉ ngơi thích hơp .",
+    "entities": [
+      {
+        "text": "tăng áp động mạch phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc lợi tiểu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "dãn mạch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thừa hưởng di truyền ung thư đại tràng bao gồm : lịch sử gia đình polyp u tuyến ( fap ) .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "polyp u tuyến",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "fap",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đó là nguyên nhân gây chảy máu trở nên mạnh hơn và đôi khi hỗn loạn , làm cho tai phát hiện các nhịp đập .",
+    "entities": []
+  },
+  {
+    "text": "tránh chảy nước mũi là rất quan trọng khi có vách ngăn lệch vì chất nhờn có thể trở thành chặn tại đoạn mũi hẹp , gây khó chịu , nhỏ giọt mũi sau hay cuối cùng nhiễm trùng xoang .",
+    "entities": [
+      {
+        "text": "nhiễm trùng xoang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhỏ giọt mũi sau",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "vách ngăn lệch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy nước mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh thông liên thất còn ảnh hưởng đến việc học tập , sinh hoạt của trẻ và có thể ảnh hưởng đến kinh tế , tinh thần và các sinh hoạt cuộc sống hằng ngày của phụ huynh hay gia đình của bệnh nhi .",
+    "entities": [
+      {
+        "text": "bệnh thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm vòm họng có nhiều khả năng đóng một vai trò trong bệnh nhiễm trùng tai ở trẻ em vì trẻ em có nhiều hoạt động và vòm họng tương đối lớn hơn .",
+    "entities": [
+      {
+        "text": "bệnh nhiễm trùng tai",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đau nhức đầu do tập thể dục tiên phát thường vô hại , không được kết nối với bất kỳ vấn đề cơ bản và thường có thể được ngăn ngừa bằng thuốc .",
+    "entities": [
+      {
+        "text": "đau nhức đầu do tập thể dục tiên phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trị liệu nghề nghiệp có thể đề xuất một số thiết bị thích để giảm bớt ảnh hưởng của run trong các hoạt động hàng ngày .",
+    "entities": [
+      {
+        "text": "trị liệu nghề nghiệp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "run",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cấu tạo và chức năng của ruột non chủ đề : hóa trị xạ trị ung thư ung thư ruột non ruột non tiêu hóa ruột",
+    "entities": [
+      {
+        "text": "ung thư ruột non",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu phát triển tầm nhìn thay đổi đột ngột , chẳng hạn như tầm nhìn đôi hoặc vết mờ , gặp bác sĩ ngay .",
+    "entities": [
+      {
+        "text": "tầm nhìn đôi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "vết mờ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tiền mãn kinh ( perimenopause ) là thuật ngữ y học chỉ giai đoạn xảy ra từ khi hoạt động của buồng trứng giảm và xuất hiện những biểu hiện lâm sàng đầu tiên của mãn kinh đến khi mãn kinh hoàn toàn , đánh dấu sự kết thúc của thời kỳ có thể sinh đẻ .",
+    "entities": [
+      {
+        "text": "tiền mãn kinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

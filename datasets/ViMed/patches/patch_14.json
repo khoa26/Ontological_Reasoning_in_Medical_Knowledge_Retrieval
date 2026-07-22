@@ -1,0 +1,399 @@
+[
+  {
+    "text": "nhưng , nếu nhận thấy bất kỳ v ấn đề với tầm nhìn tiến triển , một cuộc hẹn với bác sĩ mắt càng sớm càng tốt , ngay cả khi đã gần đây đã có kiểm tra mắt .",
+    "entities": [
+      {
+        "text": "ấn đề với tầm nhìn tiến triển",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một nguyên nhân phổ biến của viêm mống mắt cấp tính ở các nước phương tây , điều kiện này cũng là đặc trưng bởi các vấn đề chung , lở loét miệng và các tổn thương bộ phận sinh dục .",
+    "entities": [
+      {
+        "text": "viêm mống mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khởi động trước khi tập luyện căng thẳng cũng có thể giúp ngăn ngừa đau nhức đầu do tập thể dục .",
+    "entities": [
+      {
+        "text": "khởi động trước khi tập luyện căng thẳng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau nhức đầu do tập thể dục",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "dùng nó ở dạng viên hoặc sử dụng nó trong các hình thức của thuốc xổ hoặc thuốc đạn phụ thuộc vào một phần của ruột già bị ảnh hưởng .",
+    "entities": [
+      {
+        "text": "thuốc đạn",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc xổ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh ung thư hậu môn triệu chứng ung thư hậu môn giai đoạn đầu thường không rõ ràng và không đặc hiệu .",
+    "entities": [
+      {
+        "text": "bệnh ung thư hậu môn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "dạy kèm cho trẻ em tuổi đi học có thể giúp trẻ em đối phó với những thay đổi bộ nhớ của mình và suy nghĩ sau khi bị khối u não .",
+    "entities": [
+      {
+        "text": "khối u não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa rối loạn nhịp tim hiệu quả để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : nếu bạn có nguy cơ cao bị rối loạn nhịp tim , bác sĩ có thể yêu cầu bạn thực hiện một số bước để giúp ngăn ngừa chúng .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hóa chất toàn thân : hóa trị trước phẫu thuật được chỉ định đối với ung thư da có độ ác tính mô học cao .",
+    "entities": [
+      {
+        "text": "hóa chất toàn thân",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư da",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bệnh viện vinmec : cứu sống trẻ sơ sinh bị thoát vị cơ hoành rất nặng phẫu thuật nội soi điều trị thoát vị bẹn cho trẻ em tại vinmec có gì đặc biệt ?",
+    "entities": [
+      {
+        "text": "phẫu thuật nội soi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thoát vị cơ hoành",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tái phát sau phẫu thuật ung thư da tế bào vảy hoặc tuyến phụ thuộc da thường có tiên lượng xấu do bệnh ác tính cao .",
+    "entities": [
+      {
+        "text": "ung thư da tế bào vảy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh tắc ống dẫn trứng không dễ để chẩn đoán xác định tình trạng tắc ống dẫn trứng .",
+    "entities": [
+      {
+        "text": "bệnh tắc ống dẫn trứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tích tụ dịch nặng hơn có thể đòi hỏi thủ tục để tháo dịch hoặc phẫu thuậ t để làm giảm áp lực .",
+    "entities": [
+      {
+        "text": "tích tụ dịch",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phẫu thuậ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "dấu hiệu rõ ràng nhất của quai bị là tình trạng sưng phồng 2 má và đau tuyến mang tai ( nằm dưới 2 hàm , phía trước tai ) .",
+    "entities": [
+      {
+        "text": "đau tuyến mang tai",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sưng phồng 2 má",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "quai bị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm buồng trứng ở bé gái : biến chứng viêm buồng trứng sẽ có biểu hiện đau bụng nhiều , cần đưa bé đến bệnh viện để được siêu âm , chẩn đoán chính xác và điều trị kịp thời .",
+    "entities": [
+      {
+        "text": "viêm buồng trứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tăng huyết áp , đặc biệt là nếu nó không được kiểm soát tốt với thay đổi lối sống hoặc các loại thuốc , có thể làm tăng nguy cơ bị rung nhĩ .",
+    "entities": [
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng lâu dài thuốc nhỏ mũi hoặc thuốc xịt thông mũi sử dụng các toa thuốc nhỏ mũi hoặc thuốc xịt thông mũi ( afrin , dristan , … ) trong hơn một vài ngày thực sự có thể gây ra nghẹt mũi nặng hơn khi hết tác dụng thông mũi , thường được gọi là phục hồi tình trạng tắc nghẽn .",
+    "entities": [
+      {
+        "text": "nghẹt mũi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh ung thư tuyến nước bọt người khỏe mạnh nên tránh một số yếu tố nguy cơ có thể phòng ngừa được như thuốc lá , sử dụng rượu bia quá mức và chế độ ăn uống không lành mạnh .",
+    "entities": [
+      {
+        "text": "bệnh ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu ai đó trong gia đình bị thoái hóa điểm vàng , tỷ lệ phát triển thoái hóa điểm vàng cao hơn .",
+    "entities": [
+      {
+        "text": "thoái hóa điểm vàng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc có tác dụng chuyển nhịp rung nhĩ về nhịp xoang bao gồm : nhóm ia ( procainamide , quinidine , disopyramide ) , ic ( flecainide , propafenone ) và nhóm iii ( amiodarone , dofetilide , dronedaron , ibutilide , sotalol ) xem bảng : thuốc chống loạn nhịp ( phân loại vaughan williams ) .",
+    "entities": [
+      {
+        "text": "thuốc chống loạn nhịp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "vaughan williams",
+        "type": "THUỐC"
+      },
+      {
+        "text": "procainamide",
+        "type": "THUỐC"
+      },
+      {
+        "text": "disopyramide",
+        "type": "THUỐC"
+      },
+      {
+        "text": "propafenone",
+        "type": "THUỐC"
+      },
+      {
+        "text": "flecainide",
+        "type": "THUỐC"
+      },
+      {
+        "text": "amiodarone",
+        "type": "THUỐC"
+      },
+      {
+        "text": "dofetilide",
+        "type": "THUỐC"
+      },
+      {
+        "text": "dronedaron",
+        "type": "THUỐC"
+      },
+      {
+        "text": "quinidine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ibutilide",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhóm ia",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sotalol",
+        "type": "THUỐC"
+      },
+      {
+        "text": "iii",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ic",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phân mẫu có thể được kiểm tra trong phòng thí nghiệm để xác định vi khuẩn gây tiêu chảy liên quan đến kháng sinh .",
+    "entities": [
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể không thích , nhưng quầng thâm dưới mắt thường là vô hại và không đòi hỏi chăm sóc y tế .",
+    "entities": [
+      {
+        "text": "quầng thâm dưới mắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "run so với bệnh parkinson nhiều người liên tưởng run với bệnh parkinson , nhưng hai vấn đề khác nhau : khi run xảy ra .",
+    "entities": [
+      {
+        "text": "bệnh parkinson",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "run",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể nghi ngờ bệnh bạch hầu khi gặp trẻ bị viêm họng kèm giả mạc xám bao phủ amidan và cổ họng . . triệu chứng thường gặp những dấu hiệu và triệu chứng của bệnh bạch hầu thời gian ủ bệnh thường từ 2 - 5 ngày và lúc này người bệnh không có triệu chứng lâm sàng .",
+    "entities": [
+      {
+        "text": "bệnh bạch hầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán nguyên nhân bệnh van tim bác sĩ sẽ tiến hành khám sức khỏe và lắng nghe tiếng thổi của tim .",
+    "entities": [
+      {
+        "text": "bệnh van tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiếng thổi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán các xét nghiệm và thủ tục được sử dụng để chẩn đoán bong võng mạc , bao gồm : sử dụng ánh sáng và thấu kính đặc biệt để xem bên trong mắt .",
+    "entities": [
+      {
+        "text": "sử dụng ánh sáng và thấu kính đặc biệt để xem bên trong mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bong võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không hút thuốc lá , uống rượu bia khám sức khỏe định kỳ các biện pháp chẩn đoán bệnh ung thư dạ dày chẩn đoán ung thư dạ dày dựa vào các dấu hiệu lâm sàng và cận lâm sàng .",
+    "entities": [
+      {
+        "text": "bệnh ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể làm tăng tính nhạy cảm nhiễm trùng , cũng như nguy cơ phát triển khối u nút bạch huyết ( lymphoma ) và ung thư da .",
+    "entities": [
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư da",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : ung thư tuyến nước bọt : nguyên nhân , triệu chứng , chẩn đoán và điều trị viêm tuyến nước bọt : nguyên nhân , triệu chứng , chẩn đoán và điều trị tuyến nước bọt hoạt động thế nào ?",
+    "entities": [
+      {
+        "text": "ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra còn có thuốc đối vận dopamine làm giảm bài tiết sữa gây ra loạn thần , một số thuốc giảm cân ảnh hưởng đến chế độ ăn có tác dụng giống thần kinh giao cảm và có thể gây ra triệu chứng loạn thần .5 nguyên nhân gây trầm cảm sau sinh - nhận biết sớm để điều trị kịp thời triệu chứng bệnh trầm cảm sau sinh các dấu hiệu bệnh trầm cảm sau sinh có thể tồn tại tại một thời điểm nhất định trong ngày hoặc tồn tại dai dẳng cả ngày kéo dài trong một thời gian dài .",
+    "entities": [
+      {
+        "text": "bệnh trầm cảm sau sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "dị tật động tĩnh mạch não ( avm ) , kết nối bất thường giữa các động mạch và tĩnh mạch trong não làm gián đoạn dòng chảy bình thường của máu giữa chúng .",
+    "entities": []
+  }
+]

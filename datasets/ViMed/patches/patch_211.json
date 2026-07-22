@@ -1,0 +1,448 @@
+[
+  {
+    "text": "mức độ cải thiện có thể mong đợi bằng phẫu thuật phụ thuộc vào mức độ nghiêm trọng của sự sai lệch .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trẻ em được chăm sóc ở những nhóm có nhiều khả năng có được cảm lạnh và viêm tai hơn so với những trẻ em ở nhà , bởi vì tiếp xúc với bệnh nhiễm trùng nhiều hơn , chẳng hạn như cảm lạnh thông thường .",
+    "entities": [
+      {
+        "text": "cảm lạnh thông thường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu kháng sinh không hiệu quả , bác sĩ có thể đề nghị phẫu thuật , mặc dù điều trị này hiếm khi cần thiết cho những người bị viêm đại tràng màng giả .",
+    "entities": [
+      {
+        "text": "viêm đại tràng màng giả",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hóa trị hiện không được sử dụng như một phương pháp điều trị tiêu chuẩn cho bệnh ung thư tuyến nước bọt , nhưng các nhà nghiên cứu đang nghiên cứu sử dụng nó .",
+    "entities": [
+      {
+        "text": "bệnh ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân thoái hóa võng mạc thường gặp là các bệnh lý toàn thân như đái tháo đường hoặc tăng huyết áp .",
+    "entities": [
+      {
+        "text": "thoái hóa võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh có pha cấp tính viêm nhiều thanh mạc , viêm màng hoạt dịch , gây sốt và gây ra nhiều các tổn thương trong tim .",
+    "entities": [
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "những loại thuốc tiêm được sử dụng để ngăn ngừa hoặc trì hoãn sự phát triển của bệnh đa xơ cứng ở những người bị viêm dây thần kinh thị giác , người có hai hay nhiều tổn thương não bằng chứng về mri quét .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mri quét",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "duy trì nhịp tim bình thường sau khi khử rung tim bằng điện , thuốc chống loạn nhịp tim thường được chỉ định để giúp ngăn chặn các cơn rung nhĩ trong tương lai .",
+    "entities": [
+      {
+        "text": "khử rung tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều này có nghĩa rằng những người bị xơ gan đường mật nhẹ và những người có bệnh nghiêm trọng hơn có thể mệt mỏi như nhau .",
+    "entities": [
+      {
+        "text": "xơ gan đường mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nhìn chung , đa số các hướng dẫn trên thế giới quy định rằng : cao huyết áp được định nghĩa khi huyết áp tâm thu lúc nghỉ ≥ 130mmhg hoặc huyết áp tâm trương lúc nghỉ ≥ 80mmhg hoặc cả hai .",
+    "entities": [
+      {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sự phì đại các nang bạch huyết trong thành ruột thừa chiếm 60% nguyên nhân , do đó khi bị các bệnh viêm nhiễm hầu họng , tiêu hóa , nên điều trị tích cực ngay .",
+    "entities": [
+      {
+        "text": "bệnh viêm nhiễm hầu họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiêu hóa",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số nguyên nhân gây u trung thất ở người lớn : trung thất trước : phình mạch , u mạch , bướu giáp ( bướu cổ ) , u mỡ , lymphoma , u cận giáp , nang ngoài tim , u quái , u tuyến ức … trung thất giữa : nang phế quản , u phế quản , lymphoma , nang màng ngoài tim phổi … trung thất sau : phình mạch , u phế quản , nang ruột , u thực quản , u thần kinh … nguy cơ mắc phải những ai có nguy cơ gặp u trung thất ?",
+    "entities": [
+      {
+        "text": "nang màng ngoài tim phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nang phế quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u trung thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u thần kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u cận giáp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u tuyến ức",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u phế quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bướu giáp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lymphoma",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u quái",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u mỡ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh thống kinh hiện nay , người ta chia thống kinh gồm 2 dạng với các nguyên nhân khác nhau : thống kinh vô căn hay còn gọi là thống kinh nguyên phát : nguyên nhân do căng thẳng ở các lần hành kinh đầu tiên của tuổi dậy thì , khi chưa hiểu rõ về hành kinh dẫn tới hiện tượng thống kinh với các mức độ khác nhau .",
+    "entities": [
+      {
+        "text": "thống kinh nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thống kinh vô căn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nguyên nhân",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thông liên thất lỗ lớn : dấu hiệu lâm sàng gặp ở dạng này thường là trẻ chậm lớn có biến dạng lồng ngực ( nhanh hơn ở trẻ em có hội chứng down ) , ăn hoặc bú kém , đổ nhiều mồ hôi khi ăn hay bú , thở nhanh , thở khó khi gắng sức , viêm phổi tái phát .",
+    "entities": [
+      {
+        "text": "thông liên thất lỗ lớn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đổ nhiều mồ hôi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hội chứng down",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thở nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thở khó",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bú kém",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ăn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng túi mật có dấu hiệu ung thư và các triệu chứng có thể bao gồm : đau bụng , đặc biệt ở phần trên bên phải của bụng .",
+    "entities": [
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đây là một hình thức không xâm lấn của chụp động mạch kết hợp phân tích trên máy vi tính của hình ảnh x quang , với việc sử dụng thuốc nhuộm tương phản để cho phép bác sĩ kiểm tra cấu trúc của động mạch chủ , các nhánh gần của nó , và theo dõi lưu lượng máu .",
+    "entities": [
+      {
+        "text": "chụp động mạch",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "x quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán sa sút trí tuệ , mất trí nhớ và các triệu chứng mất trí khác có nhiều nguyên nhân , do đó chẩn đoán có thể là thử thách và có thể đòi hỏi gặp vài bác sĩ .",
+    "entities": [
+      {
+        "text": "triệu chứng mất trí khác",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sa sút trí tuệ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mất trí nhớ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "là một phần của thử nghiệm , n gồi trong phòng cách âm đeo tai nghe thông qua đó sẽ được phát âm cụ thể vào tai tại một thời điểm .",
+    "entities": [
+      {
+        "text": "gồi trong phòng cách âm đeo tai nghe thông qua đó sẽ được phát âm cụ thể vào tai tại một thời điểm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "viêm xơ đường mật xảy ra thường xuyên hơn ở những người bị một số bệnh khác , đặc biệt là bệnh viêm ruột .",
+    "entities": [
+      {
+        "text": "viêm xơ đường mật",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với triệu chứng phù bạch huyết , có thể sử dụng một số biện pháp can thiệp để tái phân bố dịch .",
+    "entities": [
+      {
+        "text": "phù bạch huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một tình trạng tự miễn dịch : mắc một tình trạng như viêm khớp dạng thấp hoặc lupus có thể làm tăng nguy cơ đau tim .",
+    "entities": [
+      {
+        "text": "viêm khớp dạng thấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lupus",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong nội soi , ống được trang bị một máy ảnh được truyền qua miệng và xuống cổ họng nhìn thẳng vào thực quản .",
+    "entities": [
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa khối u não là một khối tụ hội hoặc sự tăng trưởng của các tế bào bất thường trong não .",
+    "entities": [
+      {
+        "text": "khối u não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đột quỵ là một trường hợp nguy hiểm , cần được cấp cứu ngay vì mô não bắt đầu chết chỉ trong vòng vài phút sau đột quỵ .",
+    "entities": [
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật ung thư thực quản mang một nguy cơ biến chứng nghiêm trọng , chẳng hạn như chảy máu , nhiễm trùng và rò rỉ từ các khu vực .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong xét nghiệm này , thuốc nhuộm được tiêm vào tĩnh mạch của bàn tay hoặc cánh tay và chụp cắt lớp ct scanner ngực được thực hiện để tìm huyết khối trong phổi xạ hình thông khí tưới máu : phát hiện bất tương hợp thông khí tưới máu .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp ct scanner ngực",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xạ hình thông khí tưới máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "thông khí tưới máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa bệnh tim mạch hiệu quả để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : từ bỏ thói quen hút thuốc và hạn chế rượu bia .",
+    "entities": [
+      {
+        "text": "bệnh tim mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay vào đó , là một dấu hiệu của một vấn đề cơ bản , chẳng hạn như bệnh gan , suy tim sung huyết hoặc ung thư .",
+    "entities": [
+      {
+        "text": "suy tim sung huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nội soi dạ dày : đưa ống soi vào dạ dày qua thực quản giúp quan sát trực tiếp tổn thương và các tính chất : vị trí , kích thước , hình dạng , mức độ xâm lấn .",
+    "entities": [
+      {
+        "text": "nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "gây nhồi máu : do mảnh cục sùi nhồi máu não thận và các chi , do viêm nội tâm mạc tạo điều kiện cho viêm nội tâm mạc nhiễm trùng cấp và bán cấp tính do liên cầu khuẩn .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc nhiễm trùng cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhồi máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

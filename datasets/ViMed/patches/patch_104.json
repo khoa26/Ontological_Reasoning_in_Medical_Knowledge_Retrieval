@@ -1,0 +1,380 @@
+[
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của rung nhĩ chế độ sinh hoạt : tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể tìm cứu trợ với phương pháp điều trị bổ sung và thay thế đã chỉ ra một số lợi ích cho mệt mỏi , như : tập thể dục , chẳng hạn như đi bộ 30 phút hầu hết các ngày trong tuần .",
+    "entities": [
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ung thư dương vật thường là ung thư phát triển từ lớp biểu mô của niêm mạc quy đầu , bao quy đầu .",
+    "entities": [
+      {
+        "text": "ung thư dương vật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hồi sức tim nếu ngừng tim bằng adrenalin truyền máu và các chế phẩm của máu nếu kết quả đông máu không tốt kèm chảy máu dữ dội : truyền máu toàn phần hay khối hồng cầu và huyết tương , … theo dõi bằng monitor về mặt sản khoa cho sinh ngay tùy từng trường hợp cụ thể để có chỉ định phù hợp .",
+    "entities": [
+      {
+        "text": "chảy máu dữ dội",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "lịch tiêm phòng uốn ván chi tiết cho bà bầu mang thai lần đầu , lần 2 trở lên chủ đề : nhi uốn ván mang thai bệnh truyền nhiễm tiêm phòng khi mang thai thai sản vắc xin uốn ván",
+    "entities": [
+      {
+        "text": "uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuật ngữ y khoa gọi là đau cách hồi ngắt quãng vì bệnh nhân thường cho biết khi đi một đoạn đường ngắn phải dừng lại để nghỉ ngơi giảm đau và sau đó mới tiếp tục đi tiếp .",
+    "entities": [
+      {
+        "text": "đau cách hồi ngắt quãng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết mọi người mất ý thức trong vòng vài giây và ngay lập tức yêu cầu trợ giúp y tế , bao gồm cả hồi sức tim phổi ( cpr ) .",
+    "entities": [
+      {
+        "text": "hồi sức tim phổi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "mất ý thức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cpr",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "chán ăn : người bệnh cảm thấy khó chịu , miệng đắng , chán ăn là những dấu hiệu chung của nhiễm trùng đường ruột cũng như các loại nhiễm trùng đường tiêu hóa khác .",
+    "entities": [
+      {
+        "text": "nhiễm trùng đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "miệng đắng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thiểu sản men răng là một tình trạng thường gặp ở cả người lớn và trẻ em , bệnh có nhiều mức độ khác nhau .",
+    "entities": [
+      {
+        "text": "thiểu sản men răng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có nhiều dạng cơn đau thắt ngực khác nhau theo thuật ngữ y khoa : cơn đau thắt ngực ổn định ( hiện nay được gọi là hội chứng mạch vành mạn ) : là dạng đau thắt ngực phổ biến nhất .",
+    "entities": [
+      {
+        "text": "cơn đau thắt ngực ổn định",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hội chứng mạch vành mạn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đó là chung cho các mức độ nghiêm trọng của các phản ứng sốt cỏ khô để thay đổi qua nhiều năm .",
+    "entities": [
+      {
+        "text": "sốt cỏ khô",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các phương pháp điều trị này bao gồm : điều trị nội khoa , điều trị ngoại khoa và theo dõi sự thoái triển của thai điều trị nội khoa bác sĩ có thể chỉ định dùng thuốc với mục đích là ngăn cản sự phát triển của thai , thai , bảo tồn vòi trứng .",
+    "entities": [
+      {
+        "text": "điều trị ngoại khoa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "điều trị nội khoa",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hoạt động thể chất thường xuyên : cố gắng đưa khoảng 30 phút hoạt động thể chất , chẳng hạn như đi bộ nhanh .",
+    "entities": [
+      {
+        "text": "hoạt động thể chất",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "còn với những bệnh nhân bị ung thư tụy giai đoạn cuối không thể can thiệp bằng phương pháp phẫu thuật thì đa số người bệnh đều không sống quá 1 năm sau khi phát hiện bệnh .",
+    "entities": [
+      {
+        "text": "ung thư tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "vì lý do này , một số người chuyển sang thuốc bổ sung và thay thế cho phương pháp chữa trị sỏi mật .",
+    "entities": [
+      {
+        "text": "sỏi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong khi ngồi , áp khăn ẩm cho da dưới và xung quanh mắt một vài phút bằng cách sử dụng áp lực nhẹ .",
+    "entities": [
+      {
+        "text": "áp khăn ẩm",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "viêm tá tràng có thể điều trị khỏi hoàn toàn và không gây ra bất cứ triệu chứng lâu dài về sau nếu kịp thời phát hiện và điều trị .",
+    "entities": [
+      {
+        "text": "viêm tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuyên tắc phổi và huyết khối tĩnh mạch sâu thường gặp ở bệnh behcet hơn các bệnh lý mạch máu khác .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuyên tắc phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh behcet",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật trong những tình huống hiếm khi các thủ tục phục hồi chức năng tiền đình không hiệu quả , bác sĩ có thể khuyên nên tiến hành phẫu thuật trong đó nút đệm xương được sử dụng để chặn các phần tai trong gây chóng mặt .",
+    "entities": [
+      {
+        "text": "phẫu thuật trong đó nút đệm xương được sử dụng để chặn các phần tai trong gây chóng mặt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thủ tục phục hồi chức năng tiền đình",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân của viêm thực quản bao gồm trào ngược axit dạ dày vào thực quản , nhiễm trùng , uống thuốc và dị ứng .",
+    "entities": [
+      {
+        "text": "viêm thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng viêm dây thần kinh thị giác thường ảnh hưởng đến một mắt , mặc dù nó có thể xảy ra ở cả hai mắt cùng một lúc .",
+    "entities": [
+      {
+        "text": "mặc dù nó có thể xảy ra ở cả hai mắt cùng một lúc",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thường ảnh hưởng đến một mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu là người lớn khi phát triển lồng ruột , nó nhiều khả năng là điều kiện y tế cơ sở gây ra vấn đề .",
+    "entities": [
+      {
+        "text": "lồng ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu người bệnh thường xuyên bị ợ nóng trong khi cố gắng ngủ , hãy đặt các khối gỗ hoặc xi măng dưới chân giường để phần đầu được nâng lên từ 15cm đến 23cm .",
+    "entities": [
+      {
+        "text": "ợ nóng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "động kinh thùy trán có thể có các triệu chứng bất thường xuất hiện có liên quan đến một vấn đề tâm thần hoặc rối loạn giấc ngủ .",
+    "entities": [
+      {
+        "text": "triệu chứng bất thường xuất hiện có liên quan đến một vấn đề tâm thần hoặc rối loạn giấc ngủ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "động kinh thùy trán",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "dấu hiệu mắt gấu trúc : lồi mắt , xuất huyết quanh hốc mắt ( còn được gọi là hội chứng hutchinson ) tiêu chảy do khối u tiết vip 0 vasoactive intestinal polypeptide ) gan to , đau trong xương dấu hiệu toàn thân : sốt , mệt mỏi , gầy sút cân , thiếu máu , nhiễm trùng triệu chứng cận u : rung giật mắt , co giật chi - thái dương triệu chứng di căn xa : 50% có di căn vào tủy xương , gan và da .",
+    "entities": [
+      {
+        "text": "xuất huyết quanh hốc mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "co giật chi - thái dương",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng hutchinson",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau trong xương",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rung giật mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "gầy sút cân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thiếu máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lồi mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "gan to",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chứng khó nuốt có thể ảnh hưởng tương tác với người thân và gia đình , năng suất tại nơi làm việc và chất lượng tổng thể của cuộc sống .",
+    "entities": [
+      {
+        "text": "chứng khó nuốt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh thiếu men g6pd việc chẩn đoán xác định bệnh thiếu men g6pd được xác định bằng xét nghiệm định lượng men g6pd trong cơ thể .",
+    "entities": [
+      {
+        "text": "xét nghiệm định lượng men g6pd",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh thiếu men g6pd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đau liên tục , và đau tăng khi bệnh nhân nói hoặc nhai , đặc biệt là ăn thức ăn cay , nóng .",
+    "entities": [
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đối phó và hỗ trợ các triệu chứng viêm mũi không dị ứng có thể can thiệp thường xuyên hằng ngày , bao gồm cả công việc hay trường học .",
+    "entities": [
+      {
+        "text": "viêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của bệnh động mạch ngoại biên chế độ sinh hoạt : tập thể dục thường xuyên và không hút thuốc là những thay đổi lối sống chính có thể làm giảm các triệu chứng của bệnh động mạch ngoại biên và giảm nguy cơ tiến triển của bệnh .",
+    "entities": [
+      {
+        "text": "bệnh động mạch ngoại biên",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

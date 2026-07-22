@@ -1,0 +1,382 @@
+[
+  {
+    "text": "nguyên nhân bệnh ung thư dạ dày nguyên nhân ung thư dạ dày thường liên quan đến các tổn thương tiền ung thư , các yếu tố môi trường , yếu tố nội sinh và yếu tố di truyền .",
+    "entities": [
+      {
+        "text": "bệnh ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xạ trị : chỉ định khi bệnh ở giai đoạn muộn không thể phẫu thuật được hoặc chỉ định xạ trị bổ trợ sau phẫu thuật giúp hạn chế bệnh tái phát .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của tim đập nhanh tim đập nhanh có thể cảm thấy như tim của bạn : bỏ qua nhịp , rung động quá nhanh , tim đập mạnh hoặc đập loạn nhịp bất thường trong khoảng vài giây cho đến vài phút .",
+    "entities": [
+      {
+        "text": "tim đập nhanh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hình thức nghiêm trọng nhất của hội chứng guillain - barre là một cấp cứu y tế đòi hỏi phải nhập viện .",
+    "entities": [
+      {
+        "text": "hội chứng guillain - barre",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu là người phụ nữ bị tiểu đường , hãy nói chuyện với bác sĩ về nguy cơ khi mang thai liên quan với bệnh tiểu đường và cách tốt nhất để quản lý bệnh trong thời kỳ mang thai .",
+    "entities": [
+      {
+        "text": "bệnh tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "- xạ trị bổ trợ sau phẫu thuật ung thư da được chỉ định với mục đích ngăn tái phát tại chỗ , tại vùng .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư da",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật hầu hết trẻ sơ sinh với thân chung động mạch phẫu thuật trong vòng hai tháng đầu tiên của cuộc sống .",
+    "entities": [
+      {
+        "text": "thân chung động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trong đó các bệnh hay gặp nhất là : thông liên nhĩ , thông liên thất , còn ống động mạch .",
+    "entities": [
+      {
+        "text": "còn ống động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thông liên nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "h . pylor i chủ yếu lây từ người sang người qua tiếp xúc trực tiếp với nước bọt hoặc chất phân .",
+    "entities": []
+  },
+  {
+    "text": "nhưng với van cơ học , bạn thường phải dùng thuốc chống đông máu trong suốt quãng đời còn lại để ngăn ngừa cục máu đông và nguy cơ bị viêm nội tâm mạc ( nhiễm trùng tim ) cao hơn so với van sinh học .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chống đông máu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tiêu thụ nhiều hơn một lượng rượu vừa phải có thể dẫn đến tổn thương gan không thể đảo ngược và làm tăng nguy cơ ung thư gan .",
+    "entities": [
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh chụp bằng cách sử dụng chụp cắt lớp vi tính ( ct ) hoặc chụp ảnh cộng hưởng từ ( mri ) có thể hiển thị chi tiết xoang mũi và khu vực xung quanh .",
+    "entities": [
+      {
+        "text": "chụp ảnh cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các thuốc như chất làm loãng máu có thể làm giảm đáng kể nguy cơ đột quỵ hoặc thiệt hại cho các cơ quan khác gây ra bởi cục máu đông .",
+    "entities": [
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số yếu tố nguy cơ gây bệnh bao gồm : nhiễm virus hpv ( human papillomavirus ) : các nghiên cứu đã chứng minh nhiễm hpv là yếu tố nguy cơ của ung thư hậu môn .",
+    "entities": [
+      {
+        "text": "human papillomavirus",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư hậu môn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "virus hpv",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đột biến tế bào phát triển và phân chia với tốc độ nhanh và tiếp tục sống khi các tế bào bình thường sẽ chết .",
+    "entities": []
+  },
+  {
+    "text": "hiện nay cả hai loại thoái vị não màng não và thoát vị màng não tủy đều có thể phát hiện và điều trị trên thai nhi từ đó hạn chế tối đa các ảnh hưởng của bệnh đến sự phát triển của cơ thể trẻ .",
+    "entities": [
+      {
+        "text": "thoái vị não màng não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thoát vị màng não tủy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , nếu không được điều trị kịp thời sẽ gây ra một số biến chứng nghiêm trọng , bao gồm : loét dạ dày – tá tràng ; hẹp môn vị ; xuất huyết tiêu hóa ; thủng vách ngăn dạ dày ; ung thư dạ dày .",
+    "entities": [
+      {
+        "text": "loét dạ dày – tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thủng vách ngăn dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xuất huyết tiêu hóa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hẹp môn vị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các bác sĩ nhãn khoa cũng có thể thực hiện các bài kiểm tra mắt sau đây : soi đáy mắt .",
+    "entities": [
+      {
+        "text": "bài kiểm tra mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "soi đáy mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "cũng có thể có một loạt các vấn đề vì rối loạn ăn uống , chẳng hạn như tim đập không đều , mệt mỏi , vấn đề về ruột và chóng mặt .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một khối u đang phát triển có thể nhấn vào dây thần kinh ở bụng , gây ra đau có thể trở thành nghiêm trọng .",
+    "entities": [
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp longo để cắt bỏ trĩ để điều trị trĩ nội độ 3 và độ 4. đây là phương pháp mà nguyên lý là làm gián đoạn các mạch máu trĩ trên và giữa , sau đó khâu niêm mạc hậu môn - trực tràng bị sa lên trên , đưa các búi trĩ về vị trí trong ống hậu môn do đó làm teo mô trĩ .",
+    "entities": [
+      {
+        "text": "phương pháp longo",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "trĩ nội",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị nhồi máu cơ tim hiệu quả chăm sóc trước khi nhập viện : oxy , aspirin , nitrat , và chuyển đến trung tâm y tế thích hợp .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "aspirin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nitrat",
+        "type": "THUỐC"
+      },
+      {
+        "text": "oxy",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu tìm thấy , những bất thường có thể chỉ ra rối loạn chức năng nhận thức , tình trạng phổ biến ở những người bị bệnh alzheimer trung bình đến nặng .",
+    "entities": [
+      {
+        "text": "rối loạn chức năng nhận thức",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh alzheimer",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh ung thư da đầu nguyên tắc điều trị dựa vào mô bệnh học , vị trí u , mức độ lan rộng , giai đoạn bệnh .",
+    "entities": [
+      {
+        "text": "bệnh ung thư da đầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mô bệnh học",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "bong võng mạc do rách trong võng mạc thường phát triển khi có sự chia tay đột ngột của bông thủy tinh từ võng mạc .",
+    "entities": [
+      {
+        "text": "bong võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh trĩ tổng quan bệnh trĩ bệnh trĩ ( hemorrhoids ) là các bệnh của hệ thống mạch máu từ tiểu động mạch , tĩnh mạch , thông nối động tĩnh mạch đến cơ trơn và mô liên kết được lót bởi lớp biểu mô bình thường của ống hậu môn .",
+    "entities": [
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "người cao tuổi tỷ lệ mắc rung nhĩ tăng lên theo tuổi và ước tính có khoảng 35% số bệnh nhân rung nhĩ ở độ tuổi ≥ 85 tuổi .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh thoát vị rốn ở trẻ em , bình thường tình trạng thoát vị rốn sẽ tự cải thiện khi trẻ 1 hoặc 2 tuổi .",
+    "entities": [
+      {
+        "text": "bệnh thoát vị rốn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân chứng phình động mạch não phát triển như là kết quả của thành động mạch mỏng và thoái hóa .",
+    "entities": [
+      {
+        "text": "phình động mạch não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc điều trị bệnh động kinh bao gồm cả primidone , gabapentin và topiramate có thể hiệu quả ở những người không đáp ứng với thuốc chẹn beta .",
+    "entities": [
+      {
+        "text": "thuốc điều trị bệnh động kinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chẹn beta",
+        "type": "THUỐC"
+      },
+      {
+        "text": "gabapentin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "topiramate",
+        "type": "THUỐC"
+      },
+      {
+        "text": "primidone",
+        "type": "THUỐC"
+      }
+    ]
+  }
+]

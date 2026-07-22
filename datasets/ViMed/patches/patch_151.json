@@ -1,0 +1,443 @@
+[
+  {
+    "text": "viêm cơ tim quá mẫn được điều trị bằng cách ngưng sử dụng các chất gây độc cho tim hoặc các chất gây nghiện và sử dụng liệu pháp corticoid .",
+    "entities": [
+      {
+        "text": "viêm cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "corticosteroid mũi bao gồm fluticasone ( flonase , veramyst ) , budesonide ( rhinocort ) , flunisolide ( nasarel , những người khác ) , triamcinolone ( nasacort aq ) và beclomethasone ( beconase aq ) .",
+    "entities": [
+      {
+        "text": "corticosteroid mũi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "beclomethasone",
+        "type": "THUỐC"
+      },
+      {
+        "text": "triamcinolone",
+        "type": "THUỐC"
+      },
+      {
+        "text": "fluticasone",
+        "type": "THUỐC"
+      },
+      {
+        "text": "flunisolide",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nasacort aq",
+        "type": "THUỐC"
+      },
+      {
+        "text": "beconase aq",
+        "type": "THUỐC"
+      },
+      {
+        "text": "budesonide",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rhinocort",
+        "type": "THUỐC"
+      },
+      {
+        "text": "veramyst",
+        "type": "THUỐC"
+      },
+      {
+        "text": "flonase",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nasarel",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thuốc thay thế trong nhiều trường hợp , thay đổi đơn giản phong cách sống và chế độ ăn uống có thể giúp giảm các triệu chứng táo bón .",
+    "entities": [
+      {
+        "text": "táo bón",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các yếu tố khác có thể sẽ tham gia vào sự phát triển của đau đầu cơn bao gồm : kích thích tố .",
+    "entities": [
+      {
+        "text": "đau đầu cơn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bây giờ có sẵn như là một thuốc xịt mũi và có thể hữu ích nếu chảy nước mũi nhỏ giọt là triệu chứng chính .",
+    "entities": [
+      {
+        "text": "chảy nước mũi nhỏ giọt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "một thuốc xịt mũi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "chèn nội soi vào một lỗ mũi và hướng dẫn nó vào khoang mũi để xác định vị trí polyp mũi .",
+    "entities": [
+      {
+        "text": "nội soi vào một lỗ mũi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "polyp mũi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu xét nghiệm cho thấy một loại vi khuẩn gây loét thường được gọi là h . pylori có trong dạ dày , bác sĩ có thể khuyên nên dùng kháng sinh .",
+    "entities": []
+  },
+  {
+    "text": "triệu chứng sa sút trí tuệ có thể xảy ra như là kết quả tiếp xúc với kim loại nặng , như chì hoặc mangan và các chất độc khác , chẳng hạn như thuốc trừ sâu .",
+    "entities": [
+      {
+        "text": "sa sút trí tuệ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán phong sinh thiết da hoặc xét nghiệm phết tế bào nếu có vết loét trên da có thể là bệnh phong , tiến hành sinh thiết da hoặc xét nghiệm phết tế bào da : nếu bị bệnh hủi hai bên , thì sẽ không có bất kỳ vi khuẩn nào trong kết quả xét nghiệm .",
+    "entities": [
+      {
+        "text": "xét nghiệm phết tế bào da",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sinh thiết da",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh phong",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh hủi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh tim bẩm sinh ebstein nguyên nhân gây nên bệnh tim bẩm sinh ebstein hiện nay vẫn chưa được biết rõ .",
+    "entities": [
+      {
+        "text": "bệnh tim bẩm sinh ebstein",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị block nhĩ thất hiệu quả cấy máy tạo nhịp tim cấy máy tạo nhịp tim ( hoặc máy khử rung tim nếu có rối loạn chức năng tâm thất ) được chỉ định cho block nhĩ thất ( av ) có triệu chứng , không hồi phục .",
+    "entities": [
+      {
+        "text": "cấy máy tạo nhịp tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "máy khử rung tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "block nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tiêu chuẩn quá khả năng phẫu thuật : đa dị tật nặng đe dọa cuộc sống , đặc biệt dị tật tim hoặc kèm tăng áp lực động mạch phổi ( &gt;70mmhg ) , có luồng thông phải - trái qua ống động mạch .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thiếu máu cục bộ ở chi cấp : nếu lưu lượng máu đến chân bị suy giảm nghiêm trọng , sẽ dẫn đến tình trạng gọi thiếu máu cục bộ ở chi cấp , gây hoại tử do thiếu máu nuôi ở chi cấp tính và bệnh nhân có thể cần phải đoạn chi hoặc có nguy cơ tử vong .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ ở chi cấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng bác sĩ không thể dự đoán người sẽ phát triển thoái hóa điểm vàng ướt mà nghiêm trọng hơn và tiến triển nhanh hơn so với thoái hóa điểm vàng khô .",
+    "entities": [
+      {
+        "text": "thoái hóa điểm vàng ướt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thoái hóa điểm vàng khô",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "theo dõi bao gồm : khám đánh giá tái phát tại chỗ , di căn hạch , phát hiện các biến chứng muộn do xạ trị .",
+    "entities": [
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu được chẩn đoán , điều trị sớm , bệnh sẽ phát triển chậm lại , giảm triệu chứng đau đớn , bệnh nhân khỏe mạnh hơn , giảm nguy cơ tàn phế .",
+    "entities": [
+      {
+        "text": "đau đớn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nó cũng quan trọng trong việc giúp bác sĩ hiện diện các vật cản khác có thể có trong khoang mũi , như một sự phát triển ung thư .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mối liên hệ giữa nhiễm trùng strep và sốt thấp khớp không rõ ràng , nhưng dường như vi khuẩn này đánh lừa hệ thống miễn dịch .",
+    "entities": [
+      {
+        "text": "nhiễm trùng strep",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biểu hiện trên da do tổn thương mạch máu nhỏ và trung bình như : xuất huyết , mày đay , loét , viêm mạch mạng xanh tím và hồng ban nút .",
+    "entities": [
+      {
+        "text": "viêm mạch mạng xanh tím",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hồng ban nút",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xuất huyết",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mày đay",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "loét",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "cùng các phương pháp điều trị thay thế chưa được thử nghiệm ở những người bị xơ gan , có thể hữu ích dựa trên việc sử dụng chúng ở những người bị các bệnh khác , chẳng hạn như : thiền .",
+    "entities": [
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh trĩ nội là một trong những bệnh không lây truyền từ người này sang người khác đối tượng nguy cơ bệnh trĩ nội theo thống kê , có khoảng 3/4 dân số sẽ mắc bệnh trĩ trong một thời điểm nào đó của cuộc đời .",
+    "entities": [
+      {
+        "text": "bệnh trĩ nội",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh ung thư thận tổng quan bệnh ung thư thận ung thư thận là ung thư có tỷ lệ mắc đứng thứ 9 ở người trưởng thành và đứng thứ 3 trong ung thư hệ tiết niệu ( sau ung thư tuyến tiền liệt và ung thư bàng quang ) nhưng lại là ung thư có tỷ lệ tử vong cao nhất .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tiền liệt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư bàng quang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ung thư thận",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "gặp bác sĩ ngay nếu gặp các dấu hiệu và triệu chứng của bệnh tiêu chảy nghiêm trọng liên quan đến kháng sinh .",
+    "entities": [
+      {
+        "text": "bệnh tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhịp tim các triệu chứng bệnh nhịp tim : đau hoặc khó chịu ở ngực ; chóng mặt ; ngất xỉu hoặc gần ngất xỉu ; cảm thấy rung trong lồng ngực ; cảm giác lâng lâng ; nhịp tim nhanh hoặc chậm bất thường; khó thở .",
+    "entities": [
+      {
+        "text": "rung trong lồng ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó chịu ở ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhịp tim nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh nhịp tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lâng lâng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngất xỉu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chậm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể sử dụng một số phương pháp để giúp cho viêm xoang cấp tính : nội soi mũi .",
+    "entities": [
+      {
+        "text": "nội soi mũi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu lidocaine không cho hiệu quả , truyền tĩnh mạch procainamide ( thường phải mất 1 giờ mới có tác dụng ) .",
+    "entities": [
+      {
+        "text": "procainamide",
+        "type": "THUỐC"
+      },
+      {
+        "text": "lidocaine",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc nếu không có vấn đề về cấu trúc mạch máu hoặc vấn đề bên trong não gây đau nhức đầu do tập thể dục , bác sĩ có thể khuyên nên dùng thuốc để giúp ngăn chặn những cơn đau đầu .",
+    "entities": [
+      {
+        "text": "thuốc để giúp ngăn chặn những cơn đau đầu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau nhức đầu do tập thể dục",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ sẽ thực hiện xét nghiệm này nếu có các dấu hiệu hoặc triệu chứng , như khó nuốt , giảm cân , nôn , phân đen hoặc thiếu máu .",
+    "entities": [
+      {
+        "text": "thiếu máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó nuốt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "giảm cân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phân đen",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "theo dõi sau điều trị : khám định kỳ 3 tháng 1 lần trong 2 năm đầu và 6 tháng 1 lần trong 3 năm tiếp theo ngoài khám lâm sàng , bệnh nhân sẽ được siêu âm ổ bụng và chụp phim phổi phát hiện di căn .",
+    "entities": [
+      {
+        "text": "siêu âm ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp phim phổi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nguy hiểm nhất là xuất hiện cơn rung thất trước khi xuất hiện cơn nhồi máu cơ tim cấp và sau cơn thiếu máu cơ tim .",
+    "entities": [
+      {
+        "text": "cơn nhồi máu cơ tim cấp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cơn thiếu máu cơ tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cơn rung thất",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

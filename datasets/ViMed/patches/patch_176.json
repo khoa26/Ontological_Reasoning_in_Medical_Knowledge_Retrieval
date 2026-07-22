@@ -1,0 +1,412 @@
+[
+  {
+    "text": "thiếu máu cục bộ xảy ra khi khi huyết khối tĩnh mạch mạc treo một cục máu đông có thể phát triển trong mạch máu thoát ra khỏi ruột .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một hình thức đục thủy tinh thể thế nào ống kính , nơi đục thủy tinh thể , có vị trí phía sau phần màu mắt .",
+    "entities": [
+      {
+        "text": "đục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị laser sử dụng chùm tia nóng của ánh sáng ( laser ) đưa vào trực tràng đến các tổn thương , trong khi apc sử dụng một chùm khí argon cùng với một dòng điện .",
+    "entities": [
+      {
+        "text": "khí argon",
+        "type": "THUỐC"
+      },
+      {
+        "text": "laser",
+        "type": "THUỐC"
+      },
+      {
+        "text": "apc",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "lựa chọn phẫu thuật là một thủ tục để làm cho các cơn co thắt thực quản yếu hơn bằng cách cắt một số các cơ trong đó co thắt xảy ra ( myotomy ) .",
+    "entities": [
+      {
+        "text": "co thắt thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có tiền sử tiêu chảy liên quan đến kháng sinh sẽ làm tăng cơ hội mà kháng sinh có thể gây phản ứng một lần nữa .",
+    "entities": [
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sự tắc nghẽn đó cũng phát triển trong một trong các động mạch ruột chính và làm chậm hoặc ngừng chảy máu , thường là do mảng chất béo ( xơ vữa động mạch ) trên thành của động mạch .",
+    "entities": [
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cả hai viêm kết mạc do virus và vi khuẩn có thể được kết hợp với cảm lạnh hay với các triệu chứng của nhiễm trùng đường hô hấp , chẳng hạn như đau họng .",
+    "entities": [
+      {
+        "text": "nhiễm trùng đường hô hấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm kết mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cảm lạnh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau họng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh trào ngược dạ dày thực quản khi nuốt thức ăn , bình thường cơ vòng thực quản dưới ( cơ ở dưới cùng của thực quản ) sẽ mở ra và cho phép thức ăn , đồ uống đi từ thực quản xuống dạ dày .",
+    "entities": [
+      {
+        "text": "bệnh trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ sử dụng liệu pháp hành vi nhận tức tức là giúp người bệnh nhận ra và thay đổi suy nghĩ tích cực hơn hoặc liệu pháp tương tác tức là giúp mọi người xung quanh hiểu được và hỗ trợ người bệnh điều trị một cách hiệu quả thư giãn nhiều hơn : tập thể dục hàng ngày , làm những việc mình thích , thư giãn , tiếp xúc với nhiều người , đi dạo với bé hàng ngày , nghỉ ngơi đầy đủ , ăn các thực phẩm lành mạnh , tránh sử dụng rượu bia .",
+    "entities": [
+      {
+        "text": "liệu pháp hành vi nhận tức",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một tỷ lệ trầm tích hồng cầu ( esr ) , xét nghiệm máu được sử dụng để phát hiện viêm nhiễm xảy ra trong cơ thể .",
+    "entities": [
+      {
+        "text": "trầm tích hồng cầu ( esr )",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm nhiễm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nội soi đại tràng : đánh giá toàn bộ khung đại tràng và trực tràng , giúp phát hiện các khối u ở kích thước khoảng vài milimet hoặc các bất thường khác của đại tràng như polyp đại tràng , túi thừa , các tổn thương loét , viêm do nhiễm khuẩn , … xét nghiệm các dấu ấn ung thư : bao gồm các dấu ấn cea , ca 19 - 9 thường được sử dụng trong chẩn đoán ung thư đại tràng .",
+    "entities": [
+      {
+        "text": "xét nghiệm các dấu ấn ung thư",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi đại tràng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "polyp đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "túi thừa",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các block tim được chia thành ba nhóm chính : block tim độ một : dạng nhẹ nhất , tất cả các tín hiệu điện từ tâm nhĩ đến tâm thất bị chậm lại .",
+    "entities": [
+      {
+        "text": "block tim độ một",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trừ khi các cơn rung nhĩ kéo dài ít hơn 24 tiếng đồng hồ , sẽ cần phải dùng warfarin ít nhất 4 - 6 tuần sau khi khử rung tim để ngăn chặn cục máu đông hình thành ngay cả sau khi tim trở lại nhịp điệu bình thường .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "warfarin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "xạ trị sử dụng tia xạ làm tế bào ung thư bị tổn thương và ngừng phát triển tuy nhiên hầu hết ung thư xương không đáp ứng với xạ trị trừ sarcoma ewing tương đối nhạy cảm .",
+    "entities": [
+      {
+        "text": "ung thư xương",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "và nếu đã được chẩn đoán fap , bắt đầu kiểm tra thường xuyên bằng nội soi ở lứa tuổi thiếu niên và thảo luận về các tùy chọn với bác sĩ .",
+    "entities": [
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "fap",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến viêm nội tâm mạc nhiễm khuẩn viêm nội tâm mạc cấy máu dương tính đây là loại viêm nội tâm mạc quan trọng nhất , chiếm gần 85% toàn bộ các viêm nội tâm mạc nhiễm khuẩn .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc nhiễm khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp hạn chế diễn tiến của nhiễm trùng huyết tuyệt đối không tự ý bỏ thuốc hoặc mua thuốc không có trong đơn thuốc của bác sĩ; lắng nghe và làm theo mọi hướng dẫn , chỉ định của bác sĩ; liên hệ ngay với bác sĩ khi có những bất thường xuất hiện trong quá trình điều trị; thăm khám định kỳ để được theo dõi diễn tiến của bệnh và tình trạng sức khỏe; thể dục thể thao nâng cao sức khỏe; chế độ ăn uống cân bằng , đầy đủ chất đinh dưỡng theo khuyến cáo bác sĩ .",
+    "entities": [
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi động mạch não vỡ sẽ gây đau đầu dữ dội và đột ngột , còn được gọi là đau đầu sét đánh , ngoài ra còn có thể gây buồn nôn , nôn , mất ý thức và/hoặc co giật .",
+    "entities": [
+      {
+        "text": "đau đầu sét đánh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mất ý thức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đột ngột",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "co giật",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mòn răng : nguyên nhân , triệu chứng , chẩn đoán và điều trị chủ đề : răng hàm mặt thiểu sản men răng răng sứ",
+    "entities": [
+      {
+        "text": "thiểu sản men răng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mòn răng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "răng sứ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thay vào đó , cải thiện công nghệ hình ảnh đã có thể tìm kiếm những u nang tụy dễ dàng hơn .",
+    "entities": [
+      {
+        "text": "u nang tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm thực quản do thuốc yếu tố có thể làm tăng nguy cơ viêm thực quản do thuốc thường liên quan đến vấn đề viên thuốc vào dạ dày bị chặn ở thực quản .",
+    "entities": [
+      {
+        "text": "viêm thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của thông liên thất bệnh cảnh lâm sàng bệnh thông liên thất tùy thuộc vào kích thước lỗ thông và đáp ứng của tuần hoàn phổi đối với luồng máu thông .",
+    "entities": [
+      {
+        "text": "bệnh thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể yêu cầu xét nghiệm máu để hiểu rõ hơn về những gì có thể gây ra các dấu hiệu và triệu chứng , nhưng xét nghiệm máu không thể phát hiện ung thư đại tràng .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xét nghiệm máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nội soi tai mũi họng siêu âm vùng cổ chụp ct sọ mắt 6 tháng/lần chọc hút tế bào kim nhỏ nếu có nghi ngờ di căn hạch cổ chụp xquang phổi , siêu âm ổ bụng phát hiện di căn xa .",
+    "entities": [
+      {
+        "text": "chọc hút tế bào kim nhỏ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi tai mũi họng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp xquang phổi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm vùng cổ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp ct sọ mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán nôn khai thác tiền sử bệnh cần phải xác định các nguyên nhân đã được chẩn đoán như thai nghén , đái tháo đường , chứng đau nửa đầu , bệnh thận , ung thư ( bao gồm thời gian hóa trị hoặc xạ trị ) và phẫu thuật ổ bụng trước đây ( có thể gây tắc ruột do dính ) .",
+    "entities": [
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tắc ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thuốc giảm triệu chứng ngoài thuốc kháng sinh , bác sĩ có thể cho thấy thuốc không kê toa để giảm đau cổ họng và làm giảm sốt , chẳng hạn như : ibuprofen ( advil , motrin , những loại khác ) .",
+    "entities": [
+      {
+        "text": "thuốc không kê toa để giảm đau cổ họng và làm giảm sốt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ibuprofen",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "chế độ dinh dưỡng : sau khi cấy ghép tim , bệnh nhân cần điều chỉnh chế độ ăn uống để giữ cho tim khỏe mạnh và hoạt động tốt .",
+    "entities": [
+      {
+        "text": "cấy ghép tim",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sốt thấp khớp cấp tính thường không xảy ra ở trẻ nhỏ ( dưới 5 tuổi ) và những người trên 15 tuổi .",
+    "entities": [
+      {
+        "text": "sốt thấp khớp cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố di truyền / phương pháp điều trị và thuốc túi dưới mắt thường là một mối quan tâm thẩm mỹ và không cần điều trị cụ thể .",
+    "entities": [
+      {
+        "text": "mối quan tâm thẩm mỹ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "túi dưới mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay thế thuốc hãy cẩn thận khi xem xét các biện pháp thay thế để tránh hoặc làm chậm sự tiến triển của bệnh sa sút trí tuệ mất trí nhớ , đặc biệt nếu dùng thuốc khác .",
+    "entities": [
+      {
+        "text": "bệnh sa sút trí tuệ mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

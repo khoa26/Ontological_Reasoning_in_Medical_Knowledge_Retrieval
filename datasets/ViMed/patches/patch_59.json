@@ -1,0 +1,387 @@
+[
+  {
+    "text": "theo đề nghị của các bác sĩ , người bệnh tránh dùng thuốc chống tiêu chảy vì nó có thể giữ các tác nhân gây bệnh ở trong cơ thể lâu hơn .",
+    "entities": [
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "liên cầu khuẩn nhiễm trùng có thể dẫn đến bệnh viêm nhiễm khác , bao gồm : bệnh ban đỏ , một căn bệnh đặc trưng bởi phát ban .",
+    "entities": [
+      {
+        "text": "bệnh viêm nhiễm khác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ban đỏ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phát ban",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán bác sĩ gia đình hoặc chuyên gia tai mũi họng thường có thể xác định nếu có một màng nhĩ thủng với kiểm tra trực quan đơn giản bằng cách sử dụng một thiết bị chiếu sáng ( kính soi tai ) .",
+    "entities": [
+      {
+        "text": "kiểm tra trực quan đơn giản bằng cách sử dụng một thiết bị chiếu sáng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "màng nhĩ thủng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "kính soi tai",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nó cũng có thể có các vi khuẩn có thể gây liên cầu khuẩn trong cổ họng mà không có đau họng .",
+    "entities": [
+      {
+        "text": "đau họng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến phình động mạch não phình động mạch não là do sự tổn thương vi mô thành động mạch ( xơ vữa động mạch ) , do sự thay đổi dòng chảy một cách bất thường ở các vị trí phân chia động mạch .",
+    "entities": [
+      {
+        "text": "phình động mạch não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục có thể tạm thời làm giảm nhẹ cơn đau , sưng và viêm hầu hết các tổn thương trĩ với các biện pháp tự chăm sóc sau đây : sử dụng phương pháp điều trị tại chỗ .",
+    "entities": [
+      {
+        "text": "sưng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tips chủ yếu được sử dụng khi tất cả các phương pháp điều trị khác đã thất bại hoặc như một biện pháp tạm thời cho người đang chờ được ghép gan .",
+    "entities": [
+      {
+        "text": "ghép gan",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tips",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu có rối loạn vận động vùng khi làm siêu âm gắng sức thì cũng có giá trị chẩn đoán bệnh tim thiếu máu .",
+    "entities": [
+      {
+        "text": "bệnh tim thiếu máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm gắng sức",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán để các bác sĩ tim mạch nhi khoa kiểm tra tình trạng tim và chẩn đoán , sẽ đề nghị một hoặc nhiều xét nghiệm : siêu âm tim s iêu âm tim cho thấy cấu trúc và chức năng của tim .",
+    "entities": [
+      {
+        "text": "siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa viêm bờ mi là tình trạng viêm ảnh hưởng đến mí mắt .",
+    "entities": [
+      {
+        "text": "viêm bờ mi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu bạn đã được chẩn đoán mắc chứng phù bạch huyết , hãy đến gặp bác sĩ nếu có sự gia tăng đột ngột về kích thước của chi liên quan .",
+    "entities": [
+      {
+        "text": "phù bạch huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiều loại thuốc , bao gồm fluoxetine ( prozac , sarafem ) , sertraline ( zoloft ) và nortripxyline ( pamelor ) , có thể giúp kiểm soát trầm cảm và các nghi thức ám ảnh cưỡng chế mà một số người bị bệnh huntington phát triển .",
+    "entities": [
+      {
+        "text": "kiểm soát trầm cảm và các nghi thức ám ảnh cưỡng chế",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nortripxyline",
+        "type": "THUỐC"
+      },
+      {
+        "text": "fluoxetine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sertraline",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng thuốc tránh thai trong thời gian dài tạo nên adenoma ( u tuyến ) trong gan dễ tiến triển thành ung thư biểu mô tế bào gan .",
+    "entities": [
+      {
+        "text": "ung thư biểu mô tế bào gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những gợi ý sau đây có thể giúp giảm nguy cơ khối u đại tràng và ung thư trực tràng : chú ý đến canxi .",
+    "entities": [
+      {
+        "text": "ung thư trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "canxi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh tắc ruột sơ sinh tắc ruột sơ sinh có thể được hạn chế bằng một số cách sau : trước khi sinh : người mẹ cần tiêm phòng đầy đủ trước khi có ý định mang thai .",
+    "entities": [
+      {
+        "text": "bệnh tắc ruột sơ sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị bệnh động mạch ngoại biên hiệu quả bệnh động mạch ngoại biên phần lớn được điều trị bằng cách thay đổi lối sống ( xem phần chế độ sinh hoạt và phòng ngừa ) và dùng thuốc .",
+    "entities": [
+      {
+        "text": "bệnh động mạch ngoại biên",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khối u mũi nhỏ có thể không gây ra có vấn đề và không được chú ý . polyp mũi lớn hơn có thể chặn đường mũi , viêm xoang và gây ra khó thở , mất khứu giác , viêm xoang thường xuyên và các vấn đề khác .",
+    "entities": [
+      {
+        "text": "polyp mũi lớn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mất khứu giác",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm xoang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều trị viêm niêm mạc trực tràng do xạ trị trường hợp nhẹ viêm niêm mạc trực tràng bức xạ có thể không cần điều trị .",
+    "entities": [
+      {
+        "text": "viêm niêm mạc trực tràng bức xạ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "để tìm hiểu xem các triệu chứng có thể được gây ra bởi một chất gây dị ứng nhất định , đâm da và tiếp xúc với một lượng nhỏ chất gây dị ứng trong không khí thông thường như bụi , nấm mốc phấn hoa , lông mèo và chó .",
+    "entities": []
+  },
+  {
+    "text": "ung thư thực quản giai đoạn 4 : tế bào ung thư đã xâm lấn đến các bộ phận khác của cơ thể như : gan , phổi , não , xương .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng của xạ trị : mệt mỏi , phản ứng da mức độ nhẹ , rối loạn tiêu hóa , … xem thêm : nội soi ruột non bằng viên nang ruột non và ruột già dài bao nhiêu ?",
+    "entities": [
+      {
+        "text": "nội soi ruột non bằng viên nang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sưng , viêm và chất nhầy trong ống eustachian từ một bệnh nhiễm trùng hô hấp trên hoặc dị ứng có thể chặn chúng , gây ra sự tích tụ các chất dịch trong tai giữa .",
+    "entities": [
+      {
+        "text": "sự tích tụ các chất dịch trong tai giữa",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh nhiễm trùng hô hấp trên",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sưng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nó gây ra viêm màng đường tiêu hóa , có thể dẫn đến đau bụng , tiêu chảy và ngay cả suy dinh dưỡng trầm trọng .",
+    "entities": [
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sau một hoặc hai ngày khi sáp được làm mềm , sử dụng một ống tiêm , bóng cao su để nhẹ nhàng nhỏ nước ấm vào ống tai .",
+    "entities": [
+      {
+        "text": "làm mềm",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra và chẩn đoán động kinh thùy trán có thể khó chẩn đoán vì triệu chứng của nó có thể bị nhầm lẫn với các vấn đề về tâm thần hoặc rối loạn giấc ngủ , chẳng hạn như nỗi sợ hãi ban đêm .",
+    "entities": [
+      {
+        "text": "động kinh thùy trán",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vấn đề về tâm thần",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nỗi sợ hãi ban đêm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rối loạn giấc ngủ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "dùng ấm - nước , cà phê , trà hoặc nước ấm với mật ong - và xử lý lạnh có thể làm dịu đau họng .",
+    "entities": [
+      {
+        "text": "xử lý lạnh có thể làm dịu đau họng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây nghe kém đối với một số người , nguyên nhân mất thính lực là kết quả của một sự t ích tụ dần dần của ráy tai , trong đó khối trong ống tai và ngăn chặn dẫn truyền của sóng âm thanh .",
+    "entities": [
+      {
+        "text": "mất thính lực",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nghe kém",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng của thoát vị bẹn mới thực sự nguy hiểm bao gồm : thoát vị kẹt và thoát vị bẹn nghẹt thoát vị kẹt : là khi một phần của ruột , mô mỡ hoặc buồng trứng bị kẹt lại trong túi thoát vị .",
+    "entities": [
+      {
+        "text": "thoát vị bẹn nghẹt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thoát vị kẹt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp tốt nhất để xác định vị trí và kích thước của khối máu tụ là kỹ thuật hình ảnh .",
+    "entities": [
+      {
+        "text": "kỹ thuật hình ảnh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp xạ trị được sử dụng để thu nhỏ khối u đối với những bệnh nhân không thể phẫu thuật hoặc phẫu thuật nhưng khối u vẫn bị tái phát xem thêm : suy tuyến yên : nguyên nhân , triệu chứng , chẩn đoán và điều trị tuyến yên : vị trí , chức năng , các bệnh thường gặp rối loạn nội tiết tố : nguyên nhân , triệu chứng , chẩn đoán và điều trị chủ đề : xạ trị nội tiết tuyến yên hormone u tuyến yên",
+    "entities": [
+      {
+        "text": "suy tuyến yên",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u tuyến yên",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  }
+]

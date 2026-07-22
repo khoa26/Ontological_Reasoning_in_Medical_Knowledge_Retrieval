@@ -1,0 +1,331 @@
+[
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của tai biến mạch máu não trong quá trình điều trị tuyệt đối tuân thủ hướng dẫn của bác sĩ .",
+    "entities": [
+      {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư dương vật giai đoạn tiến triển : các nốt và loét to lên , lan rộng xung quanh bao quy đầu .",
+    "entities": [
+      {
+        "text": "ung thư dương vật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể dùng bất kỳ thuốc chống loạn nhịp nhóm nào ( ia , ib , ic , ii , iii ) để dự phòng tái phát .",
+    "entities": [
+      {
+        "text": "thuốc chống loạn nhịp",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của huyết khối tĩnh mạch sâu chế độ sinh hoạt : tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị .",
+    "entities": [
+      {
+        "text": "phòng ngừa những thói quen sinh hoạt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chế độ sinh hoạt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các thăm dò khác với một số đối tượng bệnh nhân rung nhĩ đặc biệt : nồng độ bnp hoặc nt - probnp có thể tăng ở các bệnh nhân rung nhĩ cơn và rung nhĩ bền bỉ mặc dù lâm sàng không có biểu hiện của suy tim .",
+    "entities": [
+      {
+        "text": "nt - probnp",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hãy nhận biết rằng các chế phẩm có thể tương tác với thuốc làm loãng máu và gây ra chảy máu .",
+    "entities": [
+      {
+        "text": "loãng máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong khi hầu hết mọi người có một cơn viêm xoang ngắn ngủi tại một số thời điểm ( được gọi là viêm xoang cấp tính ) , viêm xoang mãn tính là viêm xoang kéo dài hơn tám tuần hoặc tái trở lại .",
+    "entities": [
+      {
+        "text": "viêm xoang cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm xoang mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ví dụ , sự cố vật lý của các biểu mô giác mạc có thể được gây ra bằng cách mặc một ống kính quá dài , làm cho giác mạc dễ bị viêm giác mạc truyền nhiễm .",
+    "entities": [
+      {
+        "text": "viêm giác mạc truyền nhiễm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "để loại trừ đau đầu khi ho trung bình , kiểm tra thêm nữa , như hình ảnh não là cần thiết .",
+    "entities": [
+      {
+        "text": "hình ảnh não",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hẹp van hai lá có thể gây ra các triệu chứng bệnh tim phổi như mặt đỏ ửng màu mận chín ( biểu hiện kinh điển ) , chỉ xảy ra khi cung lượng tim thấp và tăng áp động mạch phổi nghiêm trọng .",
+    "entities": [
+      {
+        "text": "mặt đỏ ửng màu mận chín",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hẹp van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị tia xạ có thể giúp kéo dài sự sống của bệnh nhân , rất ít khi chữa khỏi bệnh .",
+    "entities": [
+      {
+        "text": "tia xạ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nói chuyện với bác sĩ trước khi dùng aspirin hoặc các thuốc khác gây ức chế đông máu bởi vì có thể làm tăng mất máu nếu phình động mạch vỡ .",
+    "entities": [
+      {
+        "text": "phình động mạch vỡ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số phụ nữ được báo cáo có bệnh nhiễm trùng đường tiết niệu , chủ yếu là những người gây ra bởi vi khuẩn escherichia coli , trước sự phát triển của xơ gan đường mật .",
+    "entities": [
+      {
+        "text": "bệnh nhiễm trùng đường tiết niệu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ gan đường mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng bệnh ung thư túi mật là rất hiếm , vì vậy mặc dù nguy cơ ung thư tăng cao , nhưng nguy cơ ung thư túi mật vẫn còn rất nhỏ .",
+    "entities": [
+      {
+        "text": "bệnh ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bari tráng lớp niêm mạc của thực quản và dạ dày , và cho phép các cơ quan hiển thị trong một loạt các hình ảnh x quang .",
+    "entities": [
+      {
+        "text": "x quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các dấu hiệu và triệu chứng của cơn động kinh thùy trán có thể bao gồm : chuyển động đầu và chuyển động của mắt sang một bên .",
+    "entities": [
+      {
+        "text": "chuyển động đầu và chuyển động của mắt sang một bên",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cơn động kinh thùy trán",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi chứng phình động mạch vỡ chảy máu trong gian giữa não và mô xung quanh ( xuất huyết dưới màng nhện ) - thường xuyên nhất là trường hợp có thể chặn lưu thông dịch bao quanh não và tủy sống ( dịch não tủy ) .",
+    "entities": [
+      {
+        "text": "xuất huyết dưới màng nhện",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chứng phình động mạch vỡ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật thường cần thiết để loại bỏ mô bị nhiễm bệnh , điều trị các nguyên nhân cơ bản của nhiễm trùng và ngăn ngừa các nhiễm trùng lây lan .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , trên thực tế hầu hết các em bé mắc thoát vị não màng não được sinh ra từ cha mẹ không có tiền sử gia đình về tình trạng này .",
+    "entities": [
+      {
+        "text": "thoát vị não màng não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuật ngữ \" xơ gan mật \" là không hoàn toàn chính xác bởi vì xơ gan chỉ phát triển trong giai đoạn cuối của căn bệnh này - thường là nhiều năm sau khi chẩn đoán .",
+    "entities": [
+      {
+        "text": "xơ gan mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cấy máu vẫn âm tính nhiều ngày sau khi đã ngừng kháng sinh , vi khuẩn gây bệnh thường gặp nhất là liên cầu họng hoặc coagulase - negative s taphylococci ( cns ) .",
+    "entities": []
+  },
+  {
+    "text": "trẻ em cũng có nhiều khả năng có viêm họng , phổ biến nhất do vi khuẩn lây nhiễm liên quan đến đau họng .",
+    "entities": [
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau họng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của hở van hai lá chế độ sinh hoạt : tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị; duy trì lối sống tích cực , hạn chế sự căng thẳng; liên hệ ngay với bác sĩ khi cơ thể có những bất thường trong quá trình điều trị; thăm khám định kỳ để được theo dõi tình trạng sức khỏe , diễn tiến của bệnh và để bác sĩ tìm hướng điều trị phù hợp trong thời gian tiếp theo nếu bệnh chưa có dấu hiệu thuyên giảm .",
+    "entities": [
+      {
+        "text": "hở van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư đại tràng và ung thư trực tràng có thể liên kết với chế độ ăn ít chất xơ và nhiều chất béo và calo .",
+    "entities": [
+      {
+        "text": "ung thư trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ghép tim là phẫu thuật trong thay thế trái tim bị hỏng hóc , suy kiệt bằng một trái tim hiến tặng khỏe mạnh hơn .",
+    "entities": [
+      {
+        "text": "ghép tim",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đối phó và hỗ trợ đối với nhiều người , run có thể có hậu quả xã hội và tâm lý nghiêm trọng .",
+    "entities": [
+      {
+        "text": "run",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tác động của đau bụng đối với sức khỏe đau bụng không rõ nguyên nhân có thể ảnh hưởng đến tâm lý người bệnh .",
+    "entities": [
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "khi bệnh tiến triển nặng , bạn có thể nhận thấy một số triệu chứng sau : nôn ra máu ; đau bụng dữ dội ; phân có máu ( máu có thể có màu đỏ hoặc đen ) .",
+    "entities": [
+      {
+        "text": "đau bụng dữ dội",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phân có máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nôn ra máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc mục tiêu của điều trị cận thị là để giúp ánh sáng tập trung vào võng mạc thông qua việc sử dụng các ống kính hiệu chỉnh hoặc phẫu thuật khúc xạ .",
+    "entities": [
+      {
+        "text": "ống kính hiệu chỉnh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật khúc xạ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cận thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sinh thiết gan thường được thực hiện bằng cách sử dụng kim dài đưa qua da để lấy một mẫu mô ( kim sinh thiết ) .",
+    "entities": [
+      {
+        "text": "sinh thiết gan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  }
+]

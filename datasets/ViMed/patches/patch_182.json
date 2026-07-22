@@ -1,0 +1,406 @@
+[
+  {
+    "text": "viêm tuyến tụy gây ra bởi viêm tụy mãn tính là một yếu tố nguy cơ phát triển ung thư tuyến tụy .",
+    "entities": [
+      {
+        "text": "viêm tụy mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp tiếp theo tùy thuộc vào mức độ nghiêm trọng của tình trạng hạ thân nhiệt và có bất ổn về tim mạch hoặc ngừng tim hay không .",
+    "entities": [
+      {
+        "text": "hạ thân nhiệt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "không dùng tất cả các thuốc theo chỉ dẫn có thể dẫn đến nhiễm trùng nặng hơn hoặc lây lan sang các bộ phận khác của cơ thể .",
+    "entities": [
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh u não ở trẻ em để phòng ngừa bệnh u não của trẻ em có thể kể đến các biện pháp sau : thăm khám kiểm tra sức khỏe định kỳ để sớm phát hiện bệnh và có phương pháp điều trị phù hợp .",
+    "entities": [
+      {
+        "text": "bệnh u não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chụp cản quang hệ mạch máu phổi : là xét nghiệm xâm lấn nhưng là tiêu chuẩn vàng để chẩn đoán thuyên tắc phổi .",
+    "entities": [
+      {
+        "text": "chụp cản quang hệ mạch máu phổi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "thuyên tắc phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . các biện pháp chẩn đoán bệnh tiền mãn kinh quá trình tiền mãn kinh là một sự chuyển đổi diễn ra dần dần nên không có thử nghiệm đơn lẻ nào có thể xác định được người phụ nữ đang trong quá trình này hay không .",
+    "entities": [
+      {
+        "text": "bệnh tiền mãn kinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số loại thuốc hóa trị liệu làm cho các tế bào ung thư nhạy cảm hơn với liệu pháp bức xạ .",
+    "entities": [
+      {
+        "text": "thuốc hóa trị liệu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "liệu pháp bức xạ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng có thể xảy ra ở những người có vấn đề về phổi mãn tính hoặc tình trạng tim gây tổn thất cho não khi thiếu ôxy cần thiết .",
+    "entities": []
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu và triệu chứng đau dạ dày không viêm loét có thể bao gồm : cảm giác nóng rát hoặc khó chịu ở bụng trên hoặc ngực dưới , đôi khi thuyên giảm do thức ăn hoặc thuốc kháng acid .",
+    "entities": [
+      {
+        "text": "cảm giác nóng rát hoặc khó chịu ở bụng trên hoặc ngực dưới",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau dạ dày không viêm loét",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc kháng acid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trước khi phẫu thuật , bệnh nhân có thể được điều trị bằng kháng sinh để ngăn ngừa nguy cơ nhiễm trùng .",
+    "entities": [
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trào ngược dạ dày thực quản ( gerd ) là một tình trạng trong đó axit trào ngược thường xuyên hoặc liên tục .",
+    "entities": [
+      {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gerd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phân loại theo hansen ( dựa vào phản ứng miễn dịch ) : bệnh lao ( còn đáp ứng miễn dịch tốt ) : một dạng bệnh phong nhẹ , ít nghiêm trọng hơn .",
+    "entities": [
+      {
+        "text": "bệnh phong",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh lao",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có các triệu chứng của bệnh trào ngược dạ dày ( gerd ) trong hơn 10 năm có thể làm tăng nguy cơ barrett thực quản .",
+    "entities": [
+      {
+        "text": "bệnh trào ngược dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "barrett thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gerd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu có viêm dây thần kinh thị giác và mắt bị đau mới , làm xấu đi tầm nhìn hoặc triệu chứng không cải thiện với điều trị , gặp bác sĩ .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "làm xấu đi tầm nhìn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mắt bị đau mới",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "dự phòng bằng kháng sinh bằng norfloxacin 400 mg uống hoặc ceftriaxone iv , 1 g mỗi ngày trong tối đa một tuần .",
+    "entities": [
+      {
+        "text": "norfloxacin 400 mg uống",
+        "type": "THUỐC"
+      },
+      {
+        "text": "1 g mỗi ngày",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ceftriaxone",
+        "type": "THUỐC"
+      },
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "gương mặt mất cân đối hoặc miệng bị méo một bên , có thể quan sát khi bệnh nhân cười để xác định rõ hơn .",
+    "entities": [
+      {
+        "text": "gương mặt mất cân đối",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "miệng bị méo một bên",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sau phẫu thuật , bệnh nhân có thể cần phải sử dụng : thuốc ức chế miễn dịch ( cyclosporin , tacrolimus , mofetil , azathioprine , belatacept .",
+    "entities": [
+      {
+        "text": "thuốc ức chế miễn dịch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "azathioprine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cyclosporin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tacrolimus",
+        "type": "THUỐC"
+      },
+      {
+        "text": "belatacept",
+        "type": "THUỐC"
+      },
+      {
+        "text": "mofetil",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm dna trong phân phương pháp tiếp cận mới này có thể phát hiện tế bào ung thư đổ ra trong phân .",
+    "entities": [
+      {
+        "text": "xét nghiệm dna",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "adalimumab có thể làm giảm các dấu hiệu và triệu chứng của bệnh crohn và có thể làm bệnh thuyên giảm .",
+    "entities": [
+      {
+        "text": "adalimumab",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có các phương pháp điều trị sau : phẫu thuật , hóa chất , xạ trị , điều trị đích và điều trị miễn dịch .",
+    "entities": [
+      {
+        "text": "điều trị miễn dịch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "điều trị đích",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hóa chất",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh tiêu chảy nhiễm trùng tiêu chảy nhiễm trùng và cách điều trị hiện đang là mối quan tâm của nhiều người , nhất là những gia đình có trẻ nhỏ , người có hệ miễn dịch yếu hoặc đang sinh sống tại khu vực có vệ sinh kém .",
+    "entities": [
+      {
+        "text": "bệnh tiêu chảy nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị đích : sử dụng các kháng thể đơn dòng kháng lại các yếu tố phát triển biểu mổ her - 2/neu ( trastuzumab ) , kháng thể đơn dòng ức chế thụ thể yếu tố phát triển biểu mô egfr ( cetuximab ) hay kháng thể đơn dòng ức chế yếu tố phát triển mạch máu vegf ( bevacizumab ) .",
+    "entities": [
+      {
+        "text": "điều trị đích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu phẫu thuật là không thể vì một khối u rất lớn hoặc nằm ở một nơi khiến việc loại bỏ quá rủi ro , bác sĩ có thể đề nghị xạ trị một mình hoặc kết hợp với hóa trị .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trẻ em trong độ tuổi từ 6 tháng đến 2 năm là dễ bị nhiễm trùng tai vì kích thước và hình dạng của ống eustachian và vì kém phát triển hệ thống miễn dịch .",
+    "entities": [
+      {
+        "text": "nhiễm trùng tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các bác sĩ cho biết ung thư tuyến nước bọt xảy ra khi adn của một số tế bào trong tuyến nước bọt phát triển đột biến .",
+    "entities": [
+      {
+        "text": "ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể không có sốt ở người già , người đã dùng kháng sinh trước đó , ở bệnh nhân bị suy giảm miễn dịch , hoặc trong viêm nội tâm mạc do vi khuẩn ít độc lực hoặc do các vi khuẩn không điển hình .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị tim đập nhanh hiệu quả trừ khi bác sĩ phát hiện ra rằng bạn bị bệnh tim , nếu không , tim đập nhanh hiếm khi cần điều trị .",
+    "entities": [
+      {
+        "text": "tim đập nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đôi khi , xả nước và làm sạch mắt để loại bỏ nó trong những hóa chất hay vật gây mẩn đỏ và kích thích .",
+    "entities": []
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục hãy thử các mẹo này để giúp làm giảm sự khó chịu và làm giảm các triệu chứng của v iêm mũi không dị ứng : rửa mũi sử dụng chai nén thiết kế đặc biệt , chẳng hạn như một bộ dụng cụ bao gồm nước muối , bóng đèn ống tiêm hoặc nồi neti để rửa đường mũi .",
+    "entities": [
+      {
+        "text": "bóng đèn ống tiêm hoặc nồi neti để rửa đường mũi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rửa mũi sử dụng chai nén thiết kế đặc biệt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "một bộ dụng cụ bao gồm nước muối",
+        "type": "THUỐC"
+      },
+      {
+        "text": "iêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hóa trị có thể được sử dụng để điều trị ung thư vòm họng trong ba cách : hóa trị đồng thời là xạ trị .",
+    "entities": [
+      {
+        "text": "hóa trị đồng thời là xạ trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

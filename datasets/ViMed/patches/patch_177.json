@@ -1,0 +1,392 @@
+[
+  {
+    "text": "phòng ngừa bệnh ung thư phổi trên cơ sở những nguyên nhân gây bệnh , có thể đề xuất những biện pháp phòng ngừa bệnh ung thư phổi như sau : không hút thuốc lá hoặc tránh tiếp xúc với khói thuốc .",
+    "entities": [
+      {
+        "text": "bệnh ung thư phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu ruột bị thủng hoặc nếu thuốc xổ không thành công trong điều chỉnh các vấn đề , phẫu thuật là cần thiết .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải nhiễm trùng huyết có rất nhiều yếu tố có thể tăng nguy cơ mắc bệnh này , như : người bị suy yếu hệ miễn dịch; mắc các bệnh lý mạn tính như : xơ gan , đái tháo đường , hiv/aids , bệnh van ti m và tim bẩm sinh , bệnh phổi mạn tính , suy thận mạn tính , .",
+    "entities": [
+      {
+        "text": "bệnh phổi mạn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy thận mạn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tim bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh van ti",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hiv/aids",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục nếu đã được chẩn đoán viêm xơ đường mật , thực hiện các bước để chăm sóc cho gan , chẳng hạn như : không uống rượu .",
+    "entities": [
+      {
+        "text": "viêm xơ đường mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết những người phát triển viêm dây thần kinh thị giác đau mắt kinh nghiệm đó là trở nên tồi tệ bởi chuyển động của mắt .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau mắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh thấp tim ở trẻ em các yếu tố có thể làm tăng nguy cơ thấp tim bao gồm : tiền sử gia đình .",
+    "entities": [
+      {
+        "text": "bệnh thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hở van hai lá là tình trạng van hai lá ở tim đóng không chặt làm cho máu chảy ngược về tâm nhĩ trong kỳ tâm thu .",
+    "entities": [
+      {
+        "text": "hở van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một biến chứng nguy hiểm tiềm tàng của thiếu máu cục bộ mạc treo ruột mãn tính là sự phát triển của một cục máu đông trong động mạch bị bệnh , gây đột nhiên bị chặn dòng chảy máu ( thiếu máu cục bộ mạc treo tràng cấp tính ) .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ mạc treo tràng cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiếu máu cục bộ mạc treo ruột mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các khối u có thể là nguyên phát tại chỗ như u thần kinh thị giác , u mao mạch hay u mạch máu hang , hoặc các u thứ phát như ung thư biểu mô di căn , ung thư hầu họng , lymphoma và leukemia .",
+    "entities": [
+      {
+        "text": "ung thư biểu mô di căn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư hầu họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u mạch máu hang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u mao mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lymphoma",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "leukemia",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu động mạch chủ - mạch máu lớn dẫn máu từ tim đến phần còn lại của cơ thể - bị ảnh hưởng , tình trạng này có thể trở nên nguy hiểm đến tính mạng .",
+    "entities": [
+      {
+        "text": "động mạch chủ - mạch máu lớn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không tự ý sử dụng thuốc , bao gồm cả thuốc dược liệu vì một số thuốc có thể gây block nhĩ thất .",
+    "entities": [
+      {
+        "text": "block nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể sử dụng một số bước sau đây và kiểm tra để loại trừ các điều kiện khác gần tương tự như của bệnh viêm động mạch takayasu và xác định chẩn đoán : lịch sử y tế và khám lâm sàng .",
+    "entities": [
+      {
+        "text": "bệnh viêm động mạch takayasu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khám lâm sàng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "thuốc chống đông : enoxaparin ( heparin trọng lượng phân tử thấp ) , bivalirudin ( thuốc ức chế trực tiếp thrombin ) , fondaparinux ( thuốc ức chế chọn lọc yếu tố xa ) , heparin không phân đoạn , … các thuốc ức chế thụ thể glycoprotein iib/iiia của tiểu cầu .",
+    "entities": [
+      {
+        "text": "thuốc ức chế thụ thể glycoprotein iib/iiia",
+        "type": "THUỐC"
+      },
+      {
+        "text": "heparin không phân đoạn",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chống đông",
+        "type": "THUỐC"
+      },
+      {
+        "text": "fondaparinux",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bivalirudin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "enoxaparin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đi khám nếu không thấy thuyên giảm trong một vài ngày hoặc sớm hơn nếu bị đau nặng hoặc chảy máu .",
+    "entities": [
+      {
+        "text": "đau nặng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến giãn tĩnh mạch nguyên nhân của tăng áp lực tĩnh mạch cửa : tiền gan : tắc nghẽn tĩnh mạch cửa ( ehpvo ) hoặc lách to với lưu lượng máu tĩnh mạch lách tăng .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa viêm phúc mạc là bệnh nhiễm trùng do vi khuẩn hoặc nấm phúc mạc , một màng mỏng giống như bức thành bên trong bụng và bao gồm các cơ quan trong ổ bụng .",
+    "entities": [
+      {
+        "text": "bệnh nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với nhiều người họ là những loại thuốc hiệu quả nhất , và thường là loại đầu tiên của thuốc theo quy định .",
+    "entities": [
+      {
+        "text": "thuốc theo quy định",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đường ruột thiếu máu cục bộ có thể gây đau và gây cho đường ruột thực hiện chức năng khó khăn .",
+    "entities": [
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một số biện pháp thay thế phổ biến hơn cho bệnh alzheimer và các hình thức khác của chứng mất trí là : vitamin e . một số nghiên cứu đã chỉ ra rằng vitamin e có thể làm chậm sự tiến triển của bệnh alzheimer , trong khi các nghiên cứu khác đã cho thấy không có lợi ích .",
+    "entities": [
+      {
+        "text": "bệnh alzheimer",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chứng mất trí",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vitamin e",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một số người cần thuốc có ảnh hưởng đến một số hoạt động của hệ thần kinh tự trị ( anticholinergics ) để làm giảm co thắt ruột gây đau .",
+    "entities": [
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : điều trị tăng tiết mồ hôi bằng phẫu thuật nội soi đổ mồ hôi nhiều : tốt hay không tốt ?",
+    "entities": [
+      {
+        "text": "phẫu thuật nội soi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tăng tiết mồ hôi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục bác sĩ có thể khuyên nên thay đổi lối sống để giúp kiểm soát cơn đau dạ dày không viêm loét .",
+    "entities": [
+      {
+        "text": "cơn đau dạ dày không viêm loét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "giai đoạn iii : trong giai đoạn này , các tế bào ung thư bắt đầu lan đến các hạch bạch huyết lân cận .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xạ trị xạ trị sử dụng năng lượng cao dầm , như proton hoặc tia gamma để tiêu diệt tế bào ung thư .",
+    "entities": [
+      {
+        "text": "proton hoặc tia gamma để tiêu diệt tế bào ung thư",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một khi đã tìm ra và xử lý nguyên nhân , việc điều trị rung nhĩ tập trung vào kiểm soát tần số thất , chuyển nhịp và dự phòng huyết khối tắc mạch .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau phẫu thuậ t ( một mình hoặc kết hợp với hóa trị liệu ) để cố gắng tiêu diệt bất kỳ tế bào ung thư nào có thể bị bỏ lại để giúp giảm nguy cơ ung thư phát triển trở lại .",
+    "entities": [
+      {
+        "text": "hóa trị liệu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuậ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh u tuyến yên tùy thuộc vào các loại nội tiết tố do khối u tiết ra , kích thước , vị trí , mức độ phát triển của khối u mà mỗi người bệnh lại có các triệu chứng , dấu hiệu bệnh khác nhau .",
+    "entities": [
+      {
+        "text": "bệnh u tuyến yên",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hiện tại , cách phòng ngừa bệnh thủy đậu một cách chủ động và có hiệu quả nhất là chủng ngừa thủy đậu bằng vắc - xin .",
+    "entities": [
+      {
+        "text": "bệnh thủy đậu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù thuốc và thậm chí cả các lựa chọn phẫu thuật tồn tại trong điều trị raynaud , các biện pháp tự chăm sóc thường rất thành công và thường cố gắng đầu tiên .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "raynaud",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi triệu chứng xuất hiện , họ có thể bao gồm : giảm cân mà không chủ ý . chán ăn .",
+    "entities": [
+      {
+        "text": "giảm cân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

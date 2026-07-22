@@ -1,0 +1,358 @@
+[
+  {
+    "text": "đường lây truyền bệnh thủy đậu thủy đậu là một bệnh truyền nhiễm , dễ lây lan bằng nhiều cách : lây theo đường hô hấp bằng các giọt nước nhỏ trong không khí bắn ra từ đường hô hấp như mũi , miệng của người bệnh .",
+    "entities": [
+      {
+        "text": "bệnh thủy đậu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "được biết đến như một lỗ rò khí quản thực quản , lỗ này có thể gây ra ho khi nuốt đột ngột và nghiêm trọng .",
+    "entities": [
+      {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đến cơ sở ý tế để khám ngay nếu tiết mồ hôi nhiều đi kèm với chóng mặt , đau ngực hoặc buồn nôn .",
+    "entities": [
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa bệnh crohn là một bệnh viêm ruột ( ibd ) .",
+    "entities": [
+      {
+        "text": "bệnh viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ibd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : dấu hiệu nhận biết sớm bệnh tim bẩm sinh trẻ em các bệnh tim bẩm sinh có thể điều trị sớm và cho kết quả khả quan van tim có vai trò gì ?",
+    "entities": [
+      {
+        "text": "bệnh tim bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân không phải rõ ràng những gì gây ra u hắc tố mắt , còn gọi là u ác tính ở mắt .",
+    "entities": [
+      {
+        "text": "u ác tính ở mắt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u hắc tố mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong những tình huống này , một khi đục thủy tinh thể được lấy ra , tầm nhìn có thể được sửa chữa với kính đeo hoặc kính áp tròng .",
+    "entities": [
+      {
+        "text": "đục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "kính áp tròng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "kính đeo",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "loại bỏ các khối u liên quan đến các dây thần kinh quan trọng có thể yêu cầu làm tổn thương các dây thần kinh , gây tê liệt một phần khuôn mặt của bạn ( rủ mặt ) .",
+    "entities": [
+      {
+        "text": "tê liệt một phần khuôn mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rủ mặt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ung thư xương là ung thư liên kết từ 3 loại tế bào : tế bào tạo xương , tế bào tạo sụn và tế bào liên kết của mô xương .",
+    "entities": [
+      {
+        "text": "ung thư xương",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của giãn tĩnh mạch chi dưới chế độ sinh hoạt : tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch chi dưới",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh tế bào thần kinh vận động không có biện pháp nào có thể ngăn chặn sự phát triển của bệnh tế bào thần kinh vận động .",
+    "entities": [
+      {
+        "text": "bệnh tế bào thần kinh vận động",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguy cơ mắc phải những ai có nguy cơ bị viêm mạch viêm mạch máu có thể xảy ra ở ở mọi lứa tuổi , ở cả nam và nữ , bất kỳ chủng tộc nào .",
+    "entities": [
+      {
+        "text": "viêm mạch máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "suy dinh dưỡng : trẻ bị suy dinh dưỡng dễ xảy ra khi kèm suy tim , nhiễm trùng tái phát , ăn uống kém .",
+    "entities": [
+      {
+        "text": "suy dinh dưỡng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi điều này xảy ra , những điều sau có thể phát triển : chóng mặt ; lú lẫn hoặc khó tập trung ; ngất xỉu ; đau ngực ; khó thở ( có hoặc không kèm theo đau ngực ) ; dễ mệt mỏi dù chỉ với một hoạt động nhỏ .",
+    "entities": [
+      {
+        "text": "khó tập trung",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngất xỉu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lú lẫn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ung thư cổ họng ảnh hưởng đến một phần của cơ thể quan trọng để hoạt động hàng ngày , chẳng hạn như thở , ăn uống và nói chuyện .",
+    "entities": [
+      {
+        "text": "ung thư cổ họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xạ trị xạ trị sử dụng các hạt năng lượng cao , chẳng hạn như x - quang , để cung cấp bức xạ cho các tế bào ung thư , làm cho chúng chết .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nói chuyện với bác sĩ nếu quan tâm đến thuốc thay thế để cố gắng giúp đối phó với xơ gan .",
+    "entities": [
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những người hút thuốc lá có nguy cơ ung thư bàng quang cao hơn hai đến ba lần so với những người không hút thuốc lá .",
+    "entities": [
+      {
+        "text": "ung thư bàng quang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "việc xấu có rất nhiều chế độ ăn uống bổ sung và các sản phẩm thảo dược được thiết kế để ngăn chặn sự thèm ăn , viện trợ giảm cân và các sản phẩm này có thể bị lạm dụng bởi những người rối loạn ăn uống .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trẻ em mắc một số bệnh trạng có nguy cơ rối loạn phổ tự kỷ hoặc các triệu chứng giống tự kỷ như hội chứng fragile x , một rối loạn di truyền gây ra các vấn đề về trí tuệ; bệnh xơ cứng củ ( tuberous sclerosis ) , một tình trạng trong đó các khối u lành tính phát triển trong não; và hội chứng rett , đây là tình trạng di truyền xảy ra hầu như chỉ có ở các bé gái , gây ra sự chậm phát triển đầu , thiểu năng trí tuệ và mất khả năng sử dụng tay có chủ đích .",
+    "entities": [
+      {
+        "text": "hội chứng fragile x",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rối loạn phổ tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiểu năng trí tuệ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh xơ cứng củ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng rett",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số người chỉ gặp các tác động nhẹ , nhưng những người khác lại phát triển các biến chứng đe dọa tính mạng .",
+    "entities": [
+      {
+        "text": "biến chứng đe dọa tính mạng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "dùng ít nhất 1.500mg canxi , cùng với một bổ sung vitamin d mỗi ngày , có thể có lợi ích .",
+    "entities": [
+      {
+        "text": "vitamin d",
+        "type": "THUỐC"
+      },
+      {
+        "text": "canxi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , có một số bằng chứng cho thấy serotonin , một hóa chất não tự nhiên có thể ảnh hưởng đến hành vi ăn uống .",
+    "entities": []
+  },
+  {
+    "text": "nội soi sử dụng một ống dài , gắn với một máy ảnh video và theo dõi xem toàn bộ đại tràng và trực tràng .",
+    "entities": [
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu đang nhạy cảm với chất gây dị ứng trong nhà , chẳng hạn như bọ ve trong bụi , gián , nấm mốc hoặc lông thú cưng , có thể có quanh năm các triệu chứng .",
+    "entities": []
+  },
+  {
+    "text": "ngoài ra người mẹ khi mang thai cần tránh xa các môi trường độc hại không tốt cho thai nhi , tránh xa các tác nhân như thuốc lá , các nguồn bệnh như cúm , quai bị , rubella .",
+    "entities": [
+      {
+        "text": "quai bị",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cúm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục nếu trải nghiệm nhẹ hoặc thỉnh thoảng có các triệu chứng khô mắt , có thể quản lý tình trạng với eyedrops toa và thường xuyên rửa mí mắt .",
+    "entities": [
+      {
+        "text": "triệu chứng khô mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "eyedrops toa",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh ung thư khoang miệng điều trị ung thư khoang miệng bao gồm điều trị điều trị khối u nguyên phát và hệ thống hạch cổ .",
+    "entities": [
+      {
+        "text": "bệnh ung thư khoang miệng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh tăng tiết mồ hôi đổ mồ hôi là cơ chế của cơ thể bạn để làm mát chính nó .",
+    "entities": [
+      {
+        "text": "bệnh tăng tiết mồ hôi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tại hoa kỳ , hầu hết bệnh ung thư xảy ra ở gan bắt đầu từ vùng khác của cơ thể , ví dụ như phổi , đại tràng hoặc vú .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

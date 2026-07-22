@@ -1,0 +1,518 @@
+[
+  {
+    "text": "trong một số trường hợp , mỏi mắt có thể cải thiện nếu nhận được điều trị cơ bản tình trạng mắt khác .",
+    "entities": [
+      {
+        "text": "mỏi mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "do vậy tắc mạch ối chỉ gặp ở một tỉ lệ rất nhỏ những phụ nữ làm cho người ta nghĩ đến vai trò của mức độ , số lượng mảnh mô thai , loại mảng phôi thai hay một số yếu tố nào đó của người mẹ .",
+    "entities": [
+      {
+        "text": "tắc mạch ối",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau tai biến mạch máu não , chức năng nói , vận động và cảm giác thường bị ảnh hưởng nhiều nhất .",
+    "entities": [
+      {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những dấu hiệu của sa van hai lá có thể bao gồm : đau ngực ; đau nửa đầu ; loạn nhịp tim : tim đập nhanh hoặc không đều ; chóng mặt hoặc choáng váng ; khó thở hoặc thở gấp , nhất là khi vận động hoặc nằm thẳng; rung nhĩ : rối loạn nhịp tâm nhĩ ; cảm thấy mệt mỏi .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tâm nhĩ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sa van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tim đập nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau nửa đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "choáng váng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "không đều",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thở gấp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chảy máu : da bị giãn tĩnh mạch có thể mỏng dần theo thời gian và nếu bị thương có thể dẫn đến chảy máu .",
+    "entities": [
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mỏng dần",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm có thể bao gồm axit mật iminodiacetic ( hida ) , chụp cộng hưởng từ ( mri ) hoặc nội soi ngược dòng ( ercp ) .",
+    "entities": [
+      {
+        "text": "axit mật iminodiacetic",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi ngược dòng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "hida",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ercp",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "suy tim : rối loạn nhịp tim lặp đi lặp lại gây ra bệnh cơ tim , có thể dẫn đến suy tim .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "giai đoạn này được chia thành iiia , iiib và iiic dựa trên số lượng hạch bạch huyết bị ảnh hưởng bởi ung thư .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các phương pháp xét nghiệm để chẩn đoán bệnh thông liên thất gồm x - quang tim phổi ( ngực ) thẳng , đo ecg , đặc biệt là siêu âm 2d và doppler tim , thông tim … phương pháp điều trị thông liên thất hiệu quả để có định hướng điều trị bệnh thông liên thất tốt , người ta phân thông liên thất thành bốn nhóm dựa vào diễn biến của huyết động học .",
+    "entities": [
+      {
+        "text": "x - quang tim phổi ( ngực ) thẳng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "doppler tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm 2d",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "thông tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ecg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc nôn nôn nhiều có thể dẫn đến mất nước có triệu chứng và bất thường điện giải ( điển hình là nhiễm kiềm chuyển hóa kèm theo hạ kali máu ) hoặc hiếm khi dẫn đến rách thực quản một phần ( mallory - weiss ) hoặc toàn bộ ( hội chứng boerhaave ) .",
+    "entities": [
+      {
+        "text": "hội chứng boerhaave",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mallory - weiss",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số loại chỉ ảnh hưởng đến một bên của cơ thể và gây ra một số mất mát bộ nhớ , nhầm lẫn và thay đổi tâm trạng .",
+    "entities": [
+      {
+        "text": "thay đổi tâm trạng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mất mát bộ nhớ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhầm lẫn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "những kính có hai phong cách - những người có một đường ngang nhìn thấy và những người không có một đường ( tiến bộ kiếng hai tròng ) .",
+    "entities": [
+      {
+        "text": "kính có hai phong cách",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ngay cả khi các triệu chứng nhẹ , đầy bụng và đau bụng có thể làm cho khó khăn ra trước công chúng .",
+    "entities": [
+      {
+        "text": "đầy bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu bệnh gan có liên quan đến rượu , nguy cơ chảy máu tĩnh mạch lớn hơn nhiều nếu tiếp tục uống .",
+    "entities": [
+      {
+        "text": "bệnh gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc men tetrabenazine ( xenazine ) là thuốc đầu tiên được cụ thể chấp thuận của cục quản lý dược và thực phẩm mỹ để điều trị các dấu hiệu hoặc triệu chứng của bệnh huntington .",
+    "entities": [
+      {
+        "text": "thuốc men tetrabenazine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xenazine",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đây là loại thiếu máu cục bộ bất ngờ có xu hướng xảy ra ở những người bị thiếu máu cục bộ đường ruột mãn tính .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ đường ruột mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "để khắc phục tình trạng , bác sĩ có thể thiết lập nhịp điệu thường xuyên ( nhịp xoang ) bằng cách sử dụng một thủ tục gọi là khử rung ( cardioversion ) , tùy thuộc vào nguyên nhân của rung nhĩ .",
+    "entities": [
+      {
+        "text": "cardioversion",
+        "type": "THUỐC"
+      },
+      {
+        "text": "khử rung",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân các hạch bạch huyết đóng một vai trò quan trọng trong khả năng của cơ thể chống lại bệnh tật .",
+    "entities": []
+  },
+  {
+    "text": "tình trạng này được xem là phản ứng của cơ thể đối với các trạng thái cảm xúc như trầm cảm , lo âu , hoảng loạn , tức giận hay căng thẳng kéo dài .",
+    "entities": [
+      {
+        "text": "căng thẳng kéo dài",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hoảng loạn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "trầm cảm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tức giận",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lo âu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng của viêm đại tràng màng giả có thể bắt đầu trong vòng 1 - 2 ngày sau khi bắt đầu dùng kháng sinh , hoặc có thể không xảy ra cho đến vài tuần sau khi ngưng kháng sinh .",
+    "entities": [
+      {
+        "text": "viêm đại tràng màng giả",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh celiac : hệ thống miễn dịch của cơ thể phản ứng lại với protein gluten trong lúa mì , yến mạch… và gây phá vỡ biểu mô ruột non .",
+    "entities": [
+      {
+        "text": "bệnh celiac",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc kháng acid , như maalox , mylanta , gelusil , rolaids và tums , có thể cung cấp cứu trợ nhanh chóng .",
+    "entities": [
+      {
+        "text": "mylanta",
+        "type": "THUỐC"
+      },
+      {
+        "text": "gelusil",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rolaids",
+        "type": "THUỐC"
+      },
+      {
+        "text": "maalox",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tums",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ở người lớn , suy tim có thể do : cơ tim suy yếu ( bệnh cơ tim ) ; bệnh động mạch vành ; bệnh van tim ; bệnh tim bẩm sinh ( dị tật tim bẩm sinh ) ; nhịp tim bất thường tái phát nguy hiểm ( loạn nhịp thất ) không được kiểm soát bởi các phương pháp điều trị khác; thất bại của ca ghép tim trước đó .",
+    "entities": [
+      {
+        "text": "bệnh động mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhịp tim bất thường",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh tim bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh van tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chính xác những gì gây ra các đột biến gen dẫn đến ung thư vòm họng không được biết , mặc dù các yếu tố , chẳng hạn như virus epstein - barr , làm tăng nguy cơ ung thư này đã được xác định .",
+    "entities": [
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh tiền mãn kinh các triệu chứng tiền mãn kinh có thể xuất hiện với mức độ nặng nhẹ khác nhau tùy từng người , có thể bao gồm : rối loạn kinh nguyệt : đây là triệu chứng dễ nhận thấy nhất .",
+    "entities": [
+      {
+        "text": "rối loạn kinh nguyệt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh tiền mãn kinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm ruột , như viêm loét đại tràng hoặc của bệnh crohn , có thể gây ra viêm niêm mạc trực tràng .",
+    "entities": [
+      {
+        "text": "viêm niêm mạc trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm loét đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tìm kiếm sự chăm sóc y tế kịp thời nếu nôn đi kèm với các dấu hiệu cảnh báo khác , chẳng hạn như : tức ngực ; đau bụng dữ dội hoặc chuột rút ; nhìn mờ ; sự hoang mang; sốt cao và cứng cổ ; phân hoặc mùi phân trong chất nôn ; chảy máu trực tràng .",
+    "entities": [
+      {
+        "text": "mùi phân trong chất nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chảy máu trực tràng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sự hoang mang;",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tức ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chuột rút",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhìn mờ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt cao",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cứng cổ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "glucose ngẫu nhiên &gt; 200 mg/dl ( &gt; 11.1 mmol/l ) có thể chẩn đoán , nhưng giá trị có thể bị ảnh hưởng bởi bữa ăn gần nhất và phải được chứng minh bằng xét nghiệm nhắc lại; xét nghiệm 2 lần có thể không cần thiết khi xuất hiện triệu chứng của đái tháo đường .",
+    "entities": [
+      {
+        "text": "glucose ngẫu nhiên",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "thuốc xịt mũi corticosteroid nếu các triệu chứng không dễ dàng kiểm soát bởi thuốc thông mũi hoặc thuốc chống dị ứng , bác sĩ có thể đề nghị một toa thuốc xịt mũi corticosteroid , chẳng hạn như fluticasone ( flonase ) hoặc ) mometasone ( nasonex ) .",
+    "entities": [
+      {
+        "text": "thuốc xịt mũi corticosteroid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chống dị ứng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc thông mũi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "fluticasone",
+        "type": "THUỐC"
+      },
+      {
+        "text": "mometasone",
+        "type": "THUỐC"
+      },
+      {
+        "text": "flonase",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nasonex",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ yếu tố có thể gây thiệt hại hay dẫn đến mất mát của các sợi lông và tế bào thần kinh ở tai trong bao gồm : lão hóa .",
+    "entities": []
+  }
+]

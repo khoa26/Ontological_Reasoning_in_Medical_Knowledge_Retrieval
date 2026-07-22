@@ -1,0 +1,431 @@
+[
+  {
+    "text": "các biện pháp điều trị bệnh tắc ống phóng tinh hiện nay , phương pháp phổ biến nhất được dùng để điều trị tắc ống phóng tinh là cắt đốt nội soi ống phóng tinh .",
+    "entities": [
+      {
+        "text": "cắt đốt nội soi ống phóng tinh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh tắc ống phóng tinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi ung thư được xử lý , bác sĩ có thể kê toa thuốc để kiểm soát hệ thống miễn dịch .",
+    "entities": [
+      {
+        "text": "toa thuốc để kiểm soát hệ thống miễn dịch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "liệu pháp miễn dịch tự thân – hy vọng mới cho người bệnh ung thư chủ đề : nội soi tiêu hóa nội soi ung thư đại tràng ung thư đại tràng tiêu hóa sinh thiết sàng lọc ung thư nội soi đại tràng",
+    "entities": [
+      {
+        "text": "liệu pháp miễn dịch tự thân",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nội soi đại tràng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi tiêu hóa",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến đau tim đau tim xảy ra khi một hoặc nhiều động mạch vành của bạn bị tắc nghẽn .",
+    "entities": [
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nó khởi phát đột ngột và có thể là do : cục máu đông ra khỏi vị trí từ tim ngăn chặn một động mạch , thường là cấp trên động mạch mạc treo ruột dẫn đến ruột .",
+    "entities": []
+  },
+  {
+    "text": "ngăn ngừa các biến chứng làm việc cùng nhau , và bác sĩ có thể giúp ngăn ngừa một số biến chứng có thể xảy ra với xơ gan đường mật : tăng áp lực tĩnh mạch cửa .",
+    "entities": [
+      {
+        "text": "xơ gan đường mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ những yếu tố làm tăng nguy cơ ung thư dạ dày bao gồm : chế độ ăn giàu thức ăn mặn và hun khói .",
+    "entities": [
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số thuốc dùng cho bệnh viêm động mạch takayasu có thể có tác dụng phụ có khả năng gây hại về lâu dài , vì vậy điều quan trọng là biết khi uống thuốc sẽ có rủi ro hay lợi ích lớn hơn .",
+    "entities": [
+      {
+        "text": "bệnh viêm động mạch takayasu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán sốt rét trường hợp nghi ngờ sốt rét : là những trường hợp có sốt và có yếu tố dịch tễ .",
+    "entities": [
+      {
+        "text": "sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của hở van ba lá chế độ sinh hoạt : tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị; duy trì lối sống tích cực , hạn chế sự căng thẳng; liên hệ ngay với bác sĩ khi cơ thể có những bất thường trong quá trình điều trị; thăm khám định kỳ để được theo dõi tình trạng sức khỏe , diễn tiến của bệnh và để bác sĩ tìm hướng điều trị phù hợp trong thời gian tiếp theo nếu bệnh chưa có dấu hiệu thuyên giảm .",
+    "entities": [
+      {
+        "text": "hở van ba lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tư vấn cũng có thể giúp các vấn đề khác thường liên quan đến chứng ù tai , bao gồm cả lo âu và trầm cảm .",
+    "entities": [
+      {
+        "text": "cả lo âu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "trầm cảm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tư vấn",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật : phẫu thuật lấy hạch cổ được chỉ định trong trường hợp hạch còn lại sau xạ trị 2 tháng .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một thử nghiệm trên da là an toàn và nhanh chóng , và có thể giúp xác định các chất gây dị ứng .",
+    "entities": [
+      {
+        "text": "thử nghiệm trên da",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "viêm túi mật : nguyên nhân , triệu chứng , chẩn đoán và điều trị cắt bỏ túi mật có ảnh hưởng gì đến sức khoẻ không ?",
+    "entities": [
+      {
+        "text": "cắt bỏ túi mật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến u trung thất nguyên nhân gây u trung thất ở trẻ em : trung thất trước : tuyến giáp lạc chỗ , lymphoma , ung thư mô liên kết , u quái .",
+    "entities": [
+      {
+        "text": "u trung thất ở trẻ em",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngay sau khi sinh ra trẻ đã bắt đầu xuất hiện những biểu hiện của thoát vị hoành như khó thở , suy hô hấp , tím tái .",
+    "entities": [
+      {
+        "text": "thoát vị hoành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy hô hấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tím tái",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "viêm niêm mạc trực tràng bức xạ có thể bắt đầu trong khi điều trị phóng xạ và kéo dài trong một vài tháng sau khi điều trị .",
+    "entities": [
+      {
+        "text": "viêm niêm mạc trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phóng xạ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bệnh uốn ván sơ sinh thường xảy ra ở trẻ bị đẻ rơi , đẻ tại nhà được chăm sóc theo phong tục tập quán lạc hậu , nhất là ở vùng núi , vùng sâu , vùng xa .",
+    "entities": [
+      {
+        "text": "bệnh uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "rối loạn chức năng ống eustachian : ống trong tai nối giữa tai giữa với cổ họng trên của bạn vẫn được mở rộng mọi lúc , vì một lý do nào đó gây rối loạn chức năng ống dẫn đến ù tai rối loạn mạch máu liên quan đến ù tai : xơ vữa động mạch , khối u đầu và cổ , huyết áp cao , hẹp mạch máu cấp máu cho vùng đầu mặt cổ , dị tật của mạch máu , .",
+    "entities": [
+      {
+        "text": "hẹp mạch máu cấp máu cho vùng đầu mặt cổ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "dị tật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "khoảng 90 phần trăm số người được chẩn đoán mắc bệnh ung thư đại tràng lớn tuổi hơn 50. ung thư đại tràng có thể xảy ra ở những người trẻ hơn , nhưng nó xảy ra ít thường xuyên .",
+    "entities": [
+      {
+        "text": "bệnh ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "làm như vậy làm mềm phân và tăng số lượng sẽ giúp tránh được những căng thẳng có thể gây bệnh trĩ hoặc làm trầm trọng thêm các triệu chứng của bệnh trĩ hiện có .",
+    "entities": [
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : dinh dưỡng cho người suy nhược cơ thể tác hại khi thừa hoặc thiếu vitamin b12 thiếu máu do thiếu sắt : nguyên nhân , triệu chứng , chẩn đoán và điều trị chủ đề : thiếu máu máu hồng cầu ruột non thiếu chất vitamin b12",
+    "entities": [
+      {
+        "text": "thiếu máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh thoái hóa võng mạc mặc dù không gây tử vong nhưng gây suy giảm thị lực , cuối cùng dẫn đến mù lòa , gây ảnh hưởng xấu đến tâm lý của bệnh nhân và người nhà .",
+    "entities": [
+      {
+        "text": "bệnh thoái hóa võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "giảm thị lực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mù lòa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trẻ sinh non có nhiều nguy cơ cho các vấn đề phát triển , bao gồm cả rối loạn tiêu hóa và chúng có thể gây ra khó nuốt .",
+    "entities": [
+      {
+        "text": "rối loạn tiêu hóa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó nuốt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mức độ ung thư tuyến tụy sau khi chẩn đoán ung thư tuyến tụy được xác nhận , bác sĩ sẽ làm việc để xác định mức độ , hoặc giai đoạn của ung thư .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cơn đau thắt ngực là một thuật ngữ y tế để chỉ tình trạng đau ngực hoặc cảm giác nặng ngực khó chịu do bệnh lý tim mạch vành .",
+    "entities": [
+      {
+        "text": "bệnh lý tim mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cơn đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nặng ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sau khi gây tê cục bộ mắt , bác sĩ phẫu thuật áp một đầu dò lạnh đến bề mặt bên ngoài của mắt trực tiếp trên các khiếm khuyết võng mạc .",
+    "entities": [
+      {
+        "text": "bác sĩ phẫu thuật áp một đầu dò lạnh đến bề mặt bên ngoài của mắt trực tiếp trên các khiếm khuyết võng mạc",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một số người bị cao huyết áp có thể có triệu chứng đau đầu , khó thở hoặc chảy máu cam , nhịp tim không đều , nhìn mờ , ù tai .",
+    "entities": [
+      {
+        "text": "nhịp tim không đều",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy máu cam",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhìn mờ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "biểu hiện trên lâm sàng với sốt cao , nôn ói , đau bụng , da xanh xao , niêm mạc nhạt màu , nước tiểu đậm màu , có thể vào sốc do tan huyết và suy thận cấp .",
+    "entities": [
+      {
+        "text": "niêm mạc nhạt màu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nước tiểu đậm màu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy thận cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "da xanh xao",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tan huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt cao",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nôn ói",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốc",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ung thư gan là một trong những hình thức phổ biến nhất của ung thư trên thế giới , nhưng ung thư gan không phổ biến ở hoa kỳ .",
+    "entities": [
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

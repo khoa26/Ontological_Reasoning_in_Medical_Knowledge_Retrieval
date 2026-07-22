@@ -1,0 +1,395 @@
+[
+  {
+    "text": "biến chứng có thể gặp khi mắc bệnh giãn tĩnh mạch chi dưới bệnh tĩnh mạch không tự khỏi và có thể nặng hơn theo thời gian nếu bị không điều trị hoặc điều trị chậm trễ .",
+    "entities": [
+      {
+        "text": "bệnh giãn tĩnh mạch chi dưới",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tĩnh mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các tác dụng phụ thường gặp nhất của adalimumab là kích thích da và đau ở chỗ tiêm , buồn nôn , chảy nước mũi và nhiễm trùng hô hấp trên .",
+    "entities": [
+      {
+        "text": "nhiễm trùng hô hấp trên",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy nước mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "adalimumab",
+        "type": "THUỐC"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "gần đây , một số thử nghiệm mới , có độ nhạy cao về troponin tim ( hs - ctn ) cũng rất chính xác đã có sẵn .",
+    "entities": [
+      {
+        "text": "hs - ctn",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "đột biến gen gọi là nod2 có xu hướng xảy ra thường xuyên ở những người bị bệnh crohn và dường như liên kết với khả năng cao hơn cần phẫu thuật cho bệnh .",
+    "entities": [
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thừa hưởng gen đột biến làm tăng nguy cơ ung thư đại tràng kế thừa đột biến gen làm tăng nguy cơ ung thư đại tràng , nhưng những gen di truyền được liên kết với tỷ lệ phần trăm nhỏ của ung thư đại tràng .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đau trong hốc mắt : đau âm ỉ trong mắt hoặc sâu trong hốc mắt; đau đặc biệt tăng lên khi chuyển động mắt .",
+    "entities": [
+      {
+        "text": "đau đặc biệt tăng lên khi chuyển động mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau âm ỉ trong mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau trong hốc mắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "xử trí hội chứng budd - chiari : chống đông , nong mạch / tiêu huyết khối , tips và ghép gan trực tràng .",
+    "entities": [
+      {
+        "text": "hội chứng budd - chiari",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ghép gan trực tràng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiêu huyết khối",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chống đông",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nong mạch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tips",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các liệu pháp có thể giúp kích thích đại tràng và giảm đau do táo bón , mặc dù hiệu quả của nó cho điều này chưa được chứng minh .",
+    "entities": [
+      {
+        "text": "táo bón",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "người bệnh có thể bị tiêu chảy một cách dữ dội , có thể đi đại tiện 20 - 50 lần/ngày , cảm giác mót , đi xong lại muốn đi tiếp .",
+    "entities": [
+      {
+        "text": "cảm giác mót",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ở nhiều nước có nền y học tiên tiến trên thế giới đã tiến hành áp dụng phương pháp này để điều trị bệnh teo dây thần kinh thị giác .",
+    "entities": [
+      {
+        "text": "bệnh teo dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ống mật và tổn thương gan , người bị xơ gan đường mật có thể có rối loạn chuyển hóa hoặc hệ thống miễn dịch khác , bao gồm : bệnh tuyến giáp .",
+    "entities": [
+      {
+        "text": "xơ gan đường mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tuyến giáp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp , một người có thể có một số đặc điểm của hội chứng marfan , nhưng không đủ để được chẩn đoán mắc chứng rối loạn này .",
+    "entities": [
+      {
+        "text": "hội chứng marfan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không dùng đầy đủ các loại thuốc kháng sinh điều trị viêm họng có thể , đặc biệt , làm tăng nguy cơ cho trẻ bị sốt thấp khớp và viêm thận nghiêm trọng .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh điều trị viêm họng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm thận",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bên cạnh điều trị nội khoa bằng thuốc , có thể điều trị tinh hoàn ẩn bằng phẫu thuật : phẫu thuật được chỉ định nếu điều trị nội khoa không hiệu quả , đảm bảo các nguyên tắc : đưa tinh hoàn ra ngoài lớp phúc mạc , đóng phúc mạc .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "những dấu hiệu và triệu chứng của bệnh huntington thường bao gồm tính cách thay đổi , chẳng hạn như khó chịu , tức giận , trầm cảm hoặc mất quan tâm .",
+    "entities": [
+      {
+        "text": "trầm cảm hoặc mất quan tâm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tính cách thay đổi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tức giận",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguy cơ mắc phải những ai có nguy cơ mắc phải sốt rét bệnh sốt rét có thể xuất hiện ở bất kỳ đối tượng nào , thậm chí những người có sức khỏe tốt nhất , hệ miễn dịch cao nhất cũng có thể bị ký sinh trùng sốt rét gây hại .",
+    "entities": [
+      {
+        "text": "bệnh sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm máu giúp đánh giá khả năng nhiễm trùng , tình trạng của bệnh đặc biệt trong trường hợp bệnh đã xuất hiện các biến chứng cấp tính .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "chế độ dinh dưỡng : không có yêu cầu đặc biệt về chế độ dinh dưỡng ở bệnh nhân viêm màng ngoài tim .",
+    "entities": [
+      {
+        "text": "viêm màng ngoài tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán huyết áp cao bác sĩ sẽ thăm hỏi về bệnh sử và khám sức khỏe để phát hiện những yếu tố nguy cơ làm gia tăng tình trạng cao huyết áp .",
+    "entities": [
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "và khó khăn hơn nhiều khi đang cố gắng để đối phó với một tình hình căng thẳng , chẳng hạn như chẩn đoán ung thư .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hội chứng đa polyp tuyến có tính chất gia đình ( fap ) : bệnh di truyền với hàng chục đến hàng trăm polyp ở đường tiêu hóa ( đa số đại trực tràng , một số có biểu hiện ở ruột non và dạ dày ) .",
+    "entities": [
+      {
+        "text": "hội chứng đa polyp tuyến",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "fap",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hiện nay , theo các kết quả nghiên cứu , bệnh ung thư phổi được chia thành 2 loại : ung thư phổi tế bào nhỏ và ung thư phổi không tế bào nhỏ .",
+    "entities": [
+      {
+        "text": "ung thư phổi không tế bào nhỏ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư phổi tế bào nhỏ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ung thư phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhận được chẩn đoán ung thư không có nghĩa là bạn phải ngừng làm những việc bạn thích hoặc thường làm .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ở người lớn để phòng tránh thoát vị ruột cần có một chế độ sinh hoạt và ăn uống điều độ hạn chế nguy cơ mắc các bệnh gây tăng áp lực ổ bụng , giảm cân khi thừa cân .",
+    "entities": [
+      {
+        "text": "thoát vị ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong xơ vữa động mạch , chất béo tích tụ trên thành động mạch và làm hẹp , tắc và giảm lưu lượng máu đến nuôi chi .",
+    "entities": []
+  },
+  {
+    "text": "rung nhĩ kịch phát hoặc mãn tính làm giảm thêm lưu lượng máu vào tâm thất trái ( lv ) , dẫn đến phù phổi và khó thở cấp khi nhịp thất không kiểm soát .",
+    "entities": [
+      {
+        "text": "rung nhĩ kịch phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngày nay các chuyên gia tin rằng viêm nội tâm mạc nhiều hơn với khả năng xảy ra từ việc tiếp xúc với vi trùng một cách ngẫu nhiên hơn từ một thủ thuật nha khoa hoặc phẫu thuật điển hình .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "về mặt gây mê hồi sức : kiểm soát và hỗ trợ hô hấp – tuần hoàn : duy trì cung cấp oxy cho sản phụ ( đặt nội khí quản , thở máy ) .",
+    "entities": [
+      {
+        "text": "đặt nội khí quản",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thở máy",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đối với những người bị ung thư tuyến nước bọt , hóa trị thường được sử dụng khi ung thư đã di căn đến các cơ quan ở xa hoặc trong trường hợp không thể kiểm soát được bằng phẫu thuậ t và xạ trị .",
+    "entities": [
+      {
+        "text": "ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuậ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một số mri , bao gồm cả mri chức năng , mri tưới máu và quang phổ học cộng hưởng từ có thể giúp bác sĩ đánh giá khối u và kế hoạch điều trị .",
+    "entities": [
+      {
+        "text": "quang phổ học cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri chức năng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri tưới máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "khối u",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

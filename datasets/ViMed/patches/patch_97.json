@@ -1,0 +1,395 @@
+[
+  {
+    "text": "tiêu chảy nặng có thể dẫn đến mất quá nhiều nước và chất điện giải , chủ yếu các chất như natri và kali .",
+    "entities": [
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù có những dấu hiệu và triệu chứng khó chịu , hội chứng ruột kích thích không gây tổn thương vĩnh viễn đến ruột già .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong số kiểm tra có thể trải qua loại trừ các nguyên nhân khác cho các triệu chứng như sau : nội soi đại tràng sigmoid .",
+    "entities": [
+      {
+        "text": "nội soi đại tràng sigmoid",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , kích thích não sâu là rất hiệu quả cho run trầm trọng và những tác dụng phụ rất hiếm .",
+    "entities": [
+      {
+        "text": "kích thích não sâu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "run trầm trọng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh thoát vị hoành ở trẻ em trong giai đoạn bào thai , trẻ vẫn có thể được phát hiện thoát vị hoành thông qua siêu âm bào thai phát hiện hình ảnh đa ối , các tạng xuất hiện trong ngực , hiếm khi thấy được lỗ thoát vị .",
+    "entities": [
+      {
+        "text": "bệnh thoát vị hoành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh u thực quản ( polyp thực quản lành tính ) tổng quan bệnh u thực quản ( polyp thực quản lành tính ) polyp thực quản là một dạng u ở thực quản .",
+    "entities": [
+      {
+        "text": "polyp thực quản lành tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh u thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tiểu đường tuýp 2 không gây nguy hiểm đến tính mạng ngay lập tức ( trừ khi có biến chứng cấp tính như hôn mê tăng áp lực thẩm thấu ) nhưng về lâu dài nó gây ra nhiều biến chứng mạn tính , gây tổn thương nhiều cơ quan quan trọng của cơ thể ( mạch vành , thận , cơ quan tiêu hóa . . ) .",
+    "entities": [
+      {
+        "text": "hôn mê tăng áp lực thẩm thấu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiểu đường tuýp 2",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng các nhà khoa học không biết tại sao có thể dẫn đến hội chứng guillain - barre ở một số người và không ở người khác .",
+    "entities": [
+      {
+        "text": "hội chứng guillain - barre",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "là phụ nữ do thay đổi hormone , nghẹt mũi thường bị xấu đi trong thời gian kinh nguyệt và mang thai .",
+    "entities": [
+      {
+        "text": "nghẹt mũi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một số thuốc mà bác sĩ thường kê cho người bệnh là : aspirin : giảm nguy cơ đông máu; thuốc chẹn beta : ngăn ngừa rối loạn nhịp tim và cải thiện lưu lượng máu; thuốc làm loãng máu : ngăn ngừa cục máu đông; thuốc lợi tiểu : loại bỏ chất lỏng dư thừa ở phổi; thuốc làm giãn mạch : giúp mạch máu giãn ra và cải thiện lưu lượng máu .",
+    "entities": [
+      {
+        "text": "thuốc làm loãng máu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc làm giãn mạch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chẹn beta",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc lợi tiểu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "aspirin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thuốc chẹn kênh calci cũng thể hiện hữu ích và thường kết hợp với thuốc chẹn beta trong điều trị cao huyết áp và chứng đau thắt ngực .",
+    "entities": [
+      {
+        "text": "thuốc chẹn kênh calci",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chẹn beta",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ở giai đoạn muộn của ung thư bàng quang , tế bào ung thư đã di căn xa , sẽ xuất hiện các biểu hiện sau : đau hông lưng đau trên xương mu đau hạ vị đau tầng sinh môn đau xương đau đầu đối tượng nguy cơ bệnh ung thư bàng quang cũng giống như nguyên nhân gây bệnh , các yếu tô nguy cơ ung thư bàng quang vẫn chưa được nghiên cứu một cách rõ ràng .",
+    "entities": [
+      {
+        "text": "bệnh ung thư bàng quang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau trên xương mu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau tầng sinh môn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau hông lưng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau hạ vị",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau xương",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "xuất hiện tiếng tim thứ 4 ( s4 ) và thường do co thắt ở nhĩ chống lại đáp ứng kém của thất trái ở giai đoạn muộn thì tâm trương .",
+    "entities": [
+      {
+        "text": "tiếng tim thứ 4",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến hội chứng marfan hội chứng marfan gây ra bởi một khiếm khuyết trong gen cho phép cơ thể sản xuất một loại protein giúp cung cấp cho mô liên kết độ đàn hồi .",
+    "entities": [
+      {
+        "text": "hội chứng marfan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh tăng tiết mồ hôi hầu hết mọi người đổ mồ hôi khi tập thể dục hoặc gắng sức , ở trong môi trường nóng hoặc lo lắng hoặc bị căng thẳng .",
+    "entities": [
+      {
+        "text": "đổ mồ hôi khi tập thể dục",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh tăng tiết mồ hôi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "căng thẳng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lo lắng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu sau sinh 6 tuần huyết áp còn cao có nguy cơ trở thành tăng huyết áp mạn , cần phải khám chuyên khoa tim mạch để có hướng chẩn đoán và điều trị kịp thời .",
+    "entities": [
+      {
+        "text": "tăng huyết áp mạn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , nó chỉ nên được quy định bởi một chuyên gia tiêu hóa về hội chứng ruột kích thích vì những tác dụng phụ tiềm năng .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng bong võng mạc không đau , nhưng triệu chứng bong võng mạc hầu như luôn luôn xuất hiện trước khi nó xảy ra .",
+    "entities": [
+      {
+        "text": "triệu chứng bong võng mạc",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bong võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu là người chăm sóc cho một ai đó với bệnh sa sút trí tuệ mất trí nhớ , có thể giúp bằng cách : hỏi người thân hay các thành viên khác trong gia đình để được giúp đỡ khi cần .",
+    "entities": [
+      {
+        "text": "bệnh sa sút trí tuệ mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "eeg thường hữu ích trong việc chẩn đoán một số loại động kinh , nhưng có thể thấy bình thường trong động kinh thùy trán .",
+    "entities": [
+      {
+        "text": "động kinh thùy trán",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "eeg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "có máu di truyền tương đối ( chẳng hạn như cha mẹ hoặc anh chị em ruột ) bị dị ứng hoặc hen suyễn .",
+    "entities": [
+      {
+        "text": "hen suyễn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "u trung thất là một bệnh lý hiếm gặp và thường nằm trong độ tuổi từ 30 - 50, tuy nhiên u trung thất có khả năng hiện diện ở mọi lứa tuổi .",
+    "entities": [
+      {
+        "text": "u trung thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguy cơ mắc phải những ai có nguy cơ mắc phải quai bị người chưa có miễn dịch đều có thể nhiễm virus quai bị và mắc bệnh quai bị .",
+    "entities": [
+      {
+        "text": "bệnh quai bị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nó được cho rằng những người có hội chứng ruột kích thích có thể không có đủ vi khuẩn tốt , và việc thêm men vi sinh với chế độ ăn uống có thể giúp giảm triệu chứng .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chụp cắt lớp võng mạc ( optical coherence tomography – oct ) để đánh giá độ dày của lớp tế bào sợi thần kinh võng mạc quanh mắt , tế bào hạch của võng mạc .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp võng mạc",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh tim bẩm sinh ebstein trong giai đoạn bào thai việc can thiệp điều trị bệnh tim bẩm sinh ebstein là không thể .",
+    "entities": [
+      {
+        "text": "bệnh tim bẩm sinh ebstein",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải phình động mạch não một số yếu tố làm tăng nguy cơ mắc phình động mạch não , bao gồm : hội chứng ehlers - danlos ; u sợi thần kinh ; bệnh thận đa nang ; tăng huyết áp ; hút thuốc lá; uống rượu bia; nghiện ma túy; xơ vữa động mạch ; xơ cứng động mạch ; hội chứng moyamoya ; hẹp eo động mạch chủ ; gặp chấn thương ở vùng đầu; bị dị tật ở động mạch não ( bẩm sinh hay di truyền ) .",
+    "entities": [
+      {
+        "text": "hội chứng ehlers - danlos",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hẹp eo động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phình động mạch não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng moyamoya",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh thận đa nang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ cứng động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u sợi thần kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "lão hóa và k éo dài tiếp xúc với tiếng ồn lớn có thể gây hao mòn trên những sợi lông hoặc các tế bào thần kinh trong ốc tai , gửi tín hiệu âm thanh đến não .",
+    "entities": []
+  },
+  {
+    "text": "phẫu thuật điều trị bệnh tinh hoàn ẩn là một phẫu thuật bảo tồn , do vậy nên được tiến hành khi có các phẫu thuật viên nhiều kinh nghiệm .",
+    "entities": [
+      {
+        "text": "bệnh tinh hoàn ẩn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ví dụ , bệnh ung thư trong cùng một gia đình có thể chia sẻ kết quả từ tiếp xúc với một chất gây ung thư ( carcinogen ) trong môi trường hoặc từ chế độ ăn tương tự hoặc các yếu tố lối sống .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

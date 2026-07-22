@@ -1,0 +1,344 @@
+[
+  {
+    "text": "trong các nghiên cứu , các phụ nữ mang thai với bệnh viêm động mạch takayasu , hầu hết phụ nữ sinh em bé khỏe mạnh .",
+    "entities": [
+      {
+        "text": "bệnh viêm động mạch takayasu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với hầu hết mọi người , không vội vàng để loại bỏ đục thủy tinh thể , vì nó thường không gây tổn hại cho mắt .",
+    "entities": [
+      {
+        "text": "đục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị bảo thủ có thể được đề nghị nếu ống dẫn nước mắt trở thành bị chặn từ mô sưng mặt sau khi bị thương .",
+    "entities": [
+      {
+        "text": "điều trị bảo thủ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng nhìn chung , các dấu hiệu và triệu chứng của viêm họng liên cầu bao gồm : đau cổ họng .",
+    "entities": [
+      {
+        "text": "viêm họng liên cầu bao gồm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau cổ họng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu không đeo kính hoặc không có triệu chứng rắc rối mắt và có nguy cơ thấp , các bệnh về mắt đang phát triển , chẳng hạn như bệnh tăng nhãn áp , khuyến cáo có một bài kiểm tra mắt ở khoảng cách sau đây .",
+    "entities": [
+      {
+        "text": "bài kiểm tra mắt ở khoảng cách sau đây",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xem xét chỉ định thuốc chống đông máu khi có tình trạng tăng đông hoặc tâm nhĩ trái mở rộng ( đường kính trong m - mode &gt; 50mm ) .",
+    "entities": [
+      {
+        "text": "thuốc chống đông máu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của bệnh bạch hầu chế độ sinh hoạt : bệnh nhân phục hồi sau bệnh bạch hầu cần nghỉ ngơi nhiều trên giường .",
+    "entities": [
+      {
+        "text": "bệnh bạch hầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các nghiên cứu đã không chứng minh rằng chất chống oxy hóa ở dạng thuốc viên có thể ngăn ngừa đục thủy tinh thể .",
+    "entities": [
+      {
+        "text": "đục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm chất chỉ điểm u : cea , ca 72 - 4 và ca 19 - 9. phòng ngừa bệnh ung thư dạ dày điều trị dứt điểm các bệnh viêm loét dạ dày tá tràng , đặc biệt khi nhiễm hp kèm theo thay đổi lối sống : ăn uống lành mạnh , nhiều rau củ quả , hạn chế đồ nướng , đồ ướp muối .",
+    "entities": [
+      {
+        "text": "bệnh viêm loét dạ dày tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xét nghiệm chất chỉ điểm u",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các thành viên gia đình có thể khuyến khích một cái nhìn tích cực và tránh đổ lỗi hoặc oán giận người có cơn co giật .",
+    "entities": [
+      {
+        "text": "cơn co giật",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc bệnh bệnh mạch vành một cơn đau thắt ngực mới xuất hiện hoặc cơn đau với tính chất dữ dội , khác với tính chất cơn đau thường ngày có thể báo hiệu một dạng đau thắt ngực nguy hiểm đó là cơn đau thắt ngực không ổn định hoặc thậm chí là nhồi máu cơ tim .",
+    "entities": [
+      {
+        "text": "cơn đau thắt ngực không ổn định",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong nhiều thập kỷ , các nhà nghiên cứu nghi ngờ xơ gan mật có thể chính là kết quả của nấm hay ký sinh trùng lây nhiễm vi khuẩn , có thể giải thích khối các tế bào t trong đường mật nhỏ .",
+    "entities": [
+      {
+        "text": "xơ gan mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phân độ chức năng suy tim theo hội tim mạch new york ( nyha ) : độ i : có bệnh tim nhưng không hạn chế các vận động thể lực .",
+    "entities": [
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , một chấn thương có thể cho phép vi khuẩn hoặc nấm để truy cập vào giác mạc thông qua các bề mặt bị hư hỏng , gây ra viêm giác mạc có liên quan đến nhiễm trùng .",
+    "entities": [
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ yếu tố nguy cơ viêm thực quản phụ thuộc vào nguyên nhân khác nhau của sự rối loạn .",
+    "entities": [
+      {
+        "text": "viêm thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu tim đập nhanh hay nhịp tim không đều , rối loạn nhịp tim nên đến bệnh viện để được các bác sĩ thăm khám .",
+    "entities": [
+      {
+        "text": "nhịp tim không đều",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tim đập nhanh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên vì một lý do nào đó , các cơ bụng không đóng kín gây nên tình trạng một phần của nội tạng trong ổ bụng chui ra ngoài theo vết hở rốn tạo thành một khối lồi lên ở vị trí rốn gây ra tình trạng thoát vị rốn thai nhi .",
+    "entities": [
+      {
+        "text": "thoát vị rốn thai nhi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thường gặp trong các bệnh ở tử cung ( viêm tử cung , u xơ tử cung , tình trạng dính nội mạc tử cung … ) hay nang buồng trứng và thậm chí là vòng tránh thai đặt sai vị trí .",
+    "entities": [
+      {
+        "text": "dính nội mạc tử cung",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nang buồng trứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm tử cung",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u xơ tử cung",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa thân chung động mạch là khuyết tật tim hiếm gặp lúc mới sinh ( bẩm sinh ) .",
+    "entities": [
+      {
+        "text": "thân chung động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán trong một kỳ khám lâm sàng , bác sĩ sẽ hỏi về triệu chứng , chẳng hạn như chảy máu cam hoặc nghẹt mũi và đã có bất cứ chấn thương cho mũi .",
+    "entities": [
+      {
+        "text": "chảy máu cam",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nghẹt mũi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh được gây ra trên các loài động vật máu nóng như gia súc , động vật hoang dã hoặc cũng có thể là bệnh than ở người .",
+    "entities": [
+      {
+        "text": "bệnh than",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng liệu pháp hóa trị và xạ kết hợp làm tăng tác dụng phụ của cả hai phương pháp điều trị .",
+    "entities": [
+      {
+        "text": "liệu pháp hóa trị và xạ kết hợp",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "chống đông máu bằng thuốc đối kháng vitamin k ( không phải thuốc chống đông đường uống tác dụng trực tiếp [doac] ) để ngăn ngừa huyết khối tắc mạch nếu bệnh nhân đã hoặc đang bị rung nhĩ , thuyên tắc hoặc cục máu đông nhĩ trái .",
+    "entities": [
+      {
+        "text": "thuốc đối kháng vitamin k",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc nhuộm được tiêm qua ống thông để làm cho các cấu trúc tim có thể nhìn thấy trên hình ảnh x quang .",
+    "entities": [
+      {
+        "text": "x quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "một số bổ sung và phương pháp trị liệu thay thế có thể giúp đối phó bao gồm : châm cứu .",
+    "entities": [
+      {
+        "text": "phương pháp trị liệu thay thế",
+        "type": "THUỐC"
+      },
+      {
+        "text": "châm cứu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương normal 0 false false false microsoftinternetexplorer4 định nghĩa lão thị - mất dần khả năng mắt để tập trung tích cực trên các đối tượng ở gần đó - là một lời nhắc nhở không tinh tế đã đạt đến tuổi trung niên .",
+    "entities": [
+      {
+        "text": "lão thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh u nguyên bào thần kinh tổng quan bệnh u nguyên bào thần kinh u nguyên bào thần kinh là ung thư phổ biến nhất trong năm năm đầu tiên của cuộc đời .",
+    "entities": [
+      {
+        "text": "bệnh u nguyên bào thần kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trước tiên , người bệnh cần ăn theo chế độ mềm hay lỏng , nằm theo một tư thế thích hợp để dồn thức ăn từ túi thừa ra sau đó phẫu thuật cắt bỏ túi thừa .",
+    "entities": [
+      {
+        "text": "phẫu thuật cắt bỏ túi thừa",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc bác sĩ có thể loại bỏ ráy dư thừa bằng cách sử dụng một dụng cụ nhỏ cong gọi là nạo hoặc bằng cách hút trong khi kiểm tra tai .",
+    "entities": [
+      {
+        "text": "bác sĩ có thể loại bỏ ráy dư thừa bằng cách sử dụng một dụng cụ nhỏ cong gọi là nạo",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bằng cách hút trong khi kiểm tra tai",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "huperzin a . được làm từ rêu của trung quốc , huperzin a tác dụng theo cách tương tự như chất ức chế cholinesterase theo toa .",
+    "entities": [
+      {
+        "text": "chất ức chế cholinesterase theo toa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "huperzin a",
+        "type": "THUỐC"
+      }
+    ]
+  }
+]

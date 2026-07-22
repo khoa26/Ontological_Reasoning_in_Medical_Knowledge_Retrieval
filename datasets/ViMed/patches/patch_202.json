@@ -1,0 +1,370 @@
+[
+  {
+    "text": "các kiểm tra thêm bác sĩ có thể giới thiệu một số xét nghiệm , bao gồm cả các nghiên cứu phân để kiểm tra các vấn đề nhiễm trùng hoặc kém hấp thu .",
+    "entities": [
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán tim to bệnh tim to được chẩn đoán điều trị qua các liệu pháp : xét nghiệm máu : để kiểm tra nồng độ của các chất xuất hiện khi có tổn thương ở tim , đặc biệt khi tim to có kèm theo một số triệu chứng khác như đau ngực , khó thở … chụp x quang lồng ngực , phổi .",
+    "entities": [
+      {
+        "text": "x quang lồng ngực , phổi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh này hiếm gặp , rối loạn nã o gây tử vong nhiều nhất xảy ra không thường xuyên ở những người không có yếu tố nguy cơ đã biết .",
+    "entities": [
+      {
+        "text": "rối loạn nã",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những người béo phì có tăng nguy cơ ung thư đại tràng và tăng nguy cơ chết vì ung thư đại tràng so với những người trọng lượng bình thường .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các hoạt động khác giải trí với các mức độ tiếng ồn nguy hiểm cao bao gồm trượt tuyết , xe máy hoặc nghe nhạc lớn .",
+    "entities": []
+  },
+  {
+    "text": "bao gồm : điện tâm đồ : điện tâm đồ ở bệnh nhân mắc viêm cơ tim có thể bình thường hoặc bất thường .",
+    "entities": [
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "những thuốc này giúp giảm trầm cảm cũng như ức chế hoạt động của tế bào thần kinh điều khiển ruột .",
+    "entities": [
+      {
+        "text": "trầm cảm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các phương pháp điều trị chủ yếu bao gồm : phẫu thuật : hầu hết bệnh nhân ung thư tuyến tụy khi phát hiện bệnh đều đã ở giai đoạn cuối , không thể phẫu thuật triệt để chữa hết bệnh nhưng có thể giúp người bệnh đỡ ngứa , vàng da , cải thiện đáng kể chất lượng cuộc sống cho người bệnh .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngứa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thuốc này cải thiện triệu chứng ở một số người bị bệnh crohn , bây giờ thường ưa thích để thay thế metronidazole .",
+    "entities": [
+      {
+        "text": "metronidazole",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu và triệu chứng có thể được liên kết với chứng khó nuốt có thể bao gồm : đau khi nuốt .",
+    "entities": [
+      {
+        "text": "đau khi nuốt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó nuốt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , để giảm nguy cơ ung thư cổ họng , có thể : ngừng hút thuốc hoặc không bắt đầu hút thuốc .",
+    "entities": [
+      {
+        "text": "ngừng hút thuốc hoặc không bắt đầu hút thuốc",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư cổ họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . bệnh gây nhiễm trùng không được điều trị đúng cách : viêm màng não , viêm đường tiết niệu , viêm phổi , viêm ruột thừa , .",
+    "entities": [
+      {
+        "text": "viêm đường tiết niệu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm ruột thừa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm màng não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh trĩ nội bệnh trĩ nội xuất phát từ nhiều nguyên nhân khác nhau như : do tĩnh mạch tại hạ bộ trực tràng , hậu môn bị phình gập , thu hẹp ống hậu môn khiến việc đẩy phân ra ngoài trở nên khó khăn hơn .",
+    "entities": [
+      {
+        "text": "bệnh trĩ nội",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu tình trạng này đe dọa tính mạng xảy ra , phẫu thuật là cần thiết để xóa tắc nghẽn và để loại bỏ phần ruột đã hoại tử .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "có thể thấy nhấp nháy đèn lấp lánh ( photopsia ) khi mắt nhắm hoặc khi đang ở trong một phòng tối .",
+    "entities": [
+      {
+        "text": "thấy nhấp nháy đèn lấp lánh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến viêm ruột thừa cấp bị nhiễm vi khuẩn như bacteroides fragili , e . coli , … nhưng điều kiện để vi khuẩn xâm nhập vào ruột thừa thì vẫn chưa rõ .",
+    "entities": [
+      {
+        "text": "viêm ruột thừa cấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu quan tâm về nhiễm h . pylori hoặc nghĩ rằng có thể có nguy cơ cao bị ung thư dạ dày , nói chuyện với bác sĩ .",
+    "entities": [
+      {
+        "text": "nhiễm h . pylori",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục có thể thực hiện các bước để cải thiện chất lượng cuộc sống khi bệnh tiến triển .",
+    "entities": [
+      {
+        "text": "thực hiện các bước để cải thiện chất lượng cuộc sống",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "mức độ nguy hiểm cho cơ thể khác nhau tùy vào loại ký sinh trùng sốt rét nào xâm hại đến cơ thể .",
+    "entities": []
+  },
+  {
+    "text": "tháo lồng ruột để xử lý vấn đề , bác sĩ có thể khuyên nên : dùng thuốc xổ bari hoặc không khí .",
+    "entities": [
+      {
+        "text": "thuốc xổ bari hoặc không khí",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "dấu hiệu hoặc triệu chứng khác có thể bao gồm khàn giọng , khó nuốt , cục ở cổ , và máu trong nước bọt hoặc đờm .",
+    "entities": [
+      {
+        "text": "máu trong nước bọt hoặc đờm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khàn giọng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó nuốt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cục ở cổ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chủng tộc : cao huyết áp đặc biệt phổ biến ở người gốc phi , thường phát triển ở độ tuổi sớm hơn so với người da trắng .",
+    "entities": [
+      {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau khi loại bỏ các mô đường ruột bị hư hại , bác sĩ phẫu thuật có thể kết nối các bộ phận khỏe mạnh của ruột với nhau .",
+    "entities": [
+      {
+        "text": "kết nối các bộ phận khỏe mạnh của ruột với nhau",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các nguyên nhân ít phổ biến hơn của rung nhĩ bao gồm : nhồi máu phổi ; thông liên nhĩ và các bệnh lý tim bẩm sinh khác; copd ; viêm cơ tim ; viêm màng ngoài tim .",
+    "entities": [
+      {
+        "text": "viêm màng ngoài tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thông liên nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhồi máu phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "copd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến block nhĩ thất các nguyên nhân phổ biến nhất của block nhĩ thất bao gồm : xơ hóa vô căn và xơ cứng hệ thống dẫn truyền ( khoảng 50% bệnh nhân ) .",
+    "entities": [
+      {
+        "text": "block nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sửa chữa ống kính đối với nhiều người trẻ tuổi , điều trị không cần thiết vì các ống kính mắt của họ linh hoạt , đủ để bù đắp cho tình trạng này .",
+    "entities": [
+      {
+        "text": "sửa chữa ống kính đối với nhiều người trẻ tuổi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "xạ trị là phương pháp có tác dụng trong một số loại u não trẻ em , nhất là medulloblastoma , germinoma .",
+    "entities": [
+      {
+        "text": "medulloblastoma",
+        "type": "THUỐC"
+      },
+      {
+        "text": "germinoma",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "u não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật lại lấy rộng tổn thương và tạo hình vùng khuyết hổng da , nếu diện cắt tiếp cận thì xạ trị sau mổ .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nhưng bác sĩ kiểm tra trước khi dùng thuốc chống tiêu chảy vì chúng có thể cản trở khả năng của cơ thể loại bỏ độc tố và dẫn đến biến chứng nghiêm trọng .",
+    "entities": [
+      {
+        "text": "thuốc chống tiêu chảy",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu và triệu chứng của bệnh mất thính lực có thể bao gồm : chất lượng tiếng nói bị bóp nghẹt và các âm thanh khác .",
+    "entities": [
+      {
+        "text": "chất lượng tiếng nói bị bóp nghẹt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh mất thính lực",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "các âm thanh khác",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

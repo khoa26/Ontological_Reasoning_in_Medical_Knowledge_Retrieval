@@ -1,0 +1,412 @@
+[
+  {
+    "text": "phẫu thuật giai đoạn sớm : phẫu thuật được xem là phương pháp điều trị cơ bản nhất cho bệnh nhân ung thư lưỡi giai đoạn sớm .",
+    "entities": [
+      {
+        "text": "ung thư lưỡi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "điều trị nhiễm trùng huyết bao gồm : chẩn đoán , điều trị nguyên nhân , điều trị triệu chứng , hỗ trợ chăm sóc sức khỏe và nâng cao sức đề kháng .",
+    "entities": [
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , các bác sĩ cho rằng việc giảm tiếp xúc của trẻ với các chất gây dị ứng như bụi giúp có thể trì hoãn hoặc ngăn chặn sốt cỏ khô - nhưng bằng chứng không rõ ràng .",
+    "entities": [
+      {
+        "text": "giảm tiếp xúc",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sốt cỏ khô",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng sự hiện diện của một số khối u ( bệnh polip ) hoặc một polyp lớn duy nhất có thể chặn dòng chảy bình thường của không khí hoặc chất lỏng thoát ra khỏi các xoang hoặc khoang mũi .",
+    "entities": [
+      {
+        "text": "bệnh polip",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "polyp lớn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên khi tình trạng trở nên nghiêm trọng , người bệnh sẽ gặp một vài dấu hiệu sau : mệt mỏi ; mạch đập bất thường ( loạn nhịp tim ) ; xung huyết ở cổ ; đau tức ngực , khó thở xảy ra khi hoạt động; lượng nước tiểu ít ; sưng ở bụng , chân hoặc tĩnh mạch cổ .",
+    "entities": [
+      {
+        "text": "mạch đập bất thường",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lượng nước tiểu ít",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xung huyết ở cổ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau tức ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tĩnh mạch cổ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sưng ở bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chân",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ sẽ kiểm tra xem có bị đỏ , sưng , và vệt màu trắng hoặc có mủ trên tonsils .",
+    "entities": [
+      {
+        "text": "bác sĩ sẽ kiểm tra xem có bị đỏ , sưng , và vệt màu trắng hoặc có mủ trên tonsils",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu đã được chẩn đoán có thai , thai chưa vào buồng tử cung mà có ra huyết bất thường ở âm đạo thì đó là 1 dấu hiệu quan trọng của thai ngoài tử cung .",
+    "entities": [
+      {
+        "text": "ra huyết bất thường ở âm đạo",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thai ngoài tử cung",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi sử dụng thực phẩm bảo quản lạnh tăng trên thế giới , tỷ lệ ung thư dạ dày đã giảm .",
+    "entities": [
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc này có thể là hữu ích cho những người có những cơn tiêu chảy , nhưng có thể làm trầm trọng thêm táo bón .",
+    "entities": [
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu ráy tai tắc nghẽn trở thành một vấn đề , bác sĩ có thể thực hiện các bước đơn giản để loại bỏ một cách an toàn .",
+    "entities": [
+      {
+        "text": "bác sĩ có thể thực hiện các bước đơn giản để loại bỏ một cách an toàn",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ráy tai tắc nghẽn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay thế thuốc các liệu pháp phi truyền thống sau đây có thể giúp giảm các triệu chứng của hội chứng ruột kích thích : châm cứu .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "châm cứu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ trực quan có thể kiểm tra dây thanh trong một thủ tục gọi là laryngoscopy , bằng cách sử dụng ánh sáng và gương nhỏ để nhìn vào mặt sau của cổ họng .",
+    "entities": [
+      {
+        "text": "kiểm tra dây thanh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "laryngoscopy",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu ống dẫn nước mắt không tự mở , bác sĩ có thể khuyên nên sử dụng một kỹ thuật massage đặc biệt để giúp mở các màng .",
+    "entities": [
+      {
+        "text": "sử dụng một kỹ thuật massage đặc biệt để giúp mở các màng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "điều này đi ngược lại quan điểm của nhiều người cho rằng bệnh ung thư thực quản có thể lây qua đường hô hấp .",
+    "entities": [
+      {
+        "text": "bệnh ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngay cả tập thể dục nhẹ có thể giúp giảm stress , giảm trầm cảm và bình thường chức năng ruột .",
+    "entities": [
+      {
+        "text": "trầm cảm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống vì nguyên nhân của nó là chưa biết trong nhiều trường hợp , lồng ruột thường không thể ngăn chặn .",
+    "entities": [
+      {
+        "text": "lồng ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "với một chẩn đoán sớm , có thể bảo vệ những người xung quanh từ đau mắt đỏ , được điều trị để giúp đối phó với các triệu chứng và giảm nguy cơ biến chứng .",
+    "entities": [
+      {
+        "text": "đau mắt đỏ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "u lympho không hodgkin có nhiều loại , tuy nhiên phổ biến nhất là khuếch tán tế bào lympho b và ung thư hạch nang .",
+    "entities": [
+      {
+        "text": "u lympho không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư hạch nang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một thủ thuật được gọi là scleral l iên quan đến khâu một miếng silicone hoặc miếng bọt biển màu trắng vào mắt ( màng cứng ) trong khu vực bị ảnh hưởng .",
+    "entities": [
+      {
+        "text": "iên quan đến khâu một miếng silicone hoặc miếng bọt biển màu trắng vào mắt ( màng cứng ) trong khu vực bị ảnh hưởng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "scleral",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thuốc theo toa khác cũng có thể dẫn đến loét bao gồm các thuốc dùng để điều trị loãng xương được gọi là bisphosphonates ( actonel , fosamax và những loại khác ) .",
+    "entities": [
+      {
+        "text": "bisphosphonates",
+        "type": "THUỐC"
+      },
+      {
+        "text": "loãng xương",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "actonel",
+        "type": "THUỐC"
+      },
+      {
+        "text": "fosamax",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "siêu âm doppler ( dòng thứ hai ) : thể hiện mức độ thông thường , đường kính , và dòng chảy trong tĩnh mạch cửa và lách , và các phần phụ; nhạy cảm với giãn tĩnh mạch dạ dày .",
+    "entities": [
+      {
+        "text": "siêu âm doppler",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "dịch tích tụ ở bụng ( cổ trướng ) hoặc chân ( phù nề ) có thể được quản lý bằng một chế độ ăn natri thấp và thuốc .",
+    "entities": [
+      {
+        "text": "dịch tích tụ ở bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cổ trướng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phù nề",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thoát vị kẹt tạo nên khối chắc , căng đau và có thể gây nôn , táo bón thoát vị bẹn nghẹt : là tình trạng nguy hiểm nhất khi mà các mô trong túi thoát vị bị xoắn lại có thể dẫn đến hoại tử vì không được cấp đủ máu .",
+    "entities": [
+      {
+        "text": "thoát vị bẹn nghẹt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thoát vị kẹt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "co thắt thực quản có thể gây đau ép ngực - triệu chứng mà cũng có thể được gây ra bởi một cơn đau tim .",
+    "entities": [
+      {
+        "text": "co thắt thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau ép ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cơn đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh crohn nhẹ thường gây ra khó chịu đường ruột nhẹ đến vừa phải , nhưng trong trường hợp nặng hơn - nghiêm trọng , cơn đau có thể nghiêm trọng và bao gồm buồn nôn và ói mửa .",
+    "entities": [
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ói mửa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ tăng nguy cơ mắc viêm xoang nếu có : sốt hoặc tình trạng dị ứng khác ảnh hưởng đến xoang .",
+    "entities": [
+      {
+        "text": "viêm xoang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "giống như viêm loét đại tràng , bệnh crohn có thể đau đớn và suy nhược và đôi khi có thể dẫn đến biến chứng nguy hiểm tính mạng .",
+    "entities": [
+      {
+        "text": "viêm loét đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh thuyên tắc phổi chẩn đoán thuyên tắc phổi chủ yếu dựa vào yếu tố nguy cơ , các triệu chứng lâm sàng và cận lâm sàng .",
+    "entities": [
+      {
+        "text": "bệnh thuyên tắc phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chủ đề : tiểu đường thai kỳ mang thai trẻ sơ sinh thai nhi tiểu đường xét nghiệm tiểu đường thai kỳ nghiệm pháp dung nạp glucose",
+    "entities": [
+      {
+        "text": "nghiệm pháp dung nạp glucose",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "tiểu đường thai kỳ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các dạng viêm màng ngoài tim có thể gặp : viêm màng ngoài tim cấp : đây là dạng phổ biến nhất , thường không kéo dài quá 3 tuần , có thể tự phát hoặc do một bệnh lý nào đó .",
+    "entities": [
+      {
+        "text": "viêm màng ngoài tim cấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

@@ -1,0 +1,420 @@
+[
+  {
+    "text": "những người bị sa sút trí tuệ có thể đi lang thang khỏi nhà hoặc dễ bị lạc , khiến họ có nhiều khả năng bị mắc kẹt bên ngoài khi thời tiết lạnh hoặc ẩm ướt .",
+    "entities": [
+      {
+        "text": "sa sút trí tuệ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh thoát vị đùi triệu chứng thoát vị đùi chính của thoát vị đùi là xuất hiện khối phình to ở đùi , xuất hiện nhiều khi đi lại nhiều và khi duỗi chân ra .",
+    "entities": [
+      {
+        "text": "thoát vị đùi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "rối loạn cảm giác , thay đổi cảm giác ở những khu vực bị ảnh hưởng sẽ có cảm giác tê , dị cảm hay đau nhức .",
+    "entities": [
+      {
+        "text": "tê , dị cảm hay đau nhức",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "cholesterol cao : tăng cholesterol làm tăng nguy cơ xơ vữa động mạch - yếu tố liên quan đến các cơn đau tim và đột quỵ .",
+    "entities": [
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hội chứng marfan ảnh hưởng đến nam giới và phụ nữ như nhau và xảy ra giữa tất cả các chủng tộc và dân tộc .",
+    "entities": [
+      {
+        "text": "hội chứng marfan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tất cả các loại block nhĩ thất xảy ra thường xuyên hơn ở những người trên 70 tuổi , đặc biệt là ở những người bị bệnh tim cấu trúc .",
+    "entities": [
+      {
+        "text": "bệnh tim cấu trúc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "block nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm nội tâm mạc hiếm gặp trong trường hợp hẹp van hai lá trừ khi cũng có hiện tượng trào ngược van hai lá .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hẹp van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán giãn tĩnh mạch thực hiện các xét nghiệm và chẩn đoán hình ảnh công thức máu hemoglobin có thể bình thường khi đang chảy máu và có thể mất từ ​​6 đến 24 giờ để cân bằng .",
+    "entities": [
+      {
+        "text": "chẩn đoán hình ảnh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "giãn tĩnh mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "chèn ép tim : do tràn dịch màng tim đột ngột khiến hạ huyết áp và không thể bơm máu về đầy tim .",
+    "entities": [
+      {
+        "text": "tràn dịch màng tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chèn ép tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hạ huyết áp",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong một thủ tục lâu dài hơn được gọi là nhiệt , bác sĩ sẽ gây tê vùng với gây mê và sau đó áp dụng một dây nóng làm co lại các mô của khu vực thoát nước và gây ra sẹo - đóng ống dẫn nước mắ t .",
+    "entities": [
+      {
+        "text": "đóng ống dẫn nước mắ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhiệt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sau đó , bác sĩ sẽ tiến hành một vài xét nghiệm để chẩn đoán chính xác tình trạng bệnh , như là : siêu âm tim ; điện tâm đồ ( ecg ) ; chụp x - quang ngực ; chụp cộng hưởng từ mri tim ; chụp ct tim ; kiểm tra gắng sức ; đặt ống thông tim .",
+    "entities": [
+      {
+        "text": "chụp cộng hưởng từ mri tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp x - quang ngực",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "kiểm tra gắng sức",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đặt ống thông tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp ct tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ecg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "giai đoạn đầu tiên - viêm đường mật là nghiêm trọng nhất , và giai đoạn 4 - xơ gan nghiêm trọng nhất .",
+    "entities": [
+      {
+        "text": "viêm đường mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "do đó , khi có các triệu chứng bất thường trên tim , đặc biệt là đau vùng ngực , bệnh nhân cần gặp bác sĩ càng sớm càng tốt .",
+    "entities": [
+      {
+        "text": "đau vùng ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải chướng bụng một số yếu tố làm tăng nguy cơ mắc chướng bụng , bao gồm : ăn nhiều thực phẩm béo , dầu mỡ khó tiêu .",
+    "entities": [
+      {
+        "text": "chướng bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trường hợp ung thư lan rộng không thể phẫu thuật , hóa chất đơn thuần hoặc hóa xạ trị đồng thời nhằm giảm triệu chứng , cải thiện chất lượng sống xem thêm : chốc đầu ( nấm da đầu ) : nguyên nhân , triệu chứng , chẩn đoán và điều trị hiểu đúng về cấy tóc cường độ tia uv mạnh nhất vào lúc nào trong ngày ?",
+    "entities": [
+      {
+        "text": "cấy tóc cường độ tia uv mạnh nhất",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hóa chất đơn thuần",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hóa xạ trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nấm da đầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chốc đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chụp mạch vành chụp mạch vành thường kết hợp chẩn đoán với can thiệp mạch vành qua da ( pci - tức là nong mạch , đặt stent ) .",
+    "entities": [
+      {
+        "text": "chụp mạch vành chụp mạch vành",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "can thiệp mạch vành qua da",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , bất kỳ điều kiện đi cùng hoặc mũi xoang chẳng hạn như dị ứng không thể chữa khỏi bằng phẫu thuật .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc mặc dù một số loại khối u đại tràng đến nay nhiều khả năng trở thành ác tính hơn những loại khác , nghiên cứu bệnh học thường phải xem xét mô polip dưới kính hiển vi để xác định xem nó có khả năng ung thư .",
+    "entities": [
+      {
+        "text": "u đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiều nguyên nhân gây ra bệnh thoái hóa võng mạc không tăng sinh bao gồm : tăng huyết áp : áp lực cao trong mạch máu hệ thống làm cho thành động mạch dày lên , bao gồm cả động mạch nuôi võng mạc , làm giảm hiệu quả lưu lượng máu đến võng mạc .",
+    "entities": [
+      {
+        "text": "bệnh thoái hóa võng mạc không tăng sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh teo thực quản tổng quan bệnh teo thực quản teo thực quản là một trong những dị tật bẩm sinh đường tiêu hóa thường gặp nhất , với tần suất khoảng 1/4000 trẻ sinh sống .",
+    "entities": [
+      {
+        "text": "bệnh teo thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh biểu hiện triệu chứng bằng những cơn sốt rét điển hình : rét run , sốt , vã mồ hôi .",
+    "entities": [
+      {
+        "text": "vã mồ hôi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rét run",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "luôn mặc quần áo ấm cho trẻ trong mùa lạnh : mang trẻ vào trong nhà nếu trẻ bắt đầu rùng mình - đó là dấu hiệu đầu tiên cho thấy tình trạng hạ thân nhiệt đang bắt đầu .",
+    "entities": [
+      {
+        "text": "hạ thân nhiệt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rùng mình",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguồn nước bị ô nhiễm : việc tiếp xúc với nguồn nước bị ô nhiễm cũng có thể dẫn đến nhiễm trùng đường ruột .",
+    "entities": [
+      {
+        "text": "nhiễm trùng đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có 3 dạng thiểu sản men răng di truyền , đó là : dạng thiểu sản men : bất thường xảy ra trong sự hình thành khung hữu cơ dạng kém khoáng hóa : bất thường xảy ra trong quá trình khoáng hóa khung hữu cơ dạng kém trưởng thành : bất thường xảy ra trong quá trình trưởng thành của khung hữu cơ thiểu sản men răng do tác động của môi trường : các yếu tố từ môi trường tác động tới các tế bào tạo men , có thể ảnh hưởng đến cả răng sữa và răng vĩnh viễn .",
+    "entities": [
+      {
+        "text": "thiểu sản men răng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "igm xuất hiện trung bình sau 4 – 5 ngày khi người bệnh bắt đầu phát ban , mất dần từ tuần thứ 7 trở đi và mất hoàn toàn vào tuần thứ 8. kết quả xét nghiệm dương tính có thể cho ta biết được cấp độ của bệnh .",
+    "entities": [
+      {
+        "text": "phát ban",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong thủ tục gọi là phẫu thuật nội soi , bác sĩ phẫu thuật làm một đường rạch nhỏ ở bụng và chèn một máy ảnh nhỏ .",
+    "entities": [
+      {
+        "text": "phẫu thuật nội soi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các bệnh phổ biến nhất trong nhóm bệnh này bao gồm : x ơ cứng cột bên teo cơ , teo cơ tủy , teo cơ cột sống .",
+    "entities": [
+      {
+        "text": "ơ cứng cột bên teo cơ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "teo cơ cột sống",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "teo cơ tủy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của rối loạn nhịp tim rối loạn nhịp tim có thể không gây ra bất kỳ triệu chứng rõ ràng nào .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các nguyên nhân khác bao gồm : chảy máu sử dụng chất kích thích sử dụng thuốc quá liều ( ví dụ quá liều aspirin ) chế độ sống không lành mạnh : môi trường ẩm thẩm , suy dinh dưỡng bị tác dụng phụ của một số thuốc điều trị đau nghiêm trọng mang thai các bệnh về phổi như nhiễm trùng phổi , bệnh phổi tắc nghẽn mãn tính ( copd ) , hen suyễn , giãn phế quản , tắc mạch phổi , ứ khí phổi .",
+    "entities": [
+      {
+        "text": "bệnh phổi tắc nghẽn mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau nghiêm trọng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhiễm trùng phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "giãn phế quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tắc mạch phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ứ khí phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hen suyễn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "copd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa bệnh mạch vành để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : không hút thuốc lá .",
+    "entities": [
+      {
+        "text": "bệnh mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

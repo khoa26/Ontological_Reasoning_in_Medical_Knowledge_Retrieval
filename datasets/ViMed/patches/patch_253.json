@@ -1,0 +1,383 @@
+[
+  {
+    "text": "trước đây , chế độ ăn uống và sự căng thẳng đã bị nghi ngờ , nhưng bây giờ các bác sĩ biết rằng mặc dù các yếu tố này có thể làm nặng thêm bệnh crohn hiện tại , nhưng không gây ra nó .",
+    "entities": [
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phát ban nổi rõ thành từng đốm , lành vẫn có thể để lại dấu vết; sốt cao có thể lên đến 400c; có giai đoạn tiền triệu chứng đặc trưng với các biểu hiện như sốt , chảy nước mũi , ho khan , viêm kết mạc .",
+    "entities": [
+      {
+        "text": "chảy nước mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm kết mạc",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phát ban",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ho khan",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân động kinh thùy trán có thể là do bất thường - chẳng hạn như khối u , dị dạng mạch máu hoặc do chấn thương thùy trán của não .",
+    "entities": [
+      {
+        "text": "động kinh thùy trán",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm máu có thể tiết lộ bệnh nhiễm trùng , vàng da , viêm tụy hoặc các biến chứng khác do sỏi mật .",
+    "entities": [
+      {
+        "text": "bệnh nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "dùng lớn hơn liều được đề nghị của một số loại thuốc kê toa , chẳng hạn như acetaminophen , có thể làm tăng nguy cơ tổn thương gan .",
+    "entities": [
+      {
+        "text": "acetaminophen",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra và chẩn đoán để chẩn đoán viêm phúc mạc , bác sĩ sẽ nói chuyện về bệnh sử và kiểm tra .",
+    "entities": [
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của phù bạch huyết để giảm nguy cơ biến chứng do phù bạch huyết , tránh làm tổn thương chi bị ảnh hưởng .",
+    "entities": [
+      {
+        "text": "phù bạch huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu gặp một sự khởi đầu bất ngờ của nhấp nháy , hạt nổi hoặc một bức màn đen tối hoặc bóng qua một phần của mắt , hãy tìm trợ giúp y tế ngay lập tức .",
+    "entities": [
+      {
+        "text": "bóng qua một phần của mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "một bức màn đen tối",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhấp nháy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hạt nổi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "khám lưỡi thấy ổ loét hoặc nhân lớn ở lưỡi : ổ loét phát triển và lan rộng nhanh làm giới hạn vận động của lưỡi; bên ngoài ổ loét có giả mạc nên dễ chảy máu .",
+    "entities": [
+      {
+        "text": "lưỡi thấy ổ loét",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhân lớn ở lưỡi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "dễ chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "xơ vữa động mạch là tình trạng lòng động mạch bị các mảng xơ vữa ( cholesterol , chất béo , đại thực bào , mô liên kết , tế bào cơ trơn , canxi , fibrin… ) tích tụ bám vào , làm tắc nghẽn và cản trở sự lưu thông máu , gây thiếu oxy đến các mô .",
+    "entities": [
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tỷ lệ thành công của chuyển nhịp và hiệu quả duy trì nhịp xoang sau khi thủ thuật cao hơn nếu ta sử dụng các loại thuốc chống loạn nhịp nhóm ia , ic hoặc iii trong khoảng 24 đến 48 giờ trước khi làm thủ thuật .",
+    "entities": [
+      {
+        "text": "thuốc chống loạn nhịp nhóm ia",
+        "type": "THUỐC"
+      },
+      {
+        "text": "iii",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ic",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "với lão hóa , các mô xung quanh mắt , bao gồm cả một số các cơ hỗ trợ mí mắt suy yếu .",
+    "entities": []
+  },
+  {
+    "text": "nếu thời gian cần để khôi phục lại trạng thái bình thường của tay kéo dài hơn 20 phút có thể kết luận người bệnh đã mắc hội chứng raynaud .",
+    "entities": [
+      {
+        "text": "hội chứng raynaud",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trường hợp van không đóng hoàn toàn dẫn đến tồn tại đồng thời tình trạng hẹp và hở van hai lá .",
+    "entities": [
+      {
+        "text": "hở van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hẹp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nghiên cứu cho thấy liều cao vitamin b - folic acid , b - 6 và b - 12 , giúp homocysteine thấp hơn và làm chậm sự tiến triển của bệnh alzheimer .",
+    "entities": [
+      {
+        "text": "vitamin b - folic acid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "homocysteine thấp hơn",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh alzheimer",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "b - 12",
+        "type": "THUỐC"
+      },
+      {
+        "text": "b - 6",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "theo khuyến cáo hiện nay của hội tim mạch châu âu và hội tim mạch việt nam , gọi là tăng huyết áp khi huyết áp tâm thu ≥140mmhg và/hoặc huyết áp tâm trương ≥ 90mmhg ( hội tim mạch hoa kì coi huyết áp ≥130/80mmhg là tăng huyết áp ) .",
+    "entities": [
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cơ hội sống sót tốt hơn nếu được hô hấp nhân tạo , tim có thể được sốc và trở lại nhịp điệu bình thường với một thiết bị gọi là máy khử rung tim .",
+    "entities": [
+      {
+        "text": "máy khử rung tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hô hấp nhân tạo",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguy cơ mắc phải những ai có nguy cơ mắc phải viêm ruột thừa cấp viêm ruột thừa cấp có thể xảy ra ở mọi lứa tuổi , mặc dù nó phổ biến nhất ở những người trong độ tuổi thanh thiếu niên và 20 tuổi .",
+    "entities": [
+      {
+        "text": "viêm ruột thừa cấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh tiểu đường tuýp 2 tổng quan bệnh tiểu đường tuýp 2 tiểu đường ( đái tháo đường ) là một bệnh rối loạn chuyển hóa mạn tính , trong đó cơ thể không sử dụng được glucose do thiếu hụt sản xuất insulin hoặc không sử dụng được insulin hoặc cả hai .",
+    "entities": [
+      {
+        "text": "bệnh tiểu đường tuýp 2",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc nói chung , điều trị cho mỏi mắt bao gồm các thay đổi trong thói quen làm việc hay môi trường .",
+    "entities": [
+      {
+        "text": "thay đổi trong thói quen làm việc hay môi trường",
+        "type": "THUỐC"
+      },
+      {
+        "text": "mỏi mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp , viêm mũi có thể là do cả hai nguyên nhân gây dị ứng và không dị ứng .",
+    "entities": [
+      {
+        "text": "viêm mũi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng biến chứng viêm dây thần kinh thị giác có thể bao gồm : thiệt hại thần kinh thị giác .",
+    "entities": [
+      {
+        "text": "thiệt hại thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ở mỗi giai đoạn thai kỳ mà có những nguyên nhân khác nhau từ đó đưa ra cách xử trí và chữa trị kịp thời , cụ thể : hỏi bệnh sử , khám lâm sàng và làm xét nghiệm dịch âm đạo để loại trừ rỉ ối , vỡ ối siêu âm tiền sản nhằm khảo sát và phát hiện các bất thường hình thái thai , đặc biệt bệnh lý hệ niệu của bào thai như các trường hợp loạn sản thận , tắc nghẽn đường niệu .",
+    "entities": [
+      {
+        "text": "xét nghiệm dịch âm đạo",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "tắc nghẽn đường niệu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh u lympho không hodgkin những phương pháp điều trị ung thư hạch không hodgkin phù hợp tùy thuộc vào loại và giai đoạn bệnh , sức khỏe tổng thể và sự lựa chọn của bệnh nhân phụ thuộc vào kinh tế , hoàn cảnh .",
+    "entities": [
+      {
+        "text": "bệnh u lympho không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư hạch không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay vào đó , các bác sĩ thường nhận thức một vấn đề trong quá trình xét nghiệm máu định kỳ hay đánh giá cho tình trạng khác .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa ung thư túi mật là ung thư bắt đầu trong túi mật .",
+    "entities": [
+      {
+        "text": "ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "để thực hiện nén , ngâm vải sạch trong nước và vặn sạch trước khi áp nó một cách nhẹ nhàng đến mí mắt khép kín .",
+    "entities": [
+      {
+        "text": "ngâm vải sạch trong nước và vặn sạch trước khi áp nó một cách nhẹ nhàng đến mí mắt khép kín",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nôn nên được phân biệt với trào ngược ( trớ ở trẻ em ) , đó là tình trạng di chuyển các chất chứa trong dạ dày mà không kèm theo buồn nôn hoặc co thắt mạnh cơ thành bụng .",
+    "entities": [
+      {
+        "text": "trào ngược",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "để khắc phục lỗi này , các bác sĩ thường khuyên nên phẫu thuật trong năm đầu tiên của cuộc sống để đóng lỗ và tái tạo lại các van .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "loạn thị thường xuất hiện lúc mới sinh và có thể xảy ra kết hợp với cận thị hoặc viễn thị .",
+    "entities": [
+      {
+        "text": "loạn thị",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viễn thị",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cận thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

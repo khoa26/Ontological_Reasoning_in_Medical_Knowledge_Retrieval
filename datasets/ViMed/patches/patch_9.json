@@ -1,0 +1,383 @@
+[
+  {
+    "text": "phương pháp điều trị sốt rét hiệu quả nguyên tắc điều trị : phát hiện và điều trị sớm , đúng và đủ liều .",
+    "entities": [
+      {
+        "text": "sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các phương pháp điều trị sốt thấp khớp bao gồm : thuốc kháng sinh : điều trị nhiễm trùng do vi khuẩn tiềm ẩn .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thủ tục này thường được thực hiện cùng với việc đóng tần số vô tuyến , liệu pháp laser nội mạc hoặc phẫu thuật cắt bỏ tĩnh mạch hiển lớn .",
+    "entities": [
+      {
+        "text": "phẫu thuật cắt bỏ tĩnh mạch hiển lớn",
+        "type": "THUỐC"
+      },
+      {
+        "text": "liệu pháp laser nội mạc",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đóng tần số vô tuyến",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hội chứng torres : di truyền các ung thư biểu mô tế bào đáy và ung thư biểu mô tuyến bã không di căn ở những bệnh nhân có xơ khô da nhiều ổ . bệnh thường kèm theo ung thư đại tràng và ung thư bóng vater .",
+    "entities": [
+      {
+        "text": "ung thư biểu mô tế bào đáy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư biểu mô tuyến bã",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư bóng vater",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng torres",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số điều kiện gây ra gan làm cho bilirubin quá nhiều , bao gồm cả xơ gan , nhiễm trùng đường mật và các rối loạn máu nhất định .",
+    "entities": [
+      {
+        "text": "nhiễm trùng đường mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu vẫn còn phải vật lộn với chứng ợ nóng và acid trào ngược mãn tính , bác sĩ sẽ làm việc để tìm thuốc giúp kiểm soát các dấu hiệu và triệu chứng .",
+    "entities": [
+      {
+        "text": "ợ nóng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chẩn đoán ung thư vòm họng thường chậm do các triệu chứng giai đoạn đầu mơ hồ , không đặc hiệu dễ nhầm với các bệnh lý lành tính của đường hô hấp trên .",
+    "entities": [
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "giai đoạn muộn hơn : nếu khả năng phẫu thuật được thì bác sĩ sẽ tiến hành phẫu thuật cho bệnh nhân , đồng thời kết hợp với một hoặc nhiều phương pháp khác như hóa trị , xạ trị .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "những độc tố gây kích ứng ruột , gây ra các dấu hiệu và triệu chứng của viêm đại tràng màng giả .",
+    "entities": [
+      {
+        "text": "viêm đại tràng màng giả",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân khi viêm xoang , các màng nhầy của mũi , xoang , họng ( đường hô hấp trên ) trở nên sưng lên .",
+    "entities": [
+      {
+        "text": "viêm xoang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sưng lên",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu không có nhịp tim có hiệu quả , huyết áp tụt đột ngột , ngay lập tức cắt giảm cung cấp máu cho cơ quan quan trọng - bao gồm cả não .",
+    "entities": [
+      {
+        "text": "huyết áp tụt đột ngột",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân chức năng các lý do cơ năng khiến bụng căng phồng có xu hướng liên quan đến các vấn đề tiêu hóa khiến khí và/ hoặc các chất tiêu hóa tích tụ .",
+    "entities": [
+      {
+        "text": "bụng căng phồng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng giãn tĩnh mạch thực quản thường không gây ra dấu hiệu và triệu chứng , trừ khi bị chảy máu .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tháo lồng bằng phẫu thuật : phương pháp này được sử dụng để can thiệp nếu tháo lồng không thành công hoặc có chống chỉ định tháo lồng .",
+    "entities": [
+      {
+        "text": "tháo lồng bằng phẫu thuật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ở mức độ này , khi rặn hay đi đại tiện , búi trĩ có thể thò ra ngoài sau đó tự thụt vào được chưa cần có sự can thiệp nào dấu hiệu của bệnh trĩ nội độ 3 là các biểu mô búi trĩ dày và to hơn , có màu đỏ sẫm và bề mặt thô như các búi trĩ ngoại .",
+    "entities": [
+      {
+        "text": "bệnh trĩ nội",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán viêm mũi không dị ứng được chẩn đoán dựa vào triệu chứng và loại trừ các nguyên nhân khác , đặc biệt là dị ứng .",
+    "entities": [
+      {
+        "text": "viêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh trĩ nội ở mỗi cấp độ nặng nhẹ của bệnh , dấu hiệu bệnh trĩ nội có thể bao gồm : dấu hiệu của bệnh trĩ nội độ 1 là đi vệ sinh ra máu , mặc dù không có cảm giác đau rát nhưng máu dính ở phân hay ở giấy vệ sinh , về sau nặng hơn máu chảy nhỏ giọt hay bắn thành tia kèm theo búi trĩ bị sa ra .",
+    "entities": [
+      {
+        "text": "đi vệ sinh ra máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "máu chảy nhỏ giọt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "máu dính ở phân",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh trĩ nội",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau rát",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh ung thư vòm họng nguyên tắc điều trị : xạ trị là phương thức điều trị cơ bản trong ung thư vòm họng do u nhạy cảm với tia xạ .",
+    "entities": [
+      {
+        "text": "bệnh ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "rửa phúc mạc với dịch lọc được làm nóng đến 40 - 45°c cần 2 ống thông hút dịch ra ngoài và đặc biệt hữu ích cho những bệnh nhân hạ thân nhiệt nghiêm trọng bị tiêu cơ vân , ngộ độc hoặc bất thường về điện giải .",
+    "entities": [
+      {
+        "text": "rửa phúc mạc",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bức xạ cho khối u bằng cách đặt một tấm bảng phóng xạ về mắt , trực tiếp trên các khối u trong được gọi là brachytheraphy .",
+    "entities": [
+      {
+        "text": "bức xạ cho khối u",
+        "type": "THUỐC"
+      },
+      {
+        "text": "brachytheraphy",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "được gọi là ức chế histamin h - 2, các loại thuốc này bao gồm cimetidine ( tagamet hb ) , famotidine ( pepcid ac ) , nizatidine ( axid ar ) hoặc ranitidine ( zantac 75 ) .",
+    "entities": [
+      {
+        "text": "cimetidine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tagamet hb",
+        "type": "THUỐC"
+      },
+      {
+        "text": "famotidine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nizatidine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ranitidine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "pepcid ac",
+        "type": "THUỐC"
+      },
+      {
+        "text": "zantac 75",
+        "type": "THUỐC"
+      },
+      {
+        "text": "axid ar",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu co thắt thực quản làm cho khó khăn để ăn uống , bác sĩ có thể khuyên nên điều trị .",
+    "entities": [
+      {
+        "text": "co thắt thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "t hời tiết thay đổi nhiệt độ hay thay đổi độ ẩm có thể gây ra các màng bên trong mũi sưng lên và gây ra hắt hơi sổ mũi .",
+    "entities": [
+      {
+        "text": "mũi sưng lên",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hắt hơi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sổ mũi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , hãy nhớ ở trẻ em đôi khi khó có thể nói rối loạn ăn uống là những gì và đơn giản là một ý thích , thử nghiệm một chế độ ăn chay hoặc phong cách ăn uống khác .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bạn có thể bị tắc nghẽn hoàn toàn hoặc một phần động mạch vành : sự tắc nghẽn hoàn toàn có nghĩa là bạn đã bị nhồi máu cơ tim có st chênh lên ( stemi ) .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim có st chênh lên",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những t iếng ồn ảo có thể khác nhau từ một tiếng thấp đến la hét cao , và có thể nghe thấy nó trong một hoặc cả hai tai .",
+    "entities": []
+  },
+  {
+    "text": "xuất huyết bất thường ( dưới da , trong cơ , xuất huyết tiêu hóa ) hoặc các cơ quan khác .",
+    "entities": [
+      {
+        "text": "xuất huyết bất thường",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "lối sống và các biện pháp khắc phục những lời khuyên sau đây có thể giúp giảm bớt hoặc loại bỏ quầng thâm dưới mắt : sử dụng một miếng gạc mát .",
+    "entities": [
+      {
+        "text": "sử dụng một miếng gạc mát",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù có thể cảm thấy như cuộc sống - sự sống còn , có thể thực hiện các bước để cảm nhận nhiều hơn trong kiểm soát và để đối phó với chẩn đoán ung thư cổ họng .",
+    "entities": [
+      {
+        "text": "ung thư cổ họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng bao gồm polyp u tuyến gia đình và ung thư trực tràng không polyp di truyền , còn được gọi là hội chứng lynch .",
+    "entities": [
+      {
+        "text": "ung thư trực tràng không polyp di truyền",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng lynch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "polyp u tuyến",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

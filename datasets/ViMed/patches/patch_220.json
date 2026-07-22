@@ -1,0 +1,372 @@
+[
+  {
+    "text": "nói chuyện với bác sĩ của bạn về nguy cơ rối loạn nhịp tim nếu bạn đang dùng thuốc để điều trị huyết áp cao hoặc tình trạng sức khỏe tâm thần .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tâm thần",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "để thực hiện xét nghiệm này , ngồi trước màn hình mà trên đó một mô hình cờ xen kẽ được hiển thị .",
+    "entities": [
+      {
+        "text": "xét nghiệm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "điều trị các rối loạn tâm lý cơ bản , chẳng hạn như lo âu hay trầm cảm , cũng có thể giúp làm giảm co thắt thực quản .",
+    "entities": [
+      {
+        "text": "co thắt thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "trầm cảm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lo âu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục thông qua lối sống cho sức khỏe tim có thể giúp ngăn ngừa các cơn rung thất , chủ yếu bằng cách giảm nguy cơ đau tim .",
+    "entities": [
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "cuối cùng , bông thủy tinh có thể võng và tách biệt với bề mặt của võng mạc - một tình trạng phổ biến được gọi là đội thủy tinh sau ( pvd ) , hoặc sụp đổ bông thủy tinh .",
+    "entities": [
+      {
+        "text": "đội thủy tinh sau",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bạn nên liên hệ với bác sĩ nếu bạn có bất cứ dấu hiệu tăng đường huyết nào sau đây : bạn bị tiêu chảy hoặc nôn mửa liên tục , nhưng vẫn có thể ăn và uống .",
+    "entities": [
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nôn mửa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "có hai loại ù tai : ù tai chủ quan và ù tai khách quan ù tai chủ quan là ù tai chỉ bạn có thể nghe .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ bệnh van tim một số yếu tố có thể làm tăng nguy cơ mắc bệnh van tim , bao gồm : tuổi cao .",
+    "entities": [
+      {
+        "text": "bệnh van tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trẻ em dưới 1 tuổi sẽ được tiêm vắc xin phối hợp phòng bạch hầu , ho gà , uốn ván , viêm gan b và viêm phổi /màng não do vi khuẩn hib .",
+    "entities": [
+      {
+        "text": "viêm gan b",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bạch hầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ho gà",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân có thể đến viện với tình trạng suy tim mà không rõ đau ngực trước đây , khảo sát các mạch vành thì có hẹp một cách có ý nghĩa .",
+    "entities": [
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tiếp xúc với khói thuốc lá hoặc mức độ cao của ô nhiễm không khí có thể làm tăng nguy cơ nhiễm trùng tai .",
+    "entities": [
+      {
+        "text": "nhiễm trùng tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mờ mắt có thể đề nghị cần một thay đổi đơn thuốc hoặc có vấn đề về mắt trầm trọng hơn mà có thể cần điều trị .",
+    "entities": [
+      {
+        "text": "mờ mắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "có thể làm giảm nguy cơ ung thư cổ họng bằng cách không hút thuốc , không nhai thuốc và hạn chế sử dụng rượu .",
+    "entities": [
+      {
+        "text": "không nhai thuốc và hạn chế sử dụng rượu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư cổ họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "không hút thuốc",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu bệnh crohn không được kiểm soát với các thuốc hiện tại , hãy hỏi bác sĩ nếu có những thử nghiệm lâm sàng có sẵn .",
+    "entities": [
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật : việc phẫu thuật được thực hiện nhằm mục đích can thiệp vào hoạt động của van hai lá giúp cho lượng máu tuần hoàn ở các ngăn tim trong cơ thể trở nên ổn định giúp tăng cường lượng máu tới phổi , cung cấp đầy đủ oxy cho cơ quan để các cơ quan hoạt động ổn định giúp cho trẻ phát triển bình thường .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đôi khi trĩ ngoại chảy nhiều máu và có thể hình thành một cục máu đông ( huyết khối ) , dẫn đến đau nặng , sưng và viêm .",
+    "entities": [
+      {
+        "text": "trĩ ngoại",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau nặng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sưng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến suy tim suy tim thường là kết quả của một số vấn đề ảnh hưởng đến tim cùng lúc .",
+    "entities": [
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "huyết áp tâm thu &lt; 80 mmhg ở người lớn hoặc giảm 20 mmhg so với huyết áp bình thường theo tuổi của trẻ em , lạnh chi , thiểu niệu .",
+    "entities": [
+      {
+        "text": "thiểu niệu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lạnh chi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các triệu chứng giai đoạn đầu bệnh viêm động mạch takayasu thường xảy ra trong hai giai đoạn .",
+    "entities": [
+      {
+        "text": "bệnh viêm động mạch takayasu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hội chứng viêm tĩnh mạch sau huyết khối ( postphlebitic ) : hội chứng này bao gồm một số triệu chứng như : phù nề chân ; đau chân ; đổi màu da .",
+    "entities": [
+      {
+        "text": "hội chứng viêm tĩnh mạch sau huyết khối",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "postphlebitic",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phù nề chân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đổi màu da",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau chân",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , khi nó xảy ra , xơ gan có thể bị đe dọa tính mạng bởi vì nó cản trở khả năng của gan thực hiện các chức năng cần thiết .",
+    "entities": [
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đau bụng có thể diễn ra từng cơn kéo dài 4 - 5 phút và cách nhau 10 - 20 phút .",
+    "entities": [
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các bác sĩ cảnh báo chống lại uống liều lớn vitamin e , đặc biệt là nếu đang dùng chất làm loãng máu vì tăng nguy cơ chảy máu .",
+    "entities": [
+      {
+        "text": "vitamin e",
+        "type": "THUỐC"
+      },
+      {
+        "text": "loãng máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi có một vài vết rách hay lỗ hoặc mở rộng , bác sĩ phẫu thuật có thể tạo ra một scleral khóa bao vây đi xung quanh toàn bộ chu vi của mắt như một vành đai .",
+    "entities": [
+      {
+        "text": "bác sĩ phẫu thuật có thể tạo ra một scleral khóa bao vây đi xung quanh toàn bộ chu vi của mắt như một vành đai",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tác dụng phụ của nhiều loại thuốc dùng để điều trị các triệu chứng của bệnh huntington có thể bao gồm kích động , mệt mỏi và bất an .",
+    "entities": [
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thông thường , mất trí nhớ khiến cho người ta mất kiểm soát các cơ bắp được sử dụng để nhai và nuốt , đặt họ vào nguy cơ nghẹt thở hoặc hít thức ăn vào phổi .",
+    "entities": [
+      {
+        "text": "mất kiểm soát các cơ bắp được sử dụng để nhai và nuốt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mất trí nhớ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trẻ được sinh ra từ mẹ nhiễm rubella trong 3 tháng đầu thai kỳ có nguy cơ mắc hội chứng rubella bẩm sinh rất cao gây đục thủy tinh thể , rung giật nhãn cầu , dị tật tim , điếc bẩm sinh , khiếm khuyết các cơ quan trong cơ thể , viêm phổi , viêm màng não , … và có thể dẫn đến tử vong .",
+    "entities": [
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yêu cầu bác sĩ hoặc dược sĩ kiểm tra tất cả các loại thuốc và thực phẩm bổ sung của bạn để đảm bảo không có thuốc nào gây đánh trống ngực .",
+    "entities": [
+      {
+        "text": "đánh trống ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh ung thư đại tràng tổng quan bệnh ung thư đại tràng ung thư đại tràng hay còn gọi là ung thư ruột già là một loại ung thư thường gặp ở việt nam cũng như trên thế giới .",
+    "entities": [
+      {
+        "text": "bệnh ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư ruột già",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ecg thường có các dấu hiệu phì đại thất trái ( ví dụ : s ở v1 cộng với sóng r ở v5 hoặc v6 &gt; 35 mm ) .",
+    "entities": [
+      {
+        "text": "ecg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  }
+]

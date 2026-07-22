@@ -1,0 +1,343 @@
+[
+  {
+    "text": "nếu nguyên nhân của hạ thân nhiệt không rõ ràng , thực hiện các xét nghiệm để phát hiện các yếu tố góp phần , bao gồm đo nồng độ cồn , sàng lọc thuốc và chất kích thích đã dùng , chức năng tuyến giáp .",
+    "entities": [
+      {
+        "text": "chức năng tuyến giáp",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chất kích thích",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đo nồng độ cồn",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sàng lọc thuốc",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù các thuốc này - ibuprofen , naproxen , diclofenac , piroxicam và những thuốc khác đã không được chứng minh gây ra bệnh crohn , nó có thể gây ra các dấu hiệu và triệu chứng tương tự .",
+    "entities": [
+      {
+        "text": "diclofenac",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ibuprofen",
+        "type": "THUỐC"
+      },
+      {
+        "text": "piroxicam",
+        "type": "THUỐC"
+      },
+      {
+        "text": "naproxen",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hiếm khi , bác sĩ có thể sử dụng một ống nhỏ xuyên qua màng nhĩ để dẫn lưu dịch từ tai giữa , một thủ tục gọi là tympanocentesis .",
+    "entities": [
+      {
+        "text": "bác sĩ có thể sử dụng một ống nhỏ xuyên qua màng nhĩ để dẫn lưu dịch từ tai giữa",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "tympanocentesis",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "hạ thân nhiệt là một trường hợp cấp cứu y tế xảy ra khi cơ thể mất nhiệt nhanh hơn mức có thể tạo ra nhiệt , gây ra nhiệt độ cơ thể thấp nguy hiểm .",
+    "entities": [
+      {
+        "text": "hạ thân nhiệt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thắt trĩ có thể gây khó chịu và có thể gây chảy máu bắt đầu 2 - 4 ngày sau khi thủ thuật , nhưng hiếm khi nặng .",
+    "entities": [
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa viêm thực quản là tình trạng viêm và tổn thương các mô của thực quản , ống cơ cung cấp thức ăn từ miệng đến dạ dày .",
+    "entities": [
+      {
+        "text": "viêm thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nói chung , gặp bác sĩ nếu gặp bất kỳ chóng mặt hay chóng mặt mà không giải thích được hơn một tuần .",
+    "entities": [
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ợ hơi : ợ hơi có thể gặp sau khi ăn no , ăn đồ cay nóng hoặc uống nước có gas nhưng nhanh chóng mất đi .",
+    "entities": [
+      {
+        "text": "ợ hơi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "để loại bỏ các mẫu , một kim nhỏ được đưa vào mắt và được sử dụng để trích xuất mô đáng ngờ .",
+    "entities": [
+      {
+        "text": "một kim nhỏ được đưa vào mắt và được sử dụng để trích xuất mô đáng ngờ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "đột ngột thay đổi trong tầm nhìn là tín hiệu khẩn cấp , tìm kiếm sự chăm sóc ngay lập tức trong các tình huống .",
+    "entities": [
+      {
+        "text": "thay đổi trong tầm nhìn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều kiện này gây ra bởi tình trạng các tế bào bạch cầu ái toan trong thực quản rối loạn mãn tính , có thể dẫn đến khó nuốt .",
+    "entities": [
+      {
+        "text": "khó nuốt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các yếu tố khác , chẳng hạn như tắc nghẽn ráy tai , có thể ngăn ngừa tai từ âm thanh cũng như có thể .",
+    "entities": []
+  },
+  {
+    "text": "mục tiêu điều trị bằng thuốc mục tiêu thuốc điều trị ung thư cổ họng bằng cách thay đổi khía cạnh nhiên liệu cụ thể của các tế bào ung thư phát triể n .",
+    "entities": [
+      {
+        "text": "thuốc điều trị ung thư cổ họng bằng cách thay đổi khía cạnh nhiên liệu cụ thể của các tế bào ung thư phát triể",
+        "type": "THUỐC"
+      },
+      {
+        "text": "điều trị bằng thuốc mục tiêu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "cấy trong não , tế bào gốc có thể giúp giảm một số thiệt hại các tế bào thần kinh trong não .",
+    "entities": [
+      {
+        "text": "tế bào gốc có thể giúp giảm một số thiệt hại các tế bào thần kinh trong não",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cấy trong não",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "có thể cần được nhập viện vì viêm phúc mạc do nhiễm trùng từ các vấn đề y tế khác ( viêm phúc mạc thứ phát ) .",
+    "entities": [
+      {
+        "text": "viêm phúc mạc thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhức đầu khi ho trung bình nhức đầu khi ho trung bình thường có triệu chứng tương tự như đau nhức đầu nhẹ , mặc dù có thể kéo dài đến hàng ngày thay vì phút .",
+    "entities": [
+      {
+        "text": "đau nhức đầu nhẹ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhức đầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa táo bón là một vấn đề tiêu hóa thông thường .",
+    "entities": [
+      {
+        "text": "táo bón",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trẻ thường có biểu hiện từ 2 cơ quan trở lên nguyên nhân liên quan đến rối loạn sắp xếp gen di truyền , bất thường nhiễm sắc thể biểu hiện mất hoặc sắp xếp lại nhánh ngắn nhiễm sắc thể số 1 hoặc số 10,14,17,19. gen sinh ung thư nằm ở nhánh p36 của nhiễm sắc thể số 1 và gen n - myc tiền ung thư nằm trên nhánh ngắn nhiễm sắc thể số 2. sự khuếch đại gen n - myc trông mô u nguyên bào thần kinh có liên quan đến gen mdr ( gen kháng thuốc ) .",
+    "entities": [
+      {
+        "text": "u nguyên bào thần kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm bờ mi có thể gây ra rụng lông mi hoặc phát triển bất thường ( lông mi sai địa chỉ ) .",
+    "entities": [
+      {
+        "text": "lông mi sai địa chỉ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rụng lông mi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm bờ mi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu có bất kỳ triệu chứng nào nêu trên xảy ra hoặc nếu bạn và người thân đã tiếp xúc với người bị bệnh bạch hầu , bạn nên liên hệ ngay với bác sĩ để được kiểm tra và tư vấn .",
+    "entities": [
+      {
+        "text": "bệnh bạch hầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tại việt nam , bệnh tương đối phổ biến ( tỷ lệ mắc ung thư dương vật ở hà nội là 2.1/100.000 dân; ở thành phố hồ chí minh bệnh chiếm 3.4% tổng số các ung thư ) .",
+    "entities": [
+      {
+        "text": "ung thư dương vật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thấy phù hợp vì ở các nước tiên tiến tỷ lệ này rất thấp với việc chẩn đoán và phẫu thuật điều trị triệt để sớm , trẻ được chăm sóc dinh dưỡng tốt lại ở môi trường trong sạch nên hạn chế được bệnh nhiễm trùng .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "người sử dụng thuốc chống axit , thuốc ức chế bơm proton ( omeprazole ) hoặc một số loại thuốc điều trị bệnh tiểu đường gây ngăn cản hấp thu vitamin b12.",
+    "entities": [
+      {
+        "text": "bệnh tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến hạ thân nhiệt hạ thân nhiệt xảy ra khi sự mất nhiệt vượt quá mức sản sinh nhiệt của cơ thể .",
+    "entities": [
+      {
+        "text": "hạ thân nhiệt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các bác sĩ sau đó có thể so độ phù hợp với các biểu hiện của cơn động kinh với những gì xuất hiện trên điện não đồ tại thời điểm đó .",
+    "entities": [
+      {
+        "text": "cơn động kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "điện não đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu rõ ràng nhất của xuất huyết mạch máu trong mắt là một miếng vá màu đỏ tươi trên màu trắng của mắt .",
+    "entities": [
+      {
+        "text": "một miếng vá màu đỏ tươi trên màu trắng của mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xuất huyết mạch máu trong mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : 10 lý do gây đau tinh hoàn đáng báo động cấu tạo , trọng lượng tinh hoàn &amp; cơ chế sinh tinh viêm tinh hoàn : nguyên nhân , triệu chứng , chẩn đoán và điều trị chủ đề : ung bướu nam khoa ung thư tinh hoàn ung thư tinh hoàn bìu",
+    "entities": [
+      {
+        "text": "ung thư tinh hoàn bìu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm tinh hoàn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau tinh hoàn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ các yếu tố sau đây có thể làm tăng nguy cơ xơ gan đường mật : giới tính .",
+    "entities": [
+      {
+        "text": "xơ gan đường mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những triệu chứng hay gặp nhất là : đau ngực là triệu chứng rất thường gặp khi viêm màng ngoài tim , chiếm đến 85 – 90% số người mắc bệnh .",
+    "entities": [
+      {
+        "text": "viêm màng ngoài tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh trĩ nội tổng quan bệnh trĩ nội bệnh trĩ nội là tình trạng tĩnh mạch vùng hậu môn trực tràng bị giãn quá mức và phình to ra .",
+    "entities": [
+      {
+        "text": "bệnh trĩ nội",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

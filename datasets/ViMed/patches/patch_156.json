@@ -1,0 +1,411 @@
+[
+  {
+    "text": "ví dụ , một liệu pháp sinh học gọi là rituximab ( rituxan ) là một loại kháng thể đơn dòng gắn vào các tế bào b và làm cho chúng rõ hơn với hệ thống miễn dịch , sau đó có thể tấn công .",
+    "entities": [
+      {
+        "text": "rituximab",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rituxan",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ung thư , viêm gan b hoặc viêm gan c . tác dụng phụ của thuốc điều trị viêm mạch máu .",
+    "entities": [
+      {
+        "text": "viêm mạch máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm gan b",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm gan c",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu đang đọc sách hoặc làm một việc đòi hỏi sự tập trung thị giác , nghỉ giải lao mắt định kỳ .",
+    "entities": [
+      {
+        "text": "nghỉ giải lao mắt định kỳ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thực hành thói quen ngủ tốt : ngủ không ngon giấc có thể làm tăng nguy cơ mắc bệnh tim và các bệnh mãn tính khác .",
+    "entities": [
+      {
+        "text": "bệnh tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đa xơ cứng là một bệnh tự miễn trong đó hệ thống tấn công vào vỏ myelin bao gồm các sợi thần kinh trong não và tủy sống .",
+    "entities": [
+      {
+        "text": "bệnh tự miễn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đa xơ cứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kích thích não sâu bao gồm việc chèn điện thăm dò vào đồi não , một phần của não chịu trách nhiệm gây run .",
+    "entities": [
+      {
+        "text": "chèn điện thăm dò vào đồi não",
+        "type": "THUỐC"
+      },
+      {
+        "text": "kích thích não sâu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "run",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh ung thư tuyến nước bọt phẫu thuật : phẫu thuật thường là phương pháp điều trị chính cho ung thư tuyến nước bọt .",
+    "entities": [
+      {
+        "text": "bệnh ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "block tim cấp độ ba ( hoàn chỉnh ) : không có tín hiệu điện nào từ tâm nhĩ đến tâm thất .",
+    "entities": [
+      {
+        "text": "block tim cấp độ ba",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không nên sử dụng các thuốc này nếu chưa kiểm soát được tần số thất trước đó bằng thuốc chẹn beta hoặc thuốc chẹn kênh canxi loại nondihydropyridine .",
+    "entities": [
+      {
+        "text": "thuốc chẹn kênh canxi loại nondihydropyridine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chẹn beta",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc điều trị viêm kết mạc do vi khuẩn nếu nhiễm trùng là do vi khuẩn , bác sĩ có thể kê toa thuốc nhỏ mắt kháng sinh điều trị đau mắt đỏ , và các nhiễm trùng thoái lui trong vòng vài ngày .",
+    "entities": [
+      {
+        "text": "kê toa thuốc nhỏ mắt kháng sinh điều trị đau mắt đỏ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm kết mạc do vi khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đeo kính mát cả hai khối tia tử ngoại a ( uva ) và ( cực tím uvb ) bức xạ b . điều này đặc biệt quan trọng nếu dành nhiều giờ dưới ánh mặt trời hoặc đang dùng thuốc theo toa làm tăng độ nhạy cảm với tia cực tím .",
+    "entities": [
+      {
+        "text": "thuốc theo toa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đeo kính mát",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc điều trị nuốt khó thường được thay đổi theo loại cụ thể hoặc nguyên nhân của rối loạn nuốt : chứng khó nuốt miệng hầu đối với chứng khó nuốt miệng hầu , bác sĩ có thể giới thiệu đến một chuyên gia thần kinh cổ họng và một chuyên gia điều trị nói hoặc nuốt .",
+    "entities": [
+      {
+        "text": "chứng khó nuốt miệng hầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nuốt khó",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "liệu pháp điều trị dài hạn của tăng áp lực tĩnh mạch cửa ( với thuốc chẹn beta và nitrat ) được thảo luận ở phần khác .",
+    "entities": [
+      {
+        "text": "thuốc chẹn beta",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nitrat",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị cơ tim phì đại hiệu quả thuốc chẹn beta ( bb ) ; thuốc chẹn kênh calci ( ccb ) ; không dùng nitrate , thuốc lợi tiểu và thuốc ức chế ace; có thể sử dụng thuốc chống loạn nhịp tim ( ví dụ disopyramide , amiodarone ) ; ngoại khoa : cấy máy khử rung tim , phẫu thuật gọt mỏng vách hoặc đốt cồn vách liên thất .",
+    "entities": [
+      {
+        "text": "thuốc chống loạn nhịp tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật gọt mỏng vách",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đốt cồn vách liên thất",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chẹn kênh calci",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cấy máy khử rung tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chẹn beta",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cơ tim phì đại",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "disopyramide",
+        "type": "THUỐC"
+      },
+      {
+        "text": "amiodarone",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ccb",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bb",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bất cứ ai có một nhiễm trùng tai có thể xảy ra và từ trung bình đến đau tai nghiêm trọng .",
+    "entities": [
+      {
+        "text": "nhiễm trùng tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu đang có dấu hiệu và triệu chứng rung thất , tìm sự giúp đỡ khẩn cấp y tế ngay lập tức .",
+    "entities": [
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật này có thể được thực hiện với gây tê cục bộ kết hợp với an thần , thuốc gây mê hay gây tê cột sống .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể thử nghiệm một mẫu phân để tìm vi khuẩn có tên là helicobacter pylori ( h . pylori ) có thể gây ra các vấn đề về dạ dày .",
+    "entities": [
+      {
+        "text": "thử nghiệm một mẫu phân",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "xuất huyết ở đại tràng phải phân thường có màu đỏ sẫm , xuất huyết ở đại tràng trái phân có màu đỏ tươi hơn .",
+    "entities": [
+      {
+        "text": "xuất huyết ở đại tràng phải",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xuất huyết ở đại tràng trái",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phân thường có màu đỏ sẫm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phân có màu đỏ tươi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phát triển đục của thấu kính của mắt ( đục thủy tinh thể ) là một biến chứng thường gặp , đặc biệt nếu đã trải qua một thời gian dài của viêm .",
+    "entities": [
+      {
+        "text": "đục của thấu kính của mắt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân thường gặp nhất của viêm họng là một bệnh do virus , chẳng hạn như cảm lạnh hoặc cúm .",
+    "entities": [
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cảm lạnh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cúm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân điều trị viêm mạch bằng corticosteroid liều cao kéo dài , đặc biệt là những bệnh nhân sử dụng cyclophosphamid , cũng nên được điều trị dự phòng nhiễm pneumocystis jirovecii .",
+    "entities": [
+      {
+        "text": "cyclophosphamid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "corticosteroid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp do sốt thấp khớp tình trạng viêm do sốt thấp khớp có thể kéo dài vài tuần đến vài tháng .",
+    "entities": [
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng có thể gặp của túi thừa thực quản là : nếu túi thừa to chứa đầy thức ăn có thể gây rối loạn về hô hấp và tuần hoàn do chèn ép và gây nhiễm trùng , nhiễm độc do thức ăn trong túi thừa thối rữa .",
+    "entities": [
+      {
+        "text": "túi thừa thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ít thường xuyên hơn , vết loét có thể gây ra các dấu hiệu nặng hoặc triệu chứng như : nôn ra máu - có thể màu đỏ hoặc đen .",
+    "entities": [
+      {
+        "text": "nôn ra máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ốm đau hoặc căng thẳng có thể là nguyên nhân đường huyết cao vì cơ thể tăng sản xuất hormone để chống lại bệnh tật hoặc căng thẳng , và khiến lượng đường trong máu tăng lên .",
+    "entities": [
+      {
+        "text": "đường huyết cao",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ốm đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải sốt rét sốt rét phổ biến ở các vùng nhiệt đới và cận nhiệt đới , có thể xuất hiện ở bất kỳ đối tượng , lứa tuổi nào , nhưng những đối tượng thuộc nhóm sau có nguy cơ mắc bệnh cao hơn và khả năng điều trị khỏi cũng thấp hơn : sống trong môi trường ẩm thấp , mất vệ sinh .",
+    "entities": [
+      {
+        "text": "sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hib không phải là mầm gây bệnh cúm , nhưng nó chịu trách nhiệm về các điều kiện khác nghiêm trọng , bao gồm nhiễm trùng đường hô hấp và viêm màng não .",
+    "entities": [
+      {
+        "text": "nhiễm trùng đường hô hấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm màng não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh cúm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sinh thiết : sinh thiết mở hoặc sinh thiết kim lớn giúp chẩn đoán , phân loại và xác định độ ác tính của tổn thương .",
+    "entities": [
+      {
+        "text": "sinh thiết kim lớn",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sinh thiết mở",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "đối với một số người , nguyên nhân gây khô mắt là một sự mất cân bằng trong thành phần của nước mắt của họ .",
+    "entities": []
+  }
+]

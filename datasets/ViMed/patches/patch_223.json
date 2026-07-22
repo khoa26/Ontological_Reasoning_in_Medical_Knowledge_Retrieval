@@ -1,0 +1,388 @@
+[
+  {
+    "text": "tìm kiếm sự chăm sóc ngay lập tức nếu phát triển các dấu hiệu và triệu chứng của biến chứng sỏi mật nghiêm trọng , chẳng hạn như : đau bụng dữ dội mà không thể ngồi yên hoặc tìm một vị trí thoải mái .",
+    "entities": [
+      {
+        "text": "đau bụng dữ dội mà không thể ngồi yên hoặc tìm một vị trí thoải mái",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ở việt nam , bệnh uốn ván phân bố rải rác ở các tỉnh thành trong cả nước và có ở mọi lứa tuổi .",
+    "entities": [
+      {
+        "text": "bệnh uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "t ránh các chất kích thích càng nhiều càng tốt , tránh những điều có khả năng đóng góp vào tình trạng viêm hay kích thích của các xoang , chẳng hạn như gây dị ứng , các chất ô nhiễm không khí và hóa chất .",
+    "entities": [
+      {
+        "text": "ránh các chất kích thích càng nhiều càng tốt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : tăng huyết áp thứ phát : nguyên nhân , triệu chứng , chẩn đoán và điều trị tăng huyết áp thai kỳ : nguyên nhân , triệu chứng , chẩn đoán và điều trị kiểm soát bệnh cao huyết áp hiệu quả chủ đề : tim mạch tăng huyết áp huyết áp nhịp tim t ăng huyết áp nguyên phát tăng huyết áp thứ phát",
+    "entities": [
+      {
+        "text": "ăng huyết áp nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp thai kỳ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh cao huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các bệnh truyền nhiễm khác , chẳng hạn như toxoplasmosis , histoplasmosis , bệnh lao và bệnh giang mai , có thể được liên kết với các loại viêm màng bồ đào .",
+    "entities": [
+      {
+        "text": "viêm màng bồ đào",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có một số trường hợp , bệnh ở giai đoạn muộn , khi hoại tử khói u trong lòng thực quản nên sau một thời gian bị nghẹn thức ăn lỏng lại quay lại ăn uống bình thường .",
+    "entities": [
+      {
+        "text": "bị nghẹn thức ăn lỏng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong khi không có biện pháp chữa bệnh đặc hiệu được biết đến với bệnh crohn , liệu pháp rất có thể làm giảm các dấu hiệu và triệu chứng của bệnh và thậm chí mang lại thuyên giảm lâu dài .",
+    "entities": [
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sự tăng trưởng có thể trở thành đủ lớn để ảnh hưởng đến các cơ quan gần đó , gây ra các triệu chứng như đau bụng và cảm giác đầy tức bụng .",
+    "entities": [
+      {
+        "text": "đầy tức bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "những loại thuốc này , bao gồm cả mycophenolate ( cellcepx ) , áp chế hệ thống miễn dịch , và đã có hiệu quả giảm viêm mạch máu ở những người có bệnh viêm động mạch takayasu .",
+    "entities": [
+      {
+        "text": "bệnh viêm động mạch takayasu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , những gì nhìn thấy khi nhìn thẳng về phía trước trở thành lượn sóng hoặc cong , và điểm trống ngăn một phần của lĩnh vực tầm nhìn .",
+    "entities": [
+      {
+        "text": "nhìn thấy khi nhìn thẳng về phía trước trở thành lượn sóng hoặc cong",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "điểm trống ngăn một phần của lĩnh vực tầm nhìn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sa sút trí tuệ có thể được phân loại bằng nhiều cách khác nhau và thường được nhóm lại với nhau bởi những điểm chung , chẳng hạn như những gì thuộc một phần của não bị ảnh hưởng , hoặc liệu sẽ xấu đi với thời gian ( sa sút trí tuệ tiến triển ) .",
+    "entities": [
+      {
+        "text": "sa sút trí tuệ tiến triển",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng một nguồn sáng sáng hơn nếu cần , đặc biệt là nếu có giảm tầm nhìn từ một tình trạng mắt như thoái hóa điểm vàng .",
+    "entities": [
+      {
+        "text": "sử dụng một nguồn sáng sáng hơn nếu cần",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "có thể dùng gạc mát , muối nở , kem chống ngứa và/ hoặc kem hoặc thuốc mỡ corticosteroid để giúp giảm ngứa dữ dội .",
+    "entities": [
+      {
+        "text": "thuốc mỡ corticosteroid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "kem chống ngứa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "gạc mát",
+        "type": "THUỐC"
+      },
+      {
+        "text": "muối nở",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ù tai có thể trở nên rất lớn trước khi chóng mặt - cảm giác mà hay môi trường xung quanh đang quay hoặc di chuyển .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , bác sĩ có thể đề xuất các loại thuốc khác để giúp điều trị hoặc ngăn ngừa cơn đau thắt ngực .",
+    "entities": [
+      {
+        "text": "cơn đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù udca không chữa xơ gan đường mật , có thể kéo dài cuộc sống nếu bắt đầu sớm và thường được coi là dòng đầu tiên của điều trị .",
+    "entities": [
+      {
+        "text": "xơ gan đường mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "udca",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bởi vì nhiễm trùng tai thường rõ ràng , điều trị thường bắt đầu với quản lý đau và giám sát các vấn đề .",
+    "entities": [
+      {
+        "text": "nhiễm trùng tai",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "với điều trị này , hạt phóng xạ hoặc dây được định vị trong khối u hoặc rất gần với nó .",
+    "entities": [
+      {
+        "text": "khối u",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "do đó xét nghiệm di truyền xác định tổn thương nhiễm sắc thể hoặc sự khuếch đại của gen tham gia sinh ung thư , đặc biệt là gen n - myc là cần thiết và quan trọng trong điều trị và tiên lượng bệnh .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể gãy xươn g không do chấn thương nổi hạch ngoại vi rắn chắc , di động hạn chế vị trí hay gặp ung thư xương : thường gặp ở “gần gối , xa khuỷu” ( đầu trên xương chày , đầu dưới xương đùi , đầu trên xương cánh tay , đầu dưới xương quay ) ung thư xương chủ yếu gặp ở xương dài , một số ở xương dẹt như xương chậu , xương bả vai .",
+    "entities": [
+      {
+        "text": "ung thư xương",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gãy xươn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các thiết bị này được sử dụng để phát hiện và định lượng độ cong bề mặt giác mạc và sự hiện diện của loạn thị .",
+    "entities": [
+      {
+        "text": "loạn thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "uống được coi là chấp nhận 12 - 15 centiliters rượu vang ,35 centiliters bia hay 1,5 4,5 centiliters rượu 80. hạn chế rượu tiêu thụ có thể làm giảm nguy cơ , ngay cả khi ung thư đại tràng trong lịc sử gia đình .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài dấu hiệu ợ hơ i thì người bị đầy hơi còn có các biểu hiện khác như bụng đau âm ỉ , ợ chua , buồn nôn hoặc nôn ( có thể do hẹp môn vị gây ứ đọng ) , táo bón hoặc phân lỏng .",
+    "entities": [
+      {
+        "text": "bụng đau âm ỉ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hẹp môn vị",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phân lỏng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ợ chua",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ợ hơ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nhịp tim chậm có thể là một vấn đề nghiêm trọng nếu nhịp tim rất chậm và tim không thể bơm đủ máu giàu oxy cho cơ thể .",
+    "entities": [
+      {
+        "text": "nhịp tim chậm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu các tế bào tiền ung thư được phát hiện , có thể được điều trị để ngăn chặn ung thư thực quản .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh tắc ống dẫn trứng ống dẫn trứng có thể được khai thông sử dụng phương pháp phẫu thuật .",
+    "entities": [
+      {
+        "text": "bệnh tắc ống dẫn trứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh thấp tim ở trẻ em cách duy nhất để ngăn ngừa thấp tim ở trẻ em là điều trị nhiễm trùng viêm họng liên cầu khuẩn hoặc bệnh tinh hồng nhiệt kịp thời với thuốc kháng sinh thích hợp .",
+    "entities": [
+      {
+        "text": "viêm họng liên cầu khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tinh hồng nhiệt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng siêu âm hoặc ct scan hướng dẫn , bác sĩ phẫu thuật chèn một số kim vào vết mổ nhỏ ở bụng .",
+    "entities": [
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct scan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu được thẩm phân phúc mạc , các triệu chứng viêm phúc mạc cũng bao gồm : có mây trong chất lỏng lọc .",
+    "entities": [
+      {
+        "text": "thẩm phân phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hoặc bệnh nhân có thể đi khám vì một số triệu chứng bao gồm : những triệu chứng kinh điển của tiểu đường : ăn nhiều uống nhiều ( hay khát nước ) tiểu nhiều ( do đường trong nước tiểu cao , gây lợi niệu thẩm thấu ) gầy nhiều ( gầy sút cân ) : bệnh nhân tiểu đường tuýp 2 thường có thể trạng béo , nhưng khi có triệu chứng tăng đường huyết không kiểm soát , hoặc t iểu đường mới phát hiện , họ có thể có giai đoạn sụt cân không rõ lí do , ngoài ý muốn .",
+    "entities": [
+      {
+        "text": "tiểu đường tuýp 2",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hay khát nước",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "gầy sút cân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "uống nhiều",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiểu nhiều",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "gầy nhiều",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ăn nhiều",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sụt cân",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

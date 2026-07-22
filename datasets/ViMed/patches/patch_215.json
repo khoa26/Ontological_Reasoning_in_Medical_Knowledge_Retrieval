@@ -1,0 +1,388 @@
+[
+  {
+    "text": "kiểm tra và chẩn đoán các xét nghiệm và thủ tục được sử dụng để chẩn đoán viêm tụy bao gồm : xét nghiệm máu .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đồng thời thức ăn ít bã làm giảm khối lượng phân gây táo bón , chất gây ung thư sẽ tiếp xúc với niêm mạc ruột lâu hơn và cô đặc hơn , tác động lên biểu mô của đại tràng .",
+    "entities": [
+      {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "việc thiếu hụt màu sắc phổ biến nhất là không có khả năng để xem một số sắc thái của màu đỏ và màu xanh lá cây .",
+    "entities": [
+      {
+        "text": "không có khả năng để xem một số sắc thái",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các loại ung thư dạ dày các tế bào hình thành các khối u xác định các loại bệnh ung thư dạ dày .",
+    "entities": [
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp khâu triệt mạch thd : dưới hướng dẫn siêu âm để làm tắc mạch cung cấp máu cho hậu môn , do đó làm giảm sự phình búi trĩ .",
+    "entities": [
+      {
+        "text": "phương pháp khâu triệt mạch thd",
+        "type": "THUỐC"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa hẹp van hai lá hiệu quả để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : nguyên nhân gây hẹp van hai lá phổ biến nhất là thấp tim , biến chứng do nhiễm liên cầu khuẩn .",
+    "entities": [
+      {
+        "text": "hẹp van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ví dụ , khô mắt có thể xảy ra nếu không sản xuất đủ nước mắt hoặc nếu sản xuất nước mắt kém chất lượng .",
+    "entities": [
+      {
+        "text": "khô mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "màng lọc nếu bệnh nhân không thể dùng thuốc chống đông máu , bác sĩ có thể chỉ định đặt một màng lọc bên trong tĩnh mạch lớn được gọi là tĩnh mạch chủ ở bụng .",
+    "entities": [
+      {
+        "text": "thuốc chống đông máu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "màng lọc",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến viêm cơ tim viêm cơ tim do tác nhân nhiễm trùng : nhiễm virus : virus viêm gan b , c , virus herpes ( hsv ) , virus epstein - barr ( ebv ) , virus cúm , virus coxsackie b , parvovirus b19 , hiv , … viêm cơ tim do virus là nguyên nhân thường gặp nhất .",
+    "entities": [
+      {
+        "text": "viêm cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu được thẩm phân phúc mạc , liên hệ với nhà cung cấp chăm sóc sức khỏe ngay lập tức nếu dung dịch lọc là mây đục , nếu nó chứa đốm trắng , sợi hoặc khối , hoặc nếu nó có mùi bất thường , đặc biệt là nếu các khu vực xung quanh ống thông màu đỏ hoặc đau đớn .",
+    "entities": [
+      {
+        "text": "thẩm phân phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau đớn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các tình trạng và thuốc khác nhau có thể dẫn đến cao huyết áp thứ phát , bao gồm : hội chứng ngưng thở khi ngủ , bệnh lý tại thận , u tuyến thượng thận , bệnh lý tuyến giáp , bất thường mạch máu bẩm sinh , tác dụng phụ của thuốc ( thuốc ngừa thai , thuốc trị nghẹt mũi , thuốc giảm đau .",
+    "entities": [
+      {
+        "text": "cao huyết áp thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc trị nghẹt mũi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc ngừa thai",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc giảm đau",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các các xét nghiệm và các phương pháp chẩn đoán hình ảnh bao gồm : x - quang , siêu âm , chụp cắt lớp vi tính ( ct ) , chụp cộng hưởng từ ( mri ) .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "x - quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "sinh thiết có thể được thực hiện như một phần của hoạt động để loại bỏ các khối u não , hoặc sinh thiết có thể được thực hiện bằng cách sử dụng kim tiêm .",
+    "entities": [
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "khối u não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa hội chứng marfan hiệu quả để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : hội chứng marfan là hội chứng di truyền nên không thể phòng ngừa được , nếu mắc phải hội chứng marfan thì nên kiểm tra sức khỏe định kỳ .",
+    "entities": [
+      {
+        "text": "hội chứng marfan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu thuốc chống đông máu không có tác dụng hoặc nếu huyết khối tĩnh mạch sâu nghiêm trọng , bác sĩ có thể sử dụng thuốc làm tan huyết khối .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc làm tan huyết khối",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chống đông máu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "kỹ thuật này sử dụng cảm biến điện giúp sử dụng tâm trí để kiểm soát các chức năng của cơ thể .",
+    "entities": [
+      {
+        "text": "kỹ thuật này sử dụng cảm biến điện giúp sử dụng tâm trí để kiểm soát các chức năng của cơ thể",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân chính gây viêm tá tràng là do vi khuẩn helicobacter pylori , chúng sẽ phá vỡ lớp màng nhầy bảo vệ niêm mạc tá tràng khỏi các dịch acid có trong dạ dày gây ra tình trạng viêm loét tá tràng .",
+    "entities": [
+      {
+        "text": "viêm loét tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị bằng thuốc : thuốc chống kết tập tiểu cầu , thuốc chống viêm âm đạo , thuốc chống đông máu và trong một số trường hợp là các loại thuốc khác .",
+    "entities": [
+      {
+        "text": "thuốc chống kết tập tiểu cầu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chống viêm âm đạo",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chống đông máu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hiếm khi , nó có thể gây tác dụng phụ nghiêm trọng hơn như mờ mắt , chóng mặt và đi tiểu khó khăn .",
+    "entities": [
+      {
+        "text": "đi tiểu khó khăn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mờ mắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu và triệu chứng của thiếu máu cục bộ đường ruột có thể phát triển đột ngột ( thiếu máu cục bộ đường ruột cấp tính ) hoặc có thể phát triển dần theo thời gian ( thiếu máu cục bộ đường ruột mãn tính ) .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ đường ruột cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiếu máu cục bộ đường ruột mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh tắc ống phóng tinh để chẩn đoán chính xác tắc ống phóng tinh , các bác sĩ cần tổng hợp thông tin từ nhiều phương pháp khác nhau .",
+    "entities": [
+      {
+        "text": "bệnh tắc ống phóng tinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng phụ đi kèm : rối loạn giấc ngủ : các triệu chứng khó chịu liên quan đến tiêu chảy nhiễm trùng đường ruột sẽ khiến người bệnh khó ngủ .",
+    "entities": [
+      {
+        "text": "tiêu chảy nhiễm trùng đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó ngủ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chích xơ : các bác sĩ sẽ tiêm một dung dịch hóa chất vào mạch máu để làm co lại các búi trĩ .",
+    "entities": [
+      {
+        "text": "chích xơ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phục hồi chức năng tiền đình thực hiện tại phòng của bác sĩ , thủ tục phục hồi chức năng tiền đình bao gồm thay đổi một số tư thế đầu chậm đơn giản .",
+    "entities": [
+      {
+        "text": "thủ tục phục hồi chức năng tiền đình bao gồm thay đổi một số tư thế đầu chậm đơn giản",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ở người lớn , các nguyên nhân phổ biến gây bệnh phụ thuộc vào vị trí khối u : trung thất trước : u tuyến ức : khối trước thường gặp nhất là u tuyến ức .",
+    "entities": [
+      {
+        "text": "u tuyến ức",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc bệnh bạch hầu nếu không điều trị , bệnh có thể gây ra những biến chứng nguy hiểm lên các cơ quan như : hô hấp : vi khuẩn gây bệnh bạch hầu có thể tạo ra độc tố làm tổn thương mô ở vùng mà chúng xâm nhập ( thường là mũi và cổ họng ) .",
+    "entities": [
+      {
+        "text": "bệnh bạch hầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục đối phó với chứng khô miệng : xạ trị ung thư vòm họng thường gây khô miệng ( chứng khô miệng ) .",
+    "entities": [
+      {
+        "text": "xạ trị ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chứng khô miệng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng đe dọa tính mạng của viêm mạch máu nhỏ bao gồm : suy thận , xuất huyết phế nang và thiếu máu cục bộ đường tiêu hóa .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ đường tiêu hóa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xuất huyết phế nang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm mạch máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy thận",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các giai đoạn của ung thư túi mật giai đoạn i . ở giai đoạn này , ung thư túi mật được giới hạn trong các lớp bên trong của túi mật .",
+    "entities": [
+      {
+        "text": "ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thời điểm tắc mạch ố i thời điểm xảy ra tắc mạch ối cũng rất khác nhau tùy trường hợp : 12% trường hợp xảy ra tắc mạch ối khi màng ối còn nguyên .70% trường hợp xảy ra trong chuyển dạ .11% trường hợp xảy ra sau sinh qua đường âm đạo .19% trường hợp xảy ra trong mổ lấy thai khi đã có chuyển dạ hay khi chưa có chuyển dạ .",
+    "entities": [
+      {
+        "text": "tắc mạch ối",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

@@ -1,0 +1,372 @@
+[
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán bệnh tim mạch nhiều xét nghiệm khác nhau được sử dụng để chẩn đoán bệnh tim .",
+    "entities": [
+      {
+        "text": "bệnh tim mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một loạt các hình ảnh x - quang sau đó có thể tiết lộ chi tiết về các vấn đề của các động mạch và tổn thương của chứng phình động mạch vỡ .",
+    "entities": [
+      {
+        "text": "chứng phình động mạch vỡ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hình ảnh x - quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán hội chứng marfan hội chứng marfan khó chẩn đoán vì nhiều rối loạn mô liên kết có các dấu hiệu và triệu chứng tương tự .",
+    "entities": [
+      {
+        "text": "hội chứng marfan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đột quỵ : với chứng rối loạn nhịp tim , máu có thể đọng lại trong các ngăn trên của tim , gây ra hình thành các cục máu đông .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bốc hỏa là cảm giác đột ngột nóng và đổ nhiều mồ hôi trong thời gian ngắn , thường xảy ra xung quanh mặt và phần trên của cơ thể .",
+    "entities": [
+      {
+        "text": "cảm giác đột ngột nóng và đổ nhiều mồ hôi trong thời gian ngắn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bốc hỏa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "holter : một thiết bị điện tâm đồ di động được đeo thường xuyên để ghi lại hoạt động của tim trong các hoạt động .",
+    "entities": [
+      {
+        "text": "holter",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc mục tiêu của điều trị viễn thị là giúp tập trung ánh sáng trên võng mạc thông qua việc sử dụng các ống kính hiệu chỉnh hoặc phẫu thuật khúc xạ .",
+    "entities": [
+      {
+        "text": "sử dụng các ống kính hiệu chỉnh hoặc phẫu thuật khúc xạ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viễn thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp , các khối u nhỏ và dễ dàng tách biệt với xung quanh mô não , phẫu thuật cắt bỏ hoàn toàn là có thể .",
+    "entities": [
+      {
+        "text": "phẫu thuật cắt bỏ hoàn toàn là có thể",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu và triệu chứng của viêm túi mật có thể bao gồm : đau ở phần trên bên phải của bụng , nếu không được điều trị , có thể tăng dần vài giờ hoặc vài ngày và đau tăng khi hít thở sâu .",
+    "entities": [
+      {
+        "text": "đau tăng khi hít thở sâu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bạn có thể nhận thấy các triệu chứng như nhịp tim chậm hoặc không đều hoặc nhận thấy khoảng dừng giữa các nhịp tim .",
+    "entities": [
+      {
+        "text": "nhịp tim chậm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "không đều",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa dần dần mất thính lực xảy ra khi có tuổi ( presbycusis ) là phổ biến .",
+    "entities": [
+      {
+        "text": "mất thính lực",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , đi ngoài ra máu cũng có thể xuất hiện sớm trong khoảng 12 giờ , do lồng ruột quá chặt .",
+    "entities": [
+      {
+        "text": "đi ngoài ra máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lồng ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nó giúp biết chính xác những gì đang bị dị ứng để có thể thực hiện các bước cụ thể tránh gây ra .",
+    "entities": [
+      {
+        "text": "dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc bệnh block nhĩ thất tử vong do vô tâm thu hoặc xoắn đỉnh ( torsade de pointes ) .",
+    "entities": [
+      {
+        "text": "bệnh block nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể lấy mẫu sinh thiết gan hơn nữa trong thời gian tới để kiểm tra sự tiến triển của bệnh .",
+    "entities": [
+      {
+        "text": "sinh thiết gan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "thắt băng nội soi ( ebl ) : nếu chảy máu tái phát/đo áp lực cửa cho thấy áp lực cửa vẫn lớn hơn 12 mmhg .",
+    "entities": [
+      {
+        "text": "thắt băng nội soi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "cận lâm sàng để chẩn đoán bệnh tim bẩm sinh nói chung , bệnh thông liên thất nói riêng , vai trò cận lâm sàng hết sức quan trọng .",
+    "entities": [
+      {
+        "text": "bệnh thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tim bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tham khảo ý kiến bác sĩ nếu có trải nghiệm đau đầu đột ngột sau khi ho , đặc biệt là nếu những cơn đau đầu thường xuyên hoặc nghiêm trọng hoặc có bất cứ dấu hiệu hoặc triệu chứng thần kinh khác , chẳng hạn như sự mất cân bằng hoặc bị nhìn mờ hoặc nhìn đôi .",
+    "entities": [
+      {
+        "text": "triệu chứng thần kinh khác",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cơn đau đầu thường xuyên",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đầu đột ngột",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhìn mờ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhìn đôi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu biết sẽ tiếp xúc và gây nên viêm mũi dị ứng , bắt đầu uống thuốc trước khi các triệu chứng bắt đầu , nếu bác sĩ đề nghị .",
+    "entities": [
+      {
+        "text": "viêm mũi dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "màng nhĩ thủng có thể gây ra mất thính lực và làm cho tai giữa dễ bị nhiễm trùng hoặc chấn thương khác .",
+    "entities": [
+      {
+        "text": "màng nhĩ thủng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mất thính lực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể giới thiệu các dịch vụ có thể giúp , chẳng hạn như : vật lý trị liệu có thể giúp lấy lại kỹ năng vận động hay sức mạnh cơ bắp bị mất .",
+    "entities": [
+      {
+        "text": "vật lý trị liệu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tê liệt dây thanh âm , có thể là kết quả của chấn thương , đột quỵ , khối u phổi hoặc điều kiện sức khỏe khác .",
+    "entities": [
+      {
+        "text": "tê liệt dây thanh âm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh u tuyến nước bọt tuổi cao : khối u tuyến nước bọt có thể xảy ra ở mọi lứa tuổi , nhưng chúng thường xảy ra nhất ở người lớn tuổi .",
+    "entities": [
+      {
+        "text": "bệnh u tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong trường hợp nghiêm trọng , có thể cần phẫu thuật tim hoặc các phương pháp điều trị khớp để điều trị các biến chứng nghiêm trọng .",
+    "entities": [
+      {
+        "text": "phẫu thuật tim",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân thường giải thích sự khó chịu của họ là chứng khó tiêu , đặc biệt là vì sự giảm nhẹ tự phát có thể được cho là do ợ hơi hoặc uống thuốc kháng acid .",
+    "entities": [
+      {
+        "text": "thuốc kháng acid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ợ hơi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "kỹ thuật hình ảnh phổ biến nhất để xác định sa sút trí tuệ là chụp cắt lớp vi tính ( ct ) và hình ảnh cộng hưởng từ ( mri ) .",
+    "entities": [
+      {
+        "text": "hình ảnh cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "kỹ thuật hình ảnh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sa sút trí tuệ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các vấn đề về nút xoang nhịp tim chậm thường bắt đầu ở khu vực của tim được gọi là nút xoang .",
+    "entities": [
+      {
+        "text": "nhịp tim chậm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh tắc ống dẫn tinh biểu hiện của tắc ống dẫn tinh cụ thể như sau : tinh hoàn ở nam giới bị tắc ống dẫn tinh có khả năng bị thu hẹp .",
+    "entities": [
+      {
+        "text": "bệnh tắc ống dẫn tinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . triệu chứng thống kinh thứ phát về triệu chứng đau bụng của thống kinh thứ phát tương tự như thống kinh nguyên phát .",
+    "entities": [
+      {
+        "text": "thống kinh nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thống kinh thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đây có thể bao gồm công thức máu đầy đủ ( cbc ) , cũng như xét nghiệm máu để kiểm tra điện giải và protein cũng như chức năng gan , thận và chức năng tuyến giáp .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "cbc",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  }
+]

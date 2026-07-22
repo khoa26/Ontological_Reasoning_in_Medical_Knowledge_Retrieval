@@ -1,0 +1,371 @@
+[
+  {
+    "text": "ngoài ra , việc sử dụng rượu hoặc thuốc kích thích có thể ảnh hưởng đến phán đoán về việc cần phải vào trong nhà hoặc mặc quần áo ấm trong thời tiết lạnh giá .",
+    "entities": []
+  },
+  {
+    "text": "trong trường hợp hiếm gặp , hội chứng di truyền , ví dụ như polyp u tuyến gia đình ( fap ) , bác sĩ phẫu thuật có thể thực hiện loại bỏ toàn bộ đại tràng và trực tràng .",
+    "entities": [
+      {
+        "text": "hội chứng di truyền",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "polyp u tuyến",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu có bệnh viêm động mạch takayasu và đang có kế hoạch mang thai , điều quan trọng là làm việc với bác sĩ để phát triển một kế hoạch toàn diện để hạn chế biến chứng của thai kỳ trước khi thụ thai .",
+    "entities": [
+      {
+        "text": "bệnh viêm động mạch takayasu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm chức năng gan thận với mục đích xác định khối u đã có ảnh hưởng tới các cơ quan khác hay chưa .",
+    "entities": [
+      {
+        "text": "xét nghiệm chức năng gan thận",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "thuốc kháng sinh theo quy định để điều trị h . pylori bao gồm amoxicillin ( amoxil ) , clarithromycin ( biaxin ) và metronidazole ( flagyl ) .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "clarithromycin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "metronidazole",
+        "type": "THUỐC"
+      },
+      {
+        "text": "amoxicillin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "amoxil",
+        "type": "THUỐC"
+      },
+      {
+        "text": "biaxin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "flagyl",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "quản lý bệnh đái tháo đường : kiểm soát lượng đường trong máu chặt chẽ có thể giúp giảm nguy cơ mắc bệnh tim .",
+    "entities": [
+      {
+        "text": "bệnh đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "imodium có thể hữu ích nếu được thực hiện 20 - 30 phút trước khi ăn , đặc biệt là nếu biết rằng các thực phẩm cho bữa ăn có thể gây tiêu chảy .",
+    "entities": [
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "imodium",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "vận động viên rung nhĩ cơn hoặc rung nhĩ bền bỉ khá phổ biến trong giới vận động viên và có thể khởi phát bởi một rối loạn nhịp nhanh trên thất khác , đặc biệt là ở các vận động viên lớn tuổi .",
+    "entities": [
+      {
+        "text": "rung nhĩ bền bỉ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rung nhĩ cơn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu cục máu đông nhỏ và được điều trị thích hợp , người ta có thể khỏi bệnh thuyên tắc phổi .",
+    "entities": [
+      {
+        "text": "thuyên tắc phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chủ đề : tâm lý tự kỷ tự kỷ ở người trưởng thành tự kỷ ở trẻ em bệnh tự kỷ ở người lớn triệu chứng tự kỷ ở người lớn điều trị tự kỷ ở người lớn",
+    "entities": [
+      {
+        "text": "bệnh tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "buồn nôn và nôn gây ra bởi phương pháp điều trị ung thư hoặc khối u nhấn vào dạ dày có thể làm cho khó để ăn .",
+    "entities": [
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu một loại thuốc đang dùng là nguyên nhân của chứng ù tai , bác sĩ có thể khuyên nên dừng hoặc giảm , hoặc chuyển sang một loại thuốc khác nhau .",
+    "entities": [
+      {
+        "text": "bác sĩ có thể khuyên nên dừng hoặc giảm",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chuyển sang một loại thuốc khác nhau",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc một số tụ máu dưới màng cứng không cần loại bỏ bởi vì chúng nhỏ và không có dấu hiệu hay triệu chứng .",
+    "entities": [
+      {
+        "text": "điều trị và thuốc một số tụ máu dưới màng cứng không cần loại bỏ bởi vì chúng nhỏ và không có dấu hiệu hay triệu chứng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nhai trầu : người nhai trầu có nguy cơ ung thư khoang miệng cao gấp 4 - 35 lần người không có thói quen này .",
+    "entities": [
+      {
+        "text": "ung thư khoang miệng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi họ lo lắng và để ý thái quá về tình trạng hô hấp của mình , cảm thấy thiếu oxy để thở sẽ cố gắng thở nhanh và sâu hơn để lấy đủ oxy .",
+    "entities": [
+      {
+        "text": "thở nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lo lắng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sâu hơn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong những trường hợp này , các loại kiểm tra hình ảnh có thể giúp bác sĩ xác minh rằng có sự đa dạng đau nhức đầu do tập thể dục , thay vì gây ra bởi một sự bất thường về cấu trúc hoặc mạch máu .",
+    "entities": [
+      {
+        "text": "đau nhức đầu do tập thể dục",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "kiểm tra hình ảnh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "một đánh giá âm thoa cũng có thể tiết lộ việc mất thính lực là do thiệt hại cho các bộ phận rung của tai giữa ( bao gồm màng nhĩ ) , thiệt hại cho các cảm biến hoặc dây thần kinh của tai trong , hoặc thiệt hại cho cả hai .",
+    "entities": [
+      {
+        "text": "một đánh giá âm thoa",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mất thính lực",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chấn thương có thể gây viêm phúc mạc bằng cách cho phép vi khuẩn hoặc hóa chất từ các bộ phận khác của cơ thể vào phúc mạc .",
+    "entities": [
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các giai đoạn của ung thư tuyến tụy các giai đoạn của ung thư tuyến tụy là : giai đoạn i . ung thư là chỉ giới hạn ở tuyến tụy .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thủy đậu tuy là một bệnh lành tính nhưng nếu không được điều trị đúng cách sẽ gây nhiều biến chứng nguy hiểm như viêm phổi , viêm màng não , thậm chí là tử vong .",
+    "entities": [
+      {
+        "text": "viêm màng não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thủy đậu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khoảng hơn 90% ung thư bàng quang xuất phát từ tế bào chuyển tiếp , gọi là ung thư biểu mô chuyển tiếp .",
+    "entities": [
+      {
+        "text": "ung thư biểu mô chuyển tiếp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư bàng quang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa xơ gan mật là một căn bệnh , trong đó đường mật trong gan đang dần bị phá hủy .",
+    "entities": [
+      {
+        "text": "xơ gan mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh thấp tim nguyên nhân bệnh thấp tim cho đến nay vẫn còn chưa rõ ràng , dù các nhà khoa học đã chứng minh nhiễm khuẩn do streptococcus ở họng và ở đường hô hấp trên đóng vai trò quyết định .",
+    "entities": [
+      {
+        "text": "bệnh thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong quá trình hình thành , vì một lý do nào đó , cơ hoành không được hoàn thiện đầy đủ tạo thành khe hở cơ hoành khiến cho lồng ngực và ổ bụng không được ngăn cách hoàn toàn làm cho các tạng trong ổ bụng như dạ dày , ruột , gan , lách có thể đi lên lồng ngực qua khe hở cơ hoành gây nên bệnh thoát vị hoành .",
+    "entities": [
+      {
+        "text": "bệnh thoát vị hoành",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ví dụ : nam giới có khả năng bị đau thắt ngực cao hơn , trong khi đó , phụ nữ dễ gặp các triệu chứng khác kèm với khó chịu ở ngực , như khó thở , buồn nôn và cực kỳ mệt mỏi .",
+    "entities": [
+      {
+        "text": "khó chịu ở ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "vì vậy , thoát khỏi được sự tiêu diệt của pmp ( protein diệt khuẩn của tiểu cầu ) là đặc trưng điển hình của các vi khuẩn gây viêm nội tâm mạc nhiễm khuẩn .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc nhiễm khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cpr có thể được thực hiện bởi bất cứ ai , kể cả thành viên gia đình của những người có nguy cơ .",
+    "entities": [
+      {
+        "text": "cpr",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù các triệu chứng đau mắt đỏ có thể giải quyết trong ba hoặc bốn ngày , trẻ em bị viêm kết mạc do virus có thể lây nhiễm cho một tuần hoặc nhiều hơn .",
+    "entities": [
+      {
+        "text": "viêm kết mạc do virus",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau mắt đỏ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các loại thuốc : đôi khi , các loại thuốc mà bác sĩ kê cho các tình trạng sức khỏe khác có thể gây ra rối loạn nhịp tim .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "những nguyên nhân gây tinh hoàn ẩn thường gặp là : rối loạn trục hạ đồi - tuyến yên - tuyến sinh dục : suy tuyến yên làm thiếu gonadotropin gây tinh hoàn ẩn và chứng dương vật nhỏ .",
+    "entities": [
+      {
+        "text": "chứng dương vật nhỏ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tuyến yên",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tinh hoàn ẩn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

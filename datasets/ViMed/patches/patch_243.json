@@ -1,0 +1,384 @@
+[
+  {
+    "text": "hình ảnh bệnh túi thừa thực quản tổng quan bệnh túi thừa thực quản túi thừa thực quản là gì ?",
+    "entities": [
+      {
+        "text": "bệnh túi thừa thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị xâm lấn tối thiểu lựa chọn điều trị xâm lấn tối thiểu được sử dụng cho các trẻ nhỏ có ống dẫn nước mắt bị chặn không tự mở hoặc cho người lớn có một ống dẫn bị ngăn một phần hoặc một phần thu hẹp của điểm này .",
+    "entities": [
+      {
+        "text": "điều trị xâm lấn tối thiểu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ sẽ căn cứ vào đặc điểm của khối u ( vị trí , kích thước , … ) để đưa ra chỉ định phù hợp trên từng bệnh nhân cụ thể : phẫu thuật cắt rộng u . phẫu thuật cắt lưỡi bán phần + vét hạch cổ .",
+    "entities": [
+      {
+        "text": "phẫu thuật cắt lưỡi bán phần",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật cắt rộng u",
+        "type": "THUỐC"
+      },
+      {
+        "text": "vét hạch cổ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh uốn ván bệnh uốn ván thường bắt đầu bằng triệu chứng co thắt cơ hàm nhẹ , sau đó ảnh hưởng đến các cơ khác trong vùng mặt và các vị trí khác nhau trong cơ thể như ngực , cổ , lưng , bụng và mông .",
+    "entities": [
+      {
+        "text": "co thắt cơ hàm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong giai đoạn này , mục tiêu là giảm liều hoặc cắt corticosteroid và sử dụng các thuốc ức chế miễn dịch ít độc khi cần thiết .",
+    "entities": [
+      {
+        "text": "thuốc ức chế miễn dịch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "corticosteroid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "có sẵn thuốc hoặc toa ( otc ) , thuốc chẹn acid bao gồm các thuốc ranitidine ( zantac ) , famotidine ( pepcid ) , cimetidine ( tagamet ) và nizatidine ( axid ) .",
+    "entities": [
+      {
+        "text": "thuốc ranitidine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chẹn acid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "famotidine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cimetidine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nizatidine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tagamet",
+        "type": "THUỐC"
+      },
+      {
+        "text": "zantac",
+        "type": "THUỐC"
+      },
+      {
+        "text": "pepcid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "axid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu đã sử dụng hoặc các thuốc bôi mắt khác , đang có nguy cơ cao phát triển một ống dẫn nước mắt bị chặn .",
+    "entities": [
+      {
+        "text": "ống dẫn nước mắt bị chặn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa đục thủy tinh thể là sự mờ đục rõ ràng thông thường ống kính .",
+    "entities": [
+      {
+        "text": "đục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sự mờ đục rõ ràng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "massage có thể được dùng 2 - 4 lần một ngày , cùng với kháng sinh để ngăn ngừa nhiễm trùng .",
+    "entities": [
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "massage",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "mong đợi sự hồi phục lâu dài sau khi thủ tục whipple , sẽ dành 10 ngày trở lên tại bệnh viện và sau đó hồi phục trong vài tuần ở nhà .",
+    "entities": [
+      {
+        "text": "whipple",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp , bác sĩ có thể sử dụng ống thông tim để chẩn đoán kênh nhĩ thất .",
+    "entities": [
+      {
+        "text": "ống thông tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "kênh nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh viêm đại tràng lâu dài , chẳng hạn như viêm loét đại tràng và bệnh crohn , có thể làm tăng nguy cơ .",
+    "entities": [
+      {
+        "text": "bệnh viêm đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm loét đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu vấn đề không phải là điều trị thành công tại thời điểm chẩn đoán , một số biến chứng có thể phát triển , bao gồm : mức thấp bất thường của kali trong máu ( hạ kali máu ) , do sự mất kali trong quá trình tiêu chảy quá nhiều .",
+    "entities": [
+      {
+        "text": "hạ kali máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bao quy đầu mỏng căng , sáng hơn bình thường nếu không phát hiện và điều trị khối u vỡ , gây hoại tử vùng da dương vật .",
+    "entities": [
+      {
+        "text": "bao quy đầu mỏng căng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ những yếu tố làm cho nó nhiều khả năng sẽ trải nghiệm khô mắt bao gồm : lớn tuổi .",
+    "entities": [
+      {
+        "text": "khô mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau khi phẫu thuật , bệnh nhân cần tránh những động tác xoắn người , thay đổi động tác đột ngột , lái xe để tránh bung chỉ vết thương .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu không được điều trị , nguy cơ phát triển ung thư đại tràng gần như 100 phần trăm , thường là trước tuổi 40. các tin tức đáng khích lệ về fap là trong một số trường hợp , thử nghiệm di truyền có thể giúp xác định xem đang có nguy cơ của bệnh .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cụ thể : điều trị bằng kháng sinh : đa số các trường hợp nhiễm trùng huyết là do vi khuẩn , do đó , kháng sinh vẫn có hiệu quả điều trị .",
+    "entities": [
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một số virus , chẳng hạn như rubella ( sởi đức ) , có thể rất có hại trong khi mang thai , do đó , điều quan trọng là đảm bảo chích ngừa được cập nhật trước khi có thai .",
+    "entities": [
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sởi đức",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cắt tĩnh mạch ngoại trú : các tĩnh mạch giãn được loại bỏ thông qua các vết rạch nhỏ ở chân bằng các dụng cụ phẫu thuật tốt .",
+    "entities": [
+      {
+        "text": "cắt tĩnh mạch ngoại trú",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nhưng với xơ gan nhiều , hình thức mô sẹo ngày càng nhiều trong gan làm cho nó không thể hoạt động .",
+    "entities": [
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cắt lớp vi tính ( ct ) bụng có thể giúp phân biệt giữa viêm ruột thừa và viêm hạch bạch huyết mạc treo ruột .",
+    "entities": [
+      {
+        "text": "viêm hạch bạch huyết mạc treo ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm ruột thừa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "chăm sóc bệnh nhân sau tai biến mạch máu não phụ thuộc vào biến chứng , cần chú ý : trong quá trình điều trị tuyệt đối tuân thủ hướng dẫn của bác sĩ .",
+    "entities": [
+      {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra và chẩn đoán cùng với khám lâm sàng triệt để , các xét nghiệm và thủ tục được sử dụng để chẩn đoán viêm túi mật , bao gồm : xét nghiệm máu .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc này có thể được bằng cách tiêm vào một số trường hợp - chẳng hạn như nếu một đứa con trẻ , những người đang có một thời gian khó nuốt hoặc nôn mửa từ viêm họng .",
+    "entities": [
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó nuốt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nôn mửa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các nghiên cứu chỉ ra rằng ung thư tuyến nước bọt xảy ra khi một số tế bào trong tuyến nước bọt phát triển đột biến trong dna của chúng .",
+    "entities": [
+      {
+        "text": "ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "do gan là một cơ quan quan trọng không thể sống mà không có , nếu không nó phải được thay thế bằng ghép gan .",
+    "entities": [
+      {
+        "text": "ghép gan",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các giai đoạn của ung thư thực quản là : giai đoạn i . ung thư chỉ xảy ra ở các lớp trên của tế bào niêm mạc thực quản .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tiêu chảy , đau bụng và co thắt có thể gây khó khăn để ăn hoặc cho ruột hấp thụ chất dinh dưỡng .",
+    "entities": [
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "co thắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra và chẩn đoán rối loạn ăn uống được chẩn đoán dựa trên dấu hiệu , triệu chứng và thói quen ăn uống .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

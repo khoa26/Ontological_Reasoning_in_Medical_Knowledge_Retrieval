@@ -1,0 +1,455 @@
+[
+  {
+    "text": "nếu corticosteroid mũi không hiệu quả , bác sĩ có thể kê một corticosteroid uống , chẳng hạn như prednisone , hoặc một mình hoặc kết hợp với một thuốc xịt mũi .",
+    "entities": [
+      {
+        "text": "corticosteroid uống",
+        "type": "THUỐC"
+      },
+      {
+        "text": "corticosteroid mũi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc xịt mũi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "prednisone",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "chẩn đoán hình ảnh chụp đàn hồi thoáng qua ( te ) để xác định bệnh nhân cld có nguy cơ phát triển tăng áp lực tĩnh mạch cửa có ý nghĩa lâm sàng ( csph ) .",
+    "entities": [
+      {
+        "text": "tăng áp lực tĩnh mạch cửa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chụp đàn hồi thoáng qua",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù mỏi mắt có thể gây phiền nhiễu , nó thường là không nghiêm trọng và biến mất khi nghỉ ngơi đôi mắt .",
+    "entities": [
+      {
+        "text": "mỏi mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết bệnh nhân ung thư tụy sau khi điều trị bằng phẫu thuật chỉ sống được khoảng 2 - 3 năm , tỉ lệ tái phát sau phẫu thuật cũng khá lớn .",
+    "entities": [
+      {
+        "text": "ung thư tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng dị tật tim bẩm sinh ở trẻ em bao gồm : da hoặc môi xanh xám hoặc xanh xao ( tím tái ) .",
+    "entities": [
+      {
+        "text": "dị tật tim bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "môi xanh xám",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xanh xao",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tím tái",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "da",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh thấp tim ở trẻ em nhiễm liên cầu khuẩn tan máu beta nhóm a của cổ họng gây ra viêm họng liên cầu khuẩn hoặc ở trên da và các bộ phận khác của cơ thể hiếm khi gây ra sốt thấp khớp .",
+    "entities": [
+      {
+        "text": "bệnh thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hãy hỏi bác sĩ cho một giới thiệu đến một nhóm hỗ trợ hoặc trị liệu nghề nghiệp , những người có thể giúp đưa ra các chiến lược đối phó và thích nghi với thay đổi tầm nhìn .",
+    "entities": [
+      {
+        "text": "trị liệu nghề nghiệp",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết mọi người nhiễm c . difficile trong thời gian lưu trú tại bệnh viện hoặc điều dưỡng tại nhà sau khi đã dùng thuốc kháng sinh .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trong ung thư hạch không hodgkin , các tế bào lympho của bạn không chết , nhưng tiếp tục phát triển và phân chia .",
+    "entities": [
+      {
+        "text": "ung thư hạch không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của sốt thấp khớp các triệu chứng sốt thấp khớp là do tình trạng viêm ở tim , khớp , da hoặc hệ thần kinh trung ương .",
+    "entities": [
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống nếu trải nghiệm khô mắt , chú ý đến các tình huống mà có nhiều khả năng gây ra các triệu chứng .",
+    "entities": [
+      {
+        "text": "khô mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng giai đoạn đầu mặc dù một số người bị xơ gan đường mật có triệu chứng nhiều năm sau khi được chẩn đoán , những người khác trải nghiệm một số triệu chứng ban đầu : mệt mỏi .",
+    "entities": [
+      {
+        "text": "xơ gan đường mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố di truyền : bệnh polyp đại tràng gia đình liên quan tới đột biến của gen apc ( adenomatous polyposis coli ) , chiếm 1% các ung thư đại tràng .",
+    "entities": [
+      {
+        "text": "bệnh polyp đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hóa trị hóa trị là sử dụng hóa chất đưa vào cơ thể bệnh nhân để điều trị ung thư , có thể hóa trị bằng đường toàn thân hay tại chỗ ( động mạch lưỡi ) .",
+    "entities": [
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hiệu quả của thủ thuật thăm dò điện sinh lý tim trong hội chứng brugada vẫn chưa có nhiều bằng chứng và vẫn đang là chủ đề gây tranh cãi .",
+    "entities": [
+      {
+        "text": "hội chứng brugada",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các vấn đề dài hạn liên quan đến nhiễm trùng tai , dịch dai dẳng trong tai giữa , nhiễm trùng hoặc nhiễm trùng dai dẳng thường xuyên có thể gây ra vấn đề và các biến chứng nghiêm trọng khác .",
+    "entities": [
+      {
+        "text": "dịch dai dẳng trong tai giữa",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhiễm trùng tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chẩn đoán phân biệt : chẩn đoán phân biệt sốt rét thường : kết quả xét nghiệm ký sinh trùng sốt rét âm tính , cần phân biệt với sốt do nguyên nhân khác : sốt xuất huyết dengue , sốt thương hàn , cảm cúm , viêm họng , viêm amidan , viêm màng não , .",
+    "entities": [
+      {
+        "text": "sốt xuất huyết dengue",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt thương hàn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm màng não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm amidan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cảm cúm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một thử nghiệm trên da là an toàn và nhanh chóng và có thể giúp xác định các chất gây dị ứng đó là nguyên nhân gây viêm mũi .",
+    "entities": [
+      {
+        "text": "một thử nghiệm trên da",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm mũi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng nghiêm trọng nhất của huyết khối tĩnh mạch sâu xảy ra khi một phần của cục máu đông vỡ ra và di chuyển theo máu đến phổi , gây tắc nghẽn tại phổi được gọi là thuyên tắc phổi .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuyên tắc phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuổi cao : đa số bệnh nhân được chẩn đoán ung thư hậu môn ở độ tuổi từ 50 - 80. các kích thích thường xuyên ở hậu môn : các kích thích hậu môn gây sưng phồng , đỏ , đau làm tăng nguy cơ phát triển ung thư ống hậu môn rò hậu môn : tình trạng lỗ rò thông thương giữa ống hậu môn và da bên ngoài .",
+    "entities": [
+      {
+        "text": "ung thư ống hậu môn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư hậu môn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sưng phồng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rò hậu môn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến tai biến mạch máu não tai biến mạch máu não do thiếu máu não : các chất béo bám thành mảng , nằm ở động mạch và ngăn dòng chảy của máu cũng như oxy đi nuôi các tế bào não ( xơ vữa động mạch ) .",
+    "entities": [
+      {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đau , tê , yếu hoặc lạnh ở chân hoặc tay nếu các mạch máu ở những vùng cơ thể đó bị thu hẹp .",
+    "entities": [
+      {
+        "text": "lạnh ở chân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "yếu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tay",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tê",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nhiều yếu tố có thể gây tổn thương cho tâm thất trái , như đau tim , nhiễm trùng , độc tố và một số loại thuốc , bao gồm cả thuốc điều trị ung thư .",
+    "entities": [
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc nhiễm trùng huyết hậu quả của nhiễm trùng máu là hết sức nặng nề , có thể gây viêm nội mạc mao quản , gan , lách sưng to , áp - xe não , viêm màng não , suy thận cấp hoặc tác động xấu đến xương khớp ( viêm tủy xương , viêm tràn dịch mủ khớp ) , viêm cơ tim , viêm màng ngoài tim , viêm tắc tĩnh mạch thứ phát , viêm động mạch .",
+    "entities": [
+      {
+        "text": "viêm tắc tĩnh mạch thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm tràn dịch mủ khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm nội mạc mao quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm màng ngoài tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm tủy xương",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm màng não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lách sưng to",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy thận cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "áp - xe não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gan",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "may mắn thay , tình trạng này có thể được quản lý bằng vật lý trị liệu và phương pháp điều trị tại nhà .",
+    "entities": [
+      {
+        "text": "vật lý trị liệu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng teo dây thần kinh thị giác thường gồm giảm thị lực , giảm khả năng nhận biết màu sắc và đau mắt khi vận động .",
+    "entities": [
+      {
+        "text": "teo dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau mắt khi vận động",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "viêm tụy cấp có thể gây ra những thay đổi hóa học trong cơ thể có ảnh hưởng đến chức năng phổi , làm mức oxy trong máu giảm xuống mức thấp nguy hiểm .",
+    "entities": [
+      {
+        "text": "viêm tụy cấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "người mắc biến chứng này dễ rơi vào tình trạng nguy kịch , trụy mạch do sốc nhiễm trùng; suy giảm chức năng gan , thận : gan , thận bị tổn thương đến mức không thể tự phục hồi và hoạt động bình thường trở lại .",
+    "entities": [
+      {
+        "text": "trụy mạch",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ở thể rubella điển hình : dấu hiệu của bệnh thường nhẹ và lành tính , tỷ lệ biến chứng và tử vong .",
+    "entities": [
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ưu điểm của bài kiểm tra hơi thở là nó có thể theo dõi hiệu quả điều trị được sử dụng để tiêu diệt h . pylori , phát hiện có vi khuẩn đã bị chết hoặc loại trừ .",
+    "entities": []
+  }
+]

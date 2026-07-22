@@ -1,0 +1,416 @@
+[
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến huyết áp cao có hai loại cao huyết áp : cao huyết áp nguyên phát ( vô căn ) : đối với hầu hết người lớn , không có nguyên nhân xác định nào gây ra cao huyết áp cao .",
+    "entities": [
+      {
+        "text": "cao huyết áp nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đôn đốc một người thân tìm cách điều trị thật không may , nhiều người bị rối loạn ăn uống chống lại điều trị .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "lựa chọn thứ hai : trong thời gian thắt nút , dùng thuốc ức chế bơm proton như lansoprazole 30 mg/ngày , cho đến hết .",
+    "entities": [
+      {
+        "text": "ức chế bơm proton",
+        "type": "THUỐC"
+      },
+      {
+        "text": "lansoprazole",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bệnh sán máng lưu hành ở 74 nước trên thế giới với khoảng 200 triệu người mắc bệnh , đặc biệt các nước có chung đường biên giới với việt nam như trung quốc , lào và campuchia đều có bệnh sán màng lưu hành cao .",
+    "entities": [
+      {
+        "text": "bệnh sán máng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh sán màng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng ban đầu thường là triệu chứng suy tim : khó thở khi gắng sức , thở gấp , khó thở kịch phát về đêm , mệt mỏi .",
+    "entities": [
+      {
+        "text": "khó thở kịch phát về đêm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở khi gắng sức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thở gấp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tổn thương viêm thành ổ nhỏ nằm rải rác khắp nơi trong tim là tổn thương đặc trưng của thấp tim .",
+    "entities": [
+      {
+        "text": "thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm dây thần kinh thị giác phát sinh từ optica neuromyelitis có xu hướng nặng hơn so với viêm dây thần kinh thị giá c có liên quan với bệnh đa xơ cứng .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh đa xơ cứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số thuốc , bao gồm các thuốc giảm đau , thuốc lợi tiểu và những thuốc sử dụng để điều trị bệnh parkinson , huyết áp cao và trầm cảm .",
+    "entities": [
+      {
+        "text": "thuốc giảm đau",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc lợi tiểu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh parkinson",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "trầm cảm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trừ khi có các bệnh lý nặng kèm theo , suy tim là chỉ định phẫu thuật sớm ở bệnh nhân viêm nội tâm mạc nhiễm khuẩn .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc nhiễm khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tips là một ống nhỏ được đặt giữa các tĩnh mạch cửa và tĩnh mạch gan , có thể mang máu từ gan trở lại tim .",
+    "entities": [
+      {
+        "text": "tips",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , khi bệnh đã trở nặng mà không kịp thời điều trị sẽ gây ra một số biến chứng nguy hiểm như : suy tim ; hình thành huyết khối; rung nhĩ ; đột quỵ .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật sửa chữa ( septoplasty ) nếu trải nghiệm , đặc biệt là các triệu chứng khó chịu chẳng hạn như tắc nghẽn đường thở có ý nghĩa , viêm xoang mãn tính hoặc chảy máu cam thường xuyên , có thể xem xét giải phẫu để sửa vách ngăn lệch ( septoplasty ) .",
+    "entities": [
+      {
+        "text": "giải phẫu để sửa vách ngăn lệch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "triệu chứng khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phẫu thuật sửa chữa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tắc nghẽn đường thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm xoang mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy máu cam",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "septoplasty",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ung thư tại chỗ nhưng đã tiến triển nhiều : ung thư đã lan rộng từ tuyến tụy đến các mạch máu hoặc cơ quan lân cận .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm giúp xác định loại viêm mạch máu như : các kháng thể kháng tương bào của bạch cầu đoạn trung tính [anca] được chỉ định sau khi đánh trên lâm sàng dựa vào kết quả của xét nghiệm cơ bản .",
+    "entities": [
+      {
+        "text": "viêm mạch máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng nổi bật có thể thấy trên bệnh nhân là phù mềm một phần hoặc toàn bộ cánh tay hoặc chân , bao gồm cả ngón tay hoặc ngón chân , đi kèm theo đó là cảm giác đau tức , nặng nề , khó chịu .",
+    "entities": [
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phù mềm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau tức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nặng nề",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "guillain - barre có thể được kích hoạt bằng cách phổ biến nhất , nhiễm trùng campylobacter , một loại vi khuẩn thường được tìm thấy trong thực phẩm chưa nấu chín , đặc biệt là gia cầm .",
+    "entities": [
+      {
+        "text": "guillain - barre",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một loại thoái hóa điểm vàng ướt , được gọi là bong biểu mô sắc tố võng mạc , xảy ra khi chất lỏng thoát ra từ màng mạch và thu được giữa các màng mạch và một lớp mỏng tế bào được gọi là biểu mô sắc tố võng mạc ( rpe ) .",
+    "entities": [
+      {
+        "text": "thoái hóa điểm vàng ướt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xơ vữa động mạch có thể xảy ra các động mạch lớn và trung bình như động mạch vành , động mạch cảnh , động mạch não , động mạch chủ , động mạch các chi lớn và các nhánh .",
+    "entities": [
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị viêm tai giữa mạn tính mủ nhiễm trùng mãn tính có kết quả là thủng màng nhĩ , mãn tính viêm tai giữa mủ là khó điều trị .",
+    "entities": [
+      {
+        "text": "viêm tai giữa mạn tính mủ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm tai giữa mủ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thủng màng nhĩ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một số nghiên cứu cho thấy sử dụng aspirin thường xuyên có thể giảm rủi ro , nhưng những người khác cho thấy không có lợi ích .",
+    "entities": [
+      {
+        "text": "aspirin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "việc điều trị bệnh phụ thuộc vào giai đoạn lâm sàng và mô bệnh học , cách chăm sóc , hơn hết là tâm lý của người bệnh trong quá trình điều trị .",
+    "entities": [
+      {
+        "text": "mô bệnh học",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "trường hợp bệnh sốt rét xác định : trường hợp bệnh sốt rét xác định là trường hợp có ký sinh trùng sốt rét trong máu được xác định bằng xét nghiệm lam máu nhuộm giemsa hoặc xét nghiệm chẩn đoán nhanh phát hiện kháng nguyên hoặc kỹ thuật sinh học phân tử .",
+    "entities": [
+      {
+        "text": "xét nghiệm chẩn đoán nhanh phát hiện kháng nguyên",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xét nghiệm lam máu nhuộm giemsa",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "kỹ thuật sinh học phân tử",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm để xác định chẩn đoán : chụp cộng hưởng từ ( mri ) điện cơ đồ ( emg ) điện cơ có thể chỉ ra các thay đổi gián đoạn từng phần mạn tính của dây thần kinh , với hoạt động bất thường tự phát khi cơ ở trạng thái nghỉ và giảm số lượng các đơn vị hoạt động khi có vận động hữu ý . ở bệnh nhân nghi ngờ teo cơ tủy hoặc xơ cứng cột bên teo cơ không nên chẩn đoán xác định khi không tìm thấy các thay đổi như trên ở ít nhất ba ngọn chi .",
+    "entities": [
+      {
+        "text": "xơ cứng cột bên teo cơ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "điện cơ đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "teo cơ tủy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "emg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phát hiện này cuối cùng có thể giúp các nhà nghiên cứu thu hẹp nguyên nhân gây xơ gan đường mật .",
+    "entities": [
+      {
+        "text": "xơ gan đường mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "di truyền : những người có tiền sử gia đình có ba mẹ , anh chị em có tiền sử bị bệnh lý về tim mạch có nguy cơ mắc bệnh tăng huyết áp vô căn nhiều hơn .",
+    "entities": [
+      {
+        "text": "bệnh tăng huyết áp vô căn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "dopamine truyền dopamine tĩnh mạch thường bắt đầu với liều 3 mcg/kg/phút và có thể tăng lên đến 20mcg/kg/phút để tăng nhịp tim và huyết áp .",
+    "entities": [
+      {
+        "text": "dopamine",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sau khi phẫu thuật , trẻ tiếp tục được chăm sóc tích cực , duy trì thở máy cho đến khi tình trạng của trẻ ổn định .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đôi khi , người bị rối loạn khác mà chủ yếu ảnh hưởng đến chuyển động , ví dụ bệnh parkinson , cuối cùng có thể phát triển triệu chứng của chứng mất trí nhớ .",
+    "entities": [
+      {
+        "text": "chứng mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh parkinson",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số nghiên cứu cho thấy rằng những người dành nhiều giờ liên tục trong ánh mặt trời có thể có tăng nguy cơ u hắc tố mắt so với những người giới hạn phơi nắng .",
+    "entities": [
+      {
+        "text": "u hắc tố mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong và sau khi điều trị ung thư cổ họng , có thể tìm sự giúp đỡ : chăm sóc cho một lỗ mở khí quản .",
+    "entities": [
+      {
+        "text": "ung thư cổ họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

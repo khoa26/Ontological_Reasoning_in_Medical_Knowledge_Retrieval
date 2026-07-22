@@ -1,0 +1,352 @@
+[
+  {
+    "text": "ở những khu vực mà việc chích ngừa bệnh bạch hầu được phổ biến , nguy cơ bệnh chủ yếu đối với những người chưa được tiêm chủng hoặc tiêm chủng không đầy đủ , những người đi du lịch quốc tế hoặc tiếp xúc với những người từ các nước kém phát triển nơi mà tình trạng chích ngừa có thể không đầy đủ .",
+    "entities": [
+      {
+        "text": "bệnh bạch hầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh tắc ống phóng tinh để phòng ngừa và giảm thiểu nguy cơ bị tắc ống phóng tinh , người đàn ông có thể thực hiện một số cách sau : có thói quen sinh hoạt lành mạnh : tập thể dục thường xuyên , ít nhất 30 phút mỗi ngày .",
+    "entities": [
+      {
+        "text": "bệnh tắc ống phóng tinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngăn ngừa tái phát chảy máu cấp tính thuốc co mạch : terlipressin , octreotide ( giảm áp lực tĩnh mạch cửa ) .",
+    "entities": [
+      {
+        "text": "thuốc co mạch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "terlipressin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "octreotide",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của sởi để phát hiện kịp thời khi mắc bệnh sởi , cần lưu ý những dấu hiệu mà hầu như ai cũng gặp phải khi mắc sởi : sốt , phát ban , ho , viêm kết mạc mắt , chảy nước mũi .",
+    "entities": [
+      {
+        "text": "viêm kết mạc mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chảy nước mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh sởi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phát ban",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "loét dạ dày tá tràng phổ biến , ảnh hưởng đến 10 phần trăm người mỹ tại một số thời điểm trong cuộc sống của họ .",
+    "entities": [
+      {
+        "text": "loét dạ dày tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể chỉ định điều trị cho một số trường hợp nghi ngờ sốt rét có dấu hiệu đe dọa đến tính mạng của bệnh nhân sau khi đã loại trừ các nguyên nhân khác .",
+    "entities": [
+      {
+        "text": "sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , hẹp van hai lá còn gây ra tiếng mở van sớm thì tâm trương và tiếng thổi tâm trương đặc trưng .",
+    "entities": [
+      {
+        "text": "hẹp van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "rituximab : rituximab , một kháng thể đơn dòng kháng cd20 ức chế tế bào b , đã được dùng trong điều trị viêm mạch nghiêm trọng liên quan đến anca .",
+    "entities": [
+      {
+        "text": "rituximab",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "soi thực quản xác định các biến thể đang chảy máu quá mức cũng như các biến thể lớn và tiền sử của các vết chảy máu gần đây .",
+    "entities": [
+      {
+        "text": "soi thực quản",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "chức năng của ruột thừa trong cơ thể hiện vẫn chưa được xác định , nhưng nếu bị viêm ruột thừa , cần phải được điều trị ngay lập tức .",
+    "entities": [
+      {
+        "text": "viêm ruột thừa",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ở những bệnh nhân có tắc nghẽn , ngoài cải thiện chức năng tâm trương , cần làm giảm chênh áp đường ra bằng các thuốc gây giảm khả năng co bóp như chẹn kênh calci không dihydropyridine ( non - dhp ) , thuốc chẹn beta ( bb ) và disopyramide disopyramide hiệu quả nhất đối với bệnh nhân có chênh áp khi nghỉ ngơi , trong khi thuốc ức chế beta lại làm giảm chênh áp xảy ra khi vận động .",
+    "entities": [
+      {
+        "text": "chẹn kênh calci không dihydropyridine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "disopyramide disopyramide",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc ức chế beta",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chẹn beta",
+        "type": "THUỐC"
+      },
+      {
+        "text": "non - dhp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bb",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thoát dịch u nang gây ra các triệu chứng khó chịu hoặc phát triển lớn hơn có thể được lấy dịch bằng kim , thường sử dụng một đèn nội soi , một ống nhỏ đi qua miệng đến dạ dày và ruột non .",
+    "entities": [
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "u nang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán hở van động mạch chủ hở van động mạch chủ có thể được xác định : siêu âm doppler tim : đơn giản , không xâm lấn , có thể xác định nguyên nhân của hở van động mạch chủ , mức độ hở chủ , chức năng tim .",
+    "entities": [
+      {
+        "text": "hở van động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm doppler tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "hội chứng qt kéo dài là một trong những bệnh lý tim mạch khi hệ thống điện tim trở nên bất thường .",
+    "entities": [
+      {
+        "text": "bệnh lý tim mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân được truyền tĩnh mạch 1 - 2 l dung dịch muối 0,9% ( 20 ml/kg cho trẻ em ) .",
+    "entities": [
+      {
+        "text": "dung dịch muối 0,9%",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ung thư khoang miệng đang là vấn đề sức khỏe toàn cầu với tỷ lệ mắc , tỷ lệ tử vong ngày càng tăng và là một trong 10 ung thư phổ biến nhất .",
+    "entities": [
+      {
+        "text": "ung thư khoang miệng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu huyết áp tối đa tăng hơn 30mmhg hoặc huyết áp tối thiểu tăng hơn 15mmhg so với trị số huyết áp khi chưa có thai có nguy cơ xuất hiện tiền sản giật .",
+    "entities": [
+      {
+        "text": "tiền sản giật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những rủi ro nghiêm trọng hơn bao gồm bệnh tim , đột quỵ , các vấn đề về tuyến giáp , vô sinh và các bệnh ung thư khác , chẳng hạn như ung thư vú hoặc phổi .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư vú",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chảy máu do giãn tĩnh mạch thực quản là nguyên nhân phổ biến thứ ba của chảy máu đường tiêu hóa trên , sau loét tá tràng và dạ dày .",
+    "entities": [
+      {
+        "text": "chảy máu đường tiêu hóa trên",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "để tránh nguy cơ hạ thân nhiệt liên quan đến rượu , không uống rượu khi định ra ngoài trời lạnh , trước khi đi ngủ vào mùa lạnh .",
+    "entities": [
+      {
+        "text": "hạ thân nhiệt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hút thuốc lá : thuốc lá chứa các chất độc hại như benzen , hydrocarbon , asen , nicotin . . làm tăng nguy cơ mắc ung thư vòm họng .",
+    "entities": [
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng có thể bao gồm thủng thực quản và sẹo của thực quản có thể dẫn đến sự cố nuốt ( chứng khó nuốt ) .",
+    "entities": [
+      {
+        "text": "thủng thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chứng khó nuốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống trong nhiều trường hợp , ù tai là kết quả của một cái gì đó mà không thể ngăn chặn .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những kháng thể này hầu như không bao giờ xảy ra ở những người không có xơ gan mật , ngay cả khi họ có các rối loạn khác về gan .",
+    "entities": [
+      {
+        "text": "xơ gan mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết các cơn đau tim liên quan đến cảm giác khó chịu ở trung tâm hoặc bên trái của ngực , kéo dài hơn vài phút hoặc biến mất và quay trở lại .",
+    "entities": [
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đối phó và hỗ trợ tất cả mọi người tiếp nhận với chẩn đoán ung thư theo cách riêng của mình .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kết quả đánh giá bởi bác sĩ chuyên khoa tim được thông báo trước khi phụ nữ mang thai hoặc sửa chữa kênh nhĩ thất .",
+    "entities": [
+      {
+        "text": "kênh nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu bất cứ phần nào của ống dẫn trứng bị tổn thương , có thể do phẫu thuật hoặc nhiễm trùng , ống dẫn trứng có thể bị tắc .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các phương pháp điều trị tăng tiết mồ hôi : điều trị nội khoa : các loại thuốc được sử dụng để điều trị hyperhidrosis bao gồm : thuốc chống mồ hôi .",
+    "entities": [
+      {
+        "text": "tăng tiết mồ hôi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nội khoa",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật hoạt động được sử dụng để điều trị mắt u ác tính bao gồm các thủ tục để loại bỏ một phần của mắt hoặc thủ tục để loại bỏ toàn bộ mắt .",
+    "entities": [
+      {
+        "text": "mắt u ác tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  }
+]

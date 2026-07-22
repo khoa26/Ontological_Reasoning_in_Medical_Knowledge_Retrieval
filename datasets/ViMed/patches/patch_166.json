@@ -1,0 +1,400 @@
+[
+  {
+    "text": "kênh nhĩ thất hoàn toàn các dấu hiệu và triệu chứng của kênh truyền nhĩ thất hoàn toàn thường phát triển trong vài tuần đầu tiên của cuộc sống .",
+    "entities": [
+      {
+        "text": "kênh nhĩ thất hoàn toàn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh phong có thể điều trị bằng thalidomide , một loại thuốc mạnh có tác dụng ức chế hệ thống miễn dịch .",
+    "entities": [
+      {
+        "text": "thalidomide",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh phong",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "v iêm tá tràng do vi khuẩn helicobacter pylori : bác sĩ sẽ chỉ định sử dụng kháng sinh theo phác đồ điều trị kết hợp với thuốc ức chế bơm proton ppi ( omeprazole , esomeprazole , rabeprazole ) nếu như bạn bị nhiễm helicobacter pylori .",
+    "entities": [
+      {
+        "text": "ức chế bơm proton ppi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "iêm tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "esomeprazole",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rabeprazole",
+        "type": "THUỐC"
+      },
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "isotretinoin ( accutane ) là một thuốc đôi khi được dùng để điều trị sẹo mụn trứng cá nang hoặc mụn mà không đáp ứng với điều trị khác .",
+    "entities": [
+      {
+        "text": "mụn trứng cá nang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "isotretinoin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "accutane",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu bệnh nhân vẫn còn tử cung thì progesterone cần được kết hợp để tránh nguy cơ mắc ung thư nội mạc tử cung .",
+    "entities": [
+      {
+        "text": "ung thư nội mạc tử cung",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù y học hiện đại có những tiến bộ đáng kể trong việc điều trị nhiễm trùng huyết , nhưng đến nay nhiễm trùng huyết vẫn là một thách thức vì nguy cơ tử vong cao .",
+    "entities": [
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu không có thiếu tầm nhìn màu sắc , sẽ có thể chọn ra số lượng và hình dạng từ bên trong các mẫu .",
+    "entities": [
+      {
+        "text": "thiếu tầm nhìn màu sắc",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thoái hóa khớp háng thứ phát : được phân thành các dạng nhỏ sau : t hoái hóa khớp háng sau chấn thương như : gãy cổ xương đùi , trật khớp háng hoặc vỡ ổ cối .",
+    "entities": [
+      {
+        "text": "thoái hóa khớp háng thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gãy cổ xương đùi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "trật khớp háng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vỡ ổ cối",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tăng huyết áp và các yếu tố huyết áp tăng , như stress , rượu và cà phê , có thể làm cho ù tai đáng chú ý hơn .",
+    "entities": [
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp tăng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "stress",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm tụy cấp có thể gây suy thận , có thể được điều trị bằng chạy thận nếu suy thận nặng và dai dẳng .",
+    "entities": [
+      {
+        "text": "viêm tụy cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chạy thận",
+        "type": "THUỐC"
+      },
+      {
+        "text": "suy thận",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đa số u nguyên bào thần kinh được phát hiện khi ung thư đã lan rộng ra các cơ quan : hạch bạch huyết , gan , phổi , xương , tủy xương .",
+    "entities": [
+      {
+        "text": "u nguyên bào thần kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể gặp nhiều bất thường , khiếm khuyết trong tim bẩm sinh : thông thương giữa các buồng tim và/hoặc các mạch máu lớn , các tổn thương tắc nghẽn , tổn thương do hở van , sự pha trộn máu… tim bẩm sinh vẫn là một mảng khó của tim mạch vì chúng ít gặp hơn so với các bệnh tim khác , phẫu thuật sửa chữa cũng khá công phu và đòi hỏi nhiều kĩ thuật .",
+    "entities": [
+      {
+        "text": "tim bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán bác sĩ có thể xác định xem có ráy tai tắc nghẽn bằng cách nhìn vào tai với một kính soi tai , một công cụ đặc biệt là đèn và phóng to tai trong .",
+    "entities": [
+      {
+        "text": "một công cụ đặc biệt là đèn và phóng to tai trong",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nhìn vào tai với một kính soi tai",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ráy tai tắc nghẽn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đường lây truyền bệnh ung thư thực quản giống như các bệnh ung thư khác , ung thư thực quản không phải là bệnh lây nhiễm .",
+    "entities": [
+      {
+        "text": "bệnh ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bên cạnh đó , người ta thấy rằng , chất prostaglandin được tiết ra từ nội mạc tử cung là nguyên nhân gây kích thích các cơ trơn tại tử cung và ruột non khiến nữ giới ở độ tuổi dậy thì đau bụng kinh .",
+    "entities": [
+      {
+        "text": "đau bụng kinh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm virus viêm gan b ( hbv ) hoặc bệnh viêm gan siêu vi c ( hcv ) mãn tính làm tăng nguy cơ ung thư gan .",
+    "entities": [
+      {
+        "text": "bệnh viêm gan siêu vi c",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kim sinh thiết có thể được thực hiện cho các khối u não ở các khu vực khó tiếp cận hoặc các khu vực rất nhạy cảm trong não .",
+    "entities": [
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "khối u não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu ung thư rất nhỏ , chỉ giới hạn ở các lớp bề mặt của thực quản và đã không lây lan , bác sĩ phẫu thuật có thể đề nghị loại bỏ mô bệnh ung thư và của các mô khỏe mạnh xung quanh nó .",
+    "entities": [
+      {
+        "text": "mô bệnh ung thư",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "hoạt động được sử dụng để điều trị ung thư thực quản bao gồm : phẫu thuật cắt bỏ khối u nhỏ .",
+    "entities": [
+      {
+        "text": "phẫu thuật cắt bỏ khối u nhỏ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "rivaroxaban là thuốc chống đông đường uống thế hệ mới thứ 2 thông qua cơ chế ức chế trực tiếp yếu tố xa .",
+    "entities": [
+      {
+        "text": "thuốc chống đông",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rivaroxaban",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "cả hai chụp cắt lớp vi tính ( ct ) và chụp cộng hưởng từ ( mri ) có thể được sử dụng để chẩn đoán giãn tĩnh mạch thực quản .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu có viêm kết mạc do vi khuẩn , giữ ở xa trường học cho đến sau khi điều trị bắt đầu .",
+    "entities": [
+      {
+        "text": "viêm kết mạc do vi khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố khởi phát : người bị thiếu men g6pd thông thường chỉ biểu hiện triệu chứng khi tế bào hồng cầu trong máu phơi nhiễm với các yếu tố khởi phát bệnh , chia làm 3 nhóm như sau : thức ăn : hạt đậu tằm là tác nhân phổ biến nhất .",
+    "entities": [
+      {
+        "text": "thiếu men g6pd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hướng dẫn thường khuyên nên khám ung thư đại tràng bắt đầu ở tuổi 50. bác sĩ có thể khuyên nên thường xuyên hơn hoặc kiểm tra trước đó nếu có yếu tố nguy cơ khác , chẳng hạn như lịch sử gia đình của bệnh .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu bác sĩ thấy một khu vực đáng ngờ , người đó có thể làm sinh thiết - lấy một mẫu mô để kiểm tra dưới kính hiển vi .",
+    "entities": [
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tổn thương cơ tim : tình trạng viêm kết hợp với sốt thấp khớp có thể làm suy yếu cơ tim , ảnh hưởng đến khả năng bơm máu .",
+    "entities": [
+      {
+        "text": "tổn thương cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy yếu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "giống như nhiều người , có thể chỉ có dấu hiệu và triệu chứng nhẹ của hội chứng ruột kích thích .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các tiêu chuẩn phụ sốt điện tâm đồ sóng pr kéo dài : xét nghiệm này còn được gọi là ecg hoặc ekg để ghi lại các tín hiệu điện hoạt động của tim và cho thấy tình trạng viêm của tim hoặc chức năng tim kém .",
+    "entities": [
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ecg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh tăng huyết áp nguyên phát tăng huyết áp nguyên phát thường không biểu hiện triệu chứng trên lâm sàng , kể cả đối với tăng huyết áp ở mức độ cao .",
+    "entities": [
+      {
+        "text": "bệnh tăng huyết áp nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong prk , bác sĩ phẫu thuật loại bỏ các lớp ngoài bảo vệ của giác mạc trước khi sử dụng một laser excimer để thay đổi độ cong của giác mạc này .",
+    "entities": [
+      {
+        "text": "laser excimer",
+        "type": "THUỐC"
+      }
+    ]
+  }
+]

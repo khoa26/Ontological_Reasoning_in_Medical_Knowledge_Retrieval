@@ -1,0 +1,359 @@
+[
+  {
+    "text": "nếu đeo kính áp tròng và có tái phát viêm giác mạc do virus nhiều , ngừng việc sử dụng kính áp tròng có thể làm giảm nguy cơ tái phát trong tương lai .",
+    "entities": [
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chứng phình động mạch thường hình thành ở nhánh hoặc các chi nhánh ở các động mạch vì những phần này yếu hơn .",
+    "entities": [
+      {
+        "text": "chứng phình động mạch thường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của sa van hai lá những dấu hiệu và triệu chứng của sa van hai lá là do có một lượng máu bị chảy ngược qua van .",
+    "entities": [
+      {
+        "text": "sa van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của viêm tá tràng chế độ sinh hoạt : tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị; duy trì lối sống tích cực , hạn chế sự căng thẳng; liên hệ ngay với bác sĩ khi cơ thể có những bất thường trong quá trình điều trị; thăm khám định kỳ để được theo dõi tình trạng sức khỏe , diễn tiến của bệnh và để bác sĩ tìm hướng điều trị phù hợp trong thời gian tiếp theo nếu bệnh chưa có dấu hiệu thuyên giảm .",
+    "entities": [
+      {
+        "text": "viêm tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm máu cũng có thể hiển thị mức cao của bilirubin ( một sắc tố màu da cam , màu vàng phát hành vào mật và được lưu trữ trong túi mật ) , alkaline phosphatase ( một loại enzyme được tìm thấy ở nồng độ cao trong gan và ống dẫn mật ) và aninotransferase huyết thanh ( enzyme gan ) .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc trong hầu hết trường hợp , thay đổi chế độ ăn uống và lối sống sẽ giúp giảm triệu chứng và quản lý táo bón .",
+    "entities": [
+      {
+        "text": "táo bón",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chính tình trạng lo lắng không rõ nguyên nhân ở người bệnh rối loạn nhịp tim đã dẫn tới hội chứng tăng thông khí .",
+    "entities": [
+      {
+        "text": "hội chứng tăng thông khí",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "loại phẫu thuật : tùy theo tình trạng của bệnh nhi mà chọn loại phẫu thuật phù hợp phẫu thuật 1 thì bao gồm cột cắt đường rò , nối thực quản tận - tận ( nhóm c gần ) phẫu thuật 2 thì với mở dạ dày ra da sau đó nối thực quản thì hai ( thường khi trẻ được 10 kg ) .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nó thường được sử dụng để giám sát các phản ứng của võng mạc để điều trị thoái hóa điểm vàng .",
+    "entities": [
+      {
+        "text": "thoái hóa điểm vàng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa viêm nội tâm mạc nhiễm khuẩn hiệu quả để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : dùng kháng sinh dự phòng khi tiến hành các thủ thật có nguy cơ cao gây viêm nội tâm mạc nhiễm khuẩn trên bệnh nhân có bệnh lý tim mạch dễ mắc viêm nội tâm mạc , nhưng chỉ giới hạn chỉ định này đối với nguy cơ cao nhất .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc nhiễm khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải bệnh mạch vành một số yếu tố làm tăng nguy cơ mắc bệnh mạch vành , bao gồm : nồng độ ldl trong máu cao .",
+    "entities": [
+      {
+        "text": "bệnh mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu các triệu chứng trĩ bắt đầu cùng với thay đổi đáng kể thói quen đi cầu hoặc nếu đi phân mầu đen , hắc ín hoặc nâu , máu đông hoặc máu trộn lẫn với phân , tham khảo ý kiến bác sĩ không chậm trễ .",
+    "entities": [
+      {
+        "text": "máu đông hoặc máu trộn lẫn với phân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đi phân mầu đen",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . túi thừa có thể gây loét , chảy máu , thủng , nếu ở trong ngực thì đưa đến viêm trung thất ngoài ra , túi thừa có thể bị ung thư hoá do kích thích mạn tính của túi thừa thực quản và thức ăn trong túi thừa ( hiếm gặp , chỉ chiếm 0,5% các trường hợp túi thừa thực quản ) nguyên nhân bệnh túi thừa thực quản nguyên nhân túi thừa thực quản bẩm sinh : túi thừa đã có từ lúc sinh ra ở người lớn : túi thừa thực quản thường có liên quan đến tình trạng tăng áp lực lên thực quản .",
+    "entities": [
+      {
+        "text": "bệnh túi thừa thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "túi thừa thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thủng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "loét",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phải có sự kết hợp nhất định của các triệu chứng và tiền sử gia đình để xác định chẩn đoán hội chứng marfan .",
+    "entities": [
+      {
+        "text": "hội chứng marfan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "người bệnh có thể bị nhiễm trùng xoang mũi , sổ mũi hoặc ho khi tình trạng nhiễm trùng xảy ra .",
+    "entities": [
+      {
+        "text": "nhiễm trùng xoang mũi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sổ mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ánh sáng từ tia laser được sử dụng trong l iệu pháp quang động kích hoạt một loại thuốc gọi là verteporfin ( visudyne ) , bác sĩ tiêm vào tĩnh mạch ở cánh tay .",
+    "entities": [
+      {
+        "text": "kích hoạt một loại thuốc gọi là verteporfin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "iệu pháp quang động",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tai biến mạch máu não do xuất huyết não : khoảng 20% các ca tai biến mạch máu não là do xuất huyết não .",
+    "entities": [
+      {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những người đã dành nhiều thời gian hơn trong suy nghĩ có tỷ lệ suy giảm tinh thần thấp hơn , ngay cả khi họ có bất thường về não .",
+    "entities": [
+      {
+        "text": "bất thường về não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những người khác mắc bệnh ung thư có thể cung cấp một cái nhìn độc đáo , xem xét tham gia một nhóm hỗ trợ - cho dù đó là trong cộng đồng hoặc trực tuyến .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có nhiều loại thuốc mới chống động kinh và một loạt các thủ tục phẫu thuật có thể giúp đỡ nếu thuốc không hiệu quả .",
+    "entities": [
+      {
+        "text": "một loạt các thủ tục phẫu thuật có thể giúp đỡ nếu thuốc không hiệu quả",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhiều loại thuốc mới chống động kinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "kháng h2 bao gồm ranitidine ( zantac ) , famotidine ( pepcid ) , cimetidine ( tagamet ) và nizatidine ( axid ) .",
+    "entities": [
+      {
+        "text": "ranitidine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "famotidine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cimetidine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nizatidine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tagamet",
+        "type": "THUỐC"
+      },
+      {
+        "text": "zantac",
+        "type": "THUỐC"
+      },
+      {
+        "text": "pepcid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "axid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "là hữu ích cả trong việc giúp đỡ để chẩn đoán nhiễm h . pylori và theo dõi sự thành công của điều trị .",
+    "entities": []
+  },
+  {
+    "text": "nếu đang sử dụng thuốc nhỏ chứa chất bảo quản , không sử dụng chúng nhiều hơn bốn lần một ngày .",
+    "entities": [
+      {
+        "text": "thuốc nhỏ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sau khi đã có một thời gian để chữa lành , một con mắt nhân tạo ( giả ) được thực hiện .",
+    "entities": [
+      {
+        "text": "một con mắt nhân tạo",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán bác sĩ có thể xác định chẩn đoán co thắt thực quản bằng các phương pháp này : x quang thực quản .",
+    "entities": [
+      {
+        "text": "co thắt thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "x quang thực quản",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "đôi khi một căn bệnh , chẳng hạn như là một cơn bệnh cấp tính của bệnh tiêu chảy nhiễm trùng ( viêm dạ dày ruột ) , có thể gây ra hội chứng ruột kích thích .",
+    "entities": [
+      {
+        "text": "bệnh tiêu chảy nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm dạ dày ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân tùy thuộc vào vị trí , loét dạ dày tá tràng có tên gọi khác nhau : loét dạ dày .",
+    "entities": [
+      {
+        "text": "loét dạ dày tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi trẻ được bú mẹ ít nhất 6 tháng , kéo dài tới 2 tuổi sẽ giảm nguy cơ tiêu chảy .",
+    "entities": [
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tập thể dục thường xuyên , ăn uống đúng và thực hiện các bước khác để giữ cho các mạch máu khỏe mạnh có thể giúp ngăn ngừa chứng ù tai liên quan đến rối loạn mạch máu .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "dấu hiệu và triệu chứng gây ra bởi khối u não có thể bao gồm : đau đầu mới khởi phát hoặc thay đổi trong mô hình đau .",
+    "entities": [
+      {
+        "text": "thay đổi trong mô hình đau",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đầu mới khởi phát",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khối u não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

@@ -1,0 +1,407 @@
+[
+  {
+    "text": "lời khuyên cho công việc của máy tính : máy tính sử dụng là một nguyên nhân phổ biến của mỏi mắt .",
+    "entities": [
+      {
+        "text": "mỏi mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "shape {behavior : url ( #default#vml ) ;} normal 0 false false false microsoftinternetexplorer4 định nghĩa viêm dây thần kinh thị giác là tình trạng viêm các bó sợi thần kinh trong mắt , truyền thông tin thị giác tới não .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh xảy ra qua đường tiêu hóa tương đối khó điều trị vì bệnh nhân bị mất nước , mất điện giải , mất máu , nhiễm khuẩn huyết và thủng ruột .",
+    "entities": [
+      {
+        "text": "nhiễm khuẩn huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xử trí tắc nghẽn tĩnh mạch cửa ngoài gan : chống đông máu ; bắc cầu tĩnh mạch cửa trái - mạc treo tràng ( thủ thuật meso - rex ) .",
+    "entities": [
+      {
+        "text": "bắc cầu tĩnh mạch cửa trái - mạc treo tràng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thủ thuật meso - rex",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chống đông máu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bạn có thể giảm nguy cơ huyết khối tĩnh mạch sâu và cục máu đông bằng một chế độ ăn uống cân bằng .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chế độ ăn uống cân bằng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cục máu đông",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù rung nhĩ chính nó thường không đe dọa tính mạng , nó là một vấn đề y tế nghiêm trọng mà đôi khi đòi hỏi phải điều trị khẩn cấp .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu siêu âm tim bình thường có thể tiến hành siêu âm tim gắng sức , bệnh nhân sẽ được truyền thuốc tăng co bóp cơ tim ( dobutamin ) .",
+    "entities": [
+      {
+        "text": "siêu âm tim gắng sức",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tuy borrelia recurrentis không có nội độc tố nhưng chúng lại có nhiều lipoproteins có thể kích hoạt những cytokine gây viêm .",
+    "entities": []
+  },
+  {
+    "text": "thuốc kháng sinh để điều trị bệnh tim do thấp khá đơn giản là penicillin như là một loại thuốc đầu tay , nếu bệnh nhân bị dị ứng với penicillin có thể dùng một số loại kháng sinh khác .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh tim do thấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của tim to tim to có thể không gây ra triệu chứng gì hoặc bệnh nhân sẽ có các dấu hiệu sau : cảm thấy khó thở , đặc biệt là khi nằm thẳng; hụt hơi khi thức dậy; mệt mỏi ; nhịp tim không đều ( loạn nhịp tim ) ; sưng , phù ở bụng hoặc ở chân .",
+    "entities": [
+      {
+        "text": "nhịp tim không đều",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phù ở bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hụt hơi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sưng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chân",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "khi một ống dẫn bị rách , nước mắt không thể thoát nước bình thường , để lại một con mắt bị kích thích chảy nước .",
+    "entities": [
+      {
+        "text": "để lại một con mắt bị kích thích chảy nước",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nước mắt không thể thoát nước bình thường",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị thuốc mục tiêu làm việc bằng cách chặn mạch máu mới để ung thư phát triển được gọi là chất ức chế tạo mạch .",
+    "entities": [
+      {
+        "text": "chất ức chế tạo mạch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc mục tiêu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "điều này có thể gây mất tầm nhìn và các triệu chứng khác có thể bắt chước viêm dây thần kinh thị giác .",
+    "entities": [
+      {
+        "text": "các triệu chứng khác có thể bắt chước viêm dây thần kinh thị giác",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "gây mất tầm nhìn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một số nghiên cứu đã tìm thấy tăng nguy cơ ung thư đại tràng ở những người ăn chế độ ăn uống nhiều thịt đỏ và thịt chế biến .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nội soi này được trang bị một đầu dò siêu âm nhỏ được sử dụng để có được hình ảnh của u nang , và với một cây kim để có được chất dịch từ u nang .",
+    "entities": [
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "u nang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "terlipressin ( thay thế ) : 2 mg mỗi 4 giờ truyền tĩnh mạch trong 24 đến 48 giờ , sau đó 1 mg mỗi 4 giờ .",
+    "entities": [
+      {
+        "text": "2 mg mỗi 4 giờ truyền tĩnh mạch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "1 mg mỗi 4 giờ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "terlipressin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "rối loạn đông máu làm cho máu dễ bị đông ( rối loạn hypercoagulation ) , chẳng hạn như thiếu protein di truyền .",
+    "entities": [
+      {
+        "text": "rối loạn hypercoagulation",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rối loạn đông máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tập thể dục thể thao thường xuyên : các bài tập thể dục như đi bộ nhanh , chạy trong khi thở vào và ra bằng mũi có thể hạn chế tăng thông khí .",
+    "entities": [
+      {
+        "text": "tăng thông khí",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . xuất hiện những cơn đau nhói mỗi khi vận động xoay người , gập người hoặc dạng háng , khi nghỉ ngơi hết đau .",
+    "entities": [
+      {
+        "text": "cơn đau nhói",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các bác sĩ có thể kê đơn thuốc để điều trị các vấn đề như cục máu đông , lo lắng và mất ngủ cho những người bị sa sút trí tuệ mạch má u .",
+    "entities": [
+      {
+        "text": "điều trị các vấn đề như cục máu đông , lo lắng và mất ngủ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sa sút trí tuệ mạch má",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "loét dạ dày tá tràng cũng có thể tạo mô sẹo có thể cản trở lối đi của thức ăn qua đường tiêu hóa , đến nôn mửa và giảm cân .",
+    "entities": [
+      {
+        "text": "loét dạ dày tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "giảm cân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nôn mửa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm trùng thường xuyên hay kéo dài và tích tụ chất lỏng liên tục có thể dẫn đến một số biến chứng nghiêm trọng : khiếm thính .",
+    "entities": [
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khiếm thính",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân trong bệnh viêm động mạch takayasu , động mạch chủ và động mạch lớn khác , bao gồm cả những mạch dẫn lên đầu và thận bị viêm .",
+    "entities": [
+      {
+        "text": "bệnh viêm động mạch takayasu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một thủ thuật được gọi là khí nén retinopexy liên quan đến việc tiêm một bong bóng không khí hoặc khí vào .",
+    "entities": [
+      {
+        "text": "liên quan đến việc tiêm một bong bóng không khí hoặc khí vào",
+        "type": "THUỐC"
+      },
+      {
+        "text": "khí nén retinopexy",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "5 nguyên nhân gây trầm cảm sau sinh - nhận biết sớm để điều trị kịp thời không lơ là với rối loạn tâm thần sau sinh vượt qua trầm cảm sau sinh : những điều cần biết trầm cảm sau sinh có thể tái phát trong các lần sinh tiếp theo chủ đề : trầm cảm mất ngủ mang thai trầm cảm sau sinh sinh con căng thẳng mang thai ngoài ý muốn",
+    "entities": [
+      {
+        "text": "trầm cảm sau sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "căng thẳng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mất ngủ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh ù tai chẩn đoán ù tai dựa vào nhiều yếu tố , khai thác kỹ triệu chứng cơ năng : thời gian khởi phát ù tai , tuổi , kiểu tiến triển của ù tai , tiền sử gia đình và các triệu chứng nghe và tiền đình kèm theo ( nghe kém , đầy tai , chóng mặt ) .",
+    "entities": [
+      {
+        "text": "bệnh ù tai",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nghe kém",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đầy tai",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh còn có thể gây ra các biến chứng như chậm lớn , nhiễm trùng phổi tái đi tái lại , tăng áp hệ động mạch phổi cố định , viêm nội tâm mạc nhiễm khuẩn , suy tim ứ huyết , … có thể đưa đến tử vong nếu không được điều trị thích hợp kịp thời .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc nhiễm khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim ứ huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng các loại thuốc kích thích , chẳng hạn như cocaine hoặc amphetamine , có thể kích hoạt co thắt động mạch vành có thể gây ra cơn đau tim .",
+    "entities": [
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phẫu thuật : có thể phẫu thuật nội soi , mở ống dẫn trứng và giải quyết nguyên nhân tắc nghẽn .",
+    "entities": [
+      {
+        "text": "phẫu thuật nội soi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thăm dò điện sinh lý tim : thăm dò điện sinh lý và triệt đốt năng lượng sóng có tần số radio đặc biệt tốt và an toàn trên các bệnh nhân rung nhĩ và có kèm theo hội chứng wolff parkinson white .",
+    "entities": [
+      {
+        "text": "thăm dò điện sinh lý tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "wolff parkinson white",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "text": "nguyên nhân bệnh tế bào thần kinh vận động bệnh tế bào thần kinh vận động có thể do tổn thương dây thần kinh vận động : một dây hay nhiều dây , hay tổn thương tại tuỷ sống .",
+    "entities": [
+      {
+        "text": "bệnh tế bào thần kinh vận động",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của viêm tá tràng khi bị viêm tá tràng , đôi khi bạn sẽ không cảm thấy gì , tuy nhiên vẫn có thể có một vài dấu hiệu nhận thấy rằng bạn đang bị viêm tá tràng , bao gồm : đau bụng ; đầy hơi , khó tiêu ; chướng khí ; chán ăn ; buồn nôn hoặc nôn mửa .",
+    "entities": [
+      {
+        "text": "viêm tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chướng khí",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó tiêu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đầy hơi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nôn mửa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sumatriptan không được khuyến cáo nếu không kiểm soát được bệnh tăng huyết áp hoặc bệnh tim thiếu máu cục bộ .",
+    "entities": [
+      {
+        "text": "bệnh tim thiếu máu cục bộ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sumatriptan",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra và chẩn đoán nếu bác sĩ nghi ngờ thiếu máu cục bộ đường ruột , có thể trải qua một số xét nghiệm chẩn đoán , dựa trên các dấu hiệu và triệu chứng , bao gồm : kiểm tra hình ảnh .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "gist khối u thần kinh nội tiết ( neuroendocrine tumor ) lymphoma : nguyên nhân bệnh ung thư ruột non nguyên nhân gây ung thư ruột non chưa được xác định rõ ràng .",
+    "entities": [
+      {
+        "text": "bệnh ung thư ruột non",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u thần kinh nội tiết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "neuroendocrine tumor",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gist",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu bị dị ứng với penicillin , bác sĩ có thể có thể quy định : một cephalosporin như cephalexin ( keflex ) .",
+    "entities": [
+      {
+        "text": "cephalosporin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "penicillin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cephalexin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "keflex",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thống kinh thứ phát ( hay còn gọi là thống kinh có nguyên nhân ) : nguyên nhân của loại thống kinh này là do vấn đề bệnh lý gây ra .",
+    "entities": [
+      {
+        "text": "thống kinh có nguyên nhân",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thống kinh thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa rung nhĩ hiệu quả để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : có rất nhiều yếu tố nguy cơ của rung nhĩ bao gồm : tuổi cao , bệnh lý tim mạch ( tăng huyết áp , mạch vành , bệnh van tim , suy tim… ) , đái tháo đường , bệnh lý tuyến giáp , bệnh phổi mạn , lạm dụng rượu… do vậy để điều trị tốt cho bệnh nhân rung nhĩ cần kiểm soát tốt bệnh nền và yếu tố nguy cơ .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cũng có thể nhận các vi khuẩn từ một tay nắm cửa , khác và chuyển chúng vào mũi hay miệng .",
+    "entities": []
+  },
+  {
+    "text": "khi tập thể dục mạnh , các hạt sắc tố có thể khuấy lên và đi vào meshwork trabecular gây tăng áp lực .",
+    "entities": []
+  },
+  {
+    "text": "bệnh động mạch ngoại vi : tình trạng cánh tay hoặc chân - thường là chân - không nhận đủ máu , gây ra các triệu chứng , đáng chú ý nhất là đau chân khi đi bộ ( claudication ) .",
+    "entities": [
+      {
+        "text": "bệnh động mạch ngoại vi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau chân",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phụ nữ mắc hội chứng plummer - vinson phòng ngừa bệnh ung thư khoang miệng có rất nhiều các yếu tố nguy cơ gây ung thư khoang miệng .",
+    "entities": [
+      {
+        "text": "hội chứng plummer - vinson",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ung thư khoang miệng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu đeo kính áp tròng , có thể cần phải dừng lại cho đến khi đôi mắt cảm thấy tốt hơn .",
+    "entities": [
+      {
+        "text": "đeo kính áp tròng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trong thực hành , đái tháo đường hoặc rối loạn glucose lúc đói thường được chẩn đoán sử dụng định lượng glucose huyết tương ngẫu nhiên hoặc hba1c .",
+    "entities": [
+      {
+        "text": "định lượng glucose huyết tương",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hba1c",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu không có nguyên nhân thực thể rõ ràng , thì việc điều trị có thể dùng thuốc để làm chậm tim , ví dụ thuốc chẹn beta .",
+    "entities": [
+      {
+        "text": "thuốc chẹn beta",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "điện tâm đồ có thể giúp bác sĩ phát hiện các vấn đề về nhịp tim và cấu trúc tim có thể gây ra nhịp tim nhanh .",
+    "entities": [
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "thừa cân hoặc béo phì có liên quan đến tăng nguy cơ một số loại ung thư , bao gồm cả ung thư đại tràng .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh tăng huyết áp : bệnh làm áp lực máu động mạch rất lớn , mà lực co bóp tim phải lớn hơn áp lực máu động mạch mới tống máu đi nuôi cơ thể , lâu dần tim hoạt động quá sức dẫn đến suy tim .",
+    "entities": [
+      {
+        "text": "bệnh tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm ruột thừa cấp có thể gây ra cơn đau hoặc nó có thể vỡ gây ra những cơn đau dữ dội và đột ngột .",
+    "entities": [
+      {
+        "text": "viêm ruột thừa cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cơn đau dữ dội",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đột ngột",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm máu thường được sử dụng để giúp xác định rối loạn viêm nhiễm được gọi là tốc độ lắng hồng cầu ( ers ) .",
+    "entities": [
+      {
+        "text": "tốc độ lắng hồng cầu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng một số khối u có thể trở thành ung thư ( ác tính ) , có nghĩa là có thể phát triển ung thư đại tràng .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm thực quản trào ngược các yếu tố làm tăng nguy cơ mắc bệnh trào ngược dạ dày thực quản ( gerd ) - do đó những yếu tố trong viêm thực quản trào ngược bao gồm : bệnh béo phì .",
+    "entities": [
+      {
+        "text": "bệnh trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm thực quản trào ngược",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh béo phì",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gerd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với kháng sinh liên quan tiêu chảy , một số câu hỏi cơ bản để yêu cầu bác sĩ bao gồm : những gì có thể gây ra triệu chứng hoặc tình trạng này ?",
+    "entities": [
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viên trĩ trixbye thủ tục xâm lấn tối thiểu nếu cục máu đông đã hình thành trong búi trĩ ngoại , bác sĩ có thể dễ dàng loại bỏ cục máu đông với một vết mổ đơn giản , có thể cung cấp cứu trợ kịp thời .",
+    "entities": [
+      {
+        "text": "viên trĩ trixbye",
+        "type": "THUỐC"
+      },
+      {
+        "text": "trĩ ngoại",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thoái hóa điểm vàng ở người da trắng phổ biến hơn các chủng tộc khác , đặc biệt là sau tuổi 75. là phụ nữ .",
+    "entities": [
+      {
+        "text": "thoái hóa điểm vàng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vì sự an toàn của chính mình và của người khác , không lái xe hay vận hành thiết bị nặng nếu có một vấn đề tầm nhìn .",
+    "entities": [
+      {
+        "text": "vấn đề tầm nhìn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hiện nay can thiệp đang là phương pháp được áp dụng rộng rãi , đem lại ít nguy cơ và biến chứng hơn phẫu thuật .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thay vì tạo một flap ở giác mạc , bác sĩ phẫu thuật tạo ra một nắp bảo vệ chỉ của vỏ mỏng giác mạc ( biểu mô ) .",
+    "entities": [
+      {
+        "text": "phẫu thuật tạo ra một nắp bảo vệ chỉ của vỏ mỏng giác mạc",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "mục đích của phẫu thuật không phải là để chữa bệnh ung thư , nhưng để làm giảm các dấu hiệu và triệu chứng , chẳng hạn như chảy máu và đau đớn .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "rubella rất dễ lây lan , có thể lây truyền trong không gian nhỏ , ngay cả khi không tiếp xúc giữa người với người .",
+    "entities": [
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

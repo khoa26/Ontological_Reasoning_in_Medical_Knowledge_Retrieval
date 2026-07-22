@@ -1,0 +1,395 @@
+[
+  {
+    "text": "u lympho không hodgkin không thể chữa khỏi hoàn toàn tuy nhiên có khoảng 75% số bệnh nhân mắc u lympho không hodgkin đáp ứng điều trị tốt , có tỷ lệ lui bệnh và kéo dài thời gian sống cao .",
+    "entities": [
+      {
+        "text": "u lympho không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có 2 phương pháp thường dùng : chụp cản quang khung đại tràng bằng thuốc baryt chụp cản quang kép : sau khi thụt baryt vào đại tràng để người bệnh đi tiêu rồi bơm hơi vào đại tràng để chụp , phương pháp này có thể phát hiện khối u rõ hơn 3. nội soi tiêu hóa : nội soi được tiến hành khi hình ảnh x - quang của khối u không rõ hoặc khi cần phân biệt các khối u lành tính với ác tính của đại tràng và trong những trường hợp xuất huyết ở đại tràng không rõ nguyên nhân .",
+    "entities": [
+      {
+        "text": "chụp cản quang khung đại tràng bằng thuốc baryt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp cản quang kép",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi tiêu hóa",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "x - quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "đối với những người có đục thủy tinh thể , hình báo gấm hay giảm tầm nhìn có thể làm cho nó khó khăn hơn khi đọc , lái xe , đặc biệt là vào ban đêm hoặc nhìn thấy sự biểu hiện trên khuôn mặt của một người .",
+    "entities": [
+      {
+        "text": "đục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "giảm tầm nhìn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hình báo gấm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của nhồi máu cơ tim thông thường , triệu chứng đầu tiên của nhồi máu là đau sâu , vùng dưới , nội tạng , được mô tả là đau nhức hoặc bị đè ép , thường lan ra sau lưng , hàm , cánh tay trái , cánh tay phải , vai hoặc tất cả các khu vực này .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau nhức",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh vi mạch cũng có thể làm giảm liền vết thương da , thậm chí những tổn thương nhỏ của da lành có thể tiến triển thành loét sâu hơn và dễ bị nhiễm trùng , đặc biệt ở chi dưới .",
+    "entities": [
+      {
+        "text": "bệnh vi mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các bệnh đại tràng mãn tính : ung thư đại tràng có thể phát sinh trên tổn thương của các bệnh : lỵ , amip , lao , giang mai , thương hàn và các bệnh lý khác của đại tràng như viêm loét đại tràng mãn tính chế độ ăn uống ít chất bã , nhiều mỡ và đạm động vật : chế độ ăn này làm thay đổi vi khuẩn yếm khí ở đại tràng , biến acid mật và cholesterol thành những chất gây ung thư .",
+    "entities": [
+      {
+        "text": "viêm loét đại tràng mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh đại tràng mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thương hàn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "giang mai",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "amip",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lao",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các nguy cơ của đột quỵ trong bệnh rung nhĩ phụ thuộc vào tuổi ( có nguy cơ cao theo độ tuổi ) và vào việc có huyết áp cao , tiểu đường , hoặc có tiền sử suy tim hoặc đột quỵ trước đó , và các yếu tố khác .",
+    "entities": [
+      {
+        "text": "bệnh rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chất aflatoxin của nấm aspergillus có mặt trong các loại thực phẩm như lạc , đỗ bị mốc cũng có thể là nguyên nhân gây ung thư gan .",
+    "entities": [
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tâm lý trị liệu tâm lý có thể giúp tìm hiểu để trao đổi những thói quen không lành mạnh cho những người khỏe mạnh .",
+    "entities": [
+      {
+        "text": "tâm lý trị liệu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "những tế bào này tích lũy có thể hình thành một khối u . các loại tế bào tham gia vào ung thư tuyến tụy giúp xác định điều trị tốt nhất .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hỗn hợp này giúp làm cho bề mặt của mắt mịn màng và rõ ràng , và nó giúp bảo vệ mắt khỏi nhiễm trùng .",
+    "entities": [
+      {
+        "text": "bảo vệ mắt khỏi nhiễm trùng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "có hai dạng thiểu sản men răng cơ bản là : thiểu sản men răng di truyền hay còn gọi là “sinh men bất toàn” : xuất hiện sự gián đoạn trung bì trong giai đoạn phôi của men răng , chỉ tác động đến phần men răng , các thành phần nội bì vẫn phát triển bình thường .",
+    "entities": [
+      {
+        "text": "thiểu sản men răng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau khi tấn công vào cơ thể , vi trùng sản sinh ra độc tố kết hợp với các chất hóa học trung gian do hệ miễn dịch sản sinh vào máu và dẫn đến phản ứng kích thích toàn cơ thể làm tổn thương mô và cơ quan nội tạng .",
+    "entities": []
+  },
+  {
+    "text": "xem thêm : nội soi đại tràng - chìa khóa phát hiện sớm ung thư đại tràng tại sao cần sàng lọc bệnh ung thư đại tràng ?",
+    "entities": [
+      {
+        "text": "bệnh ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nội soi đại tràng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "đột ngột mất thị giác ở một mắt , đột ngột mờ hoặc nhìn mờ , nhấp nháy ánh sáng , đốm đen , hoặc quầng hoặc cầu vồng xung quanh đèn có thể báo hiệu một vấn đề nghiêm trọng y tế , chẳng hạn như bệnh tăng nhãn áp cấp tính , đột quỵ hoặc một số khác có thể chữa được bệnh võng mạc như võng mạc rách hoặc bong .",
+    "entities": [
+      {
+        "text": "đột ngột mất thị giác ở một mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh tăng nhãn áp cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cầu vồng xung quanh đèn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhấp nháy ánh sáng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột ngột mờ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhìn mờ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đốm đen",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "quầng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tổn thương vách liên nhĩ thật sự chỉ ở tại ở vùng lỗ bầu dục , cần phân biệt với tổn thương “ thông liên nhĩ ” ( interatrial communication ) hay cia ( communication inter auriculaire ) là tổn thương làm thành luồng thông 2 buồng nhĩ .",
+    "entities": [
+      {
+        "text": "thông liên nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật thường được thực hiện trên một mắt tại một thời điểm , với một vài tuần giữa ca phẫu thuật .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng ánh sáng và dụng cụ một ( mũi mỏ vịt ) được thiết kế để mở lỗ mũi , bác sĩ sẽ kiểm tra bên trong mũi .",
+    "entities": [
+      {
+        "text": "kiểm tra bên trong mũi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mũi mỏ vịt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "rối loạn điện giải như hạ kali máu hay hạ magie máu , rối loạn kiềm toan , giảm oxy máu và tác dụng không mong muốn của một số thuốc cũng gây nên nhịp nhanh thất .",
+    "entities": [
+      {
+        "text": "nhịp nhanh thất",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu một bản vá không kết quả trong chữa bệnh phù hợp hoặc ent xác định rằng những vết rách không có khả năng chữa lành với bản vá lỗi , sẽ đề nghị phẫu thuật .",
+    "entities": [
+      {
+        "text": "đề nghị phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thiếu mật ảnh hưởng đến sự hấp thu chất béo và các vitamin tan trong chất béo , a , d , e và k . điều này đôi khi dẫn đến thiếu hụt của các vitamin trong các trường hợp xơ gan mật tiến triển .",
+    "entities": [
+      {
+        "text": "xơ gan mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân nhiễm trùng huyết thường có tiên lượng tử vong cao hơn những bệnh nhân mắc các nhiễm trùng khác .",
+    "entities": [
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong ung thư vòm họng , quá trình này bắt đầu trong tế bào vảy dòng bề mặt của vòm họn g .",
+    "entities": [
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu đang xem xét một mô cấy ốc tai , thính học cùng với một bác sĩ chuyên về bệnh của mũi tai và họng ( ent ) , có thể sẽ thảo luận về những rủi ro và lợi ích .",
+    "entities": [
+      {
+        "text": "cấy ốc tai",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bất kỳ nhịp nhanh nào có qrs giãn rộng ( ≥ 0,12 giây ) đều nên được coi là nhịp nhanh thất cho đến khi xác định được chẩn đoán .",
+    "entities": [
+      {
+        "text": "nhịp nhanh thất",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phác đồ tiêu chuẩn dành cho bệnh nhân có đặt stent bao gồm các điều sau : thuốc chống đông máu heparin hay thuốc tương tự ( như bivalirudin ) .",
+    "entities": [
+      {
+        "text": "thuốc chống đông máu heparin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bivalirudin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống trong hầu hết trường hợp , khiếm khuyết tim bẩm sinh , chẳng hạn như thân chung động mạch không thể ngăn chặn .",
+    "entities": [
+      {
+        "text": "thân chung động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "việc tránh tiêm chủng cho trẻ em có thể khiến trẻ và những người khác gặp nguy hiểm khi mắc và lây các bệnh nghiêm trọng , bao gồm ho gà , sởi hoặc quai bị .",
+    "entities": [
+      {
+        "text": "quai bị",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ho gà",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sởi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhịp nhanh thất không có bệnh tim cấu trúc đi kèm : rối loạn điện giải , nhanh nhịp thất đa dạng liên quan giao cảm , tác dụng phụ của thuốc , bất thường kênh ion dẫn truyền .",
+    "entities": [
+      {
+        "text": "rối loạn điện giải",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhịp nhanh thất",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , trong trường hợp các điều kiện không đáp ứng với điều trị hoặc đang tiến triển , xét nghiệm có thể giúp chỉ ra nguyên nhân , như xác định một mầm bệnh vi khuẩn .",
+    "entities": [
+      {
+        "text": "xét nghiệm có thể giúp chỉ ra nguyên nhân",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  }
+]

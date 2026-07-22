@@ -1,0 +1,436 @@
+[
+  {
+    "text": "khi được sử dụng hàng ngày , đây là một trong những phương pháp điều trị hiệu quả nhất cho viêm mũi không dị ứng .",
+    "entities": [
+      {
+        "text": "viêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vi khuẩn có hại thường được giữ cân bằng bởi các vi khuẩn lành mạnh trong hệ thống tiêu hóa , nhưng sự cân bằng giữa các vi khuẩn lành mạnh và có hại có thể bị phá vỡ bởi thuốc kháng sinh và thuốc khác .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "khác với tăng tiết mồ hôi nguyên phát các trường hợp thứ phát thường gây tăng tiết mồ hôi toàn thân .",
+    "entities": [
+      {
+        "text": "tăng tiết mồ hôi nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng tiết mồ hôi toàn thân",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một vài yếu tố nguy cơ đã được minh chứng là làm tăng nguy cơ phát triển ung thư tuyến nước bọt gồm : nguy cơ của tuyến nước bọt tăng lên khi tuổi càng tăng .",
+    "entities": [
+      {
+        "text": "ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những loại thuốc có sẵn trong toa ( otc ) , thuốc nước theo toa , thuốc viên và thuốc xịt mũi .",
+    "entities": [
+      {
+        "text": "thuốc có sẵn trong toa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc nước theo toa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc xịt mũi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc viên",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các tổn thương tiền ung thư : tổn thương tiền ung thư thường gặp trong ung thư khoang miệng là bạch sản , hồng sản và xơ hóa dưới niêm mạc .",
+    "entities": [
+      {
+        "text": "ung thư khoang miệng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "việc sử dụng thuốc nhuộm , có thể làm rõ nét hình ảnh của mạch máu và các tổn thương của chứng phình động mạch vỡ .",
+    "entities": [
+      {
+        "text": "làm rõ nét hình ảnh của mạch máu và các tổn thương",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chứng phình động mạch vỡ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sử dụng thuốc nhuộm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "bất thường ở vùng dưới đồi có thể giải thích thời gian và tính chất chu kỳ của đau đầu cơn .",
+    "entities": [
+      {
+        "text": "đau đầu cơn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra và chẩn đoán gần như tất cả bệnh ung thư đại tràng phát triển từ khối u , nhưng các khối u phát triển chậm , thường là trong khoảng thời gian của năm .",
+    "entities": [
+      {
+        "text": "bệnh ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khàn giọng do giãn nhĩ trái gây chèn ép dây thần kinh thanh quản trái hoặc động mạch phổi ( hội chứng ortner ) và các triệu chứng tăng áp động mạch phổi và suy thất phải cũng có thể xảy ra .",
+    "entities": [
+      {
+        "text": "hội chứng ortner",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy thất phải",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong trường hợp nặng hoặc nếu có nhiều biện pháp , bác sĩ có thể cần phải tạo ra một đường thông khí khẩn cấp bằng cách chèn một kim tiêm trực tiếp vào một khu vực của các khớp trong khí quản của con hoặc .",
+    "entities": [
+      {
+        "text": "bác sĩ có thể cần phải tạo ra một đường thông khí khẩn cấp bằng cách chèn một kim tiêm trực tiếp vào một khu vực của các khớp trong khí quản",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc xơ vữa động mạch một số yếu tố làm tăng nguy cơ mắc xơ vữa động mạch , bao gồm : tuổi tác : tuổi càng cao càng dễ mắc phải xơ vữa động mạch ; tiền sử gia đình mắc bệnh tim sớm , xơ vữa động mạch ; béo phì , béo bụng; chế độ ăn uống không lành mạnh : không ăn trái cây , ăn nhiều chất béo bão hòa , uống nhiều rượu; ít vận động , không tập luyện thể dục thường xuyên; thường xuyên bị căng thẳng .",
+    "entities": [
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ống dẫn nước mắt bị chặn có thể bẩm sinh hoặc có thể xảy ra ở bất kỳ độ tuổi khác .",
+    "entities": [
+      {
+        "text": "ống dẫn nước mắt bị chặn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu các triệu chứng xảy ra hoặc xấu đi có thể thêm digoxin , thuốc lợi tiểu và thuốc ức chế aldosteron và các loại thuốc khác nếu cần thiết .",
+    "entities": [
+      {
+        "text": "thuốc ức chế aldosteron",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc lợi tiểu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "digoxin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một số bằng chứng cho thấy điều trị thôi miên có thể giúp làm giảm các dấu hiệu và triệu chứng đau dạ dày không viêm loét .",
+    "entities": [
+      {
+        "text": "đau dạ dày không viêm loét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "việc co cơ mạnh , đột ngột , kéo dài gây đau cơ , có thể rách cả cơ và gãy xương .",
+    "entities": [
+      {
+        "text": "đau cơ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "những nguyên nhân có thể làm tăng áp lực lên thành thực quản là : rối loạn chức năng cơ thắt ở hai đầu thực quản viêm bên ngoài thực quản thức ăn di chuyển một cách bất thường qua thực quản ( như nuốt nghẹn ) rối loạn cơ chế nuốt túi thừa thực quản cũng có thể do những nguyên nhân khác như : biến chứng của phẫu thuật vùng cổ hội chứng ehler - danlos : ảnh hưởng đến mô liên kết trong cơ thể triệu chứng bệnh túi thừa thực quản thông thường túi thừa thực quản tiến triển chậm qua nhiều năm ( 5 - 10 năm ) .",
+    "entities": [
+      {
+        "text": "hội chứng ehler - danlos",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh túi thừa thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "túi thừa thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nuốt nghẹn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ung thư da ( không kể ung thư hắc tố ) là các ung thư xuất phát từ biểu mô da che phủ mặt ngoài cơ thể , gồm nhiều lớp tế bào .",
+    "entities": [
+      {
+        "text": "ung thư hắc tố",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư da",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu bác sĩ lâm sàng xác định rằng người bệnh không biểu hiện các triệu chứng của tự kỷ trong thời thơ ấu , nhưng thay vào đó bắt đầu có các triệu chứng ở tuổi thiếu niên hoặc người lớn , người bệnh có thể được đánh giá về các rối loạn sức khỏe tâm thần hoặc rối loạn cảm xúc khác .",
+    "entities": [
+      {
+        "text": "tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc bệnh đường huyết cao nhiều năm kiểm soát đường huyết cao dẫn tới nhiều biến chứng mạch máu , ảnh hưởng tới mạch máu nhỏ ( vi mạch ) , mạch máu lớn hoặc cả hai .",
+    "entities": [
+      {
+        "text": "bệnh đường huyết cao",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong liệt hành tủy tiến triển : lưỡi gà sa xuống , giảm phản xạ nôn , ứ đọng nước bọt ở họng , ho , lưỡi yếu có nhiều nếp nhăn .",
+    "entities": [
+      {
+        "text": "lưỡi yếu có nhiều nếp nhăn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ứ đọng nước bọt ở họng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lưỡi gà sa xuống",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "giảm phản xạ nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "liệt hành tủy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nhưng nếu ở tình trạng hở van nặng , người bệnh sẽ gặp một vài dấu hiệu sau : mệt mỏi , mất sức khi gắng sức ; cảm thấy hồi hộp , tim đập nhanh ; hụt hơi , nhói ngực đặc biệt ở người hở van do bị sa van; mạch đập bất thường ( loạn nhịp tim ) ; ho khan , ho ra mau hay khạc đờm ; đau thắt ngực , khó thở xảy ra khi hoạt động; phù chân .",
+    "entities": [
+      {
+        "text": "mất sức khi gắng sức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mạch đập bất thường",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cảm thấy hồi hộp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tim đập nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhói ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ho ra mau",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khạc đờm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phù chân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hụt hơi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ho khan",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh thoát vị hoành ở trẻ em ngay khi trẻ được sinh ra , các triệu chứng thoát vị hoành được biểu hiện ra ngoài gồm có : trẻ xuất hiện dấu hiệu suy hô hấp sớm , thở gắng sức , khó thở , tím tái sau khi sinh .",
+    "entities": [
+      {
+        "text": "bệnh thoát vị hoành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thở gắng sức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy hô hấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tím tái",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh động mạch ngoại biên cũng có thể là dấu hiệu gợi ý của sự lắng đọng mỡ trong động mạch của bạn ( tình trạng xơ vữa động mạch ) gây ra sự thu hẹp các mạch máu nuôi và làm giảm lưu lượng máu đến chân và đôi khi là tay .",
+    "entities": [
+      {
+        "text": "bệnh động mạch ngoại biên",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư dương vật là bệnh hay gặp ở châu phi , châu á và nam mỹ; ít gặp ở châu âu .",
+    "entities": [
+      {
+        "text": "ung thư dương vật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ct scan tuyến tụy kết hợp một loạt các x quang từ góc độ khác nhau để cung cấp cho bác sĩ thông tin chi tiết về cấu trúc của u nang tụy .",
+    "entities": [
+      {
+        "text": "ct scan tuyến tụy",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "u nang tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "x quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "cần lưu ý là đại tiện ra máu cũng xảy ra ở nhiều trường hợp khác và thường dễ lầm tưởng bệnh nhi bị bệnh lỵ nên nếu tự ý cho uống thuốc chữa lỵ sẽ làm bệnh không những không khỏi mà còn nặng hơn .",
+    "entities": [
+      {
+        "text": "đại tiện ra máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh lỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu dị ứng đang đóng góp vào viêm xoang , các mũi tiêm ngừa dị ứng ( miễn dịch liệu pháp ) giúp giảm thiểu các phản ứng của cơ thể với dị nguyên cụ thể có thể giúp điều trị các triệu chứng .",
+    "entities": [
+      {
+        "text": "mũi tiêm ngừa dị ứng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "miễn dịch liệu pháp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm xoang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng vấn đề có thể được kết hợp với sốt cỏ khô bao gồm : giảm chất lượng cuộc sống .",
+    "entities": [
+      {
+        "text": "sốt cỏ khô",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh ung thư hậu môn hiện nay vẫn chưa có các biện pháp phòng ngừa ung thư hậu môn đặc hiệu .",
+    "entities": [
+      {
+        "text": "ung thư hậu môn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

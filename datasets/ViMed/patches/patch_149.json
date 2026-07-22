@@ -1,0 +1,352 @@
+[
+  {
+    "text": "viêm màng ngoài tim thường khỏi và sẽ không để lại di chứng , nhưng có thể do xơ hóa và dính hai lá của màng ngoài tim .",
+    "entities": [
+      {
+        "text": "viêm màng ngoài tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các thuốc an thần , magnesi sulfat , barbiturate , meprobamate được sử dụng để giảm các ức chế trên hệ lưới của hệ thần kinh trung ương .",
+    "entities": [
+      {
+        "text": "magnesi sulfat",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc an thần",
+        "type": "THUỐC"
+      },
+      {
+        "text": "barbiturate",
+        "type": "THUỐC"
+      },
+      {
+        "text": "meprobamate",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "có tiền sử phẫu thuật dạ dày trước đó : bệnh nhân đã phẫu thuật dạ dày có nguy cơ mắc ung thư cao nhất sau 15 - 20 năm .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu bị viêm túi mật do sự tích tụ mật , nó có thể căng ra và sưng lên vượt quá kích thước bình thường của nó ( hydrops ) , có thể gây ra đau và làm tăng nguy cơ thủng túi mật , cũng như nhiễm trùng và hoại tử mô .",
+    "entities": [
+      {
+        "text": "viêm túi mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết phụ nữ đã từng bị thai chết lưu sẽ có một đứa con khỏe mạnh trong thai kỳ tiếp theo .",
+    "entities": [
+      {
+        "text": "thai chết lưu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những giọt được để lại trên da trong 15 phút trước khi y tá hoặc bác sĩ quan sát thấy làn da có những dấu hiệu của phản ứng dị ứng .",
+    "entities": [
+      {
+        "text": "dấu hiệu của phản ứng dị ứng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của giãn tĩnh mạch chế độ sinh hoạt tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "polyp túi mật : các polyp túi mật lớn hơn 1 cm được khuyến cáo cắt bỏ bởi vì có khả năng cao tiến triển thành ung thư .",
+    "entities": [
+      {
+        "text": "polyp túi mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số nghiên cứu đã tìm thấy vitamin và khoáng chất bổ sung , chẳng hạn như vitamin a , c và selen , có thể giúp làm giảm nhu cầu thuốc giảm đau ở những người viêm tụy mãn tính .",
+    "entities": [
+      {
+        "text": "viêm tụy mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vitamin a",
+        "type": "THUỐC"
+      },
+      {
+        "text": "selen",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đối với nam giới có thể biểu hiện bằng dấu hiệu giảm ham muốn tình dục ; giảm hoặc mất cương , gặp khó khăn trong sinh hoạt vợ chồng .",
+    "entities": [
+      {
+        "text": "gặp khó khăn trong sinh hoạt vợ chồng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "giảm ham muốn tình dục",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "giảm hoặc mất cương",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tổn thương viêm trong viêm đại tràng màng giả hầu như luôn luôn kết hợp với phát triển quá mức của vi khuẩn clostridium difficile ( c . difficile ) , mặc dù trong trường hợp hiếm hoi , các sinh vật khác có thể tham gia .",
+    "entities": [
+      {
+        "text": "viêm đại tràng màng giả",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sự đa dạng di truyền của run là rối loạn trội nhiễm sắc thể thường , có nghĩa là một gene khiếm khuyết được truyền từ phụ huynh .",
+    "entities": [
+      {
+        "text": "run",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với vết thương nặng hoặc bị nhiễm bẩn và trong vòng 5 năm trước đó chưa được tiêm vắc xin uốn ván thì phải tiêm nhắc lại 1 liều vắc xin uốn ván ngay trong ngày bị thương .",
+    "entities": [
+      {
+        "text": "uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh ung thư vòm họng nguyên nhân ung thư vòm họng hiện nay vẫn chưa được xác định rõ ràng .",
+    "entities": [
+      {
+        "text": "bệnh ung thư vòm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thoát vị bẹn ở trẻ em là một bệnh lý bẩm sinh do còn tồn tại một ống thông nhỏ từ ổ bụng xuống vùng bẹn - bìu khiến ruột hay dịch ổ bụng chạy xuống tạo nên khối phồng ở vùng này tình trạng thoát vị bẹn ở trẻ em không thể tự hồi phục mà cần có can thiệp phẫu thuật nhằm tránh biến chứng nghẹt .",
+    "entities": [
+      {
+        "text": "thoát vị bẹn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "điều trị acid trào ngược có thể làm giảm các dấu hiệu và triệu chứng , nhưng nó không là điều trị cơ bản barrett thực quản .",
+    "entities": [
+      {
+        "text": "barrett thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm di truyền - sinh học phân tử và xét nghiệm điện di miễn dịch huyết thanh : tùy từng loại u lympho không hodgkin mà có chỉ định xét nghiệm hợp lý .",
+    "entities": [
+      {
+        "text": "xét nghiệm điện di miễn dịch huyết thanh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xét nghiệm di truyền - sinh học phân tử",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "u lympho không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa viêm tụy là một thuật ngữ dùng để mô tả tình trạng viêm ở tuyến tụy .",
+    "entities": [
+      {
+        "text": "viêm tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh tế bào thần kinh vận động chẩn đoán bằng cách hỏi bệnh sử , khám thực thể và thực hiện các xét nghiệm cần thiết .",
+    "entities": [
+      {
+        "text": "bệnh tế bào thần kinh vận động",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các vấn đề về tiết niệu và bàng quang , như viêm bàng quang , bàng quang co thắt và ung thư bàng quang .",
+    "entities": [
+      {
+        "text": "bàng quang co thắt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư bàng quang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm bàng quang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "dưới gây mê , bác sĩ phẫu thuật làm một vết mổ ở mặt bên của mũi , gần nơi có vị trí túi nước mắt .",
+    "entities": [
+      {
+        "text": "bác sĩ phẫu thuật làm một vết mổ ở mặt bên của mũi , gần nơi có vị trí túi nước mắt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu độc tố bạch hầu làm tổn thương các dây thần kinh vận động các cơ hô hấp sẽ gây liệt hô hấp , bệnh nhân có thể suy hô hấp và tử vong .",
+    "entities": [
+      {
+        "text": "liệt hô hấp",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều trị những điều kiện này có thể không trực tiếp liên quan ảnh hưởng đến chứng ù tai , nhưng nó có thể giúp cảm thấy tốt hơn .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị này sử dụng năng lượng cao được cung cấp để tiêu diệt tế bào ung thư và giảm khối u . trong khi điều trị xạ trị , nằm trên bàn và máy sẽ hướng tia năng lượng vào điểm chính xác trên cơ thể .",
+    "entities": [
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "người bệnh bị liệt nửa người hoặc toàn thân : hỗ trợ người bệnh xoay trở tư thế thường xuyên ( khoảng 30 phút/ lần ) .",
+    "entities": [
+      {
+        "text": "liệt nửa người",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "toàn thân",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng hầu hết mọi người không có dấu hiệu và triệu chứng ở giai đoạn đầu của bệnh ung thư gan nguyên phát .",
+    "entities": [
+      {
+        "text": "bệnh ung thư gan nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bất kỳ loại vấn đề nào cản trở sự thoát dịch bạch huyết đều có thể gây ra phù bạch huyết .",
+    "entities": [
+      {
+        "text": "phù bạch huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nang màng ngoài tim : nang màng ngoài tim là một dị tật bẩm sinh lành tính không phổ biến ở trung thất giữa .",
+    "entities": [
+      {
+        "text": "nang màng ngoài tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thiết bị hỗ trợ tâm thất đối với một số người không thể ghép tim , bị hỗ trợ tâm thất ( vad ) là một lựa chọn thay thế .",
+    "entities": [
+      {
+        "text": "thiết bị hỗ trợ tâm thất",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ghép tim",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các phương pháp điều trị thoát vị bẹn ở trẻ chủ đề : nhi trẻ em thoát vị bẹn thoát vị đùi phẫu thuật thoát vị bẹn thoát vị bẹn ở trẻ em thoát vị bẹn ở người lớn",
+    "entities": [
+      {
+        "text": "thoát vị bẹn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thoát vị đùi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  }
+]

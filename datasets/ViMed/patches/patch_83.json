@@ -1,0 +1,380 @@
+[
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán hở van ba lá hở van ba lá thường diễn ra một cách âm thầm mà không có triệu chứng gì nếu bệnh ở mức độ nhẹ .",
+    "entities": [
+      {
+        "text": "hở van ba lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , theo nhiều nghiên cứu cho thấy chế độ ăn nhiều trái cây có màu tươi sáng ( màu vàng , đỏ , cam ) và rau xanh có thể giúp phòng ngừa bệnh xơ cứng teo cơ một bên .",
+    "entities": [
+      {
+        "text": "bệnh xơ cứng teo cơ một bên",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải đầy hơi một số yếu tố làm tăng nguy cơ mắc đầy hơi , bao gồm : cơ thể hấp thụ quá nhiều lượng chất dinh dưỡng vượt ngưỡng yêu cầu .",
+    "entities": [
+      {
+        "text": "đầy hơi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nhưng khi đó là không thể , ví dụ như bệnh ung thư tại các cửa của trực tràng , có thể cần phải có phẫu thuật tạm thời .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bên cạnh h . pylori , nguyên nhân khác gây viêm loét dạ dày tá tràng , hoặc các yếu tố có thể làm nặng thêm , bao gồm : thường xuyên sử dụng thuốc giảm đau .",
+    "entities": [
+      {
+        "text": "viêm loét dạ dày tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc giảm đau",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các loại thuốc để điều trị nhịp tim nhanh bao gồm : adenosine , có thể gây ra một số cơn đau ngực , đỏ bừng , khó thở và rung tâm nhĩ và có thể được sử dụng bởi ems hoặc trong er .",
+    "entities": [
+      {
+        "text": "adenosine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đỏ bừng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một khối u não thường gây thiệt hại các dây thần kinh kết nối với mắt hoặc một phần của não xử lý thông tin thị giác có thể dẫn đến các vấn đề tầm nhìn , chẳng hạn như nhìn đôi hoặc giảm thị lực .",
+    "entities": [
+      {
+        "text": "vấn đề tầm nhìn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "giảm thị lực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khối u não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhìn đôi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân rubella cần ăn uống đầy đủ dinh dưỡng kết hợp nghỉ ngơi , vệ sinh cá nhân sạch sẽ .",
+    "entities": [
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , không đủ bằng chứng tồn tại để đề xuất các loại thuốc này cho những người có nguy cơ trung bình ung thư đại tràng .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cục quản lý thực phẩm và dược phẩm mỹ ( fda ) cho phép alosetron được bán một lần nữa - với những hạn chế .",
+    "entities": [
+      {
+        "text": "alosetron",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ung thư dạ dày không phổ biến ở hoa kỳ , và số lượng người được chẩn đoán với bệnh mỗi năm đang giảm .",
+    "entities": [
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra và chẩn đoán các xét nghiệm và thủ tục được sử dụng để chẩn đoán viêm đại tràng màng giả bao gồm : xét nghiệm phân .",
+    "entities": [
+      {
+        "text": "viêm đại tràng màng giả",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xét nghiệm phân",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nhồi máu cơ tim hoặc đột quỵ : tình trạng cơ tim thường dễ hình thành cục máu đông , gây tắc động mạch .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kết quả là xương yếu , giòn và mất xương có thể là biến chứng của xơ gan đường mật giai đoạn cuối , và bác sĩ có thể yêu cầu kiểm tra mật độ xương để tìm loãng xương .",
+    "entities": [
+      {
+        "text": "xơ gan đường mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "loãng xương",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sinh thiết là một thủ tục loại bỏ một mẫu mô nhỏ từ tuyến tụy để kiểm tra dưới kính hiển vi .",
+    "entities": [
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh tăng huyết áp nguyên phát tổng quan bệnh tăng huyết áp nguyên phát tăng huyết áp nguyên phát hay còn gọi là tăng huyết áp vô căn là một loại tăng huyết áp mà không xác định được nguyên nhân rõ ràng .",
+    "entities": [
+      {
+        "text": "bệnh tăng huyết áp nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp vô căn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "để đạt được mục tiêu lui bệnh bằng cách sử dụng các thuốc ức chế miễn dịch tế bào và liều cao corticosteroid , trong vòng 3 - 6 tháng , cho tới khi đạt lui bệnh hoặc bệnh giảm tới mức có thể chấp nhận được .",
+    "entities": [
+      {
+        "text": "corticosteroid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh thoát vị não thoát vị màng não phổ biến hơn ở người da trắng , người tây ban nha và nữ giới bị ảnh hưởng nhiều hơn nam giới .",
+    "entities": [
+      {
+        "text": "bệnh thoát vị não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thoát vị màng não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong nhiều trường hợp , có thể kiểm soát hội chứng ruột kích thích bằng cách quản lý lối sống , chế độ ăn uống và căng thẳng .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc này có xu hướng có ít tác dụng phụ hơn so với sulfasalazine , nhưng có thể gây buồn nôn , nôn , ợ nóng , tiêu chảy và đau đầu .",
+    "entities": [
+      {
+        "text": "sulfasalazine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ợ nóng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị thường được áp dụng , bao gồm thuốc hoặc phẫu thuật : trong trường hợp bệnh nhân có các khối u máu lớn , ảnh hưởng đến thẩm mỹ hoặc xuất hiện ở những vị trí đặc biệt như xung quanh mắt , phẫu thuật sẽ được áp dụng đẻ loại trừ khối u . ngoài ra u máu ngoài da có thể điều trị bằng tia laser : tia laser có tác dụng giảm đỏ , giảm kích thước khối u và thúc đẩy nhanh quá trình liền vết thương sau khi u máu tự thoái triển .",
+    "entities": [
+      {
+        "text": "u máu ngoài da",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tia laser",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "xạ trị ở vùng bụng để điều trị bệnh ung thư trước đó có thể làm tăng nguy cơ ung thư đại tràng .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán nguyên nhân phù bạch huyết bác sĩ sẽ chẩn đoán trên dấu hiệu , triệu chứng và các yếu tố nguy cơ của bệnh nhân .",
+    "entities": [
+      {
+        "text": "phù bạch huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tế bào b và tế bào t ung thư hạch không hodgkin có thể bắt đầu trong : tế bào b . các tế bào b chống lại nhiễm trùng bằng cách tạo ra các kháng thể vô hiệu hóa những kẻ xâm lược nước ngoài .",
+    "entities": [
+      {
+        "text": "ung thư hạch không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân bị xơ gan có xuất huyết tiêu hoá có nguy cơ nhiễm khuẩn và nên được điều trị dự phòng bằng kháng sinh với norfloxacin hoặc ceftriaxone .",
+    "entities": [
+      {
+        "text": "xuất huyết tiêu hoá",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "norfloxacin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ceftriaxone",
+        "type": "THUỐC"
+      },
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khám sức khỏe định kỳ và thăm khám với bác sĩ ngay nếu có những triệu chứng gợi ý bệnh tim ( đau tức ngực , hụt hơi , hạ huyết áp .",
+    "entities": [
+      {
+        "text": "đau tức ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hạ huyết áp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hụt hơi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , theo một số nghiên cứu , sử dụng corticosteroid có thể làm tăng nguy cơ tái phát viêm màng ngoài tim .",
+    "entities": [
+      {
+        "text": "sử dụng corticosteroid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm màng ngoài tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nong mạch vành có thể được thực hiện cùng một lúc khi chụp động mạch , một thủ tục mà các bác sĩ làm đầu tiên để xác định vị trí các động mạch bị thu hẹp .",
+    "entities": [
+      {
+        "text": "nong mạch vành",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chụp động mạch",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh than triệu chứng của bệnh than phụ thuộc vào bệnh xảy ra qua con đường nào và những triệu chứng này xuất hiện trong bảy ngày sau khi tiếp xúc .",
+    "entities": [
+      {
+        "text": "bệnh than",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong hội chứng guillain - barre , hệ thống miễn dịch thường chỉ tấn công vật ngoại lai và các sinh vật xâm nhập , bắt đầu tấn công các dây thần kinh truyền tín hiệu giữa cơ thể và bộ não .",
+    "entities": [
+      {
+        "text": "hội chứng guillain - barre",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

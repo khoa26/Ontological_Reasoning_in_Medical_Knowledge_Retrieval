@@ -1,0 +1,416 @@
+[
+  {
+    "text": "chụp đại tràng với thụt baryt : ở các bệnh nhi nghi ngờ lồng ruột , chụp đại tràng với thụt barium có thể giúp xác định chẩn đoán .",
+    "entities": [
+      {
+        "text": "chụp đại tràng với thụt barium",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chụp đại tràng với thụt baryt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "lồng ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng theo thời gian , viêm thực quản mãn tính có thể dẫn đến biến chứng , bao gồm : thu hẹp thực quản .",
+    "entities": [
+      {
+        "text": "viêm thực quản mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có ít bằng chứng cho thấy tia cực tím ( uv ) ánh sáng từ mặt trời có thể làm tăng nguy cơ u hắc tố mắt .",
+    "entities": [
+      {
+        "text": "u hắc tố mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , âm tính giả là có thể nếu gần đây được dùng một số loại thuốc như thuốc kháng sinh hay thuốc ức chế bơm proton .",
+    "entities": [
+      {
+        "text": "thuốc ức chế bơm proton",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đặc biệt , bệnh than ở việt nam được phòng chống bằng cách tiêu hủy theo trình tự những xác chết động vật hoặc động vật sống mắc bệnh , có biểu hiện mắc bệnh than .",
+    "entities": [
+      {
+        "text": "bệnh than",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không sử dụng thuốc thông mũi xịt mũi hơn hai hoặc ba ngày tại một thời điểm bởi vì nó thực sự có thể làm trầm trọng thêm các triệu chứng khi sử dụng liên tục ( hồi phục ùn tắc ) .",
+    "entities": [
+      {
+        "text": "thuốc thông mũi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hồi phục ùn tắc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xịt mũi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thông liên nhĩ là một bệnh tim bẩm sinh thường gặp do v ách liên nhĩ không kín tạo một lỗ thông giữa hai buồng nhĩ do bào thai phát triển không đầy đủ gây nên .",
+    "entities": [
+      {
+        "text": "ách liên nhĩ không kín",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thông liên nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư có thể cắt bỏ được hay không phụ thuộc phần lớn vào mức độ phát triển của nó trong các cấu trúc lân cận , nhưng nó cũng phụ thuộc vào kỹ năng và kinh nghiệm của bác sĩ phẫu thuật .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "laser điều trị điều trị có sử dụng tia laser để tiêu diệt các tế bào u ác tính có thể là một lựa chọn trong những tình huống nhất định , nhưng điều trị này không được sử dụng rộng rãi .",
+    "entities": [
+      {
+        "text": "laser điều trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "dụng tia laser",
+        "type": "THUỐC"
+      },
+      {
+        "text": "u ác tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân ít phổ biến của chóng mặt lành tính bao gồm thiệt hại tai trong , hoặc hiếm khi , thiệt hại xảy ra trong khi phẫu thuật tai hoặc trong quá trình định vị cột sống kéo dài .",
+    "entities": [
+      {
+        "text": "chóng mặt lành tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh thiểu sản men răng chuẩn đoán bệnh dựa vào thăm khám đặc điểm , hình thái răng , tính chất của men răng , các bệnh răng miệng kèm theo ( nếu có ) các biện pháp điều trị bệnh thiểu sản men răng mục tiêu của việc điểu trị nhằm : ngăn ngừa sâu răng , duy trì chức năng cắn nhai , bảo tồn cấu trúc răng và giải quyết vấn đề thẩm mỹ .",
+    "entities": [
+      {
+        "text": "bệnh thiểu sản men răng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sâu răng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra trực quan này cũng sẽ giúp loại trừ các điều kiện vật lý kích hoạt viêm xoang , như polyp mũi hoặc bất thường khác .",
+    "entities": [
+      {
+        "text": "viêm xoang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "polyp mũi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc an thần như clonazepam ( klonopin ) và thuốc chống loạn thần như haloperidol và clozapine ( clozaril ) có thể giúp kiểm soát bạo lực và ảo giác .",
+    "entities": [
+      {
+        "text": "thuốc chống loạn thần như haloperidol và clozapine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc an thần như clonazepam",
+        "type": "THUỐC"
+      },
+      {
+        "text": "kiểm soát bạo lực và ảo giác",
+        "type": "THUỐC"
+      },
+      {
+        "text": "klonopin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "clozaril",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng về xương hội chứng marfan làm tăng nguy cơ cong bất thường ở cột sống , chẳng hạn như cong vẹo cột sống .",
+    "entities": [
+      {
+        "text": "cong vẹo cột sống",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hội chứng marfan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "do việc cung cấp máu cho não bị hạn chế nên bệnh nhân thường có cảm giác chóng mặt , đầu váng vất mơ hồ lẫn lộn , có vấn đề với sự cân bằng .",
+    "entities": [
+      {
+        "text": "đầu váng vất mơ hồ lẫn lộn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "viêm gan nhiễm độc . . ung thư ung thư bắt đầu ở một phần khác của cơ thể và lan đến gan .",
+    "entities": [
+      {
+        "text": "viêm gan nhiễm độc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh tĩnh mạch tồn tại lâu có thể dẫn đến tình trạng được gọi là suy tĩnh mạch mãn tính ( cvi ) .",
+    "entities": [
+      {
+        "text": "suy tĩnh mạch mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tĩnh mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cvi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu gặp khó đi vào giấc ngủ , thức dậy nhiều lần , hay đánh thức sớm và không thể đi ngủ trở lại , nói chuyện với bác sĩ .",
+    "entities": [
+      {
+        "text": "không thể đi ngủ trở lại",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó đi vào giấc ngủ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thức dậy nhiều lần",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đánh thức sớm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị sử dụng cầm máu bao gồm : sử dụng dải đàn hồi để buộc tĩnh mạch chảy máu .",
+    "entities": [
+      {
+        "text": "sử dụng dải đàn hồi để buộc tĩnh mạch chảy máu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sau khi 65 tuổi , kiểm tra mỗi 1 - 2 năm đối với các dấu hiệu của bệnh về mắt hay các vấn đề .",
+    "entities": [
+      {
+        "text": "bệnh về mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật nong van áp dụng cho bệnh nhân bị biến dạng tổ chức dưới van nặng , vôi hóa van tim hoặc huyết khối nhĩ trái .",
+    "entities": [
+      {
+        "text": "nong van",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị giai đoạn ứ huyết trong bệnh cơ tim phì đại tương tự như bệnh cơ tim giãn kèm rối loạn chức năng tâm thu .",
+    "entities": [
+      {
+        "text": "bệnh cơ tim phì đại",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh cơ tim giãn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh u thực quản ( polyp thực quản lành tính ) polyp thực quản thường được phát hiện một cách tình cờ khi bệnh nhân đi khám sức khỏe định kỳ , vì ban đầu bệnh thường không có biểu hiện gì .",
+    "entities": [
+      {
+        "text": "polyp thực quản lành tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh u thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đi khám bác sĩ nếu như các triệu chứng của trào ngược dạ dày thực quản càng nghiêm trọng hoặc xảy ra thường xuyên hơn đường lây truyền bệnh trào ngược dạ dày thực quản bệnh trào ngược dạ dày thực quản không lây truyền từ người bệnh sang người khỏe mạnh .",
+    "entities": [
+      {
+        "text": "bệnh trào ngược dạ dày thực quản",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "rối loạn thị giác : khi u tuyến yên lớn , chèn ép sẽ dẫn đến rối loạn nhìn , nhìn mờ , chỉ nhìn được một phía bên trong hay bên ngoài hoặc chỉ nhìn thấy những hình ảnh ngay trước mặt , không nhìn được ở phía bên ngoài thái dương .",
+    "entities": [
+      {
+        "text": "chỉ nhìn được một phía bên trong hay bên ngoài",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chỉ nhìn thấy những hình ảnh ngay trước mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "không nhìn được ở phía bên ngoài thái dương",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "u tuyến yên",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhìn mờ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "xạ trị có thể đến từ một máy bên ngoài cơ thể , hoặc nó có thể được đặt bên trong cơ thể gần mô bệnh ung thư .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tập thể dục thường xuyên giúp kiểm soát bệnh đái tháo đường , cholesterol cao và huyết áp cao - tất cả các yếu tố nguy cơ của bệnh tim .",
+    "entities": [
+      {
+        "text": "bệnh đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thiết bị máy khử rung tim tự động bên ngoài ( aed ) , có thể cung cấp điện có thể khởi động lại nhịp tim , có sẵn ở nhiều nơi , chẳng hạn như trong máy bay , xe cảnh sát và các trung tâm mua sắm .",
+    "entities": [
+      {
+        "text": "máy khử rung tim tự động bên ngoài",
+        "type": "THUỐC"
+      },
+      {
+        "text": "aed",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một túi nhỏ và thu thập các hạt thức ăn trong cổ họng , thường chỉ ở thực quản trên dẫn đến khó nuốt , âm thanh rit , hôi miệng hoặc ho .",
+    "entities": [
+      {
+        "text": "âm thanh rit",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hôi miệng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó nuốt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hiếm khi , trẻ hẹp môn vị phát triển vàng da - sự đổi màu vàng da và mắt gây ra bởi một sự tích tụ một chất bài tiết của gan được gọi là bilirubin .",
+    "entities": [
+      {
+        "text": "vàng da và mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hẹp môn vị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

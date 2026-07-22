@@ -1,0 +1,399 @@
+[
+  {
+    "text": "các biến chứng trong khi có thể cảm thấy tự ý thức về sự xuất hiện của mắt , biến chứng y tế từ xuất huyết mạch máu trong mắt là rất hiếm .",
+    "entities": [
+      {
+        "text": "xuất huyết mạch máu trong mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đây là nguyên nhân phổ biến nhất gây teo thần kinh thị giác và mất thị giác đột ngột ở người trẻ trong khoảng từ 20 - 50 tuổi , nhất là ở nữ giới .",
+    "entities": [
+      {
+        "text": "teo thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mất thị giác",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mra hoạt động bằng cách sử dụng sóng vô tuyến trong một từ trường mạnh để sản xuất dữ liệu và máy tính biến thành hình ảnh chi tiết của mô lát .",
+    "entities": [
+      {
+        "text": "mra",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù kết quả nghiên cứu về tác dụng của châm cứu vào các triệu chứng của hội chứng ruột kích thích đã pha trộn , một số người sử dụng châm cứu để giúp thư giãn co thắt cơ và cải thiện chức năng ruột .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "châm cứu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc đau dạ dày không viêm loét lâu dài và không được kiểm soát bằng cách thay đổi lối sống có thể cần điều trị .",
+    "entities": [
+      {
+        "text": "đau dạ dày không viêm loét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu cơn động kinh không thể kiểm soát đầy đủ bằng thuốc , bác sĩ có thể đề nghị phẫu thuật .",
+    "entities": [
+      {
+        "text": "kiểm soát đầy đủ bằng thuốc",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cơn động kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "run không gây ra vấn đề sức khỏe khác , trong khi bệnh parkinson kết hợp với tư thế cúi , cử động chậm và dáng đi xáo trộn .",
+    "entities": [
+      {
+        "text": "cử động chậm và dáng đi xáo trộn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh parkinson",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tư thế cúi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "run",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh ung thư tụy hiện không có biện pháp phòng ngừa nào cho ung thư tuyến tụy , tuy nhiên , việc giảm thiểu các yếu tố nguy cơ là rất quan trọng .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ung thư tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , không gian bên dưới đôi mắt có thể tích lũy chất lỏng , làm cho khu vực dưới mắt xuất hiện sưng .",
+    "entities": [
+      {
+        "text": "sưng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thông liên thất làm ảnh hưởng nhiều đến sức khỏe , sự phát triển thể chất và chất lượng cuộc sống của trẻ .",
+    "entities": [
+      {
+        "text": "thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán cách tốt nhất cho bác sĩ hoặc bác sĩ mắt ( nhãn khoa ) để chẩn đoán xuất huyết mạch máu trong mắt là bằng cách nhìn vào mắt .",
+    "entities": [
+      {
+        "text": "xuất huyết mạch máu trong mắt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhìn vào mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "di truyền : ung thư dạ dày liên quan tới một số hội chứng di truyền như đa polyp tuyến , bệnh ung thư đại trực tràng di truyền không đa polyp… đột biến gen cdh1 đã được chứng minh liên quan đến ung thư dạ dày .",
+    "entities": [
+      {
+        "text": "bệnh ung thư đại trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đa polyp tuyến",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết mọi người lấy lại gần với thị lực bình thường trong vòng sáu tháng sau một đợt viêm dây thần kinh thị giác .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các phương pháp cắt trĩ như : thủ thuật cắt búi trĩ bằng dây thun hoặc hoặc chích xơ mạch máu đến nuôi búi trĩ , thường được áp dụng cho các trường hợp trĩ mức độ nhẹ .",
+    "entities": [
+      {
+        "text": "chích xơ mạch máu đến nuôi búi trĩ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "cắt búi trĩ bằng dây thun",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "cắt trĩ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bệnh thấp tim là bệnh hệ thống miễn dịch trung gian liên quan đến nhiễm khuẩn liên cầu tan máu be - ta nhóm a ( streptococcus ) , xuất hiện sau khi nhiễm khuẩn ở đường miệng họng .",
+    "entities": [
+      {
+        "text": "bệnh thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu bơm rửa và giãn nở không kết quả , phẫu thuật có thể cần thiết để mở điểm thu hẹp .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bơm rửa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "giãn nở",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "những biện pháp tự chăm sóc có thể làm giảm các triệu chứng , nhưng sẽ không làm cho trĩ biến mất .",
+    "entities": [
+      {
+        "text": "trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán quai bị chẩn đoán phải dựa vào triệu chứng lâm sàng của quai bị và xét nghiệm cần thiết : triệu chứng lâm sàng : sốt , đau đầu , đau góc hàm và đau họng , tuyến mang tai đau nhức và to dần , … xét nghiệm : xét nghiệm mumps igm : phát hiện kháng thể igm đáp ứng miễn dịch đặc hiệu với virus quai bị .",
+    "entities": [
+      {
+        "text": "tuyến mang tai đau nhức và to dần",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xét nghiệm mumps igm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đau góc hàm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau họng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "quai bị",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "cuối cùng , dùng rượu nhiều hơn là cần thiết để làm giảm run , có thể dẫn đến nghiện rượu mãn tính .",
+    "entities": [
+      {
+        "text": "nghiện rượu mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "dùng rượu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "run",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhịp tim bất thường có thể xuất hiện sau cơn đau tim hoặc do tác dụng phụ của phẫu thuật tim .",
+    "entities": [
+      {
+        "text": "nhịp tim bất thường",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phẫu thuật tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cơn đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị cao huyết áp hiệu quả chủ yếu là thay đổi lối sống và điều trị dùng thuốc .",
+    "entities": [
+      {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm trùng xoang có thể do chất nhờn bị chặn và thường được đánh dấu bằng đau mặt và nhức đầu .",
+    "entities": [
+      {
+        "text": "nhiễm trùng xoang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhức đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau mặt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bông thủy tinh hoặc vỏ bị tách ra khỏi võng mạc , nó có thể kéo võng mạc với lực lượng đủ để tạo ra rách võng mạc .",
+    "entities": []
+  },
+  {
+    "text": "tuy nhiên , những loại thuốc này thường chỉ được sử dụng cho chứng ù tai nghiêm trọng , vì chúng có thể gây ra tác dụng phụ phiền hà , bao gồm khô miệng , mờ mắt , táo bón và các vấn đề về tim .",
+    "entities": [
+      {
+        "text": "khô miệng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mờ mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng barrett thực quản , các dấu hiệu và triệu chứng thường liên quan đến trào ngược acid và có thể bao gồm : thường xuyên ợ nóng .",
+    "entities": [
+      {
+        "text": "barrett thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ợ nóng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật khúc xạ mặc dù hầu hết các thủ tục phẫu thuật khúc xạ được sử dụng để điều trị cận thị , cũng có thể được sử dụng cho viễn thị .",
+    "entities": [
+      {
+        "text": "phẫu thuật khúc xạ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viễn thị",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cận thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi được điều trị bằng kháng sinh , hiệu quả tốt nhất trong sáu mươi ngày từ lúc tiếp xúc với vi khuẩn gây bệnh .",
+    "entities": [
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục nếu bị chóng mặt lành tính , hãy xem xét những lời khuyên này : hãy nhận biết về khả năng mất cân bằng , có thể dẫn đến té ngã và chấn thương nghiêm trọng .",
+    "entities": [
+      {
+        "text": "chóng mặt lành tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng lồng ruột có thể cắt đứt nguồn cung cấp máu đến các phần bị ảnh hưởng của ruột .",
+    "entities": [
+      {
+        "text": "lồng ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng vì con mắt đỏ có thể lây nhiễm , phát hiện sớm bệnh và điều trị tốt nhất giúp hạn chế lây lan của nó .",
+    "entities": [
+      {
+        "text": "mắt đỏ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

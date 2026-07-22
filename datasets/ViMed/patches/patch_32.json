@@ -1,0 +1,420 @@
+[
+  {
+    "text": "ngoài ra , bác sĩ có thể yêu cầu chụp x - quang hay siêu âm tim để nhìn rõ về hình ảnh tim của người bệnh , nhất là siêu âm tim có thể thấy chi tiết và cấu trúc của tim rõ ràng hơn .",
+    "entities": [
+      {
+        "text": "chụp x - quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "gradient áp lực tĩnh mạch gan ( hvpg ) lớn hơn 10 mmhg là tiêu chuẩn vàng để chẩn đoán csph ( bình thường : 1 mmhg đến 5 mmhg ) .",
+    "entities": [
+      {
+        "text": "gradient áp lực tĩnh mạch gan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "csph",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc hóa trị có thể được dùng một mình , kết hợp với các loại thuốc hóa trị khác hoặc kết hợp với các phương pháp điều trị khác .",
+    "entities": [
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "mổ lấy thai ở những thai hết ối ( afi &lt; 2cm ) hoặc có những dấu hiệu nghi ngờ thai suy cấp , thiểu ối .",
+    "entities": [
+      {
+        "text": "thai suy cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiểu ối",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu có triệu chứng bất thường , bao gồm cả tê hoặc yếu kém trong một hoặc nhiều tay chân , có thể là một dấu hiệu của một chứng rối loạn thần kinh , hãy gặp bác sĩ .",
+    "entities": [
+      {
+        "text": "một chứng rối loạn thần kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "yếu kém",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tê",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "acid dạ dày tràn vào thực quản nếu có gerd có thể làm hỏng các mô thực quản , gây ra những thay đổi - barrett thực quản .",
+    "entities": [
+      {
+        "text": "barrett thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gerd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu người bệnh có các dấu hiệu hoặc triệu chứng có thể do khối u tuyến nước bọt gây ra , bác sĩ sẽ làm các xét nghiệm để tìm hiểu xem nó có phải là ung thư hay bệnh khác .",
+    "entities": [
+      {
+        "text": "u tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : nuốt nghẹn - dấu hiệu khối u ung thư thực quản đã phát triển phân biệt ung thư vòm họng và viêm họng thông thường tìm hiểu về tế bào thần kinh ( noron thần kinh ) chủ đề : thần kinh não tế bào thần kinh bệnh tế bào thần kinh vận động dây thần kinh vận động",
+    "entities": [
+      {
+        "text": "tế bào thần kinh vận động",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nuốt nghẹn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư gan xảy ra khi các tế bào gan phát triển thay đổi đột biến trong dna - hướng dẫn cho tất cả các quá trình hóa học trong cơ thể .",
+    "entities": [
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân có mobitz ii không triệu chứng , gián đoạn , mức độ cao hoặc block nhĩ thất độ iii cần được theo dõi trong thời gian dài để đánh giá các triệu chứng , nhịp tim chậm hoặc giai đoạn vô tâm thu , vì sẽ ảnh hưởng đến thời gian cấy máy tạo nhịp tim .",
+    "entities": [
+      {
+        "text": "máy tạo nhịp tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "block nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhịp tim chậm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "vô tâm thu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu bác sĩ không kê toa thuốc kháng sinh , điều quan trọng là thực hiện toàn bộ liệu trình của thuốc .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "gói khám sàng lọc đái tháo đường , rối loạn mỡ máu chủ đề : nội tiết tiểu đường tuýp 1 tiểu đường tuýp 2 loét bàn chân tiểu đường đường huyết huyết áp insulin biến chứng tiểu đường",
+    "entities": [
+      {
+        "text": "tiểu đường tuýp 1",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiểu đường tuýp 2",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rối loạn mỡ máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa một vấn đề phổ biến , ù tai ảnh hưởng đến khoảng 1 trong 5 người .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu xác định là ung thư thì một số xét nghiệm khác có thể được thực hiện để tìm hiểu xem nó đã lan rộng chưa .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng cho đến khi điều trị được tìm thấy , các bác sĩ chăm sóc cho những người bị viêm xơ đường mật bằng cách giảm các dấu hiệu và triệu chứng của biến chứng .",
+    "entities": [
+      {
+        "text": "viêm xơ đường mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm nhanh chóng sử dụng công nghệ dna để phát hiện viêm họng từ một tăm bông họng trong một ngày hoặc ít hơn .",
+    "entities": [
+      {
+        "text": "xét nghiệm nhanh chóng sử dụng công nghệ dna",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trường hợp viêm mạch nghiêm trọng đe dọa đến các cơ quan hoặc tính mạng của bệnh nhân , khởi đầu điều trị bằng corticosteroid , thường kết hợp với cyclophosphamide hoặc rituximab .",
+    "entities": [
+      {
+        "text": "cyclophosphamide",
+        "type": "THUỐC"
+      },
+      {
+        "text": "corticosteroid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rituximab",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một liều cao riboflavin ( vitamin b - 2 ) cũng có thể ngăn ngừa chứng đau nửa đầu bằng cách sửa chữa thiếu sót nhỏ trong các tế bào não .",
+    "entities": [
+      {
+        "text": "một liều cao riboflavin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "vitamin b - 2",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau nửa đầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh phong còn được gọi là bệnh hansen , theo tên một nhà khoa học đã phát hiện ra m . leprae vào năm 1873. không rõ chính xác bệnh phong lây truyền như thế nào .",
+    "entities": [
+      {
+        "text": "bệnh hansen",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh phong",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm trùng này thường là kết quả của một căn bệnh , bệnh cúm , cảm lạnh hoặc dị ứng là nguyên nhân gây tắc nghẽn và sưng đường mũi , họng và ống eustachian .",
+    "entities": [
+      {
+        "text": "sưng đường mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh cúm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cảm lạnh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sốt : khoảng 16% - 18% bệnh nhân ung thư đại tràng có triệu chứng duy nhất là sốt .5. khối u gặp ở 60% nhân bệnh ung thư đại tràng ung thư đại tràng phải dễ sờ thấy u hơn ở đại tràng trái .",
+    "entities": [
+      {
+        "text": "bệnh ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu bất kỳ khối u được tìm thấy trong kiểm tra , bác sĩ có thể loại bỏ chúng ngay lập tức hoặc lấy mẫu mô ( sinh thiết ) để phân tích .",
+    "entities": [
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ung thư ở đại tràng trái thường đau dữ dội khi có biến chứng tắc ruột .2. rối loạn tiêu hoá : thường có ở 60% bệnh nhân ung thư đại tràng biểu hiện bằng táo bón , tiêu lỏng hoặc xen kẽ giữa táo bón và tiêu lỏng .",
+    "entities": [
+      {
+        "text": "ung thư ở đại tràng trái",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau dữ dội",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiêu lỏng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tắc ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm máu này có tính chuyên môn cao và tìm kiếm những thay đổi trong fbn1 , gen gây ra hầu hết các trường hợp mắc hội chứng marfan .",
+    "entities": [
+      {
+        "text": "hội chứng marfan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đường lây truyền bệnh u não ở trẻ em bệnh u não ở trẻ em không lây truyền từ người này sang người khác .",
+    "entities": [
+      {
+        "text": "bệnh u não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa khô mắt xảy ra khi nước mắt không thể cung cấp đầy đủ độ ẩm cho mắt .",
+    "entities": [
+      {
+        "text": "khô mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của viêm mạch viêm mạch thường làm giảm lưu lượng máu đi khắp cơ thể .",
+    "entities": [
+      {
+        "text": "viêm mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc ( bị ) thiếu máu cơ tim những yếu tố có thể làm tăng nguy cơ bị thiếu máu cơ tim là : hút thuốc lá; béo phì; tuổi cao; đái tháo đường ; tăng huyết áp ; rối loạn lipid máu ; lối sống tĩnh tại , ít vận động .",
+    "entities": [
+      {
+        "text": "rối loạn lipid máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiếu máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật ngăn trào ngược , tiến hành phẫu thuật có thể được dùng để điều trị gerd và cải thiện các vấn đề của thực quản nếu can thiệp khác không hiệu quả .",
+    "entities": [
+      {
+        "text": "gerd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một khối u ép vào mạch máu trong đầu hoặc cổ có thể gây ra và các triệu chứng ù tai .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

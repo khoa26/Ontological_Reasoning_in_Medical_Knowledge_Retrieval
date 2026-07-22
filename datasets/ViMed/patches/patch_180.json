@@ -1,0 +1,370 @@
+[
+  {
+    "text": "khám bác sĩ nếu có trải nghiệm giảm cân không giải thích được , đau bụng , v àng da , hoặc các dấu hiệu và triệu chứng đó làm phiền .",
+    "entities": [
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "àng da",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong thủ tục , bác sĩ đặt một dụng cụ ( cryoprobe ) có chứa nitơ lỏng trực tiếp vào khối u gan .",
+    "entities": [
+      {
+        "text": "đặt một dụng cụ ( cryoprobe ) có chứa nitơ lỏng trực tiếp vào khối u gan",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "những người bị trầm cảm , rối loạn lo âu và rối loạn ám ảnh cưỡng chế có nhiều khả năng có một rối loạn ăn uống .",
+    "entities": [
+      {
+        "text": "rối loạn ám ảnh cưỡng chế",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rối loạn lo âu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "trầm cảm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng có thể gặp sau phẫu thuật là xuất tinh ngược dòng do tổn thương cổ bàng quang , ngược dòng nước tiểu vào trong các túi tinh - ống dẫn tinh , tổn thương trực tràng , tiểu không kiểm soát do tổn thương cơ vòng vân niệu đạo , tổn thương niệu đạo , rối loạn cương dương .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trám răng : giúp bù đắp men răng , làm răng khỏe hơn đồng thời tái tạo sự thẩm mỹ cho răng .",
+    "entities": [
+      {
+        "text": "trám răng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm có thể thực hiện bao gồm : xét nghiệm máu xét nghiệm alpha - fetoprotein huyết thanh mẹ ( msafp ) .",
+    "entities": [
+      {
+        "text": "xét nghiệm alpha - fetoprotein huyết thanh mẹ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "mri hoặc ct scan sọ não để phát hiện các bệnh lý nền gây teo thần kinh thị như u não các biện pháp điều trị bệnh teo dây thần kinh thị giác điều trị teo dây thần kinh thị giác chủ yếu là điều trị nguyên nhân gây bệnh .",
+    "entities": [
+      {
+        "text": "bệnh teo dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "teo thần kinh thị",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ct scan sọ não",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "một số , chẳng hạn như thuốc cảm có chứa pseudoephedrine , có chứa các chất kích thích có thể gây ra rung nhĩ .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán các bác sĩ thường chẩn đoán nguyên nhân của đau họng trên cơ sở một kỳ kiểm tra và xét nghiệm phòng thí nghiệm .",
+    "entities": [
+      {
+        "text": "xét nghiệm phòng thí nghiệm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "kỳ kiểm tra",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng sốt , sưng vùng thoát vị kèm đỏ , viêm và rất đau cũng là hậu quả của biến chứng khi mắc thoát vị bẹn , người bệnh thường có cảm giác tức nặng vùng bẹn bìu , một bên bìu to lên thành khối phồng do ruột ở trên dồn xuống .",
+    "entities": [
+      {
+        "text": "tức nặng vùng bẹn bìu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sưng vùng thoát vị",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thoát vị bẹn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "triệu chứng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rất đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "căng thẳng : mặc dù bằng chứng cho điều này vẫn còn hạn chế , nhưng nhấn mạnh có thể cũng là yếu tố khởi phát nhồi máu cơ tim cấp .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim cấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật vùng trước mắt , mí mắt , mũi hoặc xoang có thể đã gây ra một số vết sẹo của hệ thống ống dẫn , sau đó kết quả là bị rách ống dẫn .",
+    "entities": []
+  },
+  {
+    "text": "đánh giá quá trình vận chuyển đường tiêu hóa , sử dụng xạ hình hoặc viên nang nhu động không dây , để xác nhận rối loạn chức năng hoặc táo bón thứ phát do vận chuyển chậm .",
+    "entities": [
+      {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chất nhuộm màu bari lót áo ruột , tạo ra hình của trực tràng , ruột già và một phần ruột non hiển thị trên xquang .",
+    "entities": [
+      {
+        "text": "xquang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "điều quan trọng để điều trị hội chứng này là cố gắng giữ bình tĩnh trong các trường hợp thở nhanh cấp tính .",
+    "entities": [
+      {
+        "text": "thở nhanh cấp tính",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh thoát vị đùi để ngăn chặn thoát vị đùi , cần tuân theo các biện pháp sau : chế độ ăn uống nhiều chất xơ và uống nhiều nước để ngăn chặn táo bón và phải gắng sức khi đi cầu .",
+    "entities": [
+      {
+        "text": "phải gắng sức khi đi cầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh thoát vị đùi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sau khi các triệu chứng của bệnh sán máng cấp tính đã hết , thường mất khoảng 5 ngày , praziquantel được dùng để tiêu diệt các thể sán máng trưởng thành và lặp lại từ 4 đến 6 tuần sau khi các dạng sán máng chưa trưởng thành còn lại đã trưởng thành .",
+    "entities": [
+      {
+        "text": "bệnh sán máng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "praziquantel",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "với kiểm tra này , cũng có thể tiêm thuốc nhuộm làm cho quan sát lưu lượng máu trong não dễ dàng hơn và có thể chỉ ra các tổn thương do chứng phình động mạch vỡ .",
+    "entities": [
+      {
+        "text": "tiêm thuốc nhuộm làm cho quan sát lưu lượng máu trong não dễ dàng hơn và có thể chỉ ra các tổn thương do chứng phình động mạch vỡ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "cục máu đông : khi mảng bám hình thành trong động mạch vành hẹp bị vỡ ra , nó có thể thu hút cục máu đông .",
+    "entities": []
+  },
+  {
+    "text": "x quang ngực sau và bên : sàng lọc các bệnh lý lồng ngực khác có thể cản trở việc cấy ghép .",
+    "entities": [
+      {
+        "text": "cấy ghép .",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "có bệnh viêm ruột , chẳng hạn như viêm loét đại tràng hoặc bệnh crohn , làm tăng nguy cơ viêm niêm mạc trực tràng .",
+    "entities": [
+      {
+        "text": "viêm niêm mạc trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm loét đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tình trạng này có thể dẫn đến tràn dịch não , dịch não tủy làm tăng áp lực lên não và có thể thiệt hại mô não .",
+    "entities": [
+      {
+        "text": "thiệt hại mô não",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tràn dịch não",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thiếu máu cơ tim ( hay còn gọi là bệnh mạch vành tim , thiếu máu cơ tim cục bộ ) là tình trạng tắc nghẽn một phần hoặc toàn bộ mạch vành , dẫn đến cơ tim không nhận đủ lượng máu ( chứa oxy và chất dinh dưỡng ) để tim có thể hoạt động như bình thường .",
+    "entities": [
+      {
+        "text": "thiếu máu cơ tim cục bộ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh mạch vành tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "dù nguyên nhân nào , viêm phúc mạc đòi hỏi phải được chăm sóc y tế để chống nhiễm trùng , nếu cần thiết , để điều trị bất kỳ vấn đề y tế cơ bản .",
+    "entities": [
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh tế bào thần kinh vận động cũng có thể gặp trong bệnh hodgkin và tiên lượng tương đối lành tính .",
+    "entities": [
+      {
+        "text": "bệnh tế bào thần kinh vận động",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm màng ngoài tim co thắt : đây là trường hợp hiếm gặp , có thể phát triển từ viêm màng ngoài tim mạn hoặc sau khi phẫu thuật tim .",
+    "entities": [
+      {
+        "text": "viêm màng ngoài tim co thắt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm màng ngoài tim mạn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật tim",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu thai chết lưu gây ra bởi rối loạn về nhiễm sắc thể hoặc vấn đề về dây rốn , khả năng xảy ra lần nữa sẽ ít .",
+    "entities": [
+      {
+        "text": "thai chết lưu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "dùng chung kim chích và có quan hệ tình dục không được bảo vệ có thể làm tăng nguy cơ viêm gan b và c . bảo vệ bản thân bằng cách kiêng quan hệ tình dục hoặc sử dụng bao cao su nếu quan hệ tình dục .",
+    "entities": [
+      {
+        "text": "viêm gan b và c",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến quai bị quai bị là bệnh truyền nhiễm cấp tính do virus quai bị ( mumps virus ) , thuộc họ paramyxoviridae gây ra .",
+    "entities": [
+      {
+        "text": "quai bị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng biến chứng của viêm mũi không dị ứng bao gồm : polyp mũi đây không phải ung thư tăng trưởng và phát triển trên niêm mạc mũi , viêm xoang do viêm nhiễm mãn tính .",
+    "entities": [
+      {
+        "text": "viêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm xoang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "polyp mũi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

@@ -1,0 +1,384 @@
+[
+  {
+    "text": "buồn nôn và nôn : nôn và buồn nôn kèm theo chán ăn , ợ chua có thể là triệu chứng của ung thư dạ dày nôn hoặc đi ngoài phân đen : ung thư dạ dày có thể gây xuất huyết tiêu hóa dẫn đến nôn máu hoặc đi ngoài phân đen ( xuất huyết dạ dày rất nhiều có thể đi ngoài phân máu đỏ tươi , là một dấu hiệu nguy hiểm ) nuốt nghẹn : khối u gần tâm vị hoặc đoạn nối tâm vị - thực quản có thể gây nuốt nghẹn .",
+    "entities": [
+      {
+        "text": "đi ngoài phân máu đỏ tươi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xuất huyết tiêu hóa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đi ngoài phân đen",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xuất huyết dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nuốt nghẹn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nôn máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ợ chua",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong khi một số loại thuốc điều trị đau nhức đầu gồm có caffeine vì nó có thể có lợi trong việc giảm đau nhức đầu , nó cũng có thể làm nặng thêm đau nhức đầu .",
+    "entities": [
+      {
+        "text": "đau nhức đầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "caffeine",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra trứng đã thụ tinh không thể di chuyển đến buồng tử cung , gây ra chửa ngoài tử cung , có thể ảnh hưởng nguy hiểm đến tính mạng nếu không được phát hiện kịp thời .",
+    "entities": [
+      {
+        "text": "chửa ngoài tử cung",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiều người bị ù tai diễn ra nhiều tháng nhiều năm ảnh hưởng nghiêm trọng đến cuộc sống gọi là ù tai kéo dài .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chiến lược phòng chống cụ thể khác nhau , tùy thuộc vào loại hình đau nhức đầu và liệu thuốc quá mức có góp phần vào nhức đầu .",
+    "entities": [
+      {
+        "text": "đau nhức đầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm trùng : nhiễm virus gây u nhú ở người ( hpv : human papilloma virus ) có liên quan trực tiếp đến ung thư da tế bào vảy .",
+    "entities": [
+      {
+        "text": "ung thư da tế bào vảy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bởi vì mất trí nhớ thường được kết hợp với chấn thương đầu , có thể thậm chí quên bị một cú đánh vào đầu .",
+    "entities": [
+      {
+        "text": "quên bị một cú đánh vào đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mất trí nhớ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "viêm dây thần kinh thị giác ở người lớn trẻ được cho là phổ biến nhất là khi phát triển các cuộc tấn công hệ miễn dịch myelin bao gồm các thần kinh thị giác , dẫn đến viêm nhiễm và thiệt hại .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm nhiễm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "lấy sinh thiết ở vùng khác thường của phổi sau đó nhuộm và soi dưới kính hiển vi quang học để chẩn đoán xác định mức độ bệnh ung thư phổi .",
+    "entities": [
+      {
+        "text": "bệnh ung thư phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "thăm khám bác sỹ để được chẩn đoán và điều trị kịp thời nếu có bất kỳ triệu chứng nào liên quan đến tai biến mạch máu não .",
+    "entities": [
+      {
+        "text": "đến tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các lựa chọn phẫu thuật có sẵn để điều chỉnh sự xuất hiện của xương ức bị trũng hoặc nhô ra .",
+    "entities": [
+      {
+        "text": "xương ức bị trũng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục để giảm tạm thời đau nhẹ và viêm nhiễm , hãy thử tự chăm sóc bằng các biện pháp sau đây : hãy hỏi bác sĩ trước khi sử dụng thuốc tiêu chảy .",
+    "entities": [
+      {
+        "text": "thuốc tiêu chảy",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "vị trí tổn thương phổ biến nhất là đoạn dây thần kinh thị nằm trong sọ teo dây thần kinh thị di truyền dạng teo thần kinh thị giác di truyền được chia thành teo dây thần kinh thị giác bẩm sinh di truyền theo gen lặn hoặc gen trội , teo dây thần kinh thị kiểu behr di truyền theo gen lặn và teo dây thần kinh thị kiểu leber do đột biến điểm của ty thể .",
+    "entities": [
+      {
+        "text": "teo dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "teo thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chất tương phản sẽ giúp bất thường xuất hiện rõ ràng hơn với một tia x . phương pháp điều trị và thuốc hẹp môn vị thường được điều trị bằng phẫu thuật .",
+    "entities": [
+      {
+        "text": "hẹp môn vị",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trong lúc khám mắt đầy đủ , bác sĩ mắt có thể sử dụng bài kiểm tra được gọi là lưới amsler để kiểm tra các khuyết tật trong trung tâm của tầm nhìn .",
+    "entities": [
+      {
+        "text": "kiểm tra các khuyết tật trong trung tâm của tầm nhìn",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "khám mắt đầy đủ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bài kiểm tra",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "lưới amsler",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ung thư xương giai đoạn đầu triệu chứng mơ hồ , nếu không chú ý sẽ dễ bị bỏ qua đau mỏi chân tay , đặc biệt người trẻ khoảng 30 - 40 tuổi .",
+    "entities": [
+      {
+        "text": "đau mỏi chân tay",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ung thư xương",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khối máu tụ trong não ( intraparenchymal ) đây là loại tụ máu , còn được gọi là khối máu tụ trong não , xảy ra khi tụ máu trong não .",
+    "entities": [
+      {
+        "text": "khối máu tụ trong não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chẩn đoán và điều trị sớm sẽ giảm nguy cơ tăng nặng của bệnh thông liên thất và giúp bạn mau chóng hồi phục sức khỏe .",
+    "entities": [
+      {
+        "text": "bệnh thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cách phát hiện bệnh ung thư vòm họng ung thư vòm họng và lợi ích của nội so i phân biệt ung thư vòm họng và viêm họng thông thường chủ đề : hóa trị xạ trị hô hấp ung bướu ung thư vòm họng ung thư vòm họng tai mũi họng",
+    "entities": [
+      {
+        "text": "bệnh ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nội so",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "chúng có thể di chuyển đến phổi gây thuyên tắc phổi hoặc chặn dòng chảy của máu gây ra các cơn đau tim hay đột quỵ .",
+    "entities": [
+      {
+        "text": "thuyên tắc phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phát hiện sớm và điều trị t hoái hóa điểm vàng ướt có thể giúp giảm mức độ mất thị lực , và trong một số trường hợp , cải thiện tầm nhìn .",
+    "entities": [
+      {
+        "text": "hoái hóa điểm vàng ướt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mất thị lực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "liều thuốc thay thế không có thuốc thay thế đã được tìm thấy để điều trị ung thư hạch không hodgkin .",
+    "entities": [
+      {
+        "text": "ung thư hạch không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư cổ họng rất nặng , xạ trị có thể được sử dụng để làm giảm các dấu hiệu và triệu chứng và làm cho thoải mái hơn .",
+    "entities": [
+      {
+        "text": "ung thư cổ họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến giãn tĩnh mạch chi dưới máu được đưa qua các động mạch từ tim đến phần còn lại của cơ thể để cung cấp oxy và chất dinh dưỡng cho cơ thể .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch chi dưới",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc sỏi mật không gây ra dấu hiệu và triệu chứng sỏi mật không gây ra dấu hiệu và triệu chứng , chẳng hạn như phát hiện trong siêu âm hoặc ct scan thực hiện đối với một số điều kiện khác , thường không cần điều trị .",
+    "entities": [
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct scan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "lúc đầu , chiếu sáng mạnh hơn , và kính đeo mắt có thể giúp đối phó với đục thủy tinh thể .",
+    "entities": [
+      {
+        "text": "đục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tỷ lệ mắc ung thư vòm mũi họng khác nhau giữa các vùng địa lý , tỷ lệ mắc thấp ở châu âu và các nước phương tây , tỷ lệ cao nhất ở vùng đông nam trung quốc .",
+    "entities": [
+      {
+        "text": "ung thư vòm mũi họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa ung thư đại tràng là ung thư phần cuối của hệ thống ống tiêu hóa .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể là một lựa chọn cho những người vừa đến cận thị nặng , mặc dù các ống kính này hiện không có sự chấp thuận của cục quản lý dược thực phẩm và chỉ duy nhất cho điều trị cận thị .",
+    "entities": [
+      {
+        "text": "cận thị nặng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các nhà nghiên cứu tiếp tục tìm kiếm phương pháp điều trị để làm chậm lại hoặc đảo ngược thiệt hại ống mật gây ra do viêm xơ đường mật .",
+    "entities": [
+      {
+        "text": "viêm xơ đường mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

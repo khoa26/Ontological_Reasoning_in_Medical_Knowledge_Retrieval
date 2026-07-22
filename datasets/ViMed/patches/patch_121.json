@@ -1,0 +1,403 @@
+[
+  {
+    "text": "những yếu tố di truyền do có nguồn gốc từ châu phi và vùng caribe : yếu tố di truyền cũng như những tác động từ môi trường của những người vùng châu phi và caribe khiến họ mắc bệnh tăng huyết áp nhiều hơn .",
+    "entities": [
+      {
+        "text": "bệnh tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh tự kỷ ở người lớn sau đây là một số triệu chứng tự kỷ ở người lớn : khó khăn trong việc giao tiếp người bệnh khó khăn khi hiểu lời của người khác .",
+    "entities": [
+      {
+        "text": "bệnh tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh tắc ống phóng tinh những người có nguy cơ cao bị tắc ống phóng tinh là những người đàn ông có tiền sử viêm tuyến tiền liệt - niệu đạo cấp , bán cấp hay mãn tính .",
+    "entities": [
+      {
+        "text": "viêm tuyến tiền liệt - niệu đạo cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tắc ống phóng tinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số biến chứng khác có thể gặp như : loạn nhịp tim , tắc mạch não hoặc áp xe não .",
+    "entities": [
+      {
+        "text": "loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tắc mạch não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "áp xe não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị cắt cơn sốt kết hợp với chống lây lan truyền ( sốt rét do p . falciparum ) và điều trị tiệt căn ( sốt rét do p . vivax , p . ovale ) ngay từ ngày đầu tiên .",
+    "entities": [
+      {
+        "text": "điều trị cắt cơn sốt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chống lây lan truyền",
+        "type": "THUỐC"
+      },
+      {
+        "text": "điều trị tiệt căn",
+        "type": "THUỐC"
+      },
+      {
+        "text": "p . vivax",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "p . ovale",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cho đến khi tìm thấy những gì mang đến cho sự thoải mái nhất , hãy xem xét cố gắng để : tìm hiểu tất cả có thể ung thư thực quản .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nó gây ra bởi vấn đề hoặc thay đổi trong não , các loại khác nhau của chứng sa sút trí tuệ tồn tại tùy thuộc vào nguyên nhân .",
+    "entities": [
+      {
+        "text": "chứng sa sút trí tuệ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sinh thiết nội tâm mạc ( nếu cần ) : sinh thiết cơ tim khi xuất hiện dấu hiệu cơ tim thâm nhiễm viêm kèm hoại tử các tế bào cơ lân cận là tiêu chuẩn vàng để chẩn đoán viêm cơ tim .",
+    "entities": [
+      {
+        "text": "sinh thiết nội tâm mạc",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sinh thiết cơ tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "loét dạ dày tá tràng có thể làm thủng thành dạ dày hoặc ruột non , đặt vào nguy cơ nhiễm trùng nghiêm trọng khoang bụng ( viêm phúc mạc ) .",
+    "entities": [
+      {
+        "text": "loét dạ dày tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể nhận thấy giống như cơn co sóng di chuyển phía trên bụng của bé ( nhu động ) ngay sau khi ăn nhưng trước khi nôn mửa .",
+    "entities": [
+      {
+        "text": "nôn mửa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tùy thuộc vào tình hình có thể bao gồm : chụp cộng hưởng từ ( mri ) đầu , cổ và ngực để xác định khối u , các dấu hiệu của đột quỵ , tổn thương động mạch cảnh và vấn đề khác có thể ảnh hưởng đến các dây thần kinh giao cảm trên khuôn mặt .",
+    "entities": [
+      {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể kê toa thuốc chống viêm , chẳng hạn như mesalamine ( tidocol , canasa , những loại khác ) hoặc corticosteroid .",
+    "entities": [
+      {
+        "text": "thuốc chống viêm",
+        "type": "THUỐC"
+      },
+      {
+        "text": "corticosteroid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "mesalamine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tidocol",
+        "type": "THUỐC"
+      },
+      {
+        "text": "canasa",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "những điều cơ bản gồm : tránh các yếu tố nguy cơ như rượu , thuốc lá , tia x , phóng xạ , hóa chất , … hỏi ý kiến bác sĩ về các loại thuốc sử dụng trong thai kỳ .",
+    "entities": []
+  },
+  {
+    "text": "nguyên nhân khoảng một nửa , các bác sĩ không thể tìm thấy nguyên nhân cụ thể của chóng mặt lành tính .",
+    "entities": [
+      {
+        "text": "chóng mặt lành tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mri cũng rất quan trọng để xác định xem liệu có những vùng trong não , nơi myelin đã bị hư hỏng ( tổn thương ) , trong đó chỉ ra một nguy cơ phát triển bệnh đa xơ cứng .",
+    "entities": [
+      {
+        "text": "bệnh đa xơ cứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tiền sản giật là một hội chứng bệnh lý toàn thân do thai nghén gây ra trong 3 tháng cuối của thai kỳ ( từ tuần thứ 20 ) với 3 triệu chứng : tăng huyết áp , protein niệu và phù .",
+    "entities": [
+      {
+        "text": "tiền sản giật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số tồn tại tranh cãi về việc liệu chất bổ trợ điều trị hoá chất thực sự cải thiện sự sống còn ở những người bị ung thư vòm họng .",
+    "entities": [
+      {
+        "text": "điều trị hoá chất",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hpv được tìm thấy trong đa số các trường hợp quá sản biểu mô dạng hạt cơm - một loại tổn thương tiền ung thư .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "và đa số bệnh nhân ung thư tuyến tụy khi được phát hiện bệnh thì đã tiến triển đến giai đoạn muộn , gây nhiều khó khăn trong việc điều trị .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , sử dụng lâu dài các chất ức chế bơm proton , đặc biệt ở liều cao , có thể làm tăng nguy cơ gãy xương hông .",
+    "entities": [
+      {
+        "text": "ức chế bơm proton",
+        "type": "THUỐC"
+      },
+      {
+        "text": "gãy xương hông",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị có thể sử dụng nội soi để xem bên trong thực quản và tiêm thuốc , buộc tắt tĩnh mạch với một dụng cụ đàn hồi .",
+    "entities": [
+      {
+        "text": "buộc tắt tĩnh mạch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiêm thuốc",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "trẻ suy dinh dưỡng thường sụt cân , teo lớp mỡ dưới da , khi cân nặng phát hiện trẻ thấp cân so với tuổi .",
+    "entities": [
+      {
+        "text": "teo lớp mỡ dưới da",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy dinh dưỡng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sụt cân",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "co thắt thực quản gián đoạn quá trình này bằng cách làm cho các cơ trong các bức thành của thực quản phối hợp khó khăn để di chuyển thức ăn vào dạ dày .",
+    "entities": [
+      {
+        "text": "co thắt thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : u não ở trẻ em : nguyên nhân , triệu chứng , chẩn đoán và điều trị nói với con bạn như thế nào về ung thư ?",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tăng huyết áp được chia làm hai nhóm là tăng huyết áp vô căn và tăng huyết áp có nguyên nhân hay còn gọi là tăng huyết áp thứ phát .",
+    "entities": [
+      {
+        "text": "tăng huyết áp có nguyên nhân",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp vô căn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "dấu hiệu hoặc triệu chứng khác có thể bao gồm chứng ợ nóng , khan tiếng , nôn ra dịch dạ dày và cảm giác của một khối u trong cổ họng .",
+    "entities": [
+      {
+        "text": "cảm giác của một khối u trong cổ họng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nôn ra dịch dạ dày",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khan tiếng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ợ nóng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu đối tượng một vết trầy xước trên bề mặt của một trong những giác mạc hoặc thâm nhập vào một giác mạc , viêm giác mạc mà không có một nhiễm trùng có thể dẫn .",
+    "entities": [
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "việc thăm khám có thể khiến cơn đau của bệnh nhân tăng lên nhiều hơn , vậy nên thường phải gây tê trước khi khám để giảm thiểu phản ứng đau trên bệnh nhân .",
+    "entities": [
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh than , tên gọi khác là bệnh nhiệt thán , là bệnh truyền nhiễm được gây ra bởi vi khuẩn gram dương hình que là bacillus anthracis .",
+    "entities": [
+      {
+        "text": "bệnh nhiệt thán",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh than",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hoặc hít hơi nước từ một vòi nước ấm để giúp nới lỏng các chất nhầy trong mũi và giảm nghẹt .",
+    "entities": [
+      {
+        "text": "hít hơi nước từ một vòi nước ấm",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chất nhầy trong mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nghẹt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

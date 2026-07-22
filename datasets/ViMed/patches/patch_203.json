@@ -1,0 +1,400 @@
+[
+  {
+    "text": "thay thế thuốc phương pháp điều trị thay thế không thể chữa trị viêm tụy , nhưng một số liệu pháp thay thế có thể giúp đối phó với các cơn đau do viêm tụy .",
+    "entities": [
+      {
+        "text": "viêm tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cơn đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "những người bị bệnh huntington nhỏ tuổi hơn thường là trường hợp nghiêm trọng hơn , và các triệu chứng của họ có thể tiến triển nhanh hơn .",
+    "entities": [
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán chẩn đoán một khối máu tụ trong sọ có thể khó khăn vì các bệnh nhân có thể có vẻ tốt đẹp sau khi bị thương .",
+    "entities": [
+      {
+        "text": "một khối máu tụ trong sọ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu khối u ác tính tăng trưởng hay gây biến chứng , có thể chọn để trải qua điều trị tại thời điểm đó .",
+    "entities": [
+      {
+        "text": "u ác tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh thiên đầu thống ( tăng nhãn áp ) sau khi khám và chẩn đoán , tuỳ từng trường hợp , bác sĩ sẽ đưa ra hướng điều trị thích hợp , bao gồm : điều trị bằng thuốc nhỏ mắt , điều trị bằng laser hay phẫu thuật .",
+    "entities": [
+      {
+        "text": "bệnh thiên đầu thống",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "điều trị bằng laser",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc nhỏ mắt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "liệt giả hành tủy : các dấu hiệu tổn thương hành tủy nổi bật nhưng do tổn thương bó vỏ não hành tủy hai bên và gây rối loạn chức năng của tế bào thần kinh vận động trung ương .",
+    "entities": [
+      {
+        "text": "liệt giả hành tủy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể yêu cầu xét nghiệm máu để kiểm tra các dấu hiệu của viêm trong cơ thể , chẳng hạn như tế bào máu trắng hoặc mức c - reactive protein tăng cao .",
+    "entities": [
+      {
+        "text": "mức c - reactive protein tăng cao",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "tế bào máu trắng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "dạng phối hợp : những người mắc loại bệnh phong này có các triệu chứng của cả hai dạng bệnh lao và bệnh lepromatous .",
+    "entities": [
+      {
+        "text": "bệnh lepromatous",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh phong",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh lao",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm màng não do virus : biến chứng hiếm gặp , xảy ra khi virus xâm nhập vào hệ thống thần kinh trung ương của cơ thể ( não và tủy sống ) .",
+    "entities": [
+      {
+        "text": "viêm màng não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : những xét nghiệm cần làm nếu muốn mang thai sau lần thai chết lưu các dấu hiệu thai chết lưu mà các mẹ bầu cần biết cách xử lý đưa thai chết lưu ra ngoài cơ thể mẹ chủ đề : thai chết lưu béo phì mang thai sinh con thai sản lưu thai",
+    "entities": [
+      {
+        "text": "thai chết lưu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thai chết lưu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "béo phì",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ngoài đáp ứng miễn dịch dịch thể , trong thấp tim còn có đáp ứng miễn dịch qua trung gian tế bào liên quan đến đại thực bào và tế bào lympho t , vì vậy các tổn thương tim có thể do cả hai cơ chế đều cùng xảy ra .",
+    "entities": [
+      {
+        "text": "thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "để ngăn ngừa bệnh trĩ và giảm các triệu chứng khó chịu của bệnh trĩ , hãy làm theo các mẹo sau : ăn thực phẩm nhiều chất xơ .",
+    "entities": [
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "cuối cùng , điều chỉnh độ tương phản và độ sáng trên màn hình đến một mức độ thoải mái , đảm bảo các chữ cái trên màn hình rất dễ đọc .",
+    "entities": [
+      {
+        "text": "điều chỉnh độ tương phản và độ sáng trên màn hình đến một mức độ thoải mái",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thính học có thể thảo luận với những lợi ích tiềm năng của việc sử dụng máy trợ thính , giới thiệu một thiết bị và phù hợp với nó .",
+    "entities": [
+      {
+        "text": "máy trợ thính",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bổ sung sắt nếu có chảy máu đường ruột mãn tính , có thể phát triển bệnh thiếu máu thiếu sắt .",
+    "entities": [
+      {
+        "text": "bệnh thiếu máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mỗi thí nghiệm cho phép bác sĩ để kiểm tra một khía cạnh khác nhau của đôi mắt , bao gồm tầm nhìn .",
+    "entities": [
+      {
+        "text": "bác sĩ để kiểm tra một khía cạnh khác nhau của đôi mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "những suy giảm này , kết hợp với giảm lớp mỡ dưới da , góp phần làm hạ thân nhiệt ở người lớn tuổi - thậm chí đôi khi ở trong căn phòng mát .",
+    "entities": [
+      {
+        "text": "hạ thân nhiệt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tăng tiết nội tiết tố tăng trưởng gh làm cho người bị bệnh có những biểu hiện phát triển bất thường như : đầu to , trán rộng , trán dô , mắt to , da thô , môi dày , bàn chân và các ngón chân to bất thường .",
+    "entities": [
+      {
+        "text": "bàn chân và các ngón chân to bất thường",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "trán rộng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "trán dô",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "môi dày",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đầu to",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mắt to",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "da thô",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu ung thư cổ họng đã lan sâu trong cổ , bác sĩ có thể đề nghị phẫu thuật để loại bỏ một số hoặc tất cả các hạch bạch huyết để xem có chứa các tế bào ung thư .",
+    "entities": [
+      {
+        "text": "phẫu thuật để loại bỏ một số hoặc tất cả các hạch bạch huyết",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư cổ họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ sẽ kiểm tra và hỏi câu hỏi về sức khỏe chung , bao gồm các câu hỏi về tim và bệnh mạch máu .",
+    "entities": [
+      {
+        "text": "bệnh mạch máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ một số thực phẩm và thức uống có thể gây ra chứng ợ nóng ở một số người , bao gồm : rượu .",
+    "entities": [
+      {
+        "text": "chứng ợ nóng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trẻ sơ sinh bị bệnh uốn ván sơ sinh là do quá trình cắt và chăm sóc rốn không đảm bảo vệ sinh .",
+    "entities": [
+      {
+        "text": "bệnh uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay thế thuốc không có phương pháp điều trị thuốc thay thế đã được tìm thấy hữu ích trong điều trị bệnh gan nhiễm mỡ không do rượu .",
+    "entities": [
+      {
+        "text": "bệnh gan nhiễm mỡ không do rượu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "theo hội tim mạch châu âu : “ suy tim là một hội chứng với các đặc điểm sau : có biểu hiện triệu chứng cơ năng của suy tim ( mệt , khó thở khi gắng sức hoặc khi nghỉ ngơi ) ; có biểu hiện các triệu chứng thực thể của tình trạng ứ dịch ( sung huyết phổi hoặc phù ngoại vi ) và các bằng chứng khách quan của tổn thương thực thể hoặc chức năng của tim lúc nghỉ .",
+    "entities": [
+      {
+        "text": "sung huyết phổi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phù ngoại vi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ứ dịch",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hở van ba lá là một bệnh diễn tiến và có thể gây ra những biến chứng nguy hiểm nếu không kịp thời điều trị .",
+    "entities": [
+      {
+        "text": "hở van ba lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các loại thuốc để loại trừ h . pylori thuốc kháng sinh được sử dụng để điều trị nhiễm h . pylori .",
+    "entities": [
+      {
+        "text": "nhiễm h . pylori",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị huyết khối tĩnh mạch sâu hiệu quả thuốc các loại thuốc như heparin , warfarin ( coumadin ) , enoxaparin ( lovenox ) , fondaparinux ( arixtra ) có thể được kê để chống đông máu .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "fondaparinux",
+        "type": "THUỐC"
+      },
+      {
+        "text": "enoxaparin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "warfarin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "coumadin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "heparin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "lovenox",
+        "type": "THUỐC"
+      },
+      {
+        "text": "arixtra",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp , chẳng hạn như van tim bị hở , phẫu thuật lần thứ hai có thể là cần thiết .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "những phương pháp điều trị kể trên chỉ có tác dụng làm giảm áp lực nhằm ngăn chặn sa sút thị lực chứ không thể điều trị dứt điểm bệnh tăng nhãn áp .",
+    "entities": [
+      {
+        "text": "bệnh tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm này có thể bao gồm nội soi ngược dòng , cộng hưởng từ đường mật và chụp đường mật qua da .",
+    "entities": [
+      {
+        "text": "cộng hưởng từ đường mật",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp đường mật qua da",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi ngược dòng",
+        "type": "THUỐC"
+      }
+    ]
+  }
+]

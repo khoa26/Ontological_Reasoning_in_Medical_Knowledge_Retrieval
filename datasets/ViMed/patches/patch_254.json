@@ -1,0 +1,32 @@
+[
+  {
+    "text": "tình trạng này hầu như luôn luôn phát triển trong những người đã có hình thức thoái hóa điểm vàng khô .",
+    "entities": [
+      {
+        "text": "thoái hóa điểm vàng khô",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật cắt bỏ ung thư dạ dày : ung thư dạ dày giai đoạn sớm có thể điều trị bằng kỹ thuật nội soi emr , esd .",
+    "entities": [
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nội soi emr",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "esd",
+        "type": "THUỐC"
+      }
+    ]
+  }
+]

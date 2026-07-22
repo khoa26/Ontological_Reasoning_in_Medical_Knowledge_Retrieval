@@ -1,0 +1,340 @@
+[
+  {
+    "text": "nhưng nếu bạn tuân thủ kế hoạch điều trị khi mắc bệnh và tránh dùng corticosteroid thì có thể làm giảm nguy cơ bệnh tái phát .",
+    "entities": [
+      {
+        "text": "corticosteroid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "vấn đề về thần kinh : những người bị bệnh tâm thần , sa sút trí tuệ hoặc các tình trạng khác gây trở ngại cho việc phán đoán và không ăn mặc phù hợp với thời tiết hoặc hiểu rõ rủi ro của thời tiết lạnh .",
+    "entities": [
+      {
+        "text": "sa sút trí tuệ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tâm thần",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mô hình dao động từ người này sang người khác , nhưng hầu hết mọi người có một hoặc hai giai đoạn cơn đau một năm .",
+    "entities": [
+      {
+        "text": "có một hoặc hai giai đoạn cơn đau một năm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh tự kỷ ở người lớn tổng quan bệnh tự kỷ ở người lớn bệnh tự kỷ ở người trưởng thành hay được gọi là rối loạn phổ tự kỷ xuất hiện ở người lớn được hiểu là chứng rối loạn phức tạp về hệ thần kinh , làm ảnh hưởng tới hoạt động não bộ .",
+    "entities": [
+      {
+        "text": "bệnh tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân hiv mắc ung thư hậu môn cần dùng liều thấp hơn phụ thuộc và hệ miễn dịch của bệnh nhân .",
+    "entities": [
+      {
+        "text": "ung thư hậu môn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hiv",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh thoát vị bẹn người lớn tổng quan bệnh thoát vị bẹn người lớn thoát vị là gì ?",
+    "entities": [
+      {
+        "text": "bệnh thoát vị bẹn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu những phương pháp này không hiệu quả và tình trạng nghiêm trọng đến mức khiến não và các cơ quan khác gặp nguy hiểm , có thể cần đến máy tạo nhịp tim .",
+    "entities": [
+      {
+        "text": "máy tạo nhịp tim",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trong thực tế , một số bệnh nhiễm trùng cổ họng do virus nhìn tồi tệ hơn nhiễm trùng do vi khuẩn liên cầu khuẩn .",
+    "entities": [
+      {
+        "text": "bệnh nhiễm trùng cổ họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các cơn đau thường xuyên được gọi là thời kỳ đau , có thể kéo dài từ vài tuần đến vài tháng , thường là theo sau thời kỳ thuyên giảm khi các cơn đau đầu ngưng hoàn toàn .",
+    "entities": [
+      {
+        "text": "cơn đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thuyên tắc phổi là bệnh thường gặp và gây tử vong với tỉ lệ tử vong khoảng 30% nếu không được điều trị .",
+    "entities": [
+      {
+        "text": "thuyên tắc phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân thoái hóa khớp háng thường bị đau đớn kéo dài , cấu trúc khớp bị biến đổi và thậm chí là tàn phế , ảnh hưởng nghiêm trọng tới chất lượng cuộc sống cũng như tạo thêm gánh nặng cho gia đình và xã hội .",
+    "entities": [
+      {
+        "text": "thoái hóa khớp háng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau đớn kéo dài",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "miễn dịch liệu pháp có thể đặc biệt hiệu quả nếu dị ứng với lông mèo , bụi , hoặc phấn hoa được sản xuất bởi cỏ , cây hoặc cỏ dại .",
+    "entities": [
+      {
+        "text": "miễn dịch liệu pháp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của bệnh nhiễm sán máng chế độ sinh hoạt : tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị .",
+    "entities": [
+      {
+        "text": "bệnh nhiễm sán máng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chụp x - quang phổi 60 - 90% ghi nhận mở rộng bóng trung thất , có chỗ phình khu trú cho biết vị trí khởi phát .",
+    "entities": [
+      {
+        "text": "chụp x - quang phổi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "người bệnh tiểu đường thai kỳ có thể chuyển dạ tự nhiên và sinh thường khi thai đủ tháng tuy nhiên nếu đường máu kiểm soát kém , có tiền sử sảy thai thì có thể sinh sớm để tránh tử vong cho thai sau sinh cần cho trẻ sơ sinh bú sớm , theo dõi chặt chẽ các biến cố có thể xảy ra .",
+    "entities": [
+      {
+        "text": "bệnh tiểu đường thai kỳ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "và để được coi là đau nhức đầu mãn tính đúng sự thật , nó cũng không phải là kết quả của tình trạng bệnh lý khác .",
+    "entities": [
+      {
+        "text": "đau nhức đầu mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu người phụ nữ nhiễm rubella ( sởi đức ) hoặc virus khác trong thời kỳ mang thai giai đoạn sớm , nguy cơ khuyết tật tim bẩm sinh ở con tăng lên .",
+    "entities": [
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sởi đức",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , các mô cấy ống kính đặc biệt không được hoàn toàn thỏa đáng - một số người đã có trải nghiệm vấn đề với ánh sáng chói và mờ .",
+    "entities": [
+      {
+        "text": "ống kính đặc biệt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "những triệu chứng có thể xảy ra ở giai đoạn đầu của bệnh bao gồm : bệnh nhân có cảm giác khó chịu ở vùng lưỡi : cảm giác này giống như có dị vật hay xương cá cắm vào lưỡi , nhưng chỉ thoáng qua .",
+    "entities": [
+      {
+        "text": "cảm giác này giống như có dị vật hay xương cá cắm vào lưỡi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó chịu ở vùng lưỡi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong bối cảnh yên tĩnh , âm nhạc hoặc âm lượng radio thấp , tĩnh có thể giúp giảm bớt tiếng ồn gây ù tai .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một chế độ ăn nhiều chất xơ , trái cây và rau quả như c hế độ ăn địa trung hải có thể là tốt nhất cho những người có nguy cơ bị huyết khối tĩnh mạch sâu hoặc những người đã từng bị huyết khối tĩnh mạch sâu trước đó .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chế độ ăn nhiều chất xơ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hế độ ăn địa trung hải",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đây là một trong những cách tốt nhất để bảo vệ chống lại các bệnh nhiễm trùng do vi khuẩn và virus có thể gây viêm mũi và xoang .",
+    "entities": [
+      {
+        "text": "viêm mũi và xoang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu màng lọc ở lại quá lâu , chúng có thể làm tăng rủi ro của huyết khối tĩnh mạch sâu .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "màng lọc",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "những yếu tố làm trầm trọng thêm triệu chứng đau bụng như ăn uống không đúng giờ , tiền căn dị ứng lactose ( không dung nạp lactose ) .",
+    "entities": [
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh tăng huyết áp nguyên phát những yếu tố sau đây làm tăng nguy cơ mắc bệnh tăng huyết áp nguyên phát : người già : do hệ thống thành mạch không còn độ đàn hồi nên dễ có nguy cơ tăng huyết áp .",
+    "entities": [
+      {
+        "text": "bệnh tăng huyết áp nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nói chung , mục tiêu của việc điều trị rung nhĩ là : thiết lập lại nhịp điệu hoặc kiểm soát tốc độ .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có khối gồ nổi lên bề mặt lưỡi : màu sắc thay đổi , niêm mạc trắng , tổn thương chắc , rắn , có thể ở dạng xơ hóa hoặc loét nhỏ .",
+    "entities": [
+      {
+        "text": "khối gồ nổi lên bề mặt lưỡi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , fda đã ban hành cảnh báo rằng trẻ em và thanh thiếu niên dùng thuốc ức chế tnf infliximab đã tăng nguy cơ ung thư .",
+    "entities": [
+      {
+        "text": "infliximab",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bệnh có thể nhẹ khi cơ co cứng với vài cơn co giật , vừa nếu có cứng hàm và khó nuốt hoặc nặng nếu co giật dữ dội hoặc ngừng thở .",
+    "entities": [
+      {
+        "text": "co giật dữ dội",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cơn co giật",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cơ co cứng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngừng thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cứng hàm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó nuốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều trị nhiễm trùng nếu viêm nắp thanh quản có liên quan đến nhiễm trùng , kháng sinh tiêm tĩnh mạch sẽ được dùng .",
+    "entities": [
+      {
+        "text": "kháng sinh tiêm tĩnh mạch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm nắp thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

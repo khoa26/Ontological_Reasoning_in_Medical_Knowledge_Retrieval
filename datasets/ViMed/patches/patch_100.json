@@ -1,0 +1,325 @@
+[
+  {
+    "text": "hội chứng budd - chiari là một tình trạng hiếm gặp gây ra các cục máu đông có thể chặn các tĩnh mạch đưa máu tới gan .",
+    "entities": [
+      {
+        "text": "hội chứng budd - chiari",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán để xác định xem có đau mắt đỏ , bác sĩ có thể kiểm tra mắt .",
+    "entities": [
+      {
+        "text": "kiểm tra mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đau mắt đỏ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "u không phải dòng tinh phẫu thuật kèm theo vét hạch được áp dụng trong trường hợp khối u nhỏ à ung thư không phải dòng tinh .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc mục tiêu chủ yếu trong điều trị giãn tĩnh mạch thực quản là để ngăn chặn chảy máu .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm trong chẩn đoán ung thư thận : xét nghiệm nước tiểu : tổng phân tích nước tiểu giúp phát hiện có máu trong nước tiểu hay không ?",
+    "entities": [
+      {
+        "text": "tổng phân tích nước tiểu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xét nghiệm nước tiểu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ung thư thận",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bên cạnh đó , các khối u trung thất ác tính có thể xâm lấn , di căn sang các cơ quan khác của cơ thể , chẳng hạn như : khối u xâm lấn vào cột sống gây chèn ép tủy sống hoặc xâm xâm lấn vào tim , các mạch máu của tim người bệnh , có nguy cơ gây tử vong .",
+    "entities": []
+  },
+  {
+    "text": "khám mạch có thể thấy tần số mạch quay thấp hơn tần số tim nghe bằng ống nghe do thể tích nhát bóp thất trái không hằng định khi rung nhĩ nên không phải nhát bóp nào cũng đưa được cung lượng máu đủ tới các mạch ngoại biên đoạn xa ( ví dụ mạch quay ) để ta có thể sờ thấy mạch .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phát triển tiền ung thư trong đại tràng ung thư đại tràng bắt đầu thường xuyên nhất là khối các tế bào tiền ung thư trên lớp lót bên trong của đại tràng .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số người với chấn thương có thể vẫn còn ý thức , nhưng hầu hết trở nên buồn ngủ hoặc hôn mê từ lúc chấn thương .",
+    "entities": [
+      {
+        "text": "vẫn còn ý thức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn ngủ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hôn mê",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "erlotinib thường được kết hợp với hóa trị liệu để sử dụng ở những người bị ung thư tuyến tụy giai đoạn muộn .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hóa trị liệu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "erlotinib",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "những người mắc hội chứng marfan thường cao và gầy với cánh tay , chân , ngón tay và ngón chân dài bất thường .",
+    "entities": [
+      {
+        "text": "ngón chân dài bất thường",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hội chứng marfan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gầy với cánh tay",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cao",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nồng độ các hormone tăng dần theo trọng lượng thai dẫn đến tiểu đường thai kỳ thường xuất hiện ở tuần 24 – 28 của thai kỳ .",
+    "entities": [
+      {
+        "text": "tiểu đường thai kỳ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng một số người bị trào ngược dạ dày thực quản có thể cần dùng thuốc mạnh hơn/thuốc kê đơn hoặc phẫu thuật để giảm triệu chứng .",
+    "entities": [
+      {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng viễn thị có thể được kết hợp với một số vấn đề , chẳng hạn như : tiến triển viễn thị .",
+    "entities": [
+      {
+        "text": "tiến triển viễn thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của bệnh van tim chế độ sinh hoạt : bạn nên thực hiện một số thay đổi lối sống có lợi cho tim mạch , bao gồm : duy trì cân nặng hợp lý : cố gắng giữ cân nặng hợp lý .",
+    "entities": [
+      {
+        "text": "bệnh van tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các tùy chọn điều trị tốt nhất sẽ phụ thuộc vào đã có rung nhĩ bao lâu , các triệu chứng khó chịu và nguyên nhân cơ bản gây rung nhĩ .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân hầu hết đục thủy tinh thể phát triển khi lão hóa hay t ổn thương thay đổi các mô tạo nên ống kính mắt .",
+    "entities": []
+  },
+  {
+    "text": "trong hầu hết trường hợp bị rách ống dẫn sau khi chấn thương mặt , hệ thống thoát nước bắt đầu tự hoạt động trở lại vài tháng sau khi bị thương và không cần thiết điều trị thêm .",
+    "entities": []
+  },
+  {
+    "text": "ít nhất một lần giữa tuổi dậy thì và tuổi 40, và sau đó mỗi năm đến 10 năm nếu không có vấn đề về thị lực hoặc yếu tố nguy cơ cho bệnh về mắt , chẳng hạn như bệnh tăng nhãn áp .",
+    "entities": [
+      {
+        "text": "bệnh tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , bác sĩ sẽ cho bệnh nhân làm thêm các cận lâm sàng sau : siêu âm tim : ngày nay , người ta đã nhận thấy rõ ràng là siêu âm tim qua thành ngực và qua thực quản có tầm quan trọng thiết yếu và sẵn có trong chẩn đoán viêm nội tâm mạc , trong xử trí và theo dõi bệnh .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật nội soi có thể hạn chế các tác dụng không mong muốn này : nhiễm trùng tạo ra nhiều mô sẹo hơn tổn thương các cơ quan phụ cận chảy má u , mất máu một nguy cơ sau phẫu thuật là mang thai ngoài tử cung .",
+    "entities": [
+      {
+        "text": "phẫu thuật nội soi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy má",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tử vong đột ngột : khi nhịp tim rối loạn do hội chứng qt kéo dài gây ra trở về bình thường , người bệnh chỉ ngất hoặc có những triệu chứng bất thường khác .",
+    "entities": [
+      {
+        "text": "ngất",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị viêm màng ngoài tim hiệu quả tùy vào thể trạng bệnh nhân và mức độ nghiêm trọng của bệnh mà bác sĩ sẽ kê đơn thuốc và áp dụng những phương pháp điều trị phù hợp .",
+    "entities": [
+      {
+        "text": "viêm màng ngoài tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "quang đông hồng ngoại : sử dụng tia laser hoặc tia hồng ngoại hoặc nhiệt chiếu vào búi trĩ và làm cho búi trĩ cứng và teo lại .",
+    "entities": [
+      {
+        "text": "quang đông hồng ngoại",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hội chứng lazy ruột có thể xảy ra nếu sử dụng thuốc nhuận tràng thường xuyên , khiến ruột trở thành phụ thuộc vào chúng cho các chức năng .",
+    "entities": [
+      {
+        "text": "thuốc nhuận tràng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hội chứng lazy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một nguyên tắc nhỏ là để thực hiện theo các quy tắc 20/20/20 : mỗi 20 phút , rời mắt khỏi máy tính và nhìn vào một cái gì đó 20 feet ít nhất 20 giây .",
+    "entities": [
+      {
+        "text": "thực hiện theo các quy tắc 20/20/20",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , nếu phát triển chứng phình động mạch lớn , phẫu thuật có thể cần thiết để ngăn chặn chúng vỡ .",
+    "entities": [
+      {
+        "text": "chứng phình động mạch lớn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của hội chứng brugada một số bệnh nhân mắc hội chứng brugada không có dấu hiệu hay triệu chứng lâm sàng .",
+    "entities": [
+      {
+        "text": "hội chứng brugada",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể trải qua căng thẳng đối với một số lý do - cảm xúc gây rối hoặc sự kiện , phẫu thuật , chấn thương hoặc chấn thương nghiêm trọng khác .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "xơ cứng cột bên teo cơ : tổn thương hỗn hợp tế bào thần kinh vận động trung ương và ngoại biên ở chi .",
+    "entities": [
+      {
+        "text": "xơ cứng cột bên teo cơ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

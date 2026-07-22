@@ -1,0 +1,432 @@
+[
+  {
+    "text": "thuốc chống trầm cảm ba vòng và các thuốc ức chế tái hấp thu được biết đến như serotonin có chọn lọc ( ssris ) , uống liều thấp , có thể giúp ức chế hoạt động của tế bào thần kinh kiểm soát cơn đau ruột .",
+    "entities": [
+      {
+        "text": "thuốc chống trầm cảm ba vòng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc ức chế tái hấp thu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "serotonin có chọn lọc",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cơn đau ruột",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ssris",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "dùng thuốc nhuận tràng người bệnh có thể đi tiêu trở lại , nhưng sau đó lại táo bón tiếp tục .",
+    "entities": [
+      {
+        "text": "thuốc nhuận tràng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "cũng cần phải có ít nhất hai trong số những điều sau đây : sự thay đổi tần số hoặc tính nhất quán của phân - ví dụ , có thể thay đổi từ việc phân bình thường đến ba hoặc nhiều lần phân lỏng hàng ngày , hoặc có thể chỉ phân cứng mỗi 3 - 4 ngày .",
+    "entities": [
+      {
+        "text": "phân lỏng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phân cứng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh tinh hoàn ẩn sự di chuyển từ bụng xuống bìu của tinh hoàn chịu sự tác động của rất nhiều cơ chế .",
+    "entities": [
+      {
+        "text": "bệnh tinh hoàn ẩn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vùng da tiếp xúc thường xuyên với ánh nắng ở cường độ mạnh và trong một thời gian dài là yếu tố bệnh sinh quan trọng nhất gây ung thư da đầu .",
+    "entities": [
+      {
+        "text": "ung thư da đầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ có thể có nguy cơ đau nhức đầu do tập thể dục nếu : tập thể dục trong thời tiết nóng .",
+    "entities": [
+      {
+        "text": "đau nhức đầu do tập thể dục",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đôi khi có thể chuyển nhịp xoang bằng sốc điện đồng bộ , thuốc chống loạn nhịp , hoặc triệt đốt cơ chất gây rung nhĩ .",
+    "entities": [
+      {
+        "text": "thuốc chống loạn nhịp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "triệt đốt cơ chất",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sốc điện đồng bộ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu đã được chẩn đoán mắc bệnh gan , hãy hỏi bác sĩ về nguy cơ giãn tĩnh mạch thực quản và làm thế nào có thể làm giảm nguy cơ bị các biến chứng .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng của viêm ruột thừa cấp có thể bao gồm : áp xe : ruột thừa viêm và vỡ nhưng mủ lại chưa tràn vào ổ bụng nhờ các cơ quan khác bao bọc như ruột non , mạc nối lớn .",
+    "entities": [
+      {
+        "text": "viêm ruột thừa cấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ức chế bơm proton có sẵn toa , bao gồm lansoprazole ( prevacid 24 ) và omeprazole ( prilosec otc ) .",
+    "entities": [
+      {
+        "text": "lansoprazole",
+        "type": "THUỐC"
+      },
+      {
+        "text": "prilosec otc",
+        "type": "THUỐC"
+      },
+      {
+        "text": "prevacid 24",
+        "type": "THUỐC"
+      },
+      {
+        "text": "omeprazole",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "không có phương pháp điều trị bổ sung hoặc thay thế đã được tìm thấy có hiệu quả điều trị ung thư tuyến tụy .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "máu sau đó bị rò rỉ giữa màng cứng và hộp sọ để tạo thành một khối gây chèn ép nén các mô não .",
+    "entities": [
+      {
+        "text": "khối gây chèn ép nén các mô não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh thoái hóa võng mạc các biện pháp phòng ngừa bệnh thoái hóa võng mạc : ăn uống đầy đủ chất dinh dưỡng , nhiều ra xanh và hoa quả lối sống lành mạnh , duy trì cân nặng ở mức cân đối không hút thuốc lá kiểm soát tốt các bệnh lý nội khoa mãn tính như đái tháo đường , tăng huyết áp , xơ vữa động mạch bằng cách tuân thủ tốt điều trị và tái khám theo hẹn .",
+    "entities": [
+      {
+        "text": "bệnh thoái hóa võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "can thiệp nội mạch được chỉ định cho bệnh nhân có biến chứng ( xuất huyết , tăng huyết áp dai dẳng , đau , đường kính động mạch chủ to ra nhanh chóng , phình tách lan rộng và dọa vỡ ) .",
+    "entities": [
+      {
+        "text": "phình tách lan rộng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "can thiệp nội mạch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xuất huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "dọa vỡ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng thường gặp chủ đề : hỗ trợ sinh sản nội soi ổ bụng nội soi mang thai ống dẫn trứng tắc ống dẫn trứng sinh con trứng phẫu thuật nội soi",
+    "entities": [
+      {
+        "text": "phẫu thuật nội soi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tắc ống dẫn trứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nội soi ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ung thư tuyến của tụy cũng đề kháng tương đối với điều trị nội khoa , và điều trị duy nhất có khả năng chữa khỏi hẳn là phẫu thuật .",
+    "entities": [
+      {
+        "text": "ung thư tuyến của tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ sẽ kiểm tra chân , ở những người bệnh da mỏng , có thể nhìn và thậm chí là sờ thấy các tĩnh mạch giãn ra khi đang ngồi hoặc đứng để chẩn đoán chứng giãn tĩnh mạch .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "da mỏng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chỉ một nửa trong số những người mắc bệnh có xuất hiện các triệu chứng nêu trên , và các triệu chứng này chỉ xảy ra ở bên chân có huyết khối tĩnh mạch .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay đổi đơn giản có thể giúp ngăn ngừa khô mắt bao gồm sử dụng máy tạo độ ẩm , cách giảm bớt nhiệt và tránh hút thuốc lá .",
+    "entities": [
+      {
+        "text": "sử dụng máy tạo độ ẩm",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tránh hút thuốc lá",
+        "type": "THUỐC"
+      },
+      {
+        "text": "giảm bớt nhiệt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ví dụ , nếu có bệnh tim mạch hoặc huyết áp cao , uống thuốc và làm theo hướng dẫn của bác sĩ để kiểm soát .",
+    "entities": [
+      {
+        "text": "bệnh tim mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vì vậy cần xác định nguyên nhân , có thể chấm dứt thai kỳ khi phát hiện nguyên nhân từ mẹ hay từ phôi thai , sau đó điều trị nguyên nhân triệu để nhất là bệnh lý đặc biệt từ mẹ thiểu ối trong 3 tháng giữa : xác định nguyên nhân gây ra thiểu ối , đặc biệt bệnh lý dị tật ở hệ tiết niệu kèm các dị tật bẩm sinh khác cần thiết có thể chấm dứt thai kỳ , siêu âm định kỳ 1 - 2 lần/tuần cho đến lúc sinh .",
+    "entities": [
+      {
+        "text": "thiểu ối",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nhồi máu cơ tim - mặc dù không phổ biến , nó có thể xảy ra là kết quả của giảm lưu lượng máu đến tim .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh và điều kiện có thể gây viêm bờ mi bao gồm : viêm da tiết bã - gàu da đầu và lông mày .",
+    "entities": [
+      {
+        "text": "viêm da tiết bã",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm bờ mi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gàu da đầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa sỏi mật là tích lũy các dịch tiêu hóa cứng có thể hình thành sỏi trong túi mật .",
+    "entities": [
+      {
+        "text": "sỏi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "atropine iv / im atropine làm tăng dẫn truyền nhĩ thất bằng cách giảm trương lực phế vị thông qua phong tỏa thụ thể muscarinic; có thể cải thiện dẫn truyền nhĩ thất nếu block nằm trong nút nhĩ thất nhưng atropine không hiệu quả với block dưới nút và có thể gây block trầm trọng hơn .",
+    "entities": [
+      {
+        "text": "atropine iv",
+        "type": "THUỐC"
+      },
+      {
+        "text": "im atropine",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": ". . các triệu chứng thai ngoài tử cung bao gồm : dấu hiệu có thai : nôn nghén , mệt mỏi , chậm kinh r a huyết âm đạo bất thường không trùng với ngày hành kinh , ra máu kéo dài , tính chất máu bất thường như : số lượng ít hơn bình thường , màu sẫm hơn , loãng hơn bình thường .",
+    "entities": [
+      {
+        "text": "a huyết âm đạo bất thường không trùng với ngày hành kinh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thai ngoài tử cung",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ra máu kéo dài",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nôn nghén",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chậm kinh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nó xảy ra khi mạch máu nhỏ ( mao mạch ) co thắt để đáp ứng với stress hoặc cảm lạnh , ngăn chặn dòng chảy của máu .",
+    "entities": [
+      {
+        "text": "cảm lạnh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "stress",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong trường hợp viêm phúc mạc , trong đó nhiễm trùng có thể là kết quả của điều kiện y tế khác ( viêm phúc mạc thứ phát ) hoặc trong đó nhiễm trùng phát sinh từ sự tích tụ chất dịch trong ổ bụng ( viêm phúc mạc tự phát ) , bác sĩ có thể khuyên nên thử nghiệm sau đây để xác định chẩn đoán : phân tích chất dịch phúc mạc .",
+    "entities": [
+      {
+        "text": "phân tích chất dịch phúc mạc",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm phúc mạc thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phúc mạc tự phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , nếu độ lệch là nghiêm trọng nó có thể gây ra các dấu hiệu và triệu chứng sau đây : cản trở một hoặc cả hai lỗ mũi .",
+    "entities": [
+      {
+        "text": "cản trở một hoặc cả hai lỗ mũi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đánh giá và sàng lọc máu , xét nghiệm trạng thái tiền mẫn cảm ( pra ) và trạng thái tương hợp mô : xác định sự phù hợp về mặt miễn dịch học của bệnh nhân nhận tạng với người hiến tặng .",
+    "entities": [
+      {
+        "text": "xét nghiệm trạng thái tiền mẫn cảm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  }
+]

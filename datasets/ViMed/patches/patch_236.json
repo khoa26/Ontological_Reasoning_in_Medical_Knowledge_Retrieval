@@ -1,0 +1,352 @@
+[
+  {
+    "text": "tăng thông khí ( tên tiếng anh là hyperventilation ) là tình trạng mất cân bằng giữa việc hít và thở .",
+    "entities": [
+      {
+        "text": "tăng thông khí",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu các dấu hiệu và triệu chứng đề nghị một điều kiện tự miễn dịch , như viêm khớp dạng thấp hoặc hội chứng sjogren 's , bác sĩ có thể giới thiệu đến một chuyên gia khớp để đánh giá .",
+    "entities": [
+      {
+        "text": "bác sĩ có thể giới thiệu đến một chuyên gia khớp để đánh giá",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hội chứng sjogren 's",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm khớp dạng thấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh thấp tim có vấn đề phổ biến nhất là van giữa hai buồng tim trái ( van hai lá ) , nhưng các van khác vẫn có thể bị ảnh hưởng , dẫn đến : hẹp van .",
+    "entities": [
+      {
+        "text": "bệnh thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số loại thương tổn như thể nhú sùi , thể nhân , thể loét phát hiện ở giai đoạn sớm có thể điều trị triệt để bằng phẫu thuật hoặc xạ trị .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "gói khám tiền hôn nhân cơ bản chủ đề : khám sức khỏe tiền hôn nhân nhi vàng da sơ sinh mang thai thiếu men g6pd sơ sinh sàng lọc sơ sinh men g6pd",
+    "entities": [
+      {
+        "text": "vàng da sơ sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiếu men g6pd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số bằng chứng cho thấy nấm men saccharomyces boulardii có thể làm giảm nguy cơ tái phát bệnh tiêu chảy liên quan đến nhiễm c . difficile .",
+    "entities": [
+      {
+        "text": "nấm men saccharomyces boulardii",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi đó các mẫu mô nhỏ được lấy từ tim và kiểm tra dưới kính hiển vi để xác định nguyên nhân của bệnh cơ tim .",
+    "entities": [
+      {
+        "text": "bệnh cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong cơn đau tim , mảng bám có thể bị vỡ và cục máu đông hình thành tại vị trí vỡ .",
+    "entities": [
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "teo dây thần kinh thị do chèn ép khối u , nhiễm trùng , và quá trình viêm nhiễm có thể dẫn đến những thương tổn bên trong hốc mắt .",
+    "entities": [
+      {
+        "text": "teo dây thần kinh thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với viêm niêm mạc trực tràng gây ra bởi nhiễm trùng do vi khuẩn , bác sĩ có thể khuyên nên dùng thuốc kháng sinh .",
+    "entities": [
+      {
+        "text": "viêm niêm mạc trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "kháng sinh có thể được quản lý như eyedrops hoặc thuốc mỡ , hoặc có thể được thực hiện dưới hình thức thuốc uống .",
+    "entities": [
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "eyedrops",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc mỡ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đối phó và hỗ trợ nếu đã được chẩn đoán barrett thực quản , có thể lo lắng về nguy cơ ung thư thực quản .",
+    "entities": [
+      {
+        "text": "barrett thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị đau bác sĩ sẽ tư vấn cho phương pháp điều trị để giảm bớt đau đớn từ một nhiễm trùng tai .",
+    "entities": [
+      {
+        "text": "nhiễm trùng tai",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau đớn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chứng phình động mạch não ổn định việc sử dụng các kỹ thuật hình ảnh cho chứng phình động mạch não ổn định thường không khuyến khích .",
+    "entities": [
+      {
+        "text": "chứng phình động mạch não ổn định",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "kỹ thuật hình ảnh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật và các thủ tục khác nếu thuốc không hiệu quả trào ngược dạ dày thực quản có thể được điều trị thông qua thuốc .",
+    "entities": [
+      {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của bệnh tim mạch chế độ sinh hoạt : đừng hút thuốc : hút thuốc là một yếu tố nguy cơ chính của bệnh tim , đặc biệt là xơ vữa động mạch .",
+    "entities": [
+      {
+        "text": "bệnh tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng thuốc nhuận tràng cũng có thể dẫn đến các vấn đề khác , bao gồm cả hấp thụ các vitamin và chất dinh dưỡng khác kém và thiệt hại cho đường ruột .",
+    "entities": [
+      {
+        "text": "thuốc nhuận tràng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , trên tám hoặc nhiều ngày trong một tháng ít nhất là ba tháng , phải trải qua các triệu chứng sau đây và đau nhức đầu có ít nhất hai trong số những đặc điểm sau : chỉ ảnh hưởng đến nửa đầu .",
+    "entities": [
+      {
+        "text": "chỉ ảnh hưởng đến nửa đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau nhức đầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong trường hợp hiếm hoi , táo bón có thể là tín hiệu vấn đề y tế nghiêm trọng hơn , chẳng hạn như ung thư đại trực tràng , rối loạn nội tiết , bệnh tự miễn .",
+    "entities": [
+      {
+        "text": "ung thư đại trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rối loạn nội tiết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tự miễn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những lời khuyên sau đây có thể giúp làm cho sự phục hồi : hãy ngủ đủ giấc vào ban đêm , và nghỉ ngơi vào ban ngày bất cứ khi nào cảm thấy mệt mỏi .",
+    "entities": [
+      {
+        "text": "nghỉ ngơi vào ban ngày bất cứ khi nào cảm thấy mệt mỏi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ngủ đủ giấc vào ban đêm",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , chướng bụng không phải lúc nào cũng do quá trình tiêu hóa , có thể do các vấn đề khác như đầy hơi , mang thai , phân bị mắc kẹt , hoặc chất béo .",
+    "entities": [
+      {
+        "text": "chướng bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đầy hơi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thuốc hạ huyết áp khác , chẳng hạn như ức chế men chuyển ( ace ) , cũng đôi khi được dùng để làm giảm huyết áp và giảm nguy cơ biến chứng rung nhĩ .",
+    "entities": [
+      {
+        "text": "ức chế men chuyển",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ace",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ống kính não học để ưu tiên - tùy thuộc vào việc xem những điều gần gũi hay xa - vì vậy không cần phải có ý thức cho sự lựa chọn của mắt để sử dụng .",
+    "entities": [
+      {
+        "text": "ống kính não học",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thường thống kinh nguyên phát gặp ở phụ nữ ở độ tuổi dậy thì cho đến dưới 30 tuổi , tuy nhiên có một số trường gặp có thể gặp ở độ tuổi mãn kinh .",
+    "entities": [
+      {
+        "text": "thống kinh nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật ung thư da đầu nguyên tắc phẫu thuật là lấy u đủ rộng , đảm bảo diện cắt xung quanh không còn tế bào ung thư .",
+    "entities": [
+      {
+        "text": "ung thư da đầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật phẫu thuật để loại bỏ bệnh ung thư có thể được sử dụng một mình hoặc kết hợp với phương pháp điều trị khác .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "vì lý do này , bác sĩ có thể khuyên nên kiểm tra thường xuyên bằng siêu âm gan để tìm những bất thường .",
+    "entities": [
+      {
+        "text": "siêu âm gan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "liệu pháp xạ trị có thể được sử dụng một mình hoặc kết hợp với các phương pháp điều trị ung thư khác .",
+    "entities": [
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "mang thai những phụ nữ đã có phẫu thuật để sửa chữa thân chung động mạch cần phải được đánh giá bởi bác sĩ tim mạch với chuyên môn trong các khuyết tật tim bẩm sinh và bác sĩ sản khoa .",
+    "entities": [
+      {
+        "text": "thân chung động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc cho sỏi mật không thường được sử dụng và được dành riêng cho những người không thể trải qua phẫu thuật .",
+    "entities": [
+      {
+        "text": "sỏi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

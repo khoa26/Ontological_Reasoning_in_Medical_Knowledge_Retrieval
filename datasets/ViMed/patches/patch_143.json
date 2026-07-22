@@ -1,0 +1,363 @@
+[
+  {
+    "text": "các xét nghiệm và chẩn đoán nếu gặp khó khăn nhìn thấy màu sắc nhất định , bác sĩ mắt nhanh chóng và dễ dàng có thể kiểm tra để xem nếu có thiếu màu sắc .",
+    "entities": [
+      {
+        "text": "khó khăn nhìn thấy màu sắc",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thiếu màu sắc",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "gặp vấn đề với sự tập trung hoặc bộ nhớ , thường hay nhầm lẫn mất ý thức ( ngất xỉu ) nếu bạn hay có các triệu chứng này thì cần liên hệ với bác sĩ để khám và tìm ra nguyên nhân của tình trạng thở nhanh .",
+    "entities": [
+      {
+        "text": "mất ý thức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thở nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngất xỉu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tìm kiếm sự trợ giúp y tế ngay lập tức nếu đau bụng rất nghiêm trọng mà không thể ngồi yên hoặc tìm một vị trí làm cho thoải mái hơn .",
+    "entities": [
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ huyết áp thấp các yếu tố nguy cơ hạ huyết áp bao gồm : tuổi tác : t ụt huyết áp khi đứng hoặc sau khi ăn chủ yếu xảy ra ở người lớn trên 65 tuổi .",
+    "entities": [
+      {
+        "text": "huyết áp thấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ụt huyết áp",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "được gọi là prokinetic , loại thuốc này giúp dạ dày trống rỗng nhanh hơn và giúp thắt chặt van giữa dạ dày và thực quản .",
+    "entities": [
+      {
+        "text": "prokinetic",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu một nguyên nhân của chứng sa sút trí tuệ mất trí nhớ đã được chẩn đoán , nói chuyện với bác sĩ nếu các triệu chứng dường như trở nên tệ hơn .",
+    "entities": [
+      {
+        "text": "chứng sa sút trí tuệ mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu sử dụng rượu dừng lại rất khó , bác sĩ có thể đề nghị một chương trình điều trị nghiện rượu .",
+    "entities": []
+  },
+  {
+    "text": "nếu nghi ngờ khối u nã o có thể là một kết quả của ung thư đã lan rộng từ một vùng khác của cơ thể , bác sĩ có thể khuyên nên t hử nghiệm và các thủ tục để xác định nơi nguồn gốc bệnh ung thư .",
+    "entities": [
+      {
+        "text": "hử nghiệm và các thủ tục để xác định nơi nguồn gốc",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khối u nã",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , nếu van này thư giãn bất thường hoặc suy yếu , acid dạ dày có thể chảy ngược lại vào trong thực quản , gây ra chứng ợ nóng thường xuyên và phá vỡ cuộc sống hàng ngày .",
+    "entities": [
+      {
+        "text": "ợ nóng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ở những bệnh nhân lớn tuổi , quá trình lão hóa cùng với sự tác động từ bên ngoài như khói bụi cũng là nguyên nhân của bệnh thoái hóa võng mạc tuổi già .",
+    "entities": [
+      {
+        "text": "thoái hóa võng mạc tuổi già",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc bệnh hạ thân nhiệt đóng băng các mô cơ thể ( tê cóng ) ; phân hủy và chết mô do dòng máu bị gián đoạn ( hoại thư ) .",
+    "entities": [
+      {
+        "text": "hoại thư",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tê cóng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tế bào ung thư lây lan đến các khu vực khác của cơ thể ( di căn xa ) thường đến xương và tủy xương , phổi và gan .",
+    "entities": [
+      {
+        "text": "tế bào ung thư lây lan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật : việc phẫu thuật điều trị thoát vị rốn được chỉ định khi kích thước vùng thoát vị không thay đổi trong vòng 2 năm đầu sau khi sinh , trẻ có cảm giác đau nhiều hơn hoặc vị trí thoát vị xuất hiện các triệu chứng nhiễm trùng do ruột bị mắc kẹt gây hoại tử .",
+    "entities": [
+      {
+        "text": "thoát vị rốn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "có một căn bệnh nghiêm trọng tiềm ẩn ảnh hưởng đến đường ruột , chẳng hạn như ung thư ruột già hoặc bệnh viêm ruột .",
+    "entities": [
+      {
+        "text": "ung thư ruột già",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các kháng sinh thường được sử dụng trong điều trị nhiễm trùng huyết : ceftriaxone , vancomycin , piperacillin , azithromycin , ciprofloxacin và tazobactam .",
+    "entities": [
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ciprofloxacin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "piperacillin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "azithromycin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ceftriaxone",
+        "type": "THUỐC"
+      },
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "vancomycin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tazobactam",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "lối sống và các biện pháp khắc phục làm sạch đôi mắt hàng ngày nếu có viêm bờ mi , theo biện pháp khắc phục tự chăm sóc một lần hoặc hai lần một ngày : áp nén ấm trên mắt khép kín trong năm phút để nới lỏng dịch rử khô trên mí mắt .",
+    "entities": [
+      {
+        "text": "áp nén ấm trên mắt khép kín trong năm phút để nới lỏng dịch rử khô trên mí mắt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "làm sạch đôi mắt hàng ngày",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm bờ mi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi trở nên đáng chú ý , dấu hiệu và triệu chứng có thể liên quan đến phát triển những biến chứng như là kết quả của khuyết tật , và có thể bao gồm : nhịp tim bất thường ( loạn nhịp ) .",
+    "entities": [
+      {
+        "text": "nhịp tim bất thường",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "loạn nhịp",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "để phòng ngừa bệnh viêm mạch hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : tránh ở trong môi trường lạnh , ẩm trong thời gian dài .",
+    "entities": [
+      {
+        "text": "viêm mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "prokinetic giúp dạ dày trống rỗng nhanh hơn và có thể giúp thắt chặt van giữa dạ dày và thực quản , làm giảm khả năng khó chịu vùng bụng trên .",
+    "entities": [
+      {
+        "text": "khó chịu vùng bụng trên",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "prokinetic",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đau nhức đầu mới liên tục hàng ngày những cơn đau đầu trở thành không đổi trong vòng vài ngày sau thời điểm đau đầu lần đầu .",
+    "entities": [
+      {
+        "text": "đau nhức đầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cơn đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "lập lại nhịp điệu của tim lý tưởng nhất , để điều trị rung nhĩ , nhịp tim và nhịp điệu được thiết lập lại bình thường .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị cơn đau thắt ngực hiệu quả nếu cơn đau của bạn là cơn đau thắt ngực điển hình , bác sĩ có thể kê đơn thuốc điều trị đau thắt ngực .",
+    "entities": [
+      {
+        "text": "cơn đau thắt ngực điển hình",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nó thường được sử dụng khi thuốc xịt mũi có thể không được chấp nhận , hoặc khi bệnh suyễn nhẹ hiện tại .",
+    "entities": [
+      {
+        "text": "bệnh suyễn nhẹ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc xịt mũi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "còn gọi là mãn tính sau chấn thương não hoặc mất trí nhớ của võ sĩ quyền anh là do chấn thương đầu lặp đi lặp lại .",
+    "entities": [
+      {
+        "text": "mất trí nhớ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân có bất thường về đông máu ( ví dụ inr có thể tăng lên đáng kể ) có thể điều trị bằng 1 đến 2 đơn vị huyết tương tươi đông lạnh , nhưng cần thận trọng bởi vì việc cung cấp một lượng lớn dịch cho những bệnh nhân không bị giảm thể tích tuần hoàn thực sự có thể làm tăng nguy cơ chảy máu từ búi giãn .",
+    "entities": [
+      {
+        "text": "1 đến 2 đơn vị huyết tương tươi đông lạnh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trong những trường hợp này , bác sĩ cố gắng loại bỏ càng nhiều khối u và an toàn càng tốt .",
+    "entities": [
+      {
+        "text": "loại bỏ càng nhiều khối u và an toàn càng tốt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng từ trường và sóng vô tuyến để tạo ra hình ảnh , có thể làm nổi bật các chi tiết của cấu trúc nang tụy .",
+    "entities": [
+      {
+        "text": "nang tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật phù hợp cho những trường hợp bóc tách đoạn xa cấp tính ở những bệnh nhân mắc hội chứng marfan .",
+    "entities": [
+      {
+        "text": "hội chứng marfan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đã có các bệnh và các khu vực bị ảnh hưởng lớn hơn , nguy cơ bệnh ung thư ruột kết càng lớn .",
+    "entities": [
+      {
+        "text": "ung thư ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù nghiên cứu rất nhiều nhưng không có nghiên cứu nào đáng tin cậy nào cho thấy mối liên hệ giữa rối loạn phổ tự kỷ và bất kỳ loại vắc - xin nào .",
+    "entities": [
+      {
+        "text": "rối loạn phổ tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

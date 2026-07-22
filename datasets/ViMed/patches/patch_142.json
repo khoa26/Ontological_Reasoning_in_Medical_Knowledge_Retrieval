@@ -1,0 +1,343 @@
+[
+  {
+    "text": "- tiếp xúc với xạ ion hóa , như là được sử dụng trong x - quang và xạ trị ung thư .",
+    "entities": []
+  },
+  {
+    "text": "có thể có mạch và huyết áp có thể thay đổi , mặc dù nhiều bệnh nhân ban đầu bị tăng huyết áp ở một mức độ nào đó khi đau .",
+    "entities": [
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng tắc mạch ối gây ra các biến chứng vô cùng nguy hiểm , tỉ lệ tử vong còn cao , cụ thể : tử vong mẹ ( lên đến 90% ) , tử vong con ( 20 – 60% ) do chỉ xử lý được triệu chứng nhằm lấy lại dấu hiệu sinh tồn cho bệnh nhân chứ không giải quyết được nguyên nhân .",
+    "entities": [
+      {
+        "text": "tắc mạch ối",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể hướng dẫn xem các dấu hiệu và triệu chứng của bệnh não gan , có thể là từ sự nhầm lẫn và thay đổi nhẹ trong suy nghĩ đến hôn mê .",
+    "entities": [
+      {
+        "text": "bệnh não gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hôn mê",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "gặp bác sĩ nếu bản thân hoặc một người thân có vấn đề bộ nhớ hoặc các t riệu chứng mất trí nhớ khác .",
+    "entities": [
+      {
+        "text": "riệu chứng mất trí nhớ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu không điều trị , bệnh diễn tiến có các triệu chứng : thở nhanh hoặc khó thở khi gắng sức; nhịp tim nhanh ; sưng phù chân , mắt cá chân và bàn chân; da , môi và móng tay xanh tím .",
+    "entities": [
+      {
+        "text": "nhịp tim nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thở nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "cận thị thường được phát hiện đầu tiên trong thời thơ ấu và là phổ biến nhất trong những năm học sớm thông qua thiếu niên sau đó .",
+    "entities": [
+      {
+        "text": "cận thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng những công cụ này , bác sĩ có thể cạo , cắt hoặc laser bốc hơi bề ngoài bệnh ung thư .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng chóng mặt lành tính chỉ chóng mặt bộc phát được kích hoạt bởi những thay đổi cụ thể tư thế đầu , như cúi đầu lên hoặc xuống và nằm xuống , quay qua hoặc ngồi dậy trên giường .",
+    "entities": [
+      {
+        "text": "chóng mặt lành tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chóng mặt bộc phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ăn cũng có thể giúp ngăn ngừa các vấn đề tiềm năng có thể ảnh hưởng đến tình trạng bệnh và tác dụng phụ của thuốc , chẳng hạn như huyết áp cao , loãng xương và bệnh tiểu đường .",
+    "entities": [
+      {
+        "text": "bệnh tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "loãng xương",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thực thể gan to , có thể sờ thấy bờ gan ở dưới bờ sườn với mật độ mềm trong 25% các trường hợp .",
+    "entities": [
+      {
+        "text": "gan to",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trên 90% bệnh nhân ung thư khoang miệng xuất hiện ở tuổi trên 45 và tăng ổn định đến 65 tuổi sau đó lại giảm dần .",
+    "entities": [
+      {
+        "text": "ung thư khoang miệng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu và triệu chứng của màng nhĩ thủng có thể bao gồm : đột ngột đau tai và thường mất đi nhanh chóng .",
+    "entities": [
+      {
+        "text": "đột ngột đau tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân các khối u não bắt đầu trong não u não bắt nguồn từ chính bản thân não hoặc trong các mô gần nó , chẳng hạn như trong não - bao gồm màng não , dây thần kinh sọ , tuyến yên hoặc tuyến tùng .",
+    "entities": [
+      {
+        "text": "khối u não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm chẩn đoán khác bao gồm : nội soi mũi nội soi mũi , một ống hẹp với một ống kính lúp hoặc máy ảnh nhỏ , cho phép bác sĩ nhìn vào bên trong mũi cụ thể .",
+    "entities": [
+      {
+        "text": "nhìn vào bên trong mũi cụ thể",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi mũi nội soi mũi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "một mẫu máu được gửi đến một phòng thí nghiệm , nơi nó có thể kiểm tra bằng chứng về sự nhạy cảm với chất gây dị ứng cụ thể .",
+    "entities": [
+      {
+        "text": "kiểm tra bằng chứng về sự nhạy cảm với chất gây dị ứng cụ thể",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nội soi ổ bụng : bác sĩ dùng ống soi và camera nhỏ để chụp ảnh ống dẫn trứng từ bên trong nội soi ổ bụng là phương pháp chính xác nhất để chẩn đoán tắc ống dẫn trứng , tuy nhiên các bác sĩ thường không sử dụng phương pháp này trong giai đoạn sớm vì đây là một phương pháp xâm lấn và không có hiệu quả điều trị .",
+    "entities": [
+      {
+        "text": "tắc ống dẫn trứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nội soi ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , điều trị phù bạch huyết nguyên phát có thể bao gồm : phẫu thuật giảm thiểu và tái tạo mô mềm ( cắt mô mỡ dưới da và mô xơ ) nếu chất lượng cuộc sống suy giảm đáng kể .",
+    "entities": [
+      {
+        "text": "phẫu thuật giảm thiểu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phù bạch huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tái tạo mô mềm",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị viêm thanh quản mạn tính là nhằm mục đích điều trị các nguyên nhân tiềm ẩn , chẳng hạn như chứng ợ nóng , hút thuốc hoặc sử dụng quá nhiều rượu .",
+    "entities": [
+      {
+        "text": "điều trị các nguyên nhân tiềm ẩn",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm thanh quản mạn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của phong bệnh phong chủ yếu ảnh hưởng đến da và các dây thần kinh bên ngoài não và tủy sống , được gọi là các dây thần kinh ngoại biên .",
+    "entities": [
+      {
+        "text": "bệnh phong",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điện tâm đồ ( ecg ) cho thấy giãn nhĩ trái , biểu hiện dưới dạng sóng p kéo dài &gt; 0,12ms với độ lệch âm ưu thế tại v1 ( thời gian &gt; 0,04msec; biên độ &gt; 0,10mv ) ; sóng p rộng , có 2 đỉnh trong chuyển đạo ii; hoặc cả hai .",
+    "entities": [
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ecg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các nhà nghiên cứu hiện đang tìm hiểu xem các yếu tố như nhiễm virus , thuốc hoặc biến chứng khi mang thai , hoặc các chất ô nhiễm không khí có vai trò trong việc kích hoạt rối loạn phổ tự kỷ .",
+    "entities": [
+      {
+        "text": "rối loạn phổ tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chẩn đoán và điều trị sớm sẽ giảm nguy cơ tăng nặng của bệnh thông liên nhĩ và giúp bạn mau chóng hồi phục sức khỏe .",
+    "entities": [
+      {
+        "text": "thông liên nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc này được sử dụng để điều trị ung thư , bệnh vẩy nến và viêm khớp dạng thấp , đôi khi được dùng cho những người bị bệnh crohn , người không đáp ứng tốt với thuốc khác .",
+    "entities": [
+      {
+        "text": "viêm khớp dạng thấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh vẩy nến",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số nguyên nhân gây ù tai ít phổ biến hơn , bao gồm : bệnh meniere : chứng ù tai có thể là một dấu hiệu sớm của bệnh meniere , rối loạn tmj : các vấn đề với khớp thái dương hàm , khớp ở hai bên đầu trước tai , nơi xương hàm dưới gặp sọ của bạn , có thể gây ù tai .",
+    "entities": [
+      {
+        "text": "bệnh meniere",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thuốc nhuộm sau đó bơm vào ống dẫn thông qua một ống nhỏ ( catheter ) đi qua nội soi này .",
+    "entities": [
+      {
+        "text": "catheter",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "đi khám bác sĩ hoặc đến phòng cấp cứu ngay lập tức nếu có bất kỳ những dấu hiệu và triệu chứng : đột ngột đau đầu nghiêm trọng , thường xuyên như một tiếng sấm .",
+    "entities": [
+      {
+        "text": "đột ngột đau đầu nghiêm trọng , thường xuyên như một tiếng sấm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : tiểu đường thai kỳ và những câu hỏi thường gặp thực đơn gợi ý cho bà bầu mắc tiểu đường thai kỳ tầm soát tiểu đường thai kỳ là gì và khi nào ?",
+    "entities": [
+      {
+        "text": "tiểu đường thai kỳ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống ngăn chặn sự lây lan của đau mắt đỏ thực hành tốt vệ sinh để kiểm soát sự lây lan của đau mắt đỏ .",
+    "entities": [
+      {
+        "text": "thực hành tốt vệ sinh để kiểm soát sự lây lan của đau mắt đỏ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau mắt đỏ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tê hoặc cảm giác khác hầu hết những người bị hội chứng guillain - barre hồi phục hoàn toàn hoặc chỉ có hiện tượng suy yếu hoặc bất thường cảm giác như bị tê hoặc ngứa ở trẻ vị thành niên .",
+    "entities": [
+      {
+        "text": "hội chứng guillain - barre",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ngứa ở trẻ vị thành niên",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tê",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

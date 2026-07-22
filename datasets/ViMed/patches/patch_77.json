@@ -1,0 +1,388 @@
+[
+  {
+    "text": "tham khảo ý kiến tư vấn , y tế , xã hội , thành viên giáo sĩ hoặc một nhóm hỗ trợ cho những người bị bệnh ung thư .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư bàng quang là loại ung thư xảy ra ở bàng quang - cơ quan rỗng nằm tại vùng bụng dưới có chức năng chứa nước tiểu do thận thải ra .",
+    "entities": [
+      {
+        "text": "ung thư bàng quang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu gặp các cơn đáp ứng thất rất nhanh khi rung nhĩ ( thường 140 - 160 lần/phút ) , ta cần dùng các thuốc đường tĩnh mạch có tác dụng ức chế dẫn truyền qua nút nhĩ thất ( xem liều cụ thể ở xem bảng : thuốc chống loạn nhịp ( phân loại vaughan williams ) .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đóng ống dẫn để giảm tổn thất bác sĩ có thể gợi ý điều trị để giữ cho nước mắt rời khỏi mắt không quá nhanh chóng .",
+    "entities": [
+      {
+        "text": "đóng ống dẫn",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hãy chắc chắn để có được số lượng đầy đủ canxi và vitamin d giúp ngăn ngừa loãng xương , một tác dụng phụ chủ yếu của điều trị bằng corticosteroid .",
+    "entities": [
+      {
+        "text": "corticosteroid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "loãng xương",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể sử dụng một số phương pháp để giúp có hình ảnh cho viêm xoang mãn tính : nội soi mũi .",
+    "entities": [
+      {
+        "text": "viêm xoang mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nội soi mũi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu không điều trị nhiễm trùng hoặc nhiễm trùng mà không đáp ứng tốt với điều trị có thể lây lan sang các mô lân cận .",
+    "entities": [
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể sử dụng một công cụ để giữ mũi mở và dùng các loại thuốc co mạch máu ở mũi .",
+    "entities": [
+      {
+        "text": "công cụ để giữ mũi mở và dùng các loại thuốc co mạch máu ở mũi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "hãy hỏi bác sĩ về ung thư gan , bao gồm các giai đoạn của bệnh ung thư , lựa chọn điều trị nếu thích và tiên lượng .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các nguyên nhân khác : căng thẳng về tài chính , thay đổi cảm xúc , stress trong thời kỳ mang thai ; hút thuốc lá hoặc cần sa làm tăng nguy cơ thai chết lưu gấp hai hoặc ba lần so với người bình thường . . triệu chứng bệnh thai chết lưu triệu chứng thai chết lưu bao gồm : cử động thai giảm , không còn cảm nhận thai máy của thai nhi sau 28 tuần .",
+    "entities": [
+      {
+        "text": "căng thẳng về tài chính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh thai chết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thai chết lưu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với bệnh nhân sốt rét do ký sinh trùng sốt rét plasmodium vivax gây ra nên làm thêm xét nghiệm định lượng g6pd hoặc định tính nếu cơ sở y tế không làm được định lượng .",
+    "entities": [
+      {
+        "text": "xét nghiệm định lượng g6pd",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể không thấy ổ loét mà thay vào đó là một nhân lớn đội lớp niêm mạc lưỡi nhô lên , trên bề mặt niêm mạc có những lỗ nhỏ mà khi ấn vào có chất dịch màu trắng chảy ra , chứng tỏ có tình trạng hoại tử bên dưới .",
+    "entities": [
+      {
+        "text": "ổ loét",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ở trẻ em , sốt mùa hè thường là một yếu tố nhiễm trùng tai giữa ( viêm tai giữa ) .",
+    "entities": [
+      {
+        "text": "nhiễm trùng tai giữa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm tai giữa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt mùa hè",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục hầu hết mọi người chẩn đoán mắc chứng ợ nóng thường xuyên trong barrett thực quản và acid trào ngược .",
+    "entities": [
+      {
+        "text": "barrett thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ợ nóng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "với trĩ nội , các đặc điểm để nhận biết là vị trí mọc búi trĩ nằm ở trong ống hậu môn , không gây đau do không có thần kinh cảm giác , ban đầu thường chưa nhìn thấy búi trĩ mà chỉ thấy các dấu hiệu như chảy máu khi đi cầu , đau rát hoặc chảy dịch và cảm giác nặng ở hậu môn , sau đó mới thấy có sa búi trĩ .",
+    "entities": [
+      {
+        "text": "cảm giác nặng ở hậu môn",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chảy máu khi đi cầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chảy dịch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "trĩ nội",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau rát",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu có rối loạn ăn quá nhiều , có thể hưởng lợi từ các chương trình y tế giám sát giảm cân .",
+    "entities": [
+      {
+        "text": "rối loạn ăn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể thấy nói chuyện với một cố vấn hay nhà trị liệu có thể giúp đối phó với những tác động của nuốt khó .",
+    "entities": [
+      {
+        "text": "nuốt khó",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chủ đề : nhi van tim dị tật thai nhi bệnh tim bẩm sinh bệnh tim ở trẻ em bệnh tim bẩm sinh ebstein",
+    "entities": [
+      {
+        "text": "bệnh tim bẩm sinh ebstein",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bạch hầu , bệnh hô hấp nghiêm trọng hiếm ở các nước công nghiệp nhưng phổ biến hơn ở nước đang phát triển .",
+    "entities": [
+      {
+        "text": "bệnh hô hấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bạch hầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu bị tổn thương dây thần kinh liên quan đến bệnh phong , có thể không cảm thấy đau khi bị đứt tay , bỏng hoặc các vết thương khác trên tay , chân hoặc bàn chân .",
+    "entities": [
+      {
+        "text": "bệnh phong",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "suy hô hấp tiến triển gây ra một loạt biểu hiện nặng , khởi phát nhanh : thiếu oxy máu , thâm nhiễm phổi lan tỏa dẫn đến suy hô hấp ; rối loạn đông máu : máu chảy không đông lại như bình thường do sự thiếu hụt các yếu tố đông máu .",
+    "entities": [
+      {
+        "text": "rối loạn đông máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy hô hấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cần phải có thử nghiệm trên da cho bệnh lao trước khi dùng infliximab và x quang ngực nếu sống hoặc đi du lịch tại những vùng có bệnh lao .",
+    "entities": [
+      {
+        "text": "x quang ngực",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "infliximab",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh lao",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bởi vì bệnh viêm động mạch takayasu có xu hướng tái phát hoặc bùng lên sau khi thuyên giảm trong một thời gian , các xét nghiệm này có thể được sử dụng không chỉ để chẩn đoán mà còn để theo dõi tiến triển của bệnh và theo dõi hiệu quả điều trị .",
+    "entities": [
+      {
+        "text": "bệnh viêm động mạch takayasu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "căng thẳng tình cảm hoặc căng thẳng về thể chất có thể gây viêm mũi không dị ứng ở một số người .",
+    "entities": [
+      {
+        "text": "gây viêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh thông liên thất tổng quan bệnh thông liên thất bệnh lí tim bẩm sinh hiện nay không hiếm gặp và đã có nhiều bước tiến quan trong trong can thiệp sửa chữa .",
+    "entities": [
+      {
+        "text": "bệnh thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh tiêu chảy nhiễm trùng các triệu chứng thông thường của tiêu chảy nhiễm trùng đường ruột là : đau bụng : khi tình hình nhiễm trùng đường ruột trở nên nghiêm trọng hơn , bệnh nhân thường thấy đau quặn bụng , đau khắp vùng bụng .",
+    "entities": [
+      {
+        "text": "tiêu chảy nhiễm trùng đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tiêu chảy nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau khắp vùng bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau quặn bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "vi khuẩn và virus khác cũng có thể gây viêm nắp thanh quản , bao gồm : streptococcus pneumoniae ( phế cầu khuẩn ) , vi khuẩn khác gây viêm màng não , viêm phổ i , nhiễm trùng tai và nhiễm trùng máu ( nhiễm trùng huyết ) .",
+    "entities": [
+      {
+        "text": "viêm nắp thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng tai",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm màng não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phổ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "suy tim : xảy ra khi tim không thể bơm đủ máu và oxy đến các cơ quan quan trọng khác của cơ thể .",
+    "entities": [
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vì nó có thể không phải luôn luôn sẵn sàng rõ ràng đang gặp rắc rối với tầm nhìn , học viện mắt mỹ đề nghị khoảng thời gian sau đây để khám mắt thường xuyên : người lớn nếu có nguy cơ cao về bệnh mắt , chẳng hạn như bệnh tăng nhãn áp - được khám mắt mỗi 2 - 4 năm lên đến tuổi 40, sau đó mỗi 1 - 3 năm từ 40 đến 54, và cuối cùng mỗi 1 - 2 năm cho những người 55 và lớn hơn .",
+    "entities": [
+      {
+        "text": "khám mắt thường xuyên",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "được khám mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nhịp nhanh thất bao gồm các rối loạn trên lâm sàng khác như , từ lành tính đến đe dọa tính mạng .",
+    "entities": [
+      {
+        "text": "nhịp nhanh thất",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

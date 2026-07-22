@@ -1,0 +1,450 @@
+[
+  {
+    "text": "cần kiểm tra nhiều hơn nếu tĩnh mạch giãn được tìm thấy , nếu bị xơ gan hoặc nếu đã có xuất huyết tiêu hóa .",
+    "entities": [
+      {
+        "text": "xuất huyết tiêu hóa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tác động của giãn tĩnh mạch đối với sức khỏe một khi bệnh nhân có một đợt chảy máu tĩnh mạch đơn lẻ , thì có 70% khả năng bị chảy máu lại .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh u lympho tế bào t hạch đồ : hạch tăng sinh khá đồng nhất , chủ yếu là lymphoblast hoặc prolymphocyte , ít gặp bạch cầu đoạn trung tính , plasmocyte , đại thực bào , tế bào xơ .",
+    "entities": [
+      {
+        "text": "bệnh u lympho tế bào t",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hạch đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp , bác sĩ có thể có thử một loại thuốc và xem có cải thiện triệu chứng .",
+    "entities": [
+      {
+        "text": "bác sĩ có thể có thử một loại thuốc",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bệnh viêm động mạch takayasu cũng có thể dẫn đến đau cánh tay hoặc đau ngực , huyết áp cao , và cuối cùng là suy tim hoặc đột quỵ .",
+    "entities": [
+      {
+        "text": "bệnh viêm động mạch takayasu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau cánh tay",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu đã gặp rắc rối dài hạn với chứng ợ nóng và trào ngược axit , thảo luận với bác sĩ và hỏi về nguy cơ barrett thực quản .",
+    "entities": [
+      {
+        "text": "barrett thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ợ nóng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tác động của xơ vữa động mạch đối với sức khỏe xơ vữa động mạch gây tắc nghẽn mạch máu , cản trở sự lưu thông máu dẫn đến tê , đau ở bất cứ nơi nào bị tắc nghẽn .",
+    "entities": [
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tê",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "có một điều kiện có thể làm trầm trọng thêm các triệu chứng sốt cỏ khô , chẳng hạn như polyp mũi , hen suyễn hay viêm xoang thường xuyên .",
+    "entities": [
+      {
+        "text": "sốt cỏ khô",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm xoang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "polyp mũi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hen suyễn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tác dụng phụ chẳng hạn như mệt mỏi , trầm cảm , lo lắng và các vấn đề về thần kinh khác , hạn chế tính hữu dụng của những thuốc này .",
+    "entities": [
+      {
+        "text": "trầm cảm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lo lắng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hiếm khi , nó có thể gây ra rối loạn nhịp thất - rối loạn nhịp đe dọa tính mạng có nguồn gốc trong các buồng thất .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp thất",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa chứng khó nuốt có nghĩa là phải mất nhiều thời gian và nỗ lực để di chuyển thức ăn hoặc chất lỏng từ miệng đến dạ dày .",
+    "entities": [
+      {
+        "text": "khó nuốt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . chẩn đoán phân biệt sốt rét ác tính : kết quả xét nghiệm ký sinh trùng sốt rét âm tính , cần làm các xét nghiệm khác , khai thác yếu tố dịch tễ liên quan để tìm nguyên nhân : hôn mê do viêm màng não , viêm não , nhiễm khuẩn nặng , .",
+    "entities": [
+      {
+        "text": "nhiễm khuẩn nặng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm màng não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hôn mê",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thuốc cản quang có thể nhìn thấy trên film x quang , vì vậy nếu không thấy dung dịch thuốc chảy vào ống dẫn trứng thì có thể ống dẫn trứng đã bị tắc .",
+    "entities": [
+      {
+        "text": "x quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "một số phương pháp điều trị bệnh : liệu pháp quang đông laser : đây là phương pháp điều trị tiêu chuẩn của nhiều thể bệnh thoái hóa võng mạc .",
+    "entities": [
+      {
+        "text": "liệu pháp quang đông laser",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh thoái hóa võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng mạn tính nhìn mờ ( do biến chứng võng mạc , đục thủy tinh thể ) đau ngực thường không điển hình ( do biến chứng mạch vành ) tê bì dị cảm ở bàn chân ( biến chứng thần kinh ) loét , nhiễm trùng bàn chân đầy bụng , chậm tiêu , nuốt khó ( biến chứng thần kinh tự động gây liệt dạ dày , thực quản ) đau cách hồi chi dưới ( đau khi đi lại , đỡ khi nghỉ , do biến chứng mạch máu ) .",
+    "entities": [
+      {
+        "text": "tê bì dị cảm ở bàn chân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau cách hồi chi dưới",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhiễm trùng bàn chân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau khi đi lại",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chậm tiêu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đầy bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nuốt khó",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhìn mờ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "loét",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị đau bụng hiệu quả điều trị dùng thuốc thuốc điều trị như aspirin , nsaids , thuốc chẹn thụ thể h2 , ức chế bơm proton , và thuốc chống trầm cảm ba vòng .",
+    "entities": [
+      {
+        "text": "thuốc chống trầm cảm ba vòng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chẹn thụ thể h2",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ức chế bơm proton",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "aspirin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nsaids",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "theo dõi huyết áp và kiểm soát đường huyết , nếu được chẩn đoán tăng huyết áp và/hoặc đái tháo đường thì cần điều trị ngay theo hướng dẫn của bác sĩ .",
+    "entities": [
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu bị đục thủy tinh thể , thủy tinh thể bị đục có thể được thay thế bằng thủy tinh thể nhân tạo .",
+    "entities": [
+      {
+        "text": "thay thế bằng thủy tinh thể nhân tạo",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đục thủy tinh thể",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc viêm màng ngoài tim khi có tràn dịch màng ngoài tim , cần điều trị ngay vì sự tích tụ chất lỏng ở màng tim có thể gây các biến chứng trên tim mạch .",
+    "entities": [
+      {
+        "text": "tràn dịch màng ngoài tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sự tích tụ chất lỏng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm màng ngoài tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật u nang to ra hoặc u nang huyết thanh gây ra đau hoặc các triệu chứng khác có thể được phẫu thuật cắt bỏ .",
+    "entities": [
+      {
+        "text": "u nang huyết thanh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật cắt bỏ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các bác sĩ cho hóa trị theo chu kỳ , với mỗi giai đoạn điều trị theo sau là một khoảng thời gian nghỉ ngơi để cho cơ thể có thời gian phục hồi .",
+    "entities": [
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm : bác sĩ có thể yêu cầu một hoặc nhiều xét nghiệm để xác định viêm ruột thừa cấp , bao gồm : xét nghiệm máu : kiểm tra số lượng bạch cầu và crp để tìm dấu hiệu nhiễm trùng trong cơ thể .",
+    "entities": [
+      {
+        "text": "viêm ruột thừa cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "số lượng bạch cầu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "crp",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "sự khởi phát của sốt thấp khớp thường xảy ra khoảng 2 đến 4 tuần sau khi bị nhiễm trùng liên cầu khuẩn .",
+    "entities": [
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chuyển sang một loại kháng sinh khác nếu vẫn còn trải nghiệm các dấu hiệu và triệu chứng , bác sĩ có thể đề nghị một kháng sinh có hiệu quả chống lại vi khuẩn c . difficile hoặc khác được hiện diện trong đại tràng .",
+    "entities": []
+  },
+  {
+    "text": "crohn có thể gây ra vết lở nhỏ trên bề mặt của ruột mà cuối cùng trở thành loét lớn thâm nhập sâu và đôi khi thủng thành đường ruột .",
+    "entities": [
+      {
+        "text": "crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số người tin rằng chất chiết xuất từ lá của cây bạch quả biloba có đặc tính chống oxy hóa và chống viêm có thể giúp l àm chậm sự tiến triển của các vấn đề liên quan với chứng sa sút trí tuệ mất trí nhớ .",
+    "entities": [
+      {
+        "text": "àm chậm sự tiến triển của các vấn đề liên quan",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chất chiết xuất từ lá của cây bạch quả biloba",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chứng sa sút trí tuệ mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chống oxy hóa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chống viêm",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của hội chứng raynaud chế độ sinh hoạt : giữ ấm cơ thể , nhất là các khu vực ngoại vi phải tiếp xúc nhiều với môi trường ngoài như tay , chân , vùng mặt .",
+    "entities": [
+      {
+        "text": "hội chứng raynaud",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những triệu chứng này có thể bắt đầu ở các ngón tay và ngón chân thường không gây chú ý nhiều .",
+    "entities": [
+      {
+        "text": "triệu chứng này có thể bắt đầu ở các ngón tay và ngón chân thường không gây chú ý nhiều",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân phổ biến của chứng ù tai nhiều người , ù tai là do một trong các điều kiện : liên quan đến tuổi mất thính lực .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cholesteatoma là một u nang trong tai giữa bao gồm các tế bào da , bình thường của sáp xả ống tai ( cerumen ) và các mảnh vụn .",
+    "entities": []
+  }
+]

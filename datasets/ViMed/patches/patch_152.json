@@ -1,0 +1,388 @@
+[
+  {
+    "text": "hầu hết những người bị rối loạn ăn uống là phụ nữ , nhưng nam giới cũng có thể có rối loạn ăn uống .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "giữ huyết áp ở mức bình thường có thể làm giảm đáng kể nguy cơ mắc bệnh alzheimer và sa sút trí tuệ mạch máu .",
+    "entities": [
+      {
+        "text": "giữ huyết áp ở mức bình thường",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sa sút trí tuệ mạch máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh alzheimer",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mục tiêu của phẫu thuật là đóng vết rách và tái tạo lại động mạch chủ bằng mảnh ghép tổng hợp .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "người có tinh hoàn phát triển bất thường ( tinh hoàn teo hoặc không phát triển có người thân trong gia đình bị ung thư tinh hoàn chủng tộc : người da trắng có nguy cơ mắc ung thư tinh hoàn cao hơn .",
+    "entities": [
+      {
+        "text": "ung thư tinh hoàn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tinh hoàn teo",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nội soi đường tiêu hóa : sử dụng ống nội soi dài , linh hoạt có gắn camera nhỏ di chuyển xuống cổ họng của bạn đến dạ dày và tá tràng .",
+    "entities": [
+      {
+        "text": "nội soi đường tiêu hóa",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu bạn đã ghép tạng , bạn sẽ dễ bị tổn thương hơn vì liệu pháp ức chế miễn dịch đã làm giảm khả năng chống lại các căn bệnh mới của cơ thể .",
+    "entities": [
+      {
+        "text": "liệu pháp ức chế miễn dịch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ghép tạng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các bé trai có nguy cơ mắc chứng rối loạn phổ tự kỷ cao gấp 4 lần so với các bé gái .",
+    "entities": [
+      {
+        "text": "rối loạn phổ tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi bị sốt hồi quy sốt hồi quy nếu không chẩn đoán và điều trị kịp thời có thể gây ra một số biến chứng sau : gan to và vàng da ; viêm màng não lympho ; viêm cơ tủy ; viêm cơ tim ; viêm màng bồ đào ; viêm dây thần kinh thị giác ở sau nhãn cầu ; viêm thận ; hội chứng xuất huyết .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác ở sau nhãn cầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm màng não lympho",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hội chứng xuất huyết",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "gan to và vàng da",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm màng bồ đào",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt hồi quy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm cơ tủy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm cơ tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm thận",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chứng rối loạn hệ thống miễn dịch này là một tập hợp con của xơ cứng bì , căn bệnh dẫn đến mô liên kết dày , thắt chặt và xơ cứng .",
+    "entities": [
+      {
+        "text": "xơ cứng bì",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "megacolon , nhưng hiếm căng phồng nghiêm trọng đại tràng , nó không có khả năng trục xuất khí và phân , mà có thể gây ra bị vỡ đại tràng .",
+    "entities": [
+      {
+        "text": "vỡ đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "megacolon",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa hở van động mạch chủ khám sức khỏe định kỳ là cách phát hiện sớm , theo dõi và điều trị hở van động mạch chủ hoặc các bệnh lý tim mạch khác trong giai đoạn đầu trước khi bệnh tiến triển nặng .",
+    "entities": [
+      {
+        "text": "hở van động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sa sút trí tuệ có thể xảy ra như là một phản ứng đối với một loại thuốc duy nhất hay vì sự tương tác của nhiều loại thuốc .",
+    "entities": [
+      {
+        "text": "sa sút trí tuệ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng những loại thuốc này có thể không có khả năng loại bỏ các virus hoàn toàn , và virus viêm giác mạc có thể trở lại trong tương lai .",
+    "entities": [
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm mũi dị ứng có thể cản trở sự thú vị của các hoạt động và làm cho bị giảm năng suất .",
+    "entities": [
+      {
+        "text": "viêm mũi dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc điều tốt nhất điều trị viêm mũi dị ứng là để tránh các chất gây phản ứng .",
+    "entities": [
+      {
+        "text": "tránh các chất gây phản ứng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm mũi dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật cắt bỏ ruột thừa : để phẫu thuật cắt ruột thừa , bác sĩ có thể chỉ định mổ hở hoặc mổ nội soi tùy tình trạng của bệnh .",
+    "entities": [
+      {
+        "text": "phẫu thuật cắt bỏ ruột thừa",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trong hầu hết trường hợp , có thể kiểm soát các dấu hiệu nhẹ và triệu chứng của hội chứng ruột kích thích thành công bằng cách học quản lý căng thẳng và làm những thay đổi trong chế độ ăn uống và lối sống .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hậu quả của bệnh gây ra ảnh hưởng đến cả thị lực nhìn xa , thị lực nhìn gần và khả năng nhận biết màu sắc của mắt , cuối cùng có thể dẫn đến mù lòa nếu không điều trị teo dây thần kinh thị giác .",
+    "entities": [
+      {
+        "text": "teo dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mù lòa",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hở van động mạch chủ cấp tính : thường biểu hiện bằng suy tim cấp trên lâm sàng , các biểu hiện : mệt mỏi , khó thở , hạ huyết áp , phù phổi cấp có thể sốc tim .",
+    "entities": [
+      {
+        "text": "hở van động mạch chủ cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phù phổi cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hạ huyết áp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốc tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vì siêu âm tim cho thấy dòng chảy của máu , nó cũng có thể cho thấy máu di chuyển qua lại giữa hai tâm thất và lượng máu chảy vào phổi .",
+    "entities": [
+      {
+        "text": "siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "viêm giác mạc không do nhiễm trùng có thể được gây ra bởi một chấn thương tương đối nhỏ , chẳng hạn như là một đầu móng tay , hoặc từ ống kính quá dài hay ô nhiễm .",
+    "entities": [
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số ống kính cấy ghép mới được thiết kế cho phép mắt xem những điều cả gần và ở một khoảng cách .",
+    "entities": [
+      {
+        "text": "ống kính cấy ghép",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hiểu biết thêm về bệnh ung thư túi mật và các tùy chọn điều trị có thể làm cho thoải mái hơn khi nói đến việc ra quyết định về việc chăm sóc .",
+    "entities": [
+      {
+        "text": "bệnh ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục thay đổi lối sống có thể giúp làm giảm tần số của chứng ợ nóng .",
+    "entities": [
+      {
+        "text": "ợ nóng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chẳng hạn như naproxen ( anaprox , naprelan ) , có thể hữu ích , đặc biệt là nếu đang giảm liều thuốc giảm đau khác .",
+    "entities": [
+      {
+        "text": "thuốc giảm đau khác",
+        "type": "THUỐC"
+      },
+      {
+        "text": "naproxen",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "với thân chung động mạch , siêu âm tim thấy ống đơn lớn từ tim , một lỗ thủng trên vách giữa tâm thất trái và phải , và đôi khi bất thường van giữa các ống lớn và tâm thất .",
+    "entities": [
+      {
+        "text": "thân chung động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "thuốc thay thế nhiều người có bệnh crohn hoặc viêm loét đại tràng đã sử dụng một số hình thức trị liệu bổ sung hoặc thay thế .",
+    "entities": [
+      {
+        "text": "viêm loét đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "dấu hiệu và triệu chứng thường gặp của biến chứng này bao gồm khó thở , chóng mặt , mệt mỏi và cảm giác nhịp tim nhanh , rung ( đánh trống ngực ) .",
+    "entities": [
+      {
+        "text": "mệt mỏi và cảm giác nhịp tim nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đánh trống ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rung",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "la hét tại một sự kiện thể thao , cố gắng nói chuyện với ai đó trong một môi trường ồn ào hay nói chuyện trong thời gian dài mà không cần nghỉ có thể dẫn đến đau họng và khan tiếng .",
+    "entities": [
+      {
+        "text": "khan tiếng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau họng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "khi xem xét phẫu thuật đục thủy tinh thể nói chuyện với bác sĩ mắt về việc phẫu thuật là đúng .",
+    "entities": [
+      {
+        "text": "phẫu thuật đục thủy tinh thể",
+        "type": "THUỐC"
+      }
+    ]
+  }
+]

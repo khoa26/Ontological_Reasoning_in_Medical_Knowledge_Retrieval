@@ -1,0 +1,335 @@
+[
+  {
+    "text": "mặc dù ghép tim là một ca đại phẫu , nhưng cơ hội sống sót của bệnh nhân thường rất cao nếu được chăm sóc theo dõi tích cực .",
+    "entities": [
+      {
+        "text": "ghép tim",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thảo dược : trên thị trường hiện nay có một số loại thảo dưới có tác dụng giảm đau do thống kinh như viên ích mẫu .",
+    "entities": [
+      {
+        "text": "thống kinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : u tuyến nước bọt : nguyên nhân , triệu chứng , chẩn đoán và điều trị tuyến nước bọt hoạt động thế nào ?",
+    "entities": [
+      {
+        "text": "u tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cpr có thể giúp duy trì lưu lượng máu đến các cơ quan cho đến khi cú sốc điện ( khử rung tim ) có thể được thực hiện .",
+    "entities": [
+      {
+        "text": "khử rung tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cpr",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , em bé sinh ra từ các bà mẹ dùng thuốc kháng sinh nhất định trong thai kỳ cũng có thể có tăng nguy cơ hẹp môn vị .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hẹp môn vị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nghỉ ngơi trên giường với việc ít cử động hoặc không cử động sau khi phẫu thuật cũng có thể làm tăng nguy cơ hình thành cục máu đông .",
+    "entities": []
+  },
+  {
+    "text": "những chuẩn bị cho việc khám bệnh nếu có dấu hiệu hoặc triệu chứng của bệnh tiêu chảy do kháng sinh .",
+    "entities": [
+      {
+        "text": "bệnh tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong photocoagulation , bác sĩ phẫu thuật điều khiển một chùm laser qua một thấu kính tiếp xúc hay kính soi đáy mắt cho thủ tục này .",
+    "entities": [
+      {
+        "text": "bác sĩ phẫu thuật điều khiển một chùm laser qua một thấu kính tiếp xúc hay kính soi đáy mắt cho thủ tục này",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phần lớn ù tai là những tiếng kêu đơn âm , tuy nhiên có trường hợp tiếng ù có dạng là những âm phức như tiếng sóng biển , tiếng dế kêu , tiếng chuông reo hoặc tiếng hơi nước thoát qua chỗ hẹp .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thay van hai lá : nếu van không sửa chữa được , bác sĩ sẽ chỉ định thay van hai lá cơ học hoặc van làm từ mô tim của lợn , bò hoặc người .",
+    "entities": [
+      {
+        "text": "thay van hai lá",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "cần đảm bảo có đầy đủ và cân đối các chất tinh bột , chất đạm , chất béo , chất xơ , vitamin trong thực đơn hàng ngày .",
+    "entities": [
+      {
+        "text": "đầy đủ và cân đối các chất tinh bột , chất đạm , chất béo , chất xơ , vitamin trong thực đơn hàng ngày .",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm máu đo mức độ của một số chất trong máu , chẳng hạn như kali hoặc các chất điện giải khác và hormone tuyến giáp .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh tắc ống dẫn tinh dựa vào khám lâm sàng và một số xét nghiệm khám lâm sàng thấy các triệu chứng tinh hoàn bị thu hẹp .",
+    "entities": [
+      {
+        "text": "bệnh tắc ống dẫn tinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh ung thư thực quản để kịp thời chẩn đoán bệnh ung thư thực quản , hiện y học có các biện pháp sau : chụp x - quang , nội soi thực quản , sinh thiết để có thể nhìn thấy hình ảnh bất thường về hình dạng của thực quản cũng như các tổ chức ung thư hoặc các bất thường của tổ chức dẫn đến ung thư hoặc các tổn thương khác .",
+    "entities": [
+      {
+        "text": "bệnh ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nội soi thực quản",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp x - quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù chóng mặt lành tín h có thể là một vấn đề khó chịu , nó hiếm khi nghiêm trọng trừ khi nó làm tăng nguy cơ té ngã .",
+    "entities": [
+      {
+        "text": "chóng mặt lành tín",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "giống như các thủ tục lasek , prk có thể yêu cầu việc sử dụng một ống kính liên hệ với băng trong một vài ngày sau phẫu thuật .",
+    "entities": [
+      {
+        "text": "thủ tục lasek",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục nếu có nhãn áp cao hoặc bệnh tăng nhãn áp , hãy làm theo những lời khuyên lối sống .",
+    "entities": [
+      {
+        "text": "bệnh tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật cho nước mắt võng mạc khi vết rách hoặc lỗ võng mạc vẫn chưa tiến đến đội , bác sĩ phẫu thuật mắt có thể đề xuất một thủ tục ngoại trú , thường có thể ngăn ngừa bong võng mạc và duy trì gần như tất cả tầm nhìn .",
+    "entities": [
+      {
+        "text": "phẫu thuật cho nước mắt võng mạc",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bong võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm tắc ống dẫn tinh : nguyên nhân , triệu chứng , chẩn đoán và điều trị chủ đề : hỗ trợ sinh sản nam khoa vô sinh quan hệ tình dục cực khoái vô sinh ,",
+    "entities": [
+      {
+        "text": "viêm tắc ống dẫn tinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa barrett thực quản là một tình trạng mà trong đó màu sắc và thành phần của các tế bào lót thay đổi ở vùng thấp thực quản , thường là do tiếp xúc lặp đi lặp lại với acid dạ dày .",
+    "entities": [
+      {
+        "text": "barrett thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng khi tổn thương gan tiến triển , những người bị xơ gan đường mật có thể phát triển một số vấn đề nghiêm trọng , bao gồm : xơ gan .",
+    "entities": [
+      {
+        "text": "xơ gan đường mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "việc áp dụng chỉ định nào hoàn toàn phụ thuộc vào giai đoạn bệnh xạ trị : xạ trị có thể chữa khỏi bệnh , giúp kéo dài thời gian và điều trị triệu chứng bệnh ung thư .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trong phẫu thuật cắt bỏ huyết khối , hoặc phẫu thuật loại bỏ cục máu đông , bác sĩ phẫu thuật của bạn sẽ rạch một đường vào mạch máu .",
+    "entities": [
+      {
+        "text": "phẫu thuật loại bỏ cục máu đông",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật cắt bỏ huyết khối",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tác động của huyết khối tĩnh mạch sâu đối với sức khỏe sau đây là các biến chứng có thể gặp khi mắc bệnh huyết khối tĩnh mạch sâu .",
+    "entities": [
+      {
+        "text": "bệnh huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của thông liên nhĩ chế độ sinh hoạt tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị .",
+    "entities": [
+      {
+        "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thông liên nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh mạch vành là tên của một nhóm các bệnh lý liên quan đến mạch vành ( tim được cung cấp máu từ 3 mạch lớn gọi là mạch vành ) .",
+    "entities": [
+      {
+        "text": "bệnh mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ một số tình huống và sự kiện có thể làm tăng nguy cơ phát triển rối loạn ăn uống .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những loại khác , chẳng hạn như ống kính lúp đặc biệt giống như kính , có thể có sẵn từ bác sĩ nhãn khoa , tại các cửa hàng hoặc từ một chuyên gia phục hồi chức năng tầm nhìn .",
+    "entities": [
+      {
+        "text": "ống kính lúp",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường xảy ra trước khi ngất xỉu : tim đập nhanh , nhịp tim không đều , mờ mắt , người yếu , hoa mắt , chóng mặt , … động kinh : hội chứng qt kéo dài làm suy giảm hoạt động bơm máu của tim , não là cơ quan chịu ảnh hưởng đầu tiên do nhu cầu dinh dưỡng và oxy rất lớn .",
+    "entities": [
+      {
+        "text": "nhịp tim không đều",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tim đập nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "người yếu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "động kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ngất xỉu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hoa mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mờ mắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong mri để kiểm tra viêm dây thần kinh thị giác , có thể được tiêm một chất tương phản để làm cho thần kinh thị giác và các phần khác của bộ não rõ hơn về các hình ảnh .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  }
+]

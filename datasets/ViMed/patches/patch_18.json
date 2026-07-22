@@ -1,0 +1,375 @@
+[
+  {
+    "text": "tiền sử phơi nhiễm phóng xạ phòng ngừa bệnh ung thư xương hiện tại chưa có phương pháp phòng ngừa ung thư xương đặc hiệu .",
+    "entities": [
+      {
+        "text": "bệnh ung thư xương",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bọt , được hình thành trước , hoặc tùy chỉnh nút tai đúc bằng nhựa hoặc cao su cũng có hiệu quả có thể bảo vệ đôi tai từ tiếng ồn gây hại .",
+    "entities": []
+  },
+  {
+    "text": "nhưng nếu có không phải một ngày , mà có thể gặp đau nhức đầu nhiều ngày được gọi là đau nhức đầu mãn tính .",
+    "entities": [
+      {
+        "text": "đau nhức đầu mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hút thuốc lá có thể làm tăng nguy cơ nhồi máu cơ tim và dẫn đến các tình trạng và bệnh tim mạch khác .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư trên thanh môn bắt đầu ở phần trên thanh quản và bao gồm ung thư có ảnh hưởng đến nắp thanh quản .",
+    "entities": [
+      {
+        "text": "ung thư trên thanh môn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng của thiếu máu cục bộ đường ruột mãn tính các dấu hiệu và triệu chứng của thiếu máu cục bộ đường ruột mãn tính có thể bao gồm : đầy bụng hoặc đau rút , bắt đầu trong vòng 30 phút sau khi ăn và kéo dài 1 - 3 giờ .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ đường ruột mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đầy bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau rút",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong trường hợp đó , tiếp tục kiểm tra có thể bao gồm xét nghiệm máu , x - quang để xác định hoặc loại trừ nguyên nhân cụ thể .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "x - quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "bởi vì thuốc xổ bari có một tỷ lệ cao bỏ lỡ khối u đại tràng , nó gần như không đáng tin cậy như một số xét nghiệm khác .",
+    "entities": [
+      {
+        "text": "u đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trường hợp khối u ác tính mắt xảy ra mắt u ác tính phổ biến nhất là phát triển trong các tế bào của uvea , các lớp mạch máu của mắt kẹp giữa võng mạc , các lớp mỏng mô dòng bức thành phía sau bên trong của nhãn cầu và màu trắng của mắt ( màng cứng ) .",
+    "entities": [
+      {
+        "text": "u ác tính mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các tín hiệu tạo ra hình ảnh của tim có thể giúp bác sĩ xác định nguyên nhân của rung thất .",
+    "entities": [
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những người có khối u thường phát triển map nhiều u tuyến và ung thư đại tràng ở tuổi trẻ , chẳng hạn như ở độ tuổi 20. đây là một căn bệnh mới được phát hiện .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u tuyến",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "map",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa viêm cơ tim để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : tiêm vaccine phòng bệnh : vaccine cúm , viêm gan siêu vi b , … hạn chế tiếp xúc với những người nhiễm các virus kể trên .",
+    "entities": [
+      {
+        "text": "viêm cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ nhiễm h . pylori có liên quan đến điều kiện sống trong thời thơ ấu , chẳng hạn như : sống trong điều kiện đông đúc .",
+    "entities": [
+      {
+        "text": "nhiễm h . pylori",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xạ trị xạ trị khi được chẩn đoán mắc bệnh ung thư tuyến nước bọt , sử dụng các chùm năng lượng mạnh , như tia x và proton , để tiêu diệt các tế bào ung thư .",
+    "entities": [
+      {
+        "text": "bệnh ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một số người trải nghiệm đau nhức đầu chỉ khi tập thể dục trong thực hiện các hoạt động nhất định , và có thể ngăn ngừa đau nhức đầu bằng cách tránh các hoạt động này .",
+    "entities": [
+      {
+        "text": "đau nhức đầu chỉ khi tập thể dục",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau nhức đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên những người có mức kinh tế cao lại có tỷ lệ mắc ung thư dạ dày vùng tâm vị cao hơn .",
+    "entities": [
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vị trí thường gặp nhất là vùng đầu mặt , cổ , sau tai , ngực lưng . . u máu xuất phát từ các mao mạch nông trên da gọi là u máu mao mạch , thường không cần điều trị .",
+    "entities": [
+      {
+        "text": "u máu mao mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mắt u ác tính có thể lây lan bên ngoài của mắt và các khu vực xa của cơ thể , bao gồm cả gan , phổi và xương .",
+    "entities": [
+      {
+        "text": "mắt u ác tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối phó và hỗ trợ ngoài việc điều trị chuyên nghiệp rối loạn ăn uống , cũng có thể làm theo các kỹ năng đối phó : tăng cường lòng tự trọng .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , những người có sắc tố bất thường liên quan đến da mí mắt và các mô lân cận và tăng sắc tố trên uvea - được gọi là melanocytosis oculodermal , cũng có nguy cơ phát triển u hắc tố mắt .",
+    "entities": [
+      {
+        "text": "sắc tố bất thường liên quan đến da mí mắt và các mô lân cận",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tăng sắc tố trên uvea",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "u hắc tố mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những biểu hiện trên lâm sàng của bệnh viêm mạch thường dựa vào kích thước của các mạch máu bị tổn thương , các dấu hiệu và triệu chứng chung cho hầu hết các loại viêm mạch bao gồm : bệnh nhân có dấu hiệu và triệu chứng viêm hệ thống như sốt , ra mồ hôi đêm , mệt mỏi , chán ăn , giảm cân , đau cơ , viêm khớp .",
+    "entities": [
+      {
+        "text": "ra mồ hôi đêm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm khớp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "giảm cân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau cơ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "kiển tra và chẩn đoán các xét nghiệm và thủ tục được sử dụng để chẩn đoán bệnh gan nhiễm mỡ không do rượu bao gồm : xét nghiệm máu xét nghiệm chức năng gan , bao gồm kiểm tra của các men gan , có thể giúp bác sĩ chẩn đoán .",
+    "entities": [
+      {
+        "text": "bệnh gan nhiễm mỡ không do rượu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xét nghiệm chức năng gan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "học càng nhiều càng tốt về chứng ù tai và cách để giảm bớt các triệu chứng có thể giúp đỡ .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu đã có các điều kiện khác gây ra do xơ vữa động mạch , chẳng hạn như dòng chảy máu đến tim chậm lại ( bệnh động mạch vành ) , chân ( bệnh mạch máu ngoại biên ) hoặc các động mạch phục vụ cho não ( bệnh động mạch cảnh ) , có nguy cơ cao thiếu máu cục bộ đường ruột .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh mạch máu ngoại biên",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh động mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh động mạch cảnh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm để xác định xem có đột biến di truyền chỉ có sẵn cho các rối loạn trong đó đột biến cụ thể được biết đến , ví dụ bệnh huntington .",
+    "entities": [
+      {
+        "text": "xét nghiệm để xác định xem có đột biến di truyền",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa tụ máu nội sọ xảy ra khi một mạch máu bên trong não hoặc giữa sọ và não bị vỡ .",
+    "entities": [
+      {
+        "text": "tụ máu nội sọ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngược lại , kích thước khối phồng sẽ tăng lên khi trẻ vận động mạnh , chạy nhảy , ho , rặn hay quấy khóc , thậm chí thấy được khối thoát vị chuyển động dọc theo ống bẹn khi trẻ chạy nắn vào vùng phồng lên có thể sờ thấy túi thoát vị , khối thoát vị mềm , nắn không đau và di chuyển khi đẩy đối với những trường hợp bệnh nặng thì khối thoát vị bị nghẹt , không trở lại ổ bụng được .",
+    "entities": [
+      {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , nhiễm trùng huyết còn gây ra bởi : nhiễm trùng da : nhiễm trùng da lâu ngày không điều trị là nguyên nhân gây nhiễm khuẩn huyết ; nhiễm trùng đường tiết niệu : khoảng 25% bệnh nhân bị nhiễm trùng huyết gây ra do nhiễm trùng đường tiết niệu .",
+    "entities": [
+      {
+        "text": "nhiễm trùng đường tiết niệu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm khuẩn huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng da",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "siêu âm nội soi dạ dày : giúp đánh giá mức độ xâm lấn u và di căn hạch khu vực .",
+    "entities": [
+      {
+        "text": "nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "không cần túi mật để sống , và loại bỏ túi mật không ảnh hưởng đến khả năng tiêu hóa thức ăn , nhưng nó có thể gây tiêu chảy .",
+    "entities": [
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

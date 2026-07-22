@@ -1,0 +1,367 @@
+[
+  {
+    "text": "đối tượng nguy cơ bệnh tắc ruột sơ sinh tắc ruột sơ sinh thường xảy ra ở trẻ sơ sinh từ 3 - 12 tháng tuổi .",
+    "entities": [
+      {
+        "text": "bệnh tắc ruột sơ sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đến gặp bác sĩ khi : gọi bác sĩ nếu có bất cứ dấu hiệu và triệu chứng : đau họng mà không có triệu chứng cảm lạnh như chảy nước mũi .",
+    "entities": [
+      {
+        "text": "chảy nước mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau họng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cảm lạnh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh ung thư tuyến nước bọt các tuyến nước bọt chính nằm ở mỗi bên của khuôn mặt và bên dưới lưỡi .",
+    "entities": [
+      {
+        "text": "bệnh ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đột biến gen thường liên quan đến nhiễm sắc thể x bao gồm họ gen ndp gây ra bệnh norrie , fevr và bệnh coats .",
+    "entities": [
+      {
+        "text": "bệnh norrie",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh coats",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "fevr",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "để giảm tác dụng phụ của một số thuốc điều trị viêm mạch như cyclophosphamide , có thể thay thế bằng các thuốc trong quá trình điều trị duy trì như methotrexate hàng tuần ( kết hợp với folate ) hoặc azathioprine hàng ngày .",
+    "entities": [
+      {
+        "text": "cyclophosphamide",
+        "type": "THUỐC"
+      },
+      {
+        "text": "methotrexate",
+        "type": "THUỐC"
+      },
+      {
+        "text": "azathioprine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "folate",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thuốc men có thể kiểm soát thiệt hại cho các tế bào gan do viêm gan b hoặc c . điều trị cho các biến chứng của xơ gan nhóm chăm sóc sức khỏe sẽ làm việc để điều trị biến chứng của xơ gan , chẳng hạn như : dịch dư thừa trong cơ thể .",
+    "entities": [
+      {
+        "text": "viêm gan b hoặc c",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hóa trị có thể được dùng để tiêu diệt tế bào ung thư sau khi phẫu thuật , để kiểm soát sự tăng trưởng khối u hoặc để làm giảm triệu chứng của ung thư đại tràng .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ ăn uống không có bằng chứng vững chắc rằng những gì ăn thực sự gây ra bệnh viêm ruột .",
+    "entities": [
+      {
+        "text": "bệnh viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay vì tạo một flap ở giác mạc , bác sĩ phẫu thuật tạo ra một nắp bảo vệ chỉ trong của vỏ mỏng giác mạc ( biểu mô ) .",
+    "entities": [
+      {
+        "text": "bác sĩ phẫu thuật tạo ra một nắp bảo vệ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu một trong cha mẹ có động kinh thùy trán , có cơ hội 50 phần trăm kế thừa các gen và phát triển các bệnh tương tự .",
+    "entities": [
+      {
+        "text": "động kinh thùy trán",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nội soi thực quản : thấy được cổ túi thừa , thức ăn trong túi thừa , biến chứng viêm loét hay thủng , … đo áp lực thực quản : đo thời gian và cường độ các cơn co thắt thực quản và thời gian nghỉ ngơi của van co thắt thực quản .",
+    "entities": [
+      {
+        "text": "đo áp lực thực quản",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi thực quản",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "hoặc có thể xem xét gặp một cố vấn hoặc nhân viên xã hội có thể giúp đáp ứng các thách thức khi phải sống chung với run .",
+    "entities": [
+      {
+        "text": "run",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "do sự thay đổi về hormone sinh dục , phụ nữ trong giai đoạn tiền mãn kinh có thể gặp phải một số vấn đề về kinh nguyệt như : khó có thể xác định thời gian rụng trứng .",
+    "entities": [
+      {
+        "text": "tiền mãn kinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu vết rách hoặc thủng màng nhĩ không tự đóng , một chuyên gia tai mũi họng có thể đóng nó với một bản vá giấy .",
+    "entities": [
+      {
+        "text": "một chuyên gia tai mũi họng có thể đóng nó với một bản vá giấy",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "barotrauma là căng thẳng lên màng nhĩ khi áp suất không khí trong tai giữa và áp suất không khí trong môi trường đang mất cân bằng .",
+    "entities": []
+  },
+  {
+    "text": "khi mất tầm nhìn bắt đầu can thiệp vào hoạt động hàng ngày , hãy xem xét phẫu thuật đục thủy tinh thể .",
+    "entities": [
+      {
+        "text": "phẫu thuật đục thủy tinh thể",
+        "type": "THUỐC"
+      },
+      {
+        "text": "mất tầm nhìn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa viêm nắp thanh quản là một tình trạng có khả năng đe dọa tính mạng xảy ra khi các nắp thanh quản , một sụn nhỏ nắp khí quản , chặn dòng chảy của không khí vào phổi .",
+    "entities": [
+      {
+        "text": "viêm nắp thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mạch nhỏ : u hạt tế bào ưa acid với viêm đa mạch , chứng cryoglobulin huyết , viêm đa mạch u hạt , viêm mạch liên quan tới immunoglobulin a , viêm đa vi mạch , viêm mạch dưới da .",
+    "entities": [
+      {
+        "text": "viêm mạch liên quan tới immunoglobulin a",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm đa mạch u hạt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm mạch dưới da",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm đa vi mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh thai chết lưu khám lâm sàng , nghe tim thai bằng dụng cụ doppler cầm tay : tử cung bé hơn so với tuổi thai , đặc biệt có giá trị nếu thấy chiều cao tử cung giảm đi giữa hai lần đo khó sờ nắn thấy các phần thai .",
+    "entities": [
+      {
+        "text": "nghe tim thai bằng dụng cụ doppler cầm tay",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh thai chết lưu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh u nguyên bào thần kinh nguyên nhân u nguyên bào thần kinh được chia làm 2 loại : u nguyên bào thần kinh liên quan đến di truyền khoảng 1 - 2% trẻ em mắc u nguyên bào thần kinh có liên quan đến yếu tố gia đình .",
+    "entities": [
+      {
+        "text": "bệnh u nguyên bào thần kinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh u tuyến nước bọt hạn chế uống rượu , bia , hút thuốc lá cung cấp đầy đủ dinh dưỡng hàng ngày các biện pháp chẩn đoán bệnh u tuyến nước bọt chẩn đoán khối u tuyến nước bọt bao gồm : khám lâm sàng : bác sĩ sẽ cảm thấy hàm , cổ và cổ của bạn bị vón cục hoặc sưng .",
+    "entities": [
+      {
+        "text": "bệnh u tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cổ của bạn bị vón cục",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sưng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu nhiễm trùng là trung bình đến nặng , có thể cần dùng kháng sinh uống để thoát khỏi nhiễm trùng .",
+    "entities": [
+      {
+        "text": "dùng kháng sinh uống",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân nguyên nhân chính xác của xơ gan mật là không biết đến , nhưng nó dường như là chứng rối loạn hệ miễn dịch từ phá hủy các đường mật trong gan .",
+    "entities": [
+      {
+        "text": "xơ gan mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một buổi khám thần kinh có thể bao gồm , trong số những thứ khác , kiểm tra thị lực , thính giác , thăng bằng , phối hợp và phản xạ .",
+    "entities": [
+      {
+        "text": "kiểm tra thị lực , thính giác , thăng bằng , phối hợp và phản xạ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "khám thần kinh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nhận được vitamin d từ thực phẩm như các sản phẩm sữa tăng cường chất vitamin d , gan , lòng đỏ trứng và cá .",
+    "entities": [
+      {
+        "text": "vitamin d",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng tiêu chảy và táo bón , cả hai dấu hiệu của h ội chứng ruột kích thích , có thể làm nặng thêm bệnh trĩ .",
+    "entities": [
+      {
+        "text": "ội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh u thực quản ( polyp thực quản lành tính ) người có bệnh lý thực quản như trào ngược dạ dày – thực quản , viêm thực quản , … : sự trào ngược này có thể gây nên tình trạng phản ứng quá mức của đoạn thực quản phía trên tâm vị , hình thành nên khối u . bệnh nhân nhiễm virus hpv có thể trở thành đối tượng nguy cơ của u thực quản .",
+    "entities": [
+      {
+        "text": "trào ngược dạ dày – thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "polyp thực quản lành tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh u thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "việc điều trị tai biến mạch máu não kịp thời giúp cứu sống người bệnh , hạn chế biến chứng , đồng thời giúp người bệnh phục hồi nhanh nhất , phòng ngừa nguy cơ đột quỵ tái phát .",
+    "entities": [
+      {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống mặc dù nghiên cứu vẫn còn đang tiếp diễn , có thể thực hiện các bước để ngăn ngừa hoặc trì hoãn việc khởi phát của bệnh mất trí nhớ .",
+    "entities": [
+      {
+        "text": "bệnh mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không cần túi mật để sinh sống , và loại bỏ túi mật không ảnh hưởng đến khả năng tiêu hóa thức ăn , mặc dù nó có thể gây ra tiêu chảy .",
+    "entities": [
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

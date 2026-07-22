@@ -1,0 +1,372 @@
+[
+  {
+    "text": "trong một số trường hợp , các loại ống thông có thể đóng băng mô tim ( phương pháp áp lạnh ) được sử dụng .",
+    "entities": [
+      {
+        "text": "phương pháp áp lạnh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đóng băng mô tim",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật hoặc thủ thuật khác tùy thuộc vào mức độ nghiêm trọng của bệnh mà bác sĩ sẽ đưa ra những phương pháp phẫu thuật khác nhau : sửa chữa van tim ba lá : bác sĩ sẽ rạch một vết rách trên van , sau đó định hình lại hoặc loại bỏ mô để giúp cho van có thể đóng chặt hơn .",
+    "entities": [
+      {
+        "text": "sửa chữa van tim ba lá",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị hiệu quả dành cho thiếu máu cục bộ đường ruột là nhận ra các triệu chứng sớm và trợ giúp y tế ngay lập tức - các yếu tố quan trọng nhất trong việc đảo ngược thiếu máu cục bộ đường ruột .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hiện nay , thuốc thường được chỉ định chỉ cho phụ nữ với hội chứng ruột kích thích và táo bón nghiêm trọng , cho người mà phương pháp điều trị khác không thành công .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hãy hỏi bác sĩ mắt về những ưu và khuyết điểm của kính áp tròng và những gì có thể tốt nhất .",
+    "entities": [
+      {
+        "text": "kính áp tròng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bệnh sốt rét là bệnh truyền nhiễm do loài ký sinh trùng plasmodium gây ra , gồm : plasmodium falciparum , plasmodium vivax , plasmodium malariae , plasmodium ovale và plasmodium knowlesi .",
+    "entities": [
+      {
+        "text": "bệnh sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị chứng phình động mạch não ổn định phẫu thuật cắt hoặc cuộn nội mạch có thể được sử dụng để giữ phình động mạch não ổn định và giúp ngăn ngừa vỡ trong tương lai .",
+    "entities": [
+      {
+        "text": "phẫu thuật cắt hoặc cuộn nội mạch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chứng phình động mạch não ổn định",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "giai đoạn iva : ung thư đã phát triển qua tất cả các lớp của thành ruột và xâm lấn sang các hạch bạch huyết vùng , đồng thời di căn đến một phần xa của cơ thể , chẳng hạn như gan hoặc phổi .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tự kỷ được đặc trưng chủ yếu bởi các rối loạn hành vi , khả năng giao tiếp , sở thích , kiểm soát hành động và suy nghĩ . . không có hai người bị rối loạn phổ tự kỷ có cùng một các triệu chứng giống nhau .",
+    "entities": [
+      {
+        "text": "tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chủ đề : hóa trị ung thư ung thư tuyến nước bọt tuyến nước bọt hệ tiêu hóa tiêu hóa sinh thiết nước bọt",
+    "entities": [
+      {
+        "text": "ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sớm lão thị có thể là một chỉ báo rằng có một bệnh hệ thống có thể không được nhận thức .",
+    "entities": [
+      {
+        "text": "lão thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "giai đoạn khởi phát của bệnh : sốt 38 – 39 o c; đau đầu ; miệng khô , kém ăn ; cơ thể mệt mỏi , suy nhược ; đau góc hàm và đau họng ; tuyến mang tai đau nhức và to dần .",
+    "entities": [
+      {
+        "text": "tuyến mang tai đau nhức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau góc hàm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "miệng khô",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy nhược",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau họng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "kém ăn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "to dần",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "miễn dịch uốn ván ( tig ) được tiêm càng sớm càng tốt , ngay cả khi đã được tiêm phòng vắc xin uốn ván trước đây .",
+    "entities": [
+      {
+        "text": "uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau đó , tuỳ thuộc vào tình trạng bệnh , các bác sĩ có thể dùng một trong các phương pháp sau để điều trị tắc ruột sơ sinh : tháo lồng không phẫu thuật : tháo lồng sẽ được chỉ định trên các trường hợp không có biến chứng .",
+    "entities": [
+      {
+        "text": "tháo lồng không phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các triệu chứng ở trẻ em ở trẻ em , dấu hiệu và triệu chứng của viêm nắp thanh quản có thể phát triển trong vòng một vài giờ , bao gồm : sốt .",
+    "entities": [
+      {
+        "text": "viêm nắp thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều trị phình động mạch não thường phụ thuộc vào các yếu tố : loại , kích thước và vị trí phình .",
+    "entities": [
+      {
+        "text": "phình động mạch não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ct scan sử dụng máy x - quang liên kết với một máy tính để tạo ra hình ảnh chi tiết của bộ não .",
+    "entities": [
+      {
+        "text": "liên kết với một máy tính để tạo ra hình ảnh chi tiết của bộ não",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "x - quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "sau đó sẽ chụp x - quang để xác định vị trí tắc và dùng một ống thông khác để tái thông vị trí tắc .",
+    "entities": [
+      {
+        "text": "x - quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "sởi lưu hành rộng , bệnh liên tục xuất hiện trong cộng đồng , cộng thêm khả năng lây lan rất nhanh của bệnh nên rất dễ bùng phát thành dịch .",
+    "entities": [
+      {
+        "text": "sởi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu và triệu chứng của khối u não khác nhau rất nhiều và phụ thuộc vào kích thước khối của u não , vị trí và tốc độ tăng trưởng .",
+    "entities": [
+      {
+        "text": "u não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những gì có thể làm trong khi chờ đợi tiếp tục uống thuốc kháng sinh theo chỉ dẫn của bác sĩ .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh than để chẩn đoán chính xác bệnh than , ngoài những triệu chứng lâm sàng , cần làm những kỹ thuật cận lâm sàng để củng cố chẩn đoán : x quang ngực và chụp cắt lớp vi tính : để đánh giá trung thất mở rộng , tràn dịch màng phổi .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "tràn dịch màng phổi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "x quang ngực",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh than",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các loại thuốc này được sử dụng để làm giảm viêm xoan g nghiêm trọng , đặc biệt là nếu cũng có polyp mũi .",
+    "entities": [
+      {
+        "text": "viêm xoan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "polyp mũi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kính đeo mắt có thể sửa một số vấn đề tầm nhìn cùng một lúc , chẳng hạn như cận thị và loạn thị .",
+    "entities": [
+      {
+        "text": "kính đeo mắt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "loạn thị",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cận thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp , vách ngăn lệch xảy ra trong quá trình phát triển bào thai và rõ ràng khi sinh .",
+    "entities": [
+      {
+        "text": "vách ngăn lệch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa bệnh bạch hầu hiệu quả để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : tiêm phòng vaccine và chích ngừa nhắc lại đầy đủ cho bản thân và gia đình là biện pháp tốt nhất và duy nhất để phòng ngừa bệnh bạch hầu .",
+    "entities": [
+      {
+        "text": "tiêm phòng vaccine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh bạch hầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trung tâm , tuy nhiên , việc sử dụng keratome đã được thay thế bằng việc sử dụng một laser thiết kế đặc biệt .",
+    "entities": [
+      {
+        "text": "sử dụng một laser thiết kế đặc biệt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sử dụng keratome",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù không có tiêu chuẩn cho điều trị chứng sa sút trí tuệ mất trí nhớ tồn tại , một số triệu chứng có thể được điều trị .",
+    "entities": [
+      {
+        "text": "chứng sa sút trí tuệ mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hẹp môn vị có thể ngăn ngừa em bé tăng cân , và thậm chí đôi khi gây ra giảm cân .",
+    "entities": [
+      {
+        "text": "hẹp môn vị",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "giảm cân",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong khoảng 60 phần trăm trường hợp , nhiễm trùng ảnh hưởng đến cả hai - phổi hoặc đường tiêu hóa đi trước các rối loạn này .",
+    "entities": [
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

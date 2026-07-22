@@ -1,0 +1,412 @@
+[
+  {
+    "text": "cắt túi mật toàn bộ : cắt túi mật và phần gan hình chêm gần túi mật , ống mật chủ và vét hạch quanh tụy , hạch cạnh động mạch và tĩnh mạch .",
+    "entities": [
+      {
+        "text": "cắt túi mật toàn bộ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán tai biến mạch máu não bệnh sử : tuổi tác : ≥ 55 tuổi; khởi phát đột ngột; yếu , liệt nửa người ; méo miệng , … lâm sàng : liệt nửa người ; tê tay và chân cùng bên; rối loạn ngôn ngữ , thị giác ; đau đầu , chóng mặt ; buồn ngủ , lơ mơ , hôn mê .",
+    "entities": [
+      {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rối loạn ngôn ngữ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "liệt nửa người",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "méo miệng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thị giác",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn ngủ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tê tay",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hôn mê",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lơ mơ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chân",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều trị bằng botulinum ( botox , myobloc , . . ) tạm thời chặn các dây thần kinh gây ra tình trạng tăng tiết mồ hôi .",
+    "entities": [
+      {
+        "text": "tăng tiết mồ hôi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù nhiều người gọi nó là không phân biệt màu , không phân biệt màu mô tả thiếu tầm nhìn tổng số màu sắc .",
+    "entities": [
+      {
+        "text": "không phân biệt màu mô tả thiếu tầm nhìn tổng số màu sắc",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , thoát vị rốn có thể phát triển khi các mô mỡ hoặc một phần ruột xuyên qua một khu vực gần rốn .",
+    "entities": [
+      {
+        "text": "thoát vị rốn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "theo dõi và tiên lượng theo dõi định kỳ 3 tháng/lần trong 2 năm đầu , sau đó 6 tháng/lần trong các năm tiếp theo cần khám lâm sàng , chụp xquang phổi , siêu âm ổ bụng và xét nghiệm các chất chỉ điểm khối u khi khám lại .",
+    "entities": [
+      {
+        "text": "xét nghiệm các chất chỉ điểm khối u",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp xquang phổi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "thông qua phương pháp phẫu thuật , khối u sẽ được lấy cùng với một phần hoặc toàn bộ thực quản , tổ chức bạch huyết kệ cận và các tổ chức khác trong vùng .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "lúc đó các triệu chứng như vàng da , nước tiểu đậm màu , thở nhanh , mệt mỏi sẽ xuất hiện .",
+    "entities": [
+      {
+        "text": "nước tiểu đậm màu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thở nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "khi tình trạng ổn định trong bệnh viện và viêm tuyến tụy được kiểm soát , bác sĩ có thể điều trị các nguyên nhân cơ bản của viêm tụy .",
+    "entities": [
+      {
+        "text": "viêm tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải rối loạn nhịp tim một số yếu tố làm tăng nguy cơ mắc r ối loạn nhịp tim , bao gồm : tuổi : người lớn tuổi cũng có nhiều khả năng mắc các tình trạng sức khỏe , chẳng hạn như huyết áp cao , suy tim , tiểu đường và bệnh tuyến giáp , có thể dẫn đến rối loạn nhịp tim .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh tuyến giáp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương thức điều trị này giúp ngăn ngừa thuyên tắc phổi bằng cách ngăn chặn các cục máu đông xâm nhập vào phổi .",
+    "entities": [
+      {
+        "text": "thuyên tắc phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bức xạ thường được sử dụng để điều trị bệnh ung thư đã lan ra ngoài tuyến tụy , nhưng chỉ cho các cơ quan gần đó và không đến các vùng xa của cơ thể .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bằng chứng cho thấy liệu pháp laser khá an toàn và cải thiện các triệu chứng thị giác ở bệnh thoái hóa võng mạc liên quan đến bệnh hồng cầu hình liềm và bệnh võng mạc do tiểu đường .",
+    "entities": [
+      {
+        "text": "bệnh thoái hóa võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh hồng cầu hình liềm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "liệu pháp laser",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi một vách ngăn lệch là nghiêm trọng , nó có thể chặn một bên mũi và giảm luồng không khí .",
+    "entities": [
+      {
+        "text": "giảm luồng không khí",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân đau nhức đầu do tập thể dục tiên phát nguyên nhân chính xác của đau nhức đầu do tập thể dục tiên phát là không biết .",
+    "entities": [
+      {
+        "text": "đau nhức đầu do tập thể dục tiên phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm trùng một nguyên nhân phổ biến của viêm mũi không dị ứng là nhiễm virus - cảm lạnh hoặc cúm , ví dụ .",
+    "entities": [
+      {
+        "text": "viêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cảm lạnh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cúm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tìm kiếm sự điều trị y tế nếu nhận thấy có một trong những vấn đề sau đây da xanh tím .",
+    "entities": [
+      {
+        "text": "da xanh tím",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong quá trình xạ trị , bạn được đặt trên bàn và một cỗ máy lớn điều khiển bức xạ tại các điểm chính xác trên cơ thể bạn .",
+    "entities": [
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa cơ tim phì đại hiệu quả để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : khám sàng lọc và thường xuyên kiểm tra sức khoẻ nếu gia đình có thành viên mắc cơ tim phì đại hoặc các rối loạn tim mạch khác .",
+    "entities": [
+      {
+        "text": "cơ tim phì đại",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu bác sĩ nghi ngờ rằng tình trạng này có thể gây nên bởi dị ứng , một thử nghiệm da dị ứng có thể được khuyến khích .",
+    "entities": [
+      {
+        "text": "một thử nghiệm da dị ứng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sẹo xơ gan liên quan đến việc không thể đảo ngược của mô gan tổn thương làm cho nó không thể thực hiện các chức năng cần thiết .",
+    "entities": [
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay thế thuốc mặc dù không có nghiên cứu khoa học xác nhận lợi ích của thay thế cho những người có run , các phương pháp điều trị sau đây có thể hữu ích : châm cứu .",
+    "entities": [
+      {
+        "text": "châm cứu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "run",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hãy hẹn gặp bác sĩ nếu ù tai phát triển sau khi bị nhiễm trùng hô hấp trên , như lạnh , và ù tai không cải thiện trong vòng một tuần .",
+    "entities": [
+      {
+        "text": "nhiễm trùng hô hấp trên",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi trẻ được đưa đến cơ sở y tế , các bác sĩ sẽ xử trí tắc ruột sơ sinh bằng cách : truyền dịch cho trẻ thông qua một đường truyền tĩnh mạch .",
+    "entities": [
+      {
+        "text": "tắc ruột sơ sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh thoái hóa võng mạc gặp trong 5% các nguyên nhân gây mù lòa trên toàn thế giới và được tổ chức y tế thế giới xem như là bệnh mắt ưu tiên hàng đầu .",
+    "entities": [
+      {
+        "text": "bệnh thoái hóa võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mù lòa",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống thông thường , viêm phúc mạc liên quan đến thẩm phân phúc mạc là do vi trùng xung quanh ống thông .",
+    "entities": [
+      {
+        "text": "thẩm phân phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán thông liên thất việc chẩn đoán sớm bệnh thông liên thất và phát hiện kịp thời những biến chứng bệnh có vai trò hết sức quan trọng giúp định hướng điều trị sẽ có hiệu quả .",
+    "entities": [
+      {
+        "text": "bệnh thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị các tình trạng liên quan đến xơ vữa động mạch như tăng cholesterol máu , tăng huyết áp , béo phì , đái tháo đường … thường xuyên tập thể dục để giúp cơ tim khỏe mạnh và tăng cường lưu thông máu .",
+    "entities": [
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đây là một bệnh phổ biến do các tác nhân vi sinh gây ra , biểu hiện ở những cơn tiêu chảy cấp tính dạng phân nước hoặc nhầy nhớt liên tục trong vài ngày .",
+    "entities": [
+      {
+        "text": "tiêu chảy cấp tính",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các yếu tố nguy cơ bệnh viêm động mạch takayasu chủ yếu ảnh hưởng đến trẻ em gái và phụ nữ ở độ tuổi 20 và 30. rối loạn xảy ra trên toàn thế giới , nhưng phổ biến nhất ở phụ nữ châu á . các biến chứng mức độ nghiêm trọng của bệnh viêm động mạch takayasu có thể khác nhau .",
+    "entities": [
+      {
+        "text": "bệnh viêm động mạch takayasu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

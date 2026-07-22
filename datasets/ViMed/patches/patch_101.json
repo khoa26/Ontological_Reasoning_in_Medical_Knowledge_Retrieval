@@ -1,0 +1,499 @@
+[
+  {
+    "text": "xuất huyết mạch máu trong mắt có thể trông đáng sợ và đau đớn , nhưng nó thường là một điều kiện vô hại sẽ biến mất trong vòng 10 đến 14 ngày .",
+    "entities": [
+      {
+        "text": "xuất huyết mạch máu trong mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ mặc dù nhiều người mắc bệnh gan phát triển giãn tĩnh mạch thực quản , hầu hết sẽ không bị chảy máu .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chẩn đoán phân biệt : thuyên tắc phổi có bệnh cảnh lâm sàng giống nhiều bệnh khác như : bệnh phổi mạn tính , hen , suy tim sung huyết , viêm phổi , nhồi máu cơ tim cấp , phình bóc tách động mạch chủ , tăng áp phổi nguyên phát , viêm màng ngoài tim , ung thư , tràn khí màng phổi , viêm sụn sườn , .",
+    "entities": [
+      {
+        "text": "phình bóc tách động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng áp phổi nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhồi máu cơ tim cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm màng ngoài tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh phổi mạn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim sung huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tràn khí màng phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuyên tắc phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm sụn sườn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hen",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu đang có nguy cơ rung thất và không có icd , có thể cân nhắc mua máy khử rung tim tự động bên ngoài ( aed ) sau khi nói chuyện với bác sĩ .",
+    "entities": [
+      {
+        "text": "máy khử rung tim tự động bên ngoài",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "aed",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tiêu chí để chẩn đoán bởi vì thường không có dấu hiệu để dứt khoát chẩn đoán hội chứng ruột kích thích , chẩn đoán thường là một quá trình loại trừ .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu đang có nguy cơ bị bệnh mắt nhất định , chẳng hạn như tăng nhãn áp hoặc bị tiểu đường , kiểm tra với bác sĩ để xem bao lâu thì cần phải kiểm tra mắt .",
+    "entities": [
+      {
+        "text": "bị tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "kiểm tra mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu vad không giúp ích cho tim , các bác sĩ đôi khi có thể xem xét t hay tim nhân tạo toàn phần như một phương pháp điều trị ngắn hạn thay thế trong khi chờ ghép tim .",
+    "entities": [
+      {
+        "text": "ghép tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hay tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "vad",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu bị tiêu chảy , có thể thấy rằng ăn bữa nhỏ , bữa ăn thường xuyên làm cho cảm thấy tốt hơn .",
+    "entities": [
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tùy thuộc vào vị trí và kích thước của khối u mà người bệnh có thể phải đối mặt với các vấn đề như nứt u , lở loét và chảy máu .",
+    "entities": [
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lở loét",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nứt u",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trái ngược với người đau nửa đầu , những người đau đầu cluster thường tránh nằm trong cơn đau bởi vì vị trí này dường như làm tăng cơn đau .",
+    "entities": [
+      {
+        "text": "đau đầu cluster",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau nửa đầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cơn đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa quai bị tiêm phòng vaccine quai bị đầy đủ theo hướng dẫn của bộ y tế; cách ly người mắc quai bị , tránh tập trung đông người khi có dịch; những người tiếp xúc với bệnh nhân và bệnh nhân cần đeo khẩu trang y tế; rửa tay trước và sau khi tiếp xúc với bệnh nhân; vệ sinh cá nhân , vệ sinh môi trường thường xuyên; nâng cao thể trạng , cung cấp đầy đủ dinh dưỡng và cân bằng .",
+    "entities": [
+      {
+        "text": "tiêm phòng vaccine quai bị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "quai bị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bây giờ , các nhà nghiên cứu tin rằng một số yếu tố , chẳng hạn như tính di truyền và hệ thống miễn dịch bị hỏng , đóng một vai trò trong việc phát triển bệnh crohn .",
+    "entities": [
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra và chẩn đoán các xét nghiệm và thủ tục được sử dụng để chẩn đoán ung thư thực quản bao gồm : nội soi thực quản .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nội soi thực quản",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của viêm mạch chế độ sinh hoạt điều trị viêm mạch bệnh nhân cần tuân thủ điều trị theo sự hướng dẫn của bác sĩ .",
+    "entities": [
+      {
+        "text": "viêm mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "uống thuốc thông mũi có thể gây ra một số tác dụng phụ , bao gồm tăng huyết áp , mất ngủ , khó chịu và đau đầu .",
+    "entities": [
+      {
+        "text": "thuốc thông mũi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mất ngủ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau đầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với lão thị , điều trị này tương đương với đeo kính áp tròng monovision - có thể được sử dụng để cải thiện tầm nhìn cận cảnh vào mắt nondominant .",
+    "entities": [
+      {
+        "text": "đeo kính áp tròng monovision",
+        "type": "THUỐC"
+      },
+      {
+        "text": "lão thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chụp xquang , siêu âm để tìm biến chứng đồng thời kiểm tra vị trí thoát vị để đánh giá đúng tình trạng của người bệnh .",
+    "entities": [
+      {
+        "text": "chụp xquang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu rung thất được gây ra bởi một cơn đau tim , thủ tục này có thể làm giảm nguy cơ bị rung thất .",
+    "entities": [
+      {
+        "text": "cơn đau tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra tâm thần kiểm tra này có thể được thực hiện để xác định xem liệu trầm cảm hoặc rối loạn tâm thần khác có góp phần gây lên triệu chứng .",
+    "entities": [
+      {
+        "text": "kiểm tra tâm thần",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "rối loạn tâm thần",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "trầm cảm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu được điều trị bởi một bác sĩ phẫu thuật giàu kinh nghiệm trong lĩnh vực ung thư tuyến nước bọt là cơ hội tốt nhất để loại bỏ hoàn toàn bệnh ung thư .",
+    "entities": [
+      {
+        "text": "ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "” triệu chứng thường gặp những dấu hiệu và triệu chứng của suy tim những triệu chứng lâm sàng của bệnh nhân suy tim bao gồm 4 biểu hiện chính : mệt ; khó thở ; ứ dịch ; giảm khả năng vận động ; ngoài ra , còn có những triệu chứng như ho , phù phổi , phù chân , hồi hộp , đau thắt ngực , tràn dịch màng phổi , … có nhiều cách phân loại suy tim , nhưng thường phổ biến nhất là phân loại theo hội tim mạch new york và hội tim mạch mỹ .",
+    "entities": [
+      {
+        "text": "giảm khả năng vận động",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tràn dịch màng phổi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phù phổi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phù chân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hồi hộp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ứ dịch",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hãy đến gặp bác sĩ ngay khi bạn có các dấu hiệu hoặc có nguy cơ cao của bệnh u trung thất như như : đau ngực , ho , sốt , khó thở , sút cân .",
+    "entities": [
+      {
+        "text": "bệnh u trung thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sút cân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều trị các bệnh kèm theo xơ gan bệnh não gan và nhiễm trùng thường làm biến chứng chảy máu tĩnh mạch .",
+    "entities": [
+      {
+        "text": "chảy máu tĩnh mạch",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh não gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tăng tiết mồ hôi là tình trạng đổ mồ hôi quá nhiều mà không bắt nguồn từ các hoạt động mạnh như tập thể dục hay ở nơi có nhiệt độ cao .",
+    "entities": [
+      {
+        "text": "tăng tiết mồ hôi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu nó vẫn còn và đặc biệt là nếu căng thẳng , có thể phát triển các biến chứng nhất định : trĩ hoặc vết nứt ở hậu môn , có thể là kết quả khi phân cứng kéo dài và các cơ cơ thắt .",
+    "entities": [
+      {
+        "text": "vết nứt ở hậu môn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết những người đau đầu cơn phát triển các rối loạn đầu tiên ở độ tuổi cuối 20, mặc dù có thể phát triển ở mọi lứa tuổi .",
+    "entities": [
+      {
+        "text": "đau đầu cơn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc bệnh cơ tim phì đại bệnh nhân thường bị đột tử; suy tim mạn tính hiếm xảy ra .",
+    "entities": [
+      {
+        "text": "bệnh cơ tim phì đại",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa bệnh trào ngược dạ dày thực quản ( gerd ) là một bệnh tiêu hóa mãn tính , xảy ra khi acid dạ dày hay đôi khi mật trở lại vào thực quản .",
+    "entities": [
+      {
+        "text": "bệnh trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tiêu hóa mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gerd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "streptococcus a , b và c , một nhóm các vi khuẩn gây bệnh , từ strep họng nhiễm trùng máu .",
+    "entities": []
+  },
+  {
+    "text": "khi không có bội nhiễm thì không sử dụng kháng sinh; có thể giảm bớt cơn đau bằng cách chườm lạnh trên vùng bị sưng; bệnh nhân quai bị cần ăn uống đầy đủ dinh dưỡng kết hợp nghỉ ngơi , vệ sinh cá nhân sạch sẽ : súc miệng bằng nước muối sinh lý , nước muối ấm hay nước súc miệng; không tự ý dùng thuốc uống , bôi đắp lên vùng bị sưng khi chưa có chỉ định của bác sĩ để tránh nhiễm độc; tránh để trẻ vận động , chạy nhảy nhiều khi bệnh đang diễn tiến cấp tính .",
+    "entities": [
+      {
+        "text": "chườm lạnh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "súc miệng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "quai bị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

@@ -1,0 +1,344 @@
+[
+  {
+    "text": "thiết bị định lượng màng nhĩ di chuyển như thế nào và cung cấp một biện pháp gián tiếp của áp suất bên trong tai giữa .",
+    "entities": [
+      {
+        "text": "biện pháp gián tiếp của áp suất bên trong tai giữa",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "thiết bị định lượng màng nhĩ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc bệnh nhồi máu cơ tim đột tử là biến chứng nghiêm trọng nhất của nhồi máu cơ tim .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thân chung động mạch ở trẻ sơ sinh ở những trẻ sinh ra với thân chung động mạch , ống đơn lớn không bao giờ hoàn thành sự phân chia thành hai mạch riêng biệt .",
+    "entities": [
+      {
+        "text": "thân chung động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hội chứng brugada là một rối loạn mang tính di truyền , liên quan đến việc tăng nguy cơ đột tử do rung thất trên các bệnh nhân không có bệnh tim thực tổn .",
+    "entities": [
+      {
+        "text": "hội chứng brugada",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến rối loạn nhịp tim rối loạn nhịp tim thường do các tín hiệu điện trong tim có vấn đề .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nội soi chụp đường mật ngược dòng ( ercp - endoscopic retrograde cholangiopancreatography ) : cho phép nhìn trực tiếp tổn thương bác sỹ sử dụng dụng cụ nội soi qua đường miệng , thực quản xuống dạ dày và ruột non .",
+    "entities": [
+      {
+        "text": "nội soi chụp đường mật ngược dòng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi qua đường miệng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "bệnh trĩ có thể do một số nguyên nhân , tuy nhiên phần lớn chưa được xác định chính xác nguyên nhân của bệnh trĩ .",
+    "entities": [
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thực phẩm ngừa ung thư phổi gói tầm soát ung thư phổi các biện pháp chẩn đoán bệnh ung thư phổi để chẩn đoán bệnh nhân có bị mắc bệnh ung thư phổi hay không , cần sử dụng các phương pháp chẩn đoán sau : chụp x - quang lồng ngực sẽ giúp sớm phát hiện bệnh .",
+    "entities": [
+      {
+        "text": "chụp x - quang lồng ngực",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh ung thư phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong quá trình rung thất , huyết áp giảm đột ngột , cắt đứt nguồn cung cấp máu đến cơ quan quan trọng .",
+    "entities": [
+      {
+        "text": "huyết áp giảm đột ngột",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thử nghiệm này sử dụng từ trường và sóng vô tuyến để tạo ra hình ảnh mặt cắt ngang của cấu trúc bên trong não .",
+    "entities": [
+      {
+        "text": "thử nghiệm này sử dụng từ trường và sóng vô tuyến để tạo ra hình ảnh mặt cắt ngang của cấu trúc bên trong não",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ở mức độ nhẹ , bệnh trĩ nội không phải là căn bệnh khó chữa tuy nhiên cần phải được điều trị sớm và cần có tính kiên trì .",
+    "entities": [
+      {
+        "text": "bệnh trĩ nội",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị hội chứng raynaud hiệu quả phương pháp điều trị hội chứng raynaud hiệu quả nhất là có sự phối hợp giữa các biện pháp điều trị và phòng ngừa .",
+    "entities": [
+      {
+        "text": "hội chứng raynaud",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng nếu nó được sử dụng để điều trị run bàn tay , đôi khi nó có thể gây ra yếu ngón tay .",
+    "entities": [
+      {
+        "text": "yếu ngón tay",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "run bàn tay",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , ý thức về các dấu hiệu cảnh báo của tách võng mạc - hạt nổi , nhấp nháy sáng của ánh sáng , hay bóng tối hoặc rèm mà dường như rơi trên lĩnh vực thị giác - có thể giúp tiết kiệm được tầm nhìn .",
+    "entities": [
+      {
+        "text": "hay bóng tối hoặc rèm mà dường như rơi trên lĩnh vực thị giác",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhấp nháy sáng của ánh sáng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tách võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hạt nổi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu và triệu chứng của tắc nghẽn ráy tai có thể bao gồm : đau tai .",
+    "entities": [
+      {
+        "text": "tắc nghẽn ráy tai",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tận dụng lợi thế của các mạng trực tuyến , các nhóm hỗ trợ và các nguồn lực cho những người bị suy giảm thị lực .",
+    "entities": [
+      {
+        "text": "suy giảm thị lực",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt dưới đây có thể giúp bạn hạn chế diễn tiến của u trung thất : chế độ sinh hoạt : tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị .",
+    "entities": [
+      {
+        "text": "u trung thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh tắc ruột sơ sinh điều trị tắc ruột sơ sinh thường được coi là một tình trạng cấp cứu y tế .",
+    "entities": [
+      {
+        "text": "bệnh tắc ruột sơ sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "soi tai khí nén một công cụ gọi là soi tai khí nén thường là công cụ chỉ bác sĩ chuyên ngành cần phải thực hiện một chẩn đoán bị nhiễm trùng tai .",
+    "entities": [
+      {
+        "text": "soi tai khí nén",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nhiễm trùng tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hiếm khi , sử dụng dài hạn một số thuốc , chẳng hạn như những người điều trị bệnh tăng nhãn áp , có thể gây ra ống dẫn nước mắt bị chặn .",
+    "entities": [
+      {
+        "text": "ống dẫn nước mắt bị chặn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm hạch bạch huyết mạc treo ruột xảy ra chủ yếu ở trẻ em và thanh thiếu niên và thường bắt chước các dấu hiệu và triệu chứng của viêm ruột thừa .",
+    "entities": [
+      {
+        "text": "viêm hạch bạch huyết mạc treo ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm ruột thừa",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trường hợp trẻ mắc bệnh tim bẩm sinh ebstein nhưng mức độ bệnh không quá nghiêm trọng và nguy hiểm thì chưa có chỉ định can thiệp nhưng cần theo dõi một cách sát sao , liên tục đồng thời hỗ trợ trẻ về các vấn đề hô hấp và tim mạch cho tới khi tình trạng trẻ ổn định .",
+    "entities": [
+      {
+        "text": "bệnh tim bẩm sinh ebstein",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số sa sút trí tuệ như là gây ra bởi một phản ứng với thuốc hoặc nhiễm trùng có thể đảo ngược với điều trị .",
+    "entities": [
+      {
+        "text": "sa sút trí tuệ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khái niệm điều trị tiền mãn kinh được dùng để nói đến việc điều trị các triệu chứng khó chịu gây ra trong thời kỳ này .",
+    "entities": [
+      {
+        "text": "tiền mãn kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ung thư đại tràng là loại ung thư gây tử vong cao thứ tư trên thế giới sau ung thư phổi , ung thư dạ dày và ung thư gan .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thông thường , nhịp xoang ở một tốc độ bình thường không cảm nhận được , và tim đập nhanh là triệu chứng thường phản ánh những thay đổi trong nhịp tim hoặc nhịp điệu .",
+    "entities": [
+      {
+        "text": "tim đập nhanh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "cũng có một số tình huống tạm thời khi bạn có nhiều nguy cơ bị huyết khối tĩnh mạch sâu hơn .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nước mắt nhân tạo có thể giúp ngăn ngừa và làm giảm khô mắt là kết quả của kéo dài tại máy tính .",
+    "entities": [
+      {
+        "text": "nước mắt nhân tạo",
+        "type": "THUỐC"
+      },
+      {
+        "text": "khô mắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "những người bị viêm dây thần kinh thị giác nghiêm trọng có thể trải qua thử nghiệm để xác định xem họ đang có khả năng phát triển optica neuromyelitis .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "optica neuromyelitis",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các tế bào ung thư có thể vỡ ra và lan rộng ( di căn ) đến các khu vực xa của cơ thể .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

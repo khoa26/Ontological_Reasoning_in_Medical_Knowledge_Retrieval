@@ -1,0 +1,340 @@
+[
+  {
+    "text": "vận động để giảm áp lực tĩnh mạch - có thể xảy ra khi đứng hoặc ngồi với thời gian dài , và để giúp ngăn ngừa táo bón .",
+    "entities": [
+      {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng trào ngược dạ dày thực quản , dấu hiệu và triệu chứng bao gồm : cảm giác nóng trong lồng ngực ( ợ nóng ) , đôi khi lan sang cổ họng , cùng với hương vị chua trong miệng .",
+    "entities": [
+      {
+        "text": "cảm giác nóng trong lồng ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chua trong miệng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ợ nóng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : các biện pháp chẩn đoán ung thư da ung thư hắc tố da ung thư da đầu chủ đề : hóa trị xạ trị ung thư ung thư da da tia cực tím ánh nắng mặt trời tia uv",
+    "entities": [
+      {
+        "text": "ung thư hắc tố da",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư da đầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "teo thực quản được định nghĩa là sự gián đoạn lưu thông thực quản kèm theo có hoặc không có sự thông thương bất thường giữa thực quản với khí quản .",
+    "entities": [
+      {
+        "text": "teo thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chứng khó nuốt thực quản chứng khó nuốt thực quản đề cập đến cảm giác mắc thức ăn hoặc treo ở cơ cổ họng hoặc ngực .",
+    "entities": [
+      {
+        "text": "chứng khó nuốt thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa ghép tim hiệu quả để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : bệnh nhân đang mắc các bệnh lý mãn tính có khả năng ảnh hưởng đến tim cần tuân thủ điều trị và thăm khám thường xuyên để phát hiện ra những bất thường và kịp thời xử lý tránh bệnh tiến triển nặng .",
+    "entities": [
+      {
+        "text": "ghép tim",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tiền sử đã mắc viêm khớp do liên cầu tốc độ lắng máu tăng cao bạch cầu tăng c - reactin protein dương tính .",
+    "entities": [
+      {
+        "text": "viêm khớp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặt khác , được cảnh báo cho việc ăn uống và niềm tin mà có thể tín hiệu hành vi không lành mạnh , cũng như áp lực có thể gây ra rối loạn ăn uống .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa xuất huyết mạch máu trong mắt xảy ra khi một mạch máu nhỏ vỡ chỉ bên dưới bề mặt rõ ràng của mắt ( kết mạc ) .",
+    "entities": [
+      {
+        "text": "xuất huyết mạch máu trong mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể khuyên nên chờ đợi 3 - 6 tháng sau khi chấn thương trước khi xem xét sự cần thiết phải can thiệp phẫu thuật để mở ống dẫn nước mắt bị chặn .",
+    "entities": [
+      {
+        "text": "can thiệp phẫu thuật để mở ống dẫn nước mắt bị chặn",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân sống sót sau tai biến mạch máu não có thể gặp một hoặc nhiều vấn đề về sức khỏe , có thể là vĩnh viễn , có thể phục hồi được một số hoặc hầu hết các khả năng .",
+    "entities": [
+      {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hormone thay đổi thay đổi nội tiết tố do thai kỳ , kinh nguyệt , sử dụng thuốc tránh thai hoặc điều kiện nội tiết như suy giáp có thể gây ra viêm mũi không dị ứng .",
+    "entities": [
+      {
+        "text": "viêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa thiếu máu cục bộ đường ruột xảy ra khi giảm bớt máu chảy vào ruột .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc ( bị ) thông liên nhĩ rượu , thuốc lá , tia x , phóng xạ , hóa chất , … người mẹ trước mang thai có các bệnh lý : đái tháo đường , thiếu máu , nhiễm trùng .",
+    "entities": [
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiếu máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tips là một thủ thuật x quang xâm lấn , trong đó một dây dẫn được nối từ tĩnh mạch qua nhu mô gan vào hệ thống tĩnh mạch cửa .",
+    "entities": [
+      {
+        "text": "tips",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "chụp đại tràng bằng bơm khí : phương pháp này đã được phổ biến ở nhiều trung tâm , cho kết quả tương đương với dùng barium .",
+    "entities": [
+      {
+        "text": "chụp đại tràng bằng bơm khí",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu hệ thống miễn dịch bị tổn thương do bệnh hoặc do thuốc ( bệnh tiểu đường là một bệnh phổ biến làm giảm sức đề kháng của cơ thể bị nhiễm trùng ) , có nguy cơ cao phát triển viêm giác mạc .",
+    "entities": [
+      {
+        "text": "bệnh tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau đây là một số chiến lược có thể thực hiện với xơ gan đường mật dễ dàng hơn : giáo dục chính mình .",
+    "entities": [
+      {
+        "text": "xơ gan đường mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nghiên cứu của anne suskind và cộng sự ở mỹ cho thấy : các trẻ có tinh hoàn ẩn thường có đường kính của các ống sinh tinh nhỏ hơn , mức độ xơ hóa tinh hoàn cũng cao hơn , sự thay đổi về mô học của các tinh hoàn ẩn có thể ảnh hưởng tới tinh trùng gây vô sinh .",
+    "entities": [
+      {
+        "text": "tinh hoàn ẩn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh tự kỷ ở người lớn về điều trị tự kỷ ở người lớn , người lớn mắc tự kỷ có phác đồ điều trị khác với trẻ mắc bệnh tự kỷ .",
+    "entities": [
+      {
+        "text": "bệnh tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm soát tần số thất bệnh nhân rung nhĩ cần được kiểm soát tần số thất &lt; 100 lần/phút khi nghỉ ngơi để kiểm soát triệu chứng và ngăn ngừa bệnh cơ tim do nhịp nhanh .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kỹ thuật này sử dụng từ trường và sóng radio để tạo ra hình ảnh mặt cắt ngang của đầu và cơ thể .",
+    "entities": [
+      {
+        "text": "sử dụng từ trường và sóng radio để tạo ra hình ảnh mặt cắt ngang của đầu và cơ thể",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ban đầu , đục trong tầm nhìn gây ra do đục thủy tinh thể ảnh hưởng đến chỉ một phần nhỏ ống kính của mắt và có thể không biết về bất kỳ mất thị lực .",
+    "entities": [
+      {
+        "text": "do đục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đục trong tầm nhìn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mất thị lực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều trị nguyên nhân tăng huyết áp : có nhiều điểm cần chú ý khi điều trị tăng huyết áp thứ phát vì nó khác với điều trị tăng huyết áp thông thường tăng huyết áp thai kì thuốc ưu tiên là methyldopa , kế tiếp là chẹn kênh calci như nifedipin , không dùng ức chế men chuyển và ức chế thụ thể có thể can thiệp mạch thận nếu hẹp mạch thận do loạn sản xơ cơ mạch thận phẫu thuật nếu có u thượng thận gây tăng huyết áp điều trị cường giáp bằng các thuốc kháng giáp trạng tổng hợp xem thêm : huyết áp bình thường của phụ nữ là bao nhiêu ?",
+    "entities": [
+      {
+        "text": "loạn sản xơ cơ mạch thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp thai kì",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u thượng thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc sốt rét bệnh sốt rét có sức chuyển biến bệnh nhanh , có khả năng gây tử vong chỉ sau vài giờ hoặc vài ngày sau khi xác định bệnh .",
+    "entities": [
+      {
+        "text": "bệnh sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính : đánh giá mức độ xâm lấn xung quanh , phát hiện các di căn hạch và di căn xa .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nhưng nếu không được điều trị , viêm túi mật có thể dẫn đến nghiêm trọng , biến chứng đôi khi đe dọa mạng sống .",
+    "entities": [
+      {
+        "text": "viêm túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hãy đảm bảo uống nhiều nước hoặc chất lỏng khác mỗi ngày , hoặc uống bổ sung chất xơ có thể để tránh gây táo bón .",
+    "entities": [
+      {
+        "text": "táo bón",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng có thể có bao gồm : thoát vị não màng não thể ẩn : đây là trường hợp mức độ thoát vị rất nhỏ nên hầu như không có triệu chứng .",
+    "entities": [
+      {
+        "text": "thoát vị não màng não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xoa bóp các bắp thịt ở các khu vực xung quanh mắt còn giúp thư giãn các cơ bắp , mà có thể làm giảm một số triệu chứng của mỏi mắt .",
+    "entities": [
+      {
+        "text": "xoa bóp các bắp thịt ở các khu vực xung quanh mắt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "mỏi mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

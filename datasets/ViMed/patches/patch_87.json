@@ -1,0 +1,404 @@
+[
+  {
+    "text": "màu nước tiểu cola hơn một tuần sau khi bị bệnh , như vậy có thể thấy viêm thận ( postliên cầu khuẩntococcal viêm cầu thận ) .",
+    "entities": [
+      {
+        "text": "màu nước tiểu cola",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm cầu thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm thận",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh sán máng mãn tính có thể gây ra các vấn đề sức khỏe nghiêm trọng ở hầu hết các vùng trên cơ thể , bao gồm hệ tiêu hóa , tiết niệu , phổi và hệ thần kinh .",
+    "entities": [
+      {
+        "text": "bệnh sán máng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , có thể sử dụng phác đồ truyền tĩnh mạch cyclophosphamid 0,5 đến 1 g/m2 mỗi 2 tới 4 tuần .",
+    "entities": [
+      {
+        "text": "cyclophosphamid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hiện nay khoa học vẫn chưa xác định rõ nguyên nhân gây ung thư thực quản là gì , tuy nhiên có thể kể tên các yếu tố nguy cơ dẫn đến căn bệnh này như sau : lạm dụng các chất kích thức như rượu , bia và thuốc lá những người béo phì , người có bệnh lý về thực quản những người có chế độ dinh dưỡng chưa khoa học , lạm dụng chất béo , thiếu các vitamin a , b2, c; duy trì thói quen ăn uống nhiều thực phẩm có chứa chất nitrosamin .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "béo phì",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi một số yếu tố , chẳng hạn như hội chứng down , có thể làm tăng nguy cơ kênh nhĩ thất , nhiều trường hợp không rõ nguyên nhân .",
+    "entities": [
+      {
+        "text": "hội chứng down",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "kênh nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tùy thuộc vào thể trạng người bệnh và loại ký sinh trùng xâm hại mà mỗi cá nhân lại có những dạng sốt khác nhau .",
+    "entities": [
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "cùng với việc điều trị nguyên nhân , các loại vitamin , thuốc chống xơ vữa động mạch , thuốc tăng sự trao đổi chất trong tế bào thần kinh , tăng lưu lượng máu , chất chống oxy hóa , chống cao huyết áp , điều hòa đường máu có thể được chỉ định bổ sung .",
+    "entities": [
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một thử nghiệm hình ảnh sử dụng một biểu đồ mắt để đo lường có thể đọc một loạt các chữ cái như thế nào .",
+    "entities": [
+      {
+        "text": "thử nghiệm hình ảnh sử dụng một biểu đồ mắt để đo lường",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng ánh sáng để kích hoạt một loại thuốc tiêm ( liệu pháp quang động ) liệu pháp quang động được sử dụng để điều trị trực tiếp mạch máu bất thường dưới hố mắt .",
+    "entities": [
+      {
+        "text": "sử dụng ánh sáng để kích hoạt một loại thuốc tiêm",
+        "type": "THUỐC"
+      },
+      {
+        "text": "liệu pháp quang động",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "vắc xin đó đã được gỡ bỏ khỏi thị trường vào năm 1999. không có bằng chứng cho thấy loại vắc xin rotavirus mới gây lồng ruột .",
+    "entities": [
+      {
+        "text": "lồng ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thao tác cột sống có thể chữa trị hiệu quả một số loại đau đớn , mặc dù nó không được chứng minh là có hiệu quả cho nhức đầu .",
+    "entities": [
+      {
+        "text": "thao tác cột sống",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhức đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đớn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh thuyên tắc phổ i nguyên nhân thuyên tắc phổi bao gồm : thuyên tắc phổi chủ yếu xuất phát từ huyết khối tĩnh mạch sâu chi dưới .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch sâu chi dưới",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh thuyên tắc phổ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuyên tắc phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "a phòng ngừa bệnh u máu không có biện pháp nào giúp phòng tránh được sự xuất hiện của u máu .",
+    "entities": [
+      {
+        "text": "bệnh u máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu và triệu chứng của bệnh gan bao gồm : đổi màu da và mắt , xuất hiện màu vàng , đau bụng và cổ trướng .",
+    "entities": [
+      {
+        "text": "đau bụng và cổ trướng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xuất hiện màu vàng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đổi màu da và mắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ung thư túi mật giai đoạn 3 b : khối u di căn hạch vùng nhưng không tới các động mạch và tĩnh mạch gần đó .",
+    "entities": [
+      {
+        "text": "ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh tắc ống phóng tinh nếu cả hai bên ống phóng tinh đều bị tắc , bệnh nhân sẽ bị vô sinh vì không có tinh trùng trong tinh dịch .",
+    "entities": [
+      {
+        "text": "bệnh tắc ống phóng tinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phát hiện sớm và điều trị hiệu quả gerd có thể làm giảm nguy cơ phát triển chứng khó nuốt liên kết với bệnh teo thực quản .",
+    "entities": [
+      {
+        "text": "bệnh teo thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó nuốt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gerd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc theo toa nếu ợ nóng vẫn tiếp diễn mặc dù cách tiếp cận ban đầu , bác sĩ có thể khuyên nên theo toa thuốc , chẳng hạn như : ức chế histamin h - 2. chúng bao gồm cimetidine ( tagamet ) , nizatidine famotidine ( pepcid ) , ( axid ) và ranitidine ( zantac ) .",
+    "entities": [
+      {
+        "text": "nizatidine famotidine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cimetidine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ranitidine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tagamet",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ợ nóng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "pepcid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "zantac",
+        "type": "THUỐC"
+      },
+      {
+        "text": "axid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hoặc có thể sử dụng các t . huốc chống đông máu như warfarin , heparin … phẫu thuật : phẫu thuật bắc cầu mạch vành ; điều trị tan huyết khối ( thrombolysis ) ; đặt stent nong mạch vành ; phẫu thuật cắt mạch máu .",
+    "entities": [
+      {
+        "text": "phẫu thuật bắc cầu mạch vành",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đặt stent nong mạch vành",
+        "type": "THUỐC"
+      },
+      {
+        "text": "t . huốc chống đông máu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "điều trị tan huyết khối",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật cắt mạch máu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thrombolysis",
+        "type": "THUỐC"
+      },
+      {
+        "text": "warfarin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "heparin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng một loại dầu gội trị gàu kiểm soát có thể làm giảm các dấu hiệu và triệu chứng viêm bờ mi .",
+    "entities": [
+      {
+        "text": "viêm bờ mi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong kiểm tra thể chất , bác sĩ sẽ có khả năng tìm : các dấu hiệu và triệu chứng chóng mặt sau đó giảm xuống trong ít hơn một phút .",
+    "entities": [
+      {
+        "text": "kiểm tra thể chất",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "khi đã có viêm phúc mạc , nguy cơ phát triển nó một lần nữa cao hơn một người chưa bao giờ bị viêm phúc mạc .",
+    "entities": [
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : tổng hợp những điều bạn cần biết về bệnh trĩ nội bệnh trĩ từ a đến z : nguyên nhân , dấu hiệu và cách điều trị hiệu quả chữa bệnh trĩ như thế nào cho hiệu quả ?",
+    "entities": [
+      {
+        "text": "bệnh trĩ nội",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh trĩ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điện tâm đồ dạng brugada type 2 hay type 3, đoạn st chênh với mức độ ít hơn không được coi là tiêu chuẩn chẩn đoán hội chứng brugada nhưng 2 loại điện tâm đồ này ( type 2, type 3 ) có thể chuyển đổi thành type 1 một cách tự nhiên hay khi bệnh nhân có sốt hoặc uống một số loại thuốc .",
+    "entities": [
+      {
+        "text": "hội chứng brugada",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù chấn thương đầu có thể gặp ở trẻ vị thành niên , tụ máu nội sọ là một tình trạng nghiêm trọng và có khả năng đe dọa tính mạng mà thường đòi hỏi phải điều trị ngay lập tức .",
+    "entities": [
+      {
+        "text": "điều trị ngay lập tức",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tụ máu nội sọ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hỏi bác sĩ để loại bỏ ráy tai có thể có vẻ không cần thiết , nhưng tai và màng nhĩ là tinh tế và có thể bị hư hỏng một cách dễ dàng do quá nhiều ráy tai .",
+    "entities": [
+      {
+        "text": "loại bỏ ráy tai",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "cần lưu ý là cơn đau thắt ngực điển hình do bệnh lý tim mạch vành thường khởi phát sau một hoạt động gắng sức và sẽ thuyên giảm trong vòng vài phút sau nghỉ ngơi hoặc uống một loại thuốc trợ tim gọi là nitroglycerin .",
+    "entities": [
+      {
+        "text": "cơn đau thắt ngực điển hình",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh lý tim mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân nhiều bệnh và vấn đề có thể gây ra gan to , bao gồm : bệnh gan xơ gan .",
+    "entities": [
+      {
+        "text": "bệnh gan xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gan to",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "những người bị viêm tụy mãn tính có thể bị đau liên tục mà không dễ dàng kiểm soát bằng thuốc .",
+    "entities": [
+      {
+        "text": "viêm tụy mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "theo dõi điều trị tái khám đúng lịch để theo dõi tiến triển của khối u cũng như khả năng tái phát của khối u sau điều trị; xét nghiệm thường xuyên theo chỉ định của bác sĩ để phát hiện ung thư càng sớm càng tốt .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

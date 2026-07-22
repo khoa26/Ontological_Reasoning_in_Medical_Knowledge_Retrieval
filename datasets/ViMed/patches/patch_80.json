@@ -1,0 +1,399 @@
+[
+  {
+    "text": "các tổn thương đặc hiệu có thể được phát hiện trên siêu âm tim gồm : sùi , apxe van tim , thành tim , giả phình , thủng tổ chức tim , viêm rò , phình van tim … cần phải tiến hành ngay siêu âm tim , ngay khi nghi ngờ viêm nội tâm mạc nhiễm khuẩn .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc nhiễm khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thủng tổ chức tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phình van tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "apxe van tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "thành tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm rò",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sùi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thuốc này được sử dụng qua tĩnh mạch , dừng hình thành các mạch máu mới , cắt đứt nguồn cung cấp máu cho khối u và giết chết các tế bào ung thư .",
+    "entities": [
+      {
+        "text": "cắt đứt nguồn cung cấp máu cho khối u và giết chết các tế bào ung thư",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "người bị tiểu đường có thể cần phải uống tăng liều thuốc tiểu đường để giữ đường huyết ổn định khi bị ốm hoặc căng thẳng .",
+    "entities": [
+      {
+        "text": "tăng liều thuốc tiểu đường",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị cho hầu hết các loại tổn thương ở tuyến tụy thường là phẫu thuật cắt bỏ , vì nguy cơ ung thư .",
+    "entities": [
+      {
+        "text": "phẫu thuật cắt bỏ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đau nhức đầu do tập thể dục tiên phát thường kéo dài từ năm phút đến 48 giờ , trong khi đau đầu thứ do tập thể dục thứ phát thường kéo dài ít nhất một ngày và đôi khi kéo dài vài ngày hoặc lâu hơn .",
+    "entities": [
+      {
+        "text": "đau nhức đầu do tập thể dục tiên phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau đầu thứ do tập thể dục thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tác dụng phụ thường gặp bao gồm đau đầu , nhiễm trùng hô hấp trên , đau bụng , buồn nôn và các phản ứng tại chỗ .",
+    "entities": [
+      {
+        "text": "nhiễm trùng hô hấp trên",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tim và các vấn đề mạch máu tắc nghẽn của các tĩnh mạch gan ( hội chứng budd - chiari ) .",
+    "entities": [
+      {
+        "text": "hội chứng budd - chiari",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ yếu tố nguy cơ cho mắt đỏ bao gồm : tiếp xúc với một chất gây dị ứng gây viêm kết mạc dị ứng tiếp xúc với người bị nhiễm virus hoặc vi khuẩn dạng viêm kết mạc .",
+    "entities": [
+      {
+        "text": "viêm kết mạc dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mắt đỏ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đây là một trong những nguyên nhân gây nên các bệnh về tim mạch như bệnh mạch máu ngoại vi , gây nên các cơn đau tim và đột quỵ .",
+    "entities": [
+      {
+        "text": "cơn đau tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán hở van hai lá để chẩn đoán hở van tim hai lá , bác sĩ sẽ thăm khám lâm sàng và hỏi bệnh nhân những câu hỏi về tình trạng sức khỏe cũng như triệu chứng thường gặp , bao gồm : những triệu chứng xảy ra trong bao lâu; tiền sử bệnh của bệnh nhân; lắng nghe tiếng tim và phổi của người bệnh; đo huyết áp; đo cân nặng .",
+    "entities": [
+      {
+        "text": "hở van tim hai lá",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hở van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh lý cơ tim phì đại là một nguyên nhân gây đột tử phổ biến ở các vận động viên trẻ .",
+    "entities": [
+      {
+        "text": "bệnh lý cơ tim phì đại",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : tìm hiểu về liệu pháp tăng cường hệ miễn dịch tự thân hỗ trợ điều trị ung thư các phương pháp điều trị ung thư dạ dày dinh dưỡng cho bệnh nhân ung thư dạ dày khi nào cần sàng lọc ung thư dạ dày ?",
+    "entities": [
+      {
+        "text": "liệu pháp tăng cường hệ miễn dịch tự thân",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán cơn đau thắt ngực ngoài việc hỏi bệnh sử đầy đủ và thăm khám lâm sàng về triệu chứng điển hình của cơn đau thắt ngực , bác sĩ có thể yêu cầu bệnh nhân thực hiện một số xét nghiệm để hỗ trợ chẩn đoán như : điện tâm đồ ( ecg ) ; test gắng sức ; chụp mạch vành ; mri tim ; ct scan .",
+    "entities": [
+      {
+        "text": "cơn đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chụp mạch vành",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "test gắng sức",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct scan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ecg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "khi quá nhiều ráy tai tích tụ , nó trở nên quá khó để rửa trôi tự nhiên , gây mất thính giác hoặc kích thích màng nhĩ , có thể dẫn đến ù tai .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nhức đầu khi ho trung bình nguyên nhân của đau đầu khi ho trung bình hầu như luôn luôn có thể được truy nguồn từ một vấn đề trong phần sau của não hoặc tại cấu trúc hộp sọ , nơi mà bộ não và tủy sống kết nối , chẳng hạn như : khiếm khuyết hình dạng hộp sọ .",
+    "entities": [
+      {
+        "text": "nhức đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hoạt động phổ biến nhất là liên kết đau đầu với tập thể dục như đang chạy , chèo thuyền , tennis , bơi lội và cử tạ .",
+    "entities": []
+  },
+  {
+    "text": "những thiết bị này , tạo ra âm thanh môi trường mô phỏng như mưa rơi hoặc sóng biển , thường là một phương pháp điều trị hiệu quả cho chứng ù tai , có thể giúp che đi tiếng ồn bên trong vào ban đêm .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hẹp van hai lá là tình trạng van bị hẹp và cứng dẫn đến không thể đóng mở bình thường , gây căng cơ tim và giảm lưu lượng máu đến cơ thể .",
+    "entities": [
+      {
+        "text": "hẹp van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật khoét mê nhĩ và phẫu thuật điều trị ù tai chóng mặt cắt dây thần kinh tiền đình chỉ được áp dụng để điều trị ù tai trên các bệnh nhân điếc tiếp nhận hoàn toàn tai cùng bên .",
+    "entities": [
+      {
+        "text": "phẫu thuật điều trị ù tai chóng mặt cắt dây thần kinh tiền đình",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật khoét mê nhĩ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "điếc",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sau khi trẻ đã hoàn thành việc điều trị bằng kháng sinh đầy đủ , bác sĩ sẽ bắt đầu một đợt điều trị kháng sinh khác để ngăn ngừa tái phát sốt thấp khớp .",
+    "entities": [
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm tinh hoàn ở bé trai : tỷ lệ thường gặp ,10 bé trai mắc quai bị có 4 bé bị biến chứng viêm tinh hoàn .",
+    "entities": [
+      {
+        "text": "viêm tinh hoàn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu đang lo lắng về nguy cơ ung thư thực quản , hãy yêu cầu bác sĩ giải thích cơ hội phát triển bệnh .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc ( bị ) giãn tĩnh mạch chi dưới một số yếu tố làm tăng nguy cơ mắc a , bao gồm : những người làm một số việc phải đứng hoặc ngồi quá lâu .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch chi dưới",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm máu để đánh giá chức năng thận , để ước lượng chức năng gan và để đo vitamin b - 12 . xét nghiệm máu hoặc nước tiểu để xác định các loại thuốc hoặc uống rượu .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu để đánh giá chức năng thận",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đo vitamin b - 12",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nước tiểu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị có thể giúp đối phó với các dấu hiệu và triệu chứng khô miệng trầm trọng hơn .",
+    "entities": [
+      {
+        "text": "triệu chứng khô",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hở van ba lá 2/4 : mức độ trung bình , nếu có triệu chứng cần phải điều trị bằng thuốc .",
+    "entities": [
+      {
+        "text": "hở van ba lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đây là loại cao huyết áp thường gặp nhất ( chiếm đến 85% ) , có xu hướng tiến triển dần dần trong nhiều năm .",
+    "entities": [
+      {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "gdncbm là một thử nghiệm tương đối mới có thể giúp bác sĩ chẩn đoán bệnh xơ gan đường mật và có thể giúp tránh sự cần thiết sinh thiết gan .",
+    "entities": [
+      {
+        "text": "bệnh xơ gan đường mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sinh thiết gan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "gdncbm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm để chẩn đoán viêm dây thần kinh thị giác có thể bao gồm : kiểm tra khơi dậy tiềm năng trực quan .",
+    "entities": [
+      {
+        "text": "kiểm tra khơi dậy tiềm năng trực quan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các hội chứng gia đình một số hội chứng di truyền làm tăng nguy cơ mắc ung thư da bao gồm : bệnh xơ da nhiễm sắc : có đột biến lặn các nhiễm sắc thể đặc trưng bởi sự tăng cảm với tia cực tím .",
+    "entities": [
+      {
+        "text": "bệnh xơ da nhiễm sắc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư da",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

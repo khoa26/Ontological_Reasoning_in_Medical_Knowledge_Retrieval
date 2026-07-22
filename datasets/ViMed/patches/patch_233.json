@@ -1,0 +1,375 @@
+[
+  {
+    "text": "phẫu thuật triệu chứng : giảm tắc nghẽn đường mật xạ trị chỉ định bổ trợ sau phẫu thuật giúp tiêu diệt các tế bào ung thư còn sót lại .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra hình ảnh không xâm lấn này giúp xác định và hiển thị các khu vực dày võng mạc hoặc mỏng .",
+    "entities": [
+      {
+        "text": "kiểm tra hình ảnh không xâm lấn",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nhưng trong khi kính mát không phải là chứng minh để ngăn chặn khối u ác tính mắt , họ có thể giúp giảm nguy cơ bị điều kiện mắt khác như đục thủy tinh thể .",
+    "entities": [
+      {
+        "text": "đục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u ác tính mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hiếm khi , nhiễm trùng nghiêm trọng tai giữa lây lan đến các mô khác trong hộp sọ bao gồm cả bộ não .",
+    "entities": [
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân của loạn nhịp tim các nguyên nhân phổ biến của rối loạn nhịp tim hoặc các tình trạng có thể dẫn đến chúng bao gồm : bệnh cơ tim ; bệnh động mạch vành ; bệnh đái tháo đường ; lạm dụng ma túy; căng thẳng cảm xúc; sử dụng quá nhiều rượu hoặc caffeine; có vấn đề về tim lúc mới sinh ( dị tật tim bẩm sinh ) ; huyết áp cao; hút thuốc; bệnh van tim; sử dụng một số loại thuốc , bao gồm cả những loại thuốc không kê đơn , dược liệu , thực phẩm chức năng .",
+    "entities": [
+      {
+        "text": "bệnh động mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "giữ mối quan hệ thân thiết của bạn mạnh mẽ sẽ giúp bạn đối phó với bệnh ung thư hạch không hodgkin .",
+    "entities": [
+      {
+        "text": "bệnh ung thư hạch không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc bệnh nhịp tim chậm các biến chứng có thể xảy ra của nhịp tim chậm có thể bao gồm : thường xuyên ngất xỉu .",
+    "entities": [
+      {
+        "text": "nhịp tim chậm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ngất xỉu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong phản ứng với chất gây dị ứng , cơ thể sản xuất ra kháng thể gọi là globulin miễn dịch e ( ige ) .",
+    "entities": []
+  },
+  {
+    "text": "bên cạnh đó , có khoảng 30 – 40% bệnh nhân sau khi nong bóng 6 tháng bị tái hẹp trở lại và có 1/3 trong số đó phải đi tái nong mạch hoặc phải thực hiện cabg .",
+    "entities": [
+      {
+        "text": "nong bóng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cabg",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tại bắc mỹ , châu âu và úc , ung thư gan phổ biến nhất là ảnh hưởng đến người lớn tuổi .",
+    "entities": [
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . nhưng những dấu hiệu và triệu chứng này không đặc hiệu và thường không xảy ra cho đến khi cao huyết áp đã đến giai đoạn nặng hoặc đe dọa tính mạng .",
+    "entities": [
+      {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đôi khi , các triệu chứng và dấu hiệu ban đầu của bệnh hẹp van hai lá là của một biến cố tắc mạch như đột quỵ .",
+    "entities": [
+      {
+        "text": "bệnh hẹp van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh u thực quản ( polyp thực quản lành tính ) hạn chế đến mức thấp nhất sự tiếp xúc với các yếu tố gây bệnh bên ngoài .",
+    "entities": [
+      {
+        "text": "polyp thực quản lành tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh u thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc ( bị ) viêm nội tâm mạc nhiễm khuẩn viêm nội tâm mạc nhiễm khuẩn thường là hậu quả từ các thủ thuật chăm sóc sức khỏe , ở cả các bệnh nhân không có bệnh van tim từ trước , hoặc ở bệnh nhân mang van tim nhân tạo .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc nhiễm khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh van tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một loại điều trị laser gọi là nhiệt , sử dụng một laser hồng ngoại và đôi khi được sử dụng kết hợp với xạ trị .",
+    "entities": [
+      {
+        "text": "điều trị laser gọi là nhiệt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính ( ct ) là phương pháp chẩn đoán hình ảnh thường được sử dụng cho người lớn , tuy nhiên vẫn có thể áp dụng cho trẻ nhỏ .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "điều này bao gồm việc chèn một ống mỏng , linh hoạt ( nội soi ) với một máy ảnh nhỏ và ánh sáng qua mũi hoặc miệng và vào phía sau của cổ họng .",
+    "entities": [
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "thiếu nước trầm trọng : do bị nôn và đi ngoài nhiều lần nên cơ thể người bệnh bị mất nước cũng như chất điện giải .",
+    "entities": [
+      {
+        "text": "thiếu nước trầm trọng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đi ngoài nhiều lần",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thủ tục này là một máy tính x - quang kỹ thuật sản xuất hình ảnh các xoang có nhiều chi tiết hơn so với sản xuất bởi x - ray thông thường .",
+    "entities": [
+      {
+        "text": "x - ray thông thường",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "x - quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ tim đập nhanh bạn có thể có nguy cơ bị đánh trống ngực nếu : rất căng thẳng; bị rối loạn lo âu hoặc thường xuyên lên cơn hoảng sợ; có thai; uống các loại thuốc có chứa chất kích thích , chẳng hạn như một số loại thuốc cảm lạnh hoặc hen suyễn; có tuyến giáp hoạt động quá mức ( cường giáp ) ; có các vấn đề về tim khác , chẳng hạn như rối loạn nhịp tim , dị tật tim , đau tim trước đó hoặc phẫu thuật tim trước đó .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đánh trống ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tim đập nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "dị tật tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh thoát vị rốn tổng quan bệnh thoát vị rốn dây rốn là dây kết nối mẹ với thai nhi có nhiệm vụ cung cấp chất dinh dưỡng cho thai nhi phát triển trong bụng mẹ .",
+    "entities": [
+      {
+        "text": "bệnh thoát vị rốn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân kênh nhĩ thất xảy ra trong quá trình phát triển của thai , khi tim của em bé đang phát triển .",
+    "entities": [
+      {
+        "text": "kênh nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chẩn đoán phình động mạch não cần chụp mạch số hóa xóa nền ( chụp mạch dsa ) , chụp mạch ct hay chụp mạch cộng hưởng từ .",
+    "entities": [
+      {
+        "text": "chụp mạch số hóa xóa nền",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp mạch cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "phình động mạch não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chụp mạch dsa",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp mạch ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ánh sáng cho phép bác sĩ xem những cấu trúc có độ phóng đại cao để phát hiện các vật và mức độ viêm giác mạc , cũng như ảnh hưởng có thể có trên các cấu trúc khác của mắt .",
+    "entities": [
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "lời khuyên cho những người chăm sóc nếu là một thành viên trong gia đình hoặc bạn bè của người bị bệnh huntington , chăm sóc tại nhà có thể tốn thời gian và mệt mỏi .",
+    "entities": [
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu hệ thống miễn dịch đã bị suy yếu do bệnh tật hoặc thuốc , dễ bị các bệnh nhiễm trùng do vi khuẩn có thể gây viêm nắp thanh quản .",
+    "entities": [
+      {
+        "text": "viêm nắp thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu và triệu chứng của ung thư dạ dày có thể bao gồm : mệt mỏi .",
+    "entities": [
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nhưng đôi khi đau có thể kéo dài hoặc có thể muốn tránh các tác dụng phụ của thuốc giảm đau .",
+    "entities": [
+      {
+        "text": "thuốc giảm đau",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh hansen phổ biến ở nhiều quốc gia , đặc biệt là những quốc gia có khí hậu nhiệt đới hoặc cận nhiệt đới .",
+    "entities": [
+      {
+        "text": "bệnh hansen",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có một số bằng chứng có thể kế thừa một gen hoặc những gen làm cho nhiều khả năng phát triển polyp mũi .",
+    "entities": [
+      {
+        "text": "polyp mũi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

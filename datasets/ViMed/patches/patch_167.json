@@ -1,0 +1,366 @@
+[
+  {
+    "text": "ngoài ra , nếu đau nhức đầu đáp ứng với thuốc hoặc nhiều hơn tám ngày một tháng ít nhất là ba tháng , chúng cũng được coi là đau nửa đầu kinh niên .",
+    "entities": [
+      {
+        "text": "đau nửa đầu kinh niên",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau nhức đầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cấy máy tạo nhịp tim bao gồm các chế độ tạo nhịp thất ( vvi ) hoặc buồng kép ( ddd ) .",
+    "entities": [
+      {
+        "text": "cấy máy tạo nhịp tim",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "siêu âm tim : phương pháp kiểm tra không xâm lấn này sử dụng sóng âm thanh để tạo ra hình ảnh chi tiết của trái tim đang hoạt động , cho thấy cách máu di chuyển qua tim và van tim .",
+    "entities": [
+      {
+        "text": "siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phần bị ảnh hưởng của thực quản có thể rất nhỏ , và nó có thể đã bị sót trong quá trình nội soi này .",
+    "entities": [
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "hãy hỏi nhóm chăm sóc sức khỏe từ các nguồn thông tin đáng tin cậy để có thể tìm hiểu thêm về bệnh ung thư gan và các tùy chọn điều trị .",
+    "entities": [
+      {
+        "text": "bệnh ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhức đầu khi ho ngắn thường vô hại , xảy ra khó chịu hạn chế và cuối cùng tự cải thiện .",
+    "entities": [
+      {
+        "text": "nhức đầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu dùng thuốc không hiệu quả hoặc trường hợp tăng nhãn áp nặng , bác sĩ sẽ điều trị bằng laser hoặc phẫu thuật điều trị bằng laser : tia laser giúp tăng sự lưu thông thuỷ dịch trong t ăng nhãn áp góc mở cũng như hạn chế sự tắc nghẽn dịch trong tăng nhãn áp góc đóng phẫu thuật : được chỉ định trong trường hợp tăng nhãn áp bẩm sinh , tăng nhãn áp thứ phát hoặc những trường hợp tăng nhãn áp nặng không đáp ứng với thuốc nhỏ mắt .",
+    "entities": [
+      {
+        "text": "tăng nhãn áp góc đóng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng nhãn áp bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng nhãn áp thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "điều trị bằng laser",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ăng nhãn áp góc mở",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc nhỏ mắt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bởi vì aspirin có liên quan với hội chứng reye , cẩn thận khi đưa aspirin cho trẻ em hoặc thanh thiếu niên .",
+    "entities": [
+      {
+        "text": "hội chứng reye",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa đầy hơi hiệu quả để phòng ngừa tình trạng đầy hơi hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : bạn có thể tắm nước ấm hoặc dùng đệm nóng chườm lên bụng sẽ giúp cơ thể được thư giãn , giúp hệ tiêu hóa lưu thông tốt , giảm sự khó chịu , đầy hơi .",
+    "entities": [
+      {
+        "text": "đầy hơi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một phiên bản tổng hợp của hợp chất này được gọi là idebenone đã được thử nghiệm đối với bệnh alzheimer , nhưng không hiển thị kết quả thuận lợi .",
+    "entities": [
+      {
+        "text": "bệnh alzheimer",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "idebenone",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh hình ảnh được sử dụng để chẩn đoán bệnh gan nhiễm mỡ bao gồm siêu âm , chụp cắt lớp vi tính ( ct ) và chụp cộng hưởng từ ( mri ) .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh gan nhiễm mỡ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "hội chứng tăng thông khí ( hvs ) được xem là một loại rối loạn hô hấp , dựa trên tâm lý hoặc sinh lý .",
+    "entities": [
+      {
+        "text": "hội chứng tăng thông khí",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương normal 0 false false false microsoftinternetexplorer4 định nghĩa mù màu là không có khả năng phân biệt giữa các sắc thái nhất định của màu sắc .",
+    "entities": [
+      {
+        "text": "không có khả năng phân biệt giữa các sắc thái nhất định của màu sắc",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mù màu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các phẫu thuật được sử dụng để điều trị hầu hết các trường hợp bị rách ống , dựng lại các lối thoát cho nước mắt bằng mũi bình thường trở lại .",
+    "entities": [
+      {
+        "text": "dựng lại các lối thoát cho nước mắt bằng mũi bình thường trở lại",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "những loại thuốc này được coi là điều trị đầu tiên cho tất cả các giai đoạn của thoái hóa điểm vàng ướt .",
+    "entities": [
+      {
+        "text": "thoái hóa điểm vàng ướt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các cục máu đông này có thể gây ra tắc nghẽn khi lắng đọng trong động mạch vành vốn đã hẹp .",
+    "entities": []
+  },
+  {
+    "text": "mặc dù sống chung với bệnh crohn có thể được ngăn cản , nghiên cứu đang được triển khai và triển vọng .",
+    "entities": [
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , người bệnh rubella thường gặp tổn thương hạch bạch huyết ở sau tai , vùng chẩm , cổ sau .",
+    "entities": [
+      {
+        "text": "tổn thương hạch bạch huyết",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các yếu tố khác làm tăng nguy cơ huyết khối tĩnh mạch sâu bao gồm : đã từng bị huyết khối tĩnh mạch sâu hoặc thuyên tắc phổi ; tiền sử gia đình bị huyết khối tĩnh mạch sâu hoặc thuyên tắc phổi ; tuổi tác ( khi tuổi càng lớn , nguy cơ càng tăng ) ; béo phì; một ống thông nằm trong tĩnh mạch trung tâm; rối loạn đông máu di truyền .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuyên tắc phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân sẽ được cho dùng thuốc giảm đay và thuốc nhuận tràng nhẹ để hạn chế gắng sức , rặn khi đi cầu .",
+    "entities": [
+      {
+        "text": "thuốc nhuận tràng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc giảm đay",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trong tháng mười năm 2008, các nhà nghiên cứu đã bắt đầu thử nghiệm lâm sàng ngẫu nhiên có kiểm soát giả dược của thuốc mới , hiện đang được biết đến như acr16 .",
+    "entities": [
+      {
+        "text": "kiểm soát giả dược của thuốc mới , hiện đang được biết đến như acr16",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán ghép tim đánh giá ứng viên ghép tim bằng các xét nghiệm , hình ảnh học và các cận lâm sàng khác nếu cần .",
+    "entities": [
+      {
+        "text": "xét nghiệm , hình ảnh học và các cận lâm sàng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ghép tim",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "điều trị bảo thủ một tỷ lệ cao trẻ sơ sinh với ống dẫn nước mắt bị tật bẩm sinh , tự cải thiện trong vài tháng đầu đời , sau khi hệ thống thoát đến hạn hoàn thiện hoặc liên quan đến các màng ống nasolacrimal mở ra .",
+    "entities": [
+      {
+        "text": "ống dẫn nước mắt bị tật bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các bệnh có thể dẫn đến suy tim bao gồm : bệnh mạch vành : các động mạch cung cấp máu cho tim bị tắc nghẽn bởi các chất béo ( xơ vữa động mạch ) - có thể gây đau thắt ngực hoặc gây đau tim .",
+    "entities": [
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "viêm niêm mạc trực tràng có nhiều nguyên nhân , có thể bao gồm cả bệnh lây truyền qua đường tình dục , bệnh viêm ruột và nhiễm trùng không qua đường tình dục .",
+    "entities": [
+      {
+        "text": "bệnh lây truyền qua đường tình dục",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm niêm mạc trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể thảo luận về những lợi ích và rủi ro của các chiến lược ngăn chặn hút thuốc nhiều , chẳng hạn như thuốc men , các sản phẩm thay thế nicotine và tư vấn .",
+    "entities": []
+  },
+  {
+    "text": "sử dụng công cụ này , bác sĩ có thể xem bất kỳ bất thường trong đường tiêu hóa trên và loại bỏ các mẫu mô ( sinh thiết ) .",
+    "entities": [
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu là người da đen hoặc một người do thái , có nguy cơ cao phát triển ung thư đại tràng .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mức độ nguy hiểm của nhiễm trùng huyết phụ thuộc vào yếu tố : tuổi tác , bệnh lý nền , sức khỏe tổng thể và thời gian phát hiện bệnh .",
+    "entities": [
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tiếp xúc tiếng ồn dài , liên quan đến nghe kém , tuổi tác hoặc thuốc có thể gây ra liên tục , ù cả tai the thé .",
+    "entities": [
+      {
+        "text": "ù cả tai the thé",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nghe kém",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

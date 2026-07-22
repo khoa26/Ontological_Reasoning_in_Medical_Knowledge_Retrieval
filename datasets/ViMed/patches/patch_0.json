@@ -1,0 +1,359 @@
+[
+  {
+    "text": "các khối u não xảy ra thường xuyên hơn ở người da trắng hơn là ở người của các chủng tộc khác .",
+    "entities": [
+      {
+        "text": "khối u não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc sởi sởi nếu không được phát hiện và can thiệp kịp thời , có thể gây ra các biến chứng nguy hiểm : tiêu chảy là biến chứng thường gặp nhất , tiêu chảy do bệnh sởi có thể dẫn đến tình trạng dinh dưỡng giảm sút .",
+    "entities": [
+      {
+        "text": "bệnh sởi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tác động của viêm ruột thừa cấp đối với sức khỏe đau bụng : khi bị viêm ruột thừa cấp , người bệnh đau bụng bắt đầu lan tỏa ở vùng thượng vị và vùng rốn , sau đó chuyển sang phía dưới , bên phải của vùng bụng .",
+    "entities": [
+      {
+        "text": "viêm ruột thừa cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tai biến mạch máu não gây ra một loạt những vấn đề về thần kinh : mất trí nhớ , sa sút trí tuệ và thay đổi hành vi như dễ nóng giận , trầm cảm .",
+    "entities": [
+      {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sa sút trí tuệ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mất trí nhớ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nóng giận",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "trầm cảm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một máy ảnh nhỏ cuối nội soi sẽ truyền hình ảnh cho một màn hình video cho dấu hiệu bất thường trong cổ họng .",
+    "entities": [
+      {
+        "text": "truyền hình ảnh cho một màn hình video cho dấu hiệu bất thường trong cổ họng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng ống thông sengstaken - blakemore hay các loại ống thông khác làm tăng tỉ lệ tử vong và không nên coi là điều trị đầu tay .",
+    "entities": [
+      {
+        "text": "ống thông sengstaken - blakemore",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thoát vị não màng não phân loại theo vị trí gồm : thoát vị vòm sọ , và thoát vị nền sọ .",
+    "entities": [
+      {
+        "text": "thoát vị não màng não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể khuyên nên kiểm tra hình ảnh , chẳng hạn như siêu âm , vi tính cắt lớp ( ct scan ) và chụp cộng hưởng từ ( mri ) .",
+    "entities": [
+      {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "vi tính cắt lớp",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct scan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể sử dụng ánh sáng đặc biệt ( nội soi ) để nhìn vào cổ họng được gọi là nội soi .",
+    "entities": [
+      {
+        "text": "nhìn vào cổ họng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "khó thở : điều này thường đi kèm với khó chịu ở ngực , nhưng khó thở cũng có thể xảy ra trước khi khó chịu ở ngực .",
+    "entities": [
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điện tâm đồ ( ecg ) có thể hiển thị sóng j ( osborn ) và kéo dài khoảng ( pr , qrs , qt ) .",
+    "entities": [
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân có nhịp tim không nhịp nhàng ( rung thất hoặc vô tâm thu ) cần phải hô hấp nhân tạo .",
+    "entities": [
+      {
+        "text": "hô hấp nhân tạo",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một số vấn đề y tế có thể gây ra các triệu chứng của chứng mất trí nhớ và được chữa trị , vì vậy điều quan trọng là bác sĩ xác định nguyên nhân cơ bản .",
+    "entities": [
+      {
+        "text": "triệu chứng của chứng mất trí nhớ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "khi bắt đầu nói với mọi người về chẩn đoán ung thư thực quản , sẽ có thể có được giúp đỡ .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm kết mạc dị ứng viêm kết mạc dị ứng ảnh hưởng đến cả hai mắt và là một phản ứng dị ứng do chất như phấn hoa gây ra .",
+    "entities": [
+      {
+        "text": "viêm kết mạc dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thường mất khoảng 3 đến 5 năm để các triệu chứng xuất hiện sau khi tiếp xúc với vi khuẩn gây bệnh phong .",
+    "entities": [
+      {
+        "text": "bệnh phong",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu vừa bắt đầu trải nghiệm đau đầu , gặp bác sĩ để loại trừ các rối loạn khác và để tìm điều trị hiệu quả nhất .",
+    "entities": [
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nhóm i thông liên thất lỗ nhỏ hay bệnh roger : huyết động chưa ảnh hưởng chức năng tim phổi , không triệu chứng cơ năng , ít biến chứng có khoảng 1 - 2% viêm nội tâm mạc nhiễm khuẩn , tỷ lệ tiến triển tự bít 60% .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc nhiễm khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thông liên thất lỗ nhỏ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh roger",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tiểu đường là một tình trạng mà cơ thể không thể thực hiện hoặc sử dụng đúng chất hormone điều chỉnh lượng đường trong máu .",
+    "entities": [
+      {
+        "text": "tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chương trình loại trừ uốn ván sơ sinh được triển khai từ năm 1992. từ năm 2005, việt nam đã loại trừ uốn ván sơ sinh theo quy mô huyện với tỷ lệ mắc uốn ván sơ sinh dưới 1/1000 trẻ đẻ sống .",
+    "entities": [
+      {
+        "text": "uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm khác : siêu âm ổ bụng , chụp x quang phổi giúp xác định tình trạng di căn .",
+    "entities": [
+      {
+        "text": "chụp x quang phổi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "hai kỹ thuật hình ảnh mới hơn - cắt lớp phát xạ photon ( spect ) và ( siscom ) - chính xác hơn trong việc xác định khu vực , nhưng chưa được phổ biến rộng rãi .",
+    "entities": [
+      {
+        "text": "cắt lớp phát xạ photon",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "thuật hình ảnh mới",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siscom",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "spect",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "thuốc gây khô mắt thuốc có thể gây khô mắt bao gồm : một số loại thuốc dùng để điều trị huyết áp cao , chẳng hạn như thuốc tác dụng trung ương và thuốc lợi tiểu .",
+    "entities": []
+  },
+  {
+    "text": "về phương diện sinh lý bệnh học biểu hiện lâm sàng thông liên thất trong các năm đầu ở trẻ em ( sơ sinh và trẻ còn bú ) nổi bật nhất là suy tim , suy hô hấp .",
+    "entities": [
+      {
+        "text": "thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy hô hấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với nhiều người , kháng sinh này nhắm mục tiêu vào các vi khuẩn xấu gây ra dấu hiệu và triệu chứng .",
+    "entities": [
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ sau đó sử dụng một máy bơm để tăng và xẹp bóng một vài lần , đôi khi di chuyển nó đến các địa điểm khác nhau dọc theo hệ thống ống .",
+    "entities": [
+      {
+        "text": "sử dụng một máy bơm để tăng và xẹp bóng một vài lần",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thay vì tập trung chính xác trên võng mạc , ánh sáng tập trung ở phía trước của võng mạc , kết quả là xuất hiện mờ cho các đối tượng ở xa .",
+    "entities": [
+      {
+        "text": "xuất hiện mờ cho các đối tượng ở xa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , một số thảo dược bổ sung , như bạch quả , có thể làm tăng khả năng chảy máu trong mắt .",
+    "entities": [
+      {
+        "text": "chảy máu trong mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm mạch là bệnh lý viêm các mạch máu , dẫn tới thiếu máu , hoại tử và tổn thương viêm ở các cơ quan .",
+    "entities": [
+      {
+        "text": "viêm mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiếu máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hoại tử",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa nhiễm trùng huyết nâng cao thể trạng , sức đề kháng của cơ thể , cung cấp đầy đủ dinh dưỡng và cân bằng : chế độ ăn đối với người nhiễm trùng huyết rất quan trọng .",
+    "entities": [
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

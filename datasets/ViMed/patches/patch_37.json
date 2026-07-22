@@ -1,0 +1,414 @@
+[
+  {
+    "text": "huyết áp quá cao có thể làm xơ cứng động mạch , làm giảm lưu lượng máu/oxy đến tim và có thể gây ra : đau ngực hay còn gọi là đau thắt ngực .",
+    "entities": [
+      {
+        "text": "đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh tim bẩm sinh : bệnh sẽ tiến triển thành suy tim rất nhanh nếu không được can thiệp phẫu thuật sớm .",
+    "entities": [
+      {
+        "text": "bệnh tim bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán nếu ợ nóng hoặc có các dấu hiệu và triệu chứng thường xuyên , bác sĩ có thể chẩn đoán trào ngược dạ dày thực quản ( gerd ) .",
+    "entities": [
+      {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gerd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "dấu hiệu ung thư dạ dày : đau bụng , giảm cân , nôn , buồn nôn , nuốt nghẹn , đi ngoài phân đen … các xét nghiệm chẩn đoán ung thư dạ dày : nội soi dạ dày ống mềm bấm sinh thiết : phương pháp tốt nhất chẩn đoán ung thư dạ dày .",
+    "entities": [
+      {
+        "text": "nội soi dạ dày ống mềm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đi ngoài phân đen",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bấm sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nuốt nghẹn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "giảm cân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hẹp môn vị chặn thực phẩm đến ruột non , trẻ sơ sinh với điều kiện này có thể bị táo bón .",
+    "entities": [
+      {
+        "text": "hẹp môn vị",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "táo bón",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh ung thư đại tràng triệu chứng ung thư đại tràng bao gồm : 1. đau bụng : đau bụng là một trong những triệu chứng sớm nhất và có ở 70 - 80% bệnh nhân ung thư đại tràng .",
+    "entities": [
+      {
+        "text": "bệnh ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến rubella rubella là bệnh truyền nhiễm cấp tính đường hô hấp do virus bubella thuộc họ togaviridae gây ra .",
+    "entities": [
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đau khi đi tiểu tiểu rắt , tiểu khó , tiểu không tự chủ , nước tiểu sẫm màu : đây là những triệu chứng xuất hiện đầu tiên , do bàng quang bị kích thích hay bị giảm thể tích .",
+    "entities": [
+      {
+        "text": "tiểu không tự chủ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nước tiểu sẫm màu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau khi đi tiểu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiểu rắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiểu khó",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong khi đó , các bác sĩ lâm sàng chủ yếu chẩn đoán người lớn mắc tự kỷ thông qua các quan sát và tương tác trực tiếp với người bệnh , đồng thời dựa trên khai thác tiền sử bệnh tật của bản thân và gia đình .",
+    "entities": [
+      {
+        "text": "tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đa số các cơn đau xảy ra 9 : 00 - 21 : 00 . cơn đau thường kết thúc đột ngột như khi nó bắt đầu , với cường độ giảm nhanh chóng .",
+    "entities": [
+      {
+        "text": "cơn đau thường kết thúc đột ngột như khi nó bắt đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cơn đau xảy ra 9 : 00 - 21 : 00",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cường độ giảm nhanh chóng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "những người có loại này chỉ có một hoặc một vài mảng da phẳng , màu nhợt nhạt ( bệnh phong bạch huyết ) .",
+    "entities": [
+      {
+        "text": "bệnh phong bạch huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mảng da phẳng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "màu nhợt nhạt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thuốc men : một số loại thuốc , bao gồm một số loại thuốc huyết áp , làm tăng nguy cơ huyết áp thấp .",
+    "entities": [
+      {
+        "text": "huyết áp thấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư thực quản là bệnh mà khối u ác tính đã xuất hiện từ các tế bào biểu mô của thực quản làm cho các tế bào phân chia không theo cấu trúc của cơ thể , tạo nên các khối u . đây là một trong những căn bệnh ung thư thường gặp ở đường tiêu hóa .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , hở van hai lá còn do một vài nguyên nhân sau : van hai lá bị tổn thương; dây chằng van hai lá bị tổn thương; bị một số bệnh về tim : nhồi máu cơ tim , thiếu máu cục bộ cơ tim , cơ tim phì đại , cơ tim giãn nở , … biến chứng sau nhiễm trùng như : sốt thấp khớp , viêm nội tâm mạc ; sa van hai lá ; tăng huyết áp động mạch phổi; rung tâm nhĩ ; sử dụng một số thuốc có chứa ergotamine trong thời gian dài; xạ trị ung thư ở vùng ngực .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm nội tâm mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cơ tim phì đại",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cơ tim giãn nở",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hở van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sa van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rung tâm nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ở hầu hết trường hợp , bệnh nhân chỉ bị viêm màng ngoài tim nhẹ và sớm hồi phục , chỉ cần dùng thuốc chống viêm kết hợp nghỉ ngơi .",
+    "entities": [
+      {
+        "text": "viêm màng ngoài tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc chống viêm",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "chủ vận thụ thể beta1/ beta 2 : isoproterenol isoproterenol liên kết và kích thích các thụ thể beta của tim , cơ trơn và cơ xương , mạch máu và đường tiêu hóa .",
+    "entities": [
+      {
+        "text": "chủ vận thụ thể beta1/ beta 2",
+        "type": "THUỐC"
+      },
+      {
+        "text": "isoproterenol isoproterenol",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một số nghiên cứu đã tìm thấy chế phẩm sinh học có thể làm giảm triệu chứng hội chứng ruột kích thích , chẳng hạn như đau bụng và đầy hơi , nhưng cần nghiên cứu thêm .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đầy hơi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "fap là một rối loạn hiếm gặp gây phát triển hàng ngàn khối u trong màng của đại tràng và trực tràng .",
+    "entities": [
+      {
+        "text": "fap",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khối u quá lớn không thể cắt bỏ một cách an toàn bằng nội soi thường được phẫu thuật cắt bỏ , thường là bằng cách sử dụng kỹ thuật nội soi .",
+    "entities": [
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "chủ đề : hỗ trợ sinh sản phụ khoa sản khoa tử cung tắc vòi trứng thụ tinh ống nghiệm trứng chụp x - quang thuốc cản quang",
+    "entities": [
+      {
+        "text": "chụp x - quang thuốc cản quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "thụ tinh ống nghiệm trứng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tắc vòi trứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể nhận thấy các triệu chứng của ung thư vòm họng , bao gồm : một khối u ở cổ gây ra bởi một hạch bạch huyết sưng .",
+    "entities": [
+      {
+        "text": "một khối u ở cổ gây ra bởi một hạch bạch huyết sưng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tình trạng diễn biến nặng hơn với người cao tuổi , trẻ nhỏ , đặc biệt là trẻ sơ sinh; hội chứng suy hô hấp cấp ( ards ) : suy hô hấp cấp tiến triển là vấn đề lớn nhất trong hồi sức cấp cứu với tỷ lệ dẫn đến tử vong lên tới 45% .",
+    "entities": [
+      {
+        "text": "suy hô hấp cấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật khúc xạ điều trị này sửa chữa cận thị bằng cách định hình lại độ cong của giác mạc .",
+    "entities": [
+      {
+        "text": "phẫu thuật khúc xạ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trẻ em được tiêm chủng đã được biết phát triển viêm nắp thanh quản , và vi trùng khác có thể gây ra viêm nắp thanh quản .",
+    "entities": [
+      {
+        "text": "viêm nắp thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù không chính xác rõ ràng h . pylori lây lan , nó có thể được truyền từ người sang người do tiếp xúc gần gũi , như hôn nhau .",
+    "entities": []
+  },
+  {
+    "text": "bởi vì corticosteroid uống có thể gây ra tác dụng phụ nghiêm trọng , thường dùng chúng trong một thời gian ngắn .",
+    "entities": [
+      {
+        "text": "corticosteroid uống",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đối với các trường hợp bệnh nhân có khối u tuyến yên lớn dẫn đến chèn ép lên dây thần kinh thị giác sẽ cần phải tiến hành phẫu thuật cắt bỏ thông qua mũi và xoang .",
+    "entities": [
+      {
+        "text": "u tuyến yên",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "huyết khối : rung tâm nhĩ không được điều trị có thể hình thành cục máu đông ở tâm nhĩ trái .",
+    "entities": [
+      {
+        "text": "rung tâm nhĩ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các phương pháp điều trị : nếu đau họng là một triệu chứng của một tình trạng khác hơn là một nhiễm virus hoặc vi khuẩn , phương pháp điều trị khác có thể sẽ được xem xét tùy thuộc vào việc chẩn đoán .",
+    "entities": [
+      {
+        "text": "đau họng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ngay khi cơ thể người bệnh có sự tiếp xúc đầu tiên với virus , kháng thể igm sẽ xuất hiện trong máu .",
+    "entities": []
+  }
+]

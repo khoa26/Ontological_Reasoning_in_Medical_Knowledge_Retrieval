@@ -1,0 +1,443 @@
+[
+  {
+    "text": "làm như vậy để làm mềm phân và tăng số lượng , điều này sẽ giúp bạn tránh được người phải rặn nhiều có thể làm trầm trọng thêm các triệu chứng bệnh trĩ hiện có .",
+    "entities": [
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau khi được chẩn đoán mắc bệnh ung thư thực quản , các bác sĩ sẽ bước vào đánh giá giai đoạn của bệnh ung thư với 4 giai đoạn sau : ung thư thực quản giai đoạn 1 : tế bào ung thư nằm ở lớp trên cùng của thành thực quản .",
+    "entities": [
+      {
+        "text": "bệnh ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bởi vì hai điều kiện như vậy thường liên kết với nhau , các bác sĩ thường kiểm tra viêm mống mắt hay các loại viêm màng bồ đào ở trẻ em bị viêm khớp dạng thấp .",
+    "entities": [
+      {
+        "text": "viêm khớp dạng thấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm màng bồ đào",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm mống mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh ung thư xương có những phương pháp điều trị ung thư xương chính : phẫu thuật , hóa chất và xạ trị .",
+    "entities": [
+      {
+        "text": "bệnh ung thư xương",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hóa chất",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đây là nguyên nhân phổ biến nhất của động mạch mạc treo tràng thiếu máu cục bộ cấp tính và có thể được gây ra bởi suy tim xung huyết , tim đập không đều ( loạn nhịp tim ) hay nhồi múa cơ tim .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim xung huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tim đập không đều",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhồi múa cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh thiếu máu cơ tim nguyên nhân thiếu máu cơ tim là do : sự tắc nghẽn động mạch vành do mảng xơ vữa : các mảng xơ vữa gây hẹp lòng mạch vành đến một mức độ nhất định sẽ gây thiếu máu cơ tim , xuất hiện triệu chứng đau ngực trên lâm sàng .",
+    "entities": [
+      {
+        "text": "bệnh thiếu máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thiếu máu cục bộ mạc treo mãn tính thiếu máu cục bộ mạc treo mãn tính , cũng gọi là đau thắt đường ruột , do sự tích tụ của mỡ dọc theo thành động mạch ( xơ vữa động mạch ) .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ mạc treo mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau thắt đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán xét nghiệm chẩn đoán thoái hóa điểm vàng khô có thể bao gồm : t hử nghiệm cho các khuyết tật trong trung tâm tầm nhìn .",
+    "entities": [
+      {
+        "text": "hử nghiệm cho các khuyết tật trong trung tâm tầm nhìn",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "thoái hóa điểm vàng khô",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh túi thừa thực quản túi thừa thực quản có thể gặp ở mọi lứa tuổi , chiếm tỷ lệ 1% các túi thừa ở đường tiêu hóa và 5% các bệnh nhân có biểu hiện nuốt khó hoặc bệnh lý đường tiêu hóa .",
+    "entities": [
+      {
+        "text": "bệnh túi thừa thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nuốt khó",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thử nghiệm đo áp lực thực quản , một ống mỏng thông qua mũi hoặc miệng vào thực quản để đo hiệu quả của các cơ thực quản trong quá trình nuốt .",
+    "entities": [
+      {
+        "text": "đo áp lực thực quản",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "loạn thị có thể xảy ra kết hợp với các lỗi khác khúc xạ , trong đó bao gồm : - cận thị .",
+    "entities": [
+      {
+        "text": "loạn thị",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cận thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "5 thời điểm bắt buộc phải tiêm vắc xin uốn ván cho trẻ tiêm phòng uốn ván cho bà bầu như thế nào hiệu quả nhất ?",
+    "entities": [
+      {
+        "text": "uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán các xét nghiệm để chẩn đoán mất thính lực có thể bao gồm : tổng kiểm tra xét nghiệm .",
+    "entities": [
+      {
+        "text": "tổng kiểm tra xét nghiệm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mất thính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ cũng có thể điều trị bất kỳ vấn đề y tế cơ bản , chẳng hạn như suy tim sung huyết hoặc nhịp đập của tim bất thường .",
+    "entities": [
+      {
+        "text": "suy tim sung huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của hở van ba lá thông thường , hở van ba lá không gây ra những triệu chứng gì nếu tình trạng nhẹ .",
+    "entities": [
+      {
+        "text": "hở van ba lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , ung thư bàng quang còn được điều trị bằng một số phương pháp khác như : điều trị sinh học ( điều trị bằng miễn dịch ) : phương pháp này áp dụng sau phẫu thuật lấy u qua đường niệu đạo với u ở bề mặt bàng quang , sử dụng hệ thống miễn dịch sẵn có để chống lại tế bào ung thư .",
+    "entities": [
+      {
+        "text": "phẫu thuật lấy u qua đường niệu đạo",
+        "type": "THUỐC"
+      },
+      {
+        "text": "điều trị bằng miễn dịch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư bàng quang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "điều trị sinh học",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể đề nghị quy trình nội soi để kiểm tra các tĩnh mạch ở thực quản và dạ dày có dấu hiệu chảy máu .",
+    "entities": [
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các tế bào bọt khi kết hợp với nhau tạo thành các vệt lipid chứa đầy chất béo , sẽ vỡ ra khi quá tải và hình thành các mảng xơ vữa .",
+    "entities": []
+  },
+  {
+    "text": "ví dụ về bức xạ ion hó a bao gồm trị liệu phóng xạ được sử dụng để điều trị ung thư và phơi nhiễm bức xạ gây ra bởi bom nguyên tử .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ hội chứng guillain - barre có thể ảnh hưởng đến tất cả các nhóm tuổi , nhưng có nguy cơ lớn hơn nếu tuổi thanh niên .",
+    "entities": [
+      {
+        "text": "hội chứng guillain - barre",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán để xác định xem có đục thủy tinh thể , bác sĩ sẽ thực hiện kiểm tra mắt có thể bao gồm : yêu cầu đọc một biểu đồ mắt .",
+    "entities": [
+      {
+        "text": "yêu cầu đọc một biểu đồ mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "kiểm tra mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu và triệu chứng của bệnh loạn thị có thể bao gồm : - bóp méo trong các phần của lĩnh vực thị giác .",
+    "entities": [
+      {
+        "text": "bóp méo trong các phần của lĩnh vực thị giác",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các bác sĩ thường kê toa thuốc ức chế bơm proton để thúc đẩy việc chữa lành vết loét dạ dày tá tràng .",
+    "entities": [
+      {
+        "text": "thuốc ức chế bơm proton",
+        "type": "THUỐC"
+      },
+      {
+        "text": "loét dạ dày tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc bệnh xơ vữa động mạch xơ vữa động mạch có thể dẫn đến các bệnh lý sau : bệnh động mạch vành ( cad ) , bệnh động mạch cảnh , bệnh động mạch ngoại vi , phình mạch , suy thận .",
+    "entities": [
+      {
+        "text": "bệnh động mạch ngoại vi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh động mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh động mạch cảnh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phình mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cad",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của thông liên thất chế độ sinh hoạt : tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị .",
+    "entities": [
+      {
+        "text": "thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tránh thuốc nhỏ mắt với loại dùng cho mắt đỏ , vì chúng có thể làm trầm trọng thêm các triệu chứng khô mắt .",
+    "entities": [
+      {
+        "text": "triệu chứng khô mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thuốc nhỏ mắt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "mắt đỏ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trẻ em : thiếu máu nặng , co giật , hôn mê , hạ đường huyết , suy hô hấp , toan chuyển hóa .",
+    "entities": [
+      {
+        "text": "toan chuyển hóa",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thiếu máu nặng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hạ đường huyết",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy hô hấp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "co giật",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hôn mê",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng sau phẫu thuật cắt ruột thừa : những biến chứng có thể gặp đó là : chảy máu vết mổ hoặc ổ bụng , nhiễm trùng vết mổ hoặc ổ bụng , dịch áp xe tồn lưu , tổn thương tạng rỗng , dính ruột sau mổ , các biến chứng liên quan đến gây mê hồi sức như thuyên tắc mạch , thuyên tắc phổi , .",
+    "entities": [
+      {
+        "text": "phẫu thuật cắt ruột thừa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tổn thương tạng rỗng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "dịch áp xe tồn lưu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thuyên tắc mạch",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thuyên tắc phổi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "dính ruột",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "viêm nhiễm xảy ra trong bệnh crohn làm cho các tế bào trong vùng của đường ruột bị ảnh hưởng tiết ra một lượng lớn nước và muối .",
+    "entities": [
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "pegol certolizumab được chỉ định cho những người crohn trung bình đến nặng , người đã không được giúp đỡ bởi phương pháp điều trị khác .",
+    "entities": [
+      {
+        "text": "pegol certolizumab",
+        "type": "THUỐC"
+      },
+      {
+        "text": "crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

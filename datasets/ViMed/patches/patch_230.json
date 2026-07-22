@@ -1,0 +1,383 @@
+[
+  {
+    "text": "uống thuốc thông mũi available toa hoặc bằng cách kê đơn , ví dụ bao gồm các loại thuốc có chứa pseudoephedrin ( actifed , sudafed , … ) và phenylephrine ( neo - synephrine , … ) .",
+    "entities": [
+      {
+        "text": "thuốc có chứa pseudoephedrin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc thông mũi available",
+        "type": "THUỐC"
+      },
+      {
+        "text": "neo - synephrine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phenylephrine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "actifed",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sudafed",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thông tim chỉ được chỉ định để đánh giá động mạch vành ( cad ) trước khi phẫu thuật sửa chữa , có thể xác nhận tăng áp lực nhĩ trái và áp lực động mạch phổi , chênh áp qua van hai lá và vùng van .",
+    "entities": [
+      {
+        "text": "thông tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc bởi vì nhiều vết loét xuất phát từ vi khuẩn h . pylori , các bác sĩ sử dụng một cách tiếp cận theo hai hướng để điều trị loét dạ dày tiêu diệt vi khuẩn .",
+    "entities": [
+      {
+        "text": "loét dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số trường hợp tăng huyết áp nguyên phát có thể xuất hiện dấu hiệu như : đau đầu âm ỉ . chóng mặt .",
+    "entities": [
+      {
+        "text": "tăng huyết áp nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau đầu âm ỉ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các hội chứng thuần túy vận động tương tự bệnh tế bào thần kinh vận động cũng có thể xảy ra trong bệnh gamma đơn dòng hoặc các bệnh thần kinh vận động đa ổ với tắc nghẽn dẫn truyền .",
+    "entities": [
+      {
+        "text": "bệnh tế bào thần kinh vận động",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh thần kinh vận động đa ổ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa u đại tràng là một cụm nhỏ các tế bào hình thành trên lớp lót của đại tràng .",
+    "entities": [
+      {
+        "text": "u đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số phương pháp tiếp cận có thể kiểm soát các dấu hiệu và triệu chứng , nhưng bệnh huntington cuối cùng sẽ gây ra khuyết tật thể chất và tinh thần .",
+    "entities": [
+      {
+        "text": "khuyết tật thể chất và tinh thần",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết mọi người yêu cầu bổ sung hoặc thay thế thuốc , như thuốc chẹn kênh canxi hoặc thuốc chẹn beta .",
+    "entities": [
+      {
+        "text": "thuốc chẹn kênh canxi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chẹn beta",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của phong chế độ sinh hoạt : tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị .",
+    "entities": [
+      {
+        "text": "phong",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị bằng thuốc không thể chữa khỏi hội chứng qt kéo dài , nhưng có thể ngăn ngừa biến chứng và xử lý kịp thời khi rối loạn nhịp tim .",
+    "entities": [
+      {
+        "text": "hội chứng qt kéo dài",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nhưng đối với những người có trào ngược dạ dày thực quản ( gerd ) , các biện pháp khắc phục có thể chỉ giảm tạm thời .",
+    "entities": [
+      {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gerd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến bệnh van tim bệnh van tim có thể có ngay từ khi mới sinh ( bẩm sinh ) .",
+    "entities": [
+      {
+        "text": "bệnh van tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra này cũng có thể giúp xác định các dấu hiệu của bệnh khác , chẳng hạn như bệnh tim , tiểu đường hay b ất thường tuyến giáp và bất kỳ tác dụng phụ của thuốc có thể trùng với chứng sa sút trí tuệ mất trí nhớ .",
+    "entities": [
+      {
+        "text": "chứng sa sút trí tuệ mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tác dụng phụ của thuốc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ất thường tuyến giáp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "crohn có thể xảy ra ở mọi lứa tuổi , nhưng có khả năng để phát triển các điều kiện khi còn trẻ .",
+    "entities": [
+      {
+        "text": "crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa viêm họng là đau , s cratchiness hoặc kích ứng cổ họng thường nặng hơn khi bạn nuốt .",
+    "entities": [
+      {
+        "text": "cratchiness hoặc kích ứng cổ họng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các ống phải được giữ tại chỗ cho đến khi sưng cổ họng đã giảm , đôi khi trong nhiều ngày .",
+    "entities": [
+      {
+        "text": "sưng cổ họng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân nhiễm trùng máu nên ăn các loại thực phẩm : giàu vitamin đặc biệt là vitamin c , chất sắt , giàu protein , chất xơ và khoáng chất .",
+    "entities": [
+      {
+        "text": "nhiễm trùng máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay vì làm một vết mổ , bác sĩ phẫu thuật sử dụng một camera cực nhỏ và các công cụ nhỏ khác chèn vào qua lỗ mũi để vào hệ thống ống dẫn .",
+    "entities": [
+      {
+        "text": "phẫu thuật sử dụng một camera cực nhỏ và các công cụ nhỏ khác chèn vào qua lỗ mũi để vào hệ thống ống dẫn",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu ruột thừa bị viêm hoặc tắc , barit sẽ không đi qua được và đó là dấu hiệu để chẩn đoán viêm ruột thừa cấp .",
+    "entities": [
+      {
+        "text": "viêm ruột thừa cấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hoặc , những người có hội chứng lynch có thể có khối u ở các cơ quan khác , bao gồm vú , dạ dày , ruột , đường tiết niệu và buồng trứng cũng như trong đại tràng .",
+    "entities": [
+      {
+        "text": "hội chứng lynch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu các van suy yếu hoặc bị hư hỏng , máu có thể chảy ngược lại và đọng lại trong tĩnh mạch , cuối cùng khiến nó bị sưng và to ra ( giãn tĩnh mạch ) .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chấn thương nặng , như g ãy xương hộp sọ , có thể gây ra những bất ổn hay thiệt hại đến cấu trúc tai trong , bao gồm màng nhĩ .",
+    "entities": []
+  },
+  {
+    "text": "điều trị ngoại khoa : phẫu thuật mở dạ dày hoặc cắt cơ sụn nhẫn gấp đôi khi phải thực hiện ở các trường hợp tổn thương hành tủy nặng phẫu thuật mở khí quản có thể là cần thiết nếu các cơ hô hấp bị tác động nặng .",
+    "entities": [
+      {
+        "text": "phẫu thuật mở khí quản",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật mở dạ dày",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ngoại khoa",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một số người bị co giật cơ mạnh , đau đớn khắp toàn thân , thậm chí rách cơ và gãy xương .",
+    "entities": [
+      {
+        "text": "co giật cơ mạnh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "gãy xương",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đớn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rách cơ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đôi khi người lớn mắc tự kỷ có thể được điều trị bằng liệu pháp hành vi nhận thức , bằng lời nói .",
+    "entities": [
+      {
+        "text": "liệu pháp hành vi nhận thức",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : hiểu về các phương pháp điều trị ung thư bàng quang biến chứng của viêm bàng quang phẫu thuật cắt toàn bộ bàng quang trong điều trị ung thư bàng quang xâm lấn cơ chủ đề : điều trị ung thư bàng quang ung thư bàng quang viêm bàng quang ung thư bàng quang tiết niệu triệu chứng ung thư bàng quang",
+    "entities": [
+      {
+        "text": "phẫu thuật cắt toàn bộ bàng quang",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư bàng quang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm bàng quang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán bác sĩ mắt có thể sử dụng những công cụ này trong việc kiểm tra mắt : - giác mạc kế .",
+    "entities": [
+      {
+        "text": "giác mạc kế",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "gầy sút cân : chán ăn , không có cảm giác thèm ăn dẫn tới sút cân hoặc cũng có thể sút cân không rõ nguyên nhân .",
+    "entities": [
+      {
+        "text": "gầy sút cân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa viêm giác mạc là tình trạng viêm mô hình vòm trên mặt trước của mắt bao phủ các đồng tử và mống mắt .",
+    "entities": [
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cabg - phẫu thuật bắt cầu chủ vành cabg là phương pháp hữu hiệu để điều trị trường hợp hẹp động mạch vành nặng , cải thiện đáng kể lưu lượng máu cung cấp cho tim và làm giảm đau thắt ngực .",
+    "entities": [
+      {
+        "text": "phẫu thuật bắt cầu chủ vành",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cabg",
+        "type": "THUỐC"
+      }
+    ]
+  }
+]

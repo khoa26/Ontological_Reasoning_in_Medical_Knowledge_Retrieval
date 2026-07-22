@@ -1,0 +1,408 @@
+[
+  {
+    "text": "thuốc kháng acid , như maalox , mylanta , gelusil , rolaids và tums , có thể cung cấp cứu trợ nhanh chóng .",
+    "entities": [
+      {
+        "text": "mylanta",
+        "type": "THUỐC"
+      },
+      {
+        "text": "gelusil",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rolaids",
+        "type": "THUỐC"
+      },
+      {
+        "text": "maalox",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tums",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ mắt sẽ kiểm tra lại mắt để tìm xuất hiện đốm gây ra bởi drusen vàng ở những người bị thoái hóa điểm vàng .",
+    "entities": [
+      {
+        "text": "kiểm tra lại mắt để tìm xuất hiện đốm gây ra bởi drusen vàng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "thoái hóa điểm vàng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh u lympho tế bào t nguyên nhân u lympho tế bào t chưa được xác định rõ ràng .",
+    "entities": [
+      {
+        "text": "bệnh u lympho tế bào t",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chảy máu trực tràng có thể xảy ra với các bệnh khác , bao gồm ung thư đại trực tràng và ung thư hậu môn .",
+    "entities": [
+      {
+        "text": "ung thư đại trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy máu trực tràng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ung thư hậu môn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tại vị trí đó , vi khuẩn tạo ra một lớp giả mạc dai , cứng , màu xám /trắng/vàng được tạo thành từ các tế bào chết , vi khuẩn và các chất khác .",
+    "entities": [
+      {
+        "text": "giả mạc",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tùy chọn bao gồm sử dụng nội soi và các công cụ đặc biệt để mở rộng thực quản và đặt ống kim loại ( stent ) để thực quản mở .",
+    "entities": [
+      {
+        "text": "đặt ống kim loại",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "stent",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "có thể trải qua các xét nghiệm để xác định xem đang bị dị ứng với một loại thực phẩm hoặc tác nhân gây dị ứng khác ( chất gây dị ứng ) có thể sẽ gây viêm thực quản bạch cầu ái toan .",
+    "entities": [
+      {
+        "text": "viêm thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh chụp bằng cách sử dụng chụp cắt lớp vi tính ( ct ) hoặc chụp ảnh cộng hưởng từ ( mri ) có thể hiển thị chi tiết của xoang mũi và khu vực .",
+    "entities": [
+      {
+        "text": "chụp ảnh cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc viêm giác mạc không do nhiễm trùng điều trị viêm giác mạc không do nhiễm trùng thay đổi tùy theo nguyên nhân .",
+    "entities": [
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mri tim : để xác định mức độ nghiêm trọng của bệnh và đánh giá kích thước cũng như chức năng của tâm thất phải .",
+    "entities": [
+      {
+        "text": "mri tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "gần như tất cả những người trải nghiệm một số bệnh ung thư , dấu hiệu thường gặp và triệu chứng của đau khổ sau khi chẩn đoán có thể bao gồm buồn phiền , tức giận , khó tập trung , khó ngủ và chán ăn .",
+    "entities": [
+      {
+        "text": "khó tập trung",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "buồn phiền",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tức giận",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó ngủ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đây là thử nghiệm đầu tiên thực hiện để chẩn đoán một cơn đau tim , đó là nguyên nhân phổ biến nhất của rung thất .",
+    "entities": [
+      {
+        "text": "cơn đau tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "h . pylori là nguyên nhân phổ biến nhất , nhưng không phải là duy nhất của loét dạ dày tá tràng .",
+    "entities": [
+      {
+        "text": "loét dạ dày tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu phải di chuyển đường dài ( đi máy bay , tàu , ô tô…kéo dài trên 6 giờ ) và có yếu tố nguy cơ bị thuyên tắc huyết khối tĩnh mạch , bệnh nhân nên thường xuyên vận động co duỗi chân và đeo tất áp lực y khoa đến gối , với mức áp lực 15 - 30 mmhg .",
+    "entities": [
+      {
+        "text": "thuyên tắc huyết khối tĩnh mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đeo tất áp lực y khoa đến gối",
+        "type": "THUỐC"
+      },
+      {
+        "text": "vận động co duỗi chân",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù hội chứng horner có thể là một dấu hiệu của một trong những vấn đề này , trong một số tình huống , nguyên nhân cụ thể không thể được tìm thấy .",
+    "entities": [
+      {
+        "text": "hội chứng horner",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu viêm giác mạc không đáp ứng với thuốc , hoặc nếu nó gây tổn thương vĩnh viễn đến giác mạc làm suy yếu đáng kể tầm nhìn , bác sĩ có thể đề nghị được ghép giác mạc .",
+    "entities": [
+      {
+        "text": "suy yếu đáng kể tầm nhìn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ghép giác mạc",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , một phần ba đến một nửa số người bị huyết khối tĩnh mạch sâu sẽ có các biến chứng lâu dài do cục máu đông gây tổn hại đến các van trong tĩnh mạch , được gọi là hội chứng sau huyết khối .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng sau huyết khối",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mang thai là không nên , tuy nhiên , nếu tổn thương tim hoặc phổi nghiêm trọng xảy ra trước khi phẫu thuật .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , bác sĩ cũng có thể thực hiện một vài xét nghiệm máu để kiểm tra : nguyên nhân do thiếu máu cục bộ; protein và enzyme chỉ xuất hiện trong máu khi cơ tim bị tổn thương; cholesterol cao .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "bệnh ung thư họng chỉ giới hạn ở bề mặt của cổ họng hoặc các dây thanh có thể được điều trị bằng phẫu thuật nội soi .",
+    "entities": [
+      {
+        "text": "điều trị bằng phẫu thuật nội soi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh ung thư họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thực hiện theo kế hoạch điều trị nếu bị bệnh tiểu đường hoặc điều kiện y tế khác có thể làm tăng nguy cơ bị đục thủy tinh thể .",
+    "entities": [
+      {
+        "text": "đục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "rửa tay thường xuyên và tránh tiếp xúc với những người có bệnh nhiễm trùng đường hô hấp như cảm lạnh .",
+    "entities": [
+      {
+        "text": "bệnh nhiễm trùng đường hô hấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "prostaglandin : prostaglandin ( pgs ) có đặc tính giãn mạch và kháng tiểu cầu mạnh có nhiều nghiên cứu chỉ ra có lợi ích trong trường hợp hội chứng raynaud nặng , iloprost đường truyền tĩnh mạch và pge1 như bosentan là chất thường được sử dụng nhất .",
+    "entities": [
+      {
+        "text": "hội chứng raynaud",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "prostaglandin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "iloprost",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bosentan",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu đang nhập viện với một vết loét chảy máu , dùng thuốc ức chế bơm proton tĩnh mạch làm giảm cơ hội xuất huyết sẽ tái diễn .",
+    "entities": [
+      {
+        "text": "thuốc ức chế bơm proton",
+        "type": "THUỐC"
+      },
+      {
+        "text": "loét chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh thấp tim ở trẻ em tổng quan bệnh thấp tim ở trẻ em bệnh thấp tim là gì ?",
+    "entities": [
+      {
+        "text": "bệnh thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số cách để giảm căng thẳng là tập thể dục thường xuyên , tham gia nhóm hỗ trợ và thử các kỹ thuật thư giãn , chẳng hạn như yoga .",
+    "entities": [
+      {
+        "text": "yoga",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đối với những người có viêm đại tràng màng giả , các triệu chứng tiêu chảy có thể trở lại và yêu cầu lặp đi lặp lại điều trị .",
+    "entities": [
+      {
+        "text": "viêm đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với nam giới trưởng thành , cần phải tiến hành phẫu thuật ngay nếu : tinh hoàn chưa bị ung thư hóa thì tiến hành phẫu thuật hạ tinh hoàn , kết hợp với cân bằng nội tiết tố tinh hoàn bị ung thư hóa thì cần cắt bỏ tinh hoàn , nạo vét hạch kết hợp với điều trị chống ung thư hỗ trợ xem thêm : cấu tạo , trọng lượng tinh hoàn &amp; cơ chế sinh tinh mổ nội soi điều trị tinh hoàn ẩn dấu hiệu trẻ bị ẩn tinh hoàn tinh hoàn lạc chỗ có sinh con được không ?",
+    "entities": [
+      {
+        "text": "phẫu thuật hạ tinh hoàn",
+        "type": "THUỐC"
+      },
+      {
+        "text": "mổ nội soi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa đau đầu từng cơn hay chu kỳ ( cluster ) là một trong những loại đau đầu nhất .",
+    "entities": [
+      {
+        "text": "đau đầu từng cơn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cluster",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng có nguy cơ mắc bệnh tim to , bao gồm : người mắc các bệnh lý về tim mạch , huyết áp , mỡ trong máu , đái tháo đường .",
+    "entities": [
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

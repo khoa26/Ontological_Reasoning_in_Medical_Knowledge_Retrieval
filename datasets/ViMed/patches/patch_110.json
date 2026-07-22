@@ -1,0 +1,402 @@
+[
+  {
+    "text": "bác sĩ có thể nghi ngờ lồng ruột hoặc loại khác của tắc ruột nếu có một khối ở bụng , cùng với cơn đau liên tục hoặc khóc không nguôi ngoai .",
+    "entities": [
+      {
+        "text": "có một khối ở bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cơn đau liên tục",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lồng ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tắc ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không nên sử dụng kem steroid không kê đơn trong hơn một tuần trừ khi có chỉ định của bác sĩ vì nó có thể khiến da bị mỏng .8.3. cắt trĩ nếu cục máu đông ( huyết khối ) đã hình thành trong bệnh trĩ ngoại , bác sĩ có thể loại bỏ cục máu đông bằng một vết mổ và dẫn lưu đơn giản , giúp giảm đau nhanh chóng .",
+    "entities": [
+      {
+        "text": "bệnh trĩ ngoại",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị viêm kết mạc do virus không có điều trị cho hầu hết các trường hợp viêm kết mạc do virus .",
+    "entities": [
+      {
+        "text": "viêm kết mạc do virus",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thoái hóa khớp háng do biến chứng của các bệnh khác như gout , đái tháo đường , bệnh huyết sắc tố , .",
+    "entities": [
+      {
+        "text": "thoái hóa khớp háng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh huyết sắc tố",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gout",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến nhiễm trùng huyết nhiễm trùng huyết cấp tính có nguyên nhân từ vi khuẩn lưu hành trong máu dẫn đến suy đa phủ tạng , sốc nhiễm khuẩn với tỉ lệ tử vong rất cao .",
+    "entities": [
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhức đầu : tình trạng mất nước hoặc xuất hiện các chất kích thích như nấm men trong hệ thống tiêu hóa sẽ làm tăng nguy cơ gây đau nhức , váng đầu liên tục .",
+    "entities": [
+      {
+        "text": "váng đầu liên tục",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhức đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau nhức",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "không làm như vậy có thể dẫn đến nhiễm trùng định kỳ và đề kháng của vi khuẩn với thuốc kháng sinh .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "là phương pháp điều trị hỗ trợ cho xạ trị hoặc áp dụng nếu xạ trị và phẫu thuật không còn thích hợp bởi tình trạng bệnh nhân đã diễn biến nghiêm trọng hơn .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các bác sĩ thường sử dụng corticosteroid chỉ nếu có bệnh viêm ruột trung bình đến nặng mà không đáp ứng với điều trị khác .",
+    "entities": [
+      {
+        "text": "corticosteroid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những tác động của hội chứng ruột kích thích có thể cảm thấy không sống cuộc sống với đầy đủ , dẫn đến chán nản hoặc thậm chí trầm cảm .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chán nản",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "trầm cảm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , một số phương pháp điều trị bổ sung và thay thế có thể giúp đối phó với chẩn đoán và với các tác dụng phụ của điều trị ung thư cổ họng .",
+    "entities": [
+      {
+        "text": "ung thư cổ họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm mumps igg : kháng thể igg tồn tại trong máu suốt đời kể cả khi bệnh được điều trị khỏi .",
+    "entities": [
+      {
+        "text": "xét nghiệm mumps igg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ví dụ , thuốc kháng sinh có thể điều trị nhiễm trùng do vi khuẩn , nhưng nó sẽ không giúp nhiễm virus , chẳng hạn như cảm lạnh và cúm .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cảm lạnh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cúm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh võng mạc do tia xạ có thể là biến chứng của các trường hợp xạ trị các khối u vùng đầu mặt cổ .",
+    "entities": [
+      {
+        "text": "bệnh võng mạc do tia xạ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải nhịp tim chậm một số yếu tố làm tăng nguy cơ mắc nhịp tim chậm , bao gồm : tuổi lớn hơn; huyết áp cao ; hút thuốc; sử dụng rượu nặng; sử dụng ma túy bất hợp pháp; căng thẳng và lo lắng .",
+    "entities": [
+      {
+        "text": "nhịp tim chậm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh tăng huyết áp nguyên phát để ngăn ngừa bệnh tăng huyết áp nguyên phát xảy ra , cần thực hiện các biện pháp sau : chế độ dinh dưỡng khoa học , ăn nhiều trái cây , rau củ quả , thực phẩm ít chất béo , thực phẩm giàu kali .",
+    "entities": [
+      {
+        "text": "bệnh tăng huyết áp nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điện tâm đồ ( ecg hoặc ekg ) xét nghiệm này còn được gọi là ecg hoặc ekg để ghi lại các tín hiệu điện hoạt động của tim và cho thấy tình trạng viêm của tim hoặc chức năng tim kém .",
+    "entities": [
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ecg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ekg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh u tuyến yên để phòng ngừa bệnh u tuyến yên , trước hết cần thay đổi những thói quen sinh hoạt và phong cách sống hàng ngày như sau : thăm khám bác sĩ thường xuyên để có thể kịp thời phát hiện và điều trị bệnh .",
+    "entities": [
+      {
+        "text": "bệnh u tuyến yên",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi hẹp nhẹ bệnh cảnh sẽ giống như thông liên thất có cao áp phổi còn nếu hẹp nặng có thể có tím , khó có thể phân biệt với tứ chứng fallot .",
+    "entities": [
+      {
+        "text": "thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tứ chứng fallot",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm máu : nồng độ creatinin kinase có thể tăng nhẹ nhưng không bao giờ tăng cao như ở một số bệnh loạn dưỡng cơ .",
+    "entities": [
+      {
+        "text": "bệnh loạn dưỡng cơ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các phương pháp chẩn đoán hình ảnh như chụp xquang lồng ngực , siêu âm giúp tìm và phát hiện các bất thường về tim để điều trị .",
+    "entities": [
+      {
+        "text": "chụp xquang lồng ngực",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu mắt đã bị chảy nước và bị rò rỉ hoặc là liên tục bị kích thích hoặc bị nhiễm bệnh , gặp bác sĩ .",
+    "entities": [
+      {
+        "text": "mắt đã bị chảy nước và bị rò rỉ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "khi chất lỏng thu thập bên dưới nó , võng mạc có thể lột vỏ ra khỏi lớp cơ bản của mạch máu .",
+    "entities": []
+  },
+  {
+    "text": "khi bị thiểu sản men răng kéo dài , phần chân răng sẽ bị mòn sát tới nướu , có thể gây ra tình trạng tuột nướu , tạo điều kiện cho bệnh sâu răng phát triển .",
+    "entities": [
+      {
+        "text": "thiểu sản men răng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh sâu răng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng và dấu hiệu của bệnh sán máng là : sốt ; đau bụng ( vùng gan/ lá lách ) ; tiêu chảy ra máu hoặc có máu trong phân hoặc nước tiểu ; ho ; đau đầu ; phát ban ; nhức mỏi cơ thể .",
+    "entities": [
+      {
+        "text": "tiêu chảy ra máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhức mỏi cơ thể",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "máu trong phân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh sán máng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nước tiểu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phát ban",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ăn vô độ tâm thần ( bulimia ) thường ăn một lượng lớn thực phẩm trong một thời gian ngắn và sau đó cố gắng để thoát khỏi tình trạng calo thừa bằng cách ói mửa hoặc tập thể dục quá mức .",
+    "entities": [
+      {
+        "text": "tâm thần",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bulimia",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ói mửa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "khi một người có người thân mắc bệnh thiếu men g6pd thì người này rất có thể cũng đang mang gen bệnh .",
+    "entities": [
+      {
+        "text": "bệnh thiếu men g6pd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "lao động nặng kéo dài có thể gây thiệt hại cho túi mật , tăng khả năng phát triển viêm túi mật trong những tuần sau khi sinh .",
+    "entities": [
+      {
+        "text": "viêm túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng nếu có viêm mũi không dị ứng , có thể có triệu chứng đến và đi quanh năm .",
+    "entities": [
+      {
+        "text": "viêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ các yếu tố có thể làm tăng nguy cơ ung thư cổ họng , bao gồm : sử dụng thuốc lá , bao gồm cả hút thuốc và nhai thuốc lá .",
+    "entities": []
+  }
+]

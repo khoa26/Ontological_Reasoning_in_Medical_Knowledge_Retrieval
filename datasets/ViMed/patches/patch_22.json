@@ -1,0 +1,356 @@
+[
+  {
+    "text": "đối phó và hỗ trợ nếu điều trị ung thư gây ra tổn thất toàn bộ tầm nhìn ở một mắt , chẳng hạn như sẽ xảy ra khi mắt được loại bỏ , nó vẫn có thể làm hầu hết mọi thứ đã có thể làm với mắt lành .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thử nghiệm di truyền nếu có lịch sử gia đình mắc bệnh ung thư đại trực tràng , có thể là một ứng cử viên để thử nghiệm di truyền .",
+    "entities": [
+      {
+        "text": "bệnh ung thư đại trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hẹp bao quy đầu : bao quy đầu bị hẹp không thể co lại được làm tăng nguy cơ ung thư dương vật hơn 10 lần .",
+    "entities": [
+      {
+        "text": "ung thư dương vật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hẹp bao quy đầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hiện tượng xuất huyết thường rỉ rả , từng ít một nên lúc đầu không làm ảnh hưởng đến sức khỏe người bệnh .",
+    "entities": [
+      {
+        "text": "xuất huyết thường rỉ rả",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tympanometer là một thiết bị đưa vào ống tai , biện pháp phản ứng của màng nhĩ với những thay đổi nhỏ trong áp suất không khí .",
+    "entities": [
+      {
+        "text": "tympanometer",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "sẹo gan cản trở khả năng của gan xử lý vitamin d và canxi , cả hai đều là thiết yếu cho sự phát triển xương và sức khỏe .",
+    "entities": [
+      {
+        "text": "vitamin d",
+        "type": "THUỐC"
+      },
+      {
+        "text": "canxi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đường lây truyền bệnh than bệnh than lây truyền chủ yếu qua ba con đường : qua vết thương hở trên da qua đường hô hấp qua đường tiêu hóa cả ba con đường này đều có nguyên nhân trực tiếp là việc nhiễm phải vi khuẩn từ mô động vật , da , xương , lông , các sản phẩm có nguồn gốc từ động vật nhiễm bệnh than thông qua việc tiếp xúc , sờ phải , hít phải và ăn phải những mầm bệnh .",
+    "entities": [
+      {
+        "text": "bệnh than",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng nhiều người bị nhiễm h . pylori không bao giờ có bất kỳ dấu hiệu hoặc triệu chứng và không bao giờ phát triển các biến chứng .",
+    "entities": [
+      {
+        "text": "nhiễm h . pylori",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra và chẩn đoán u nang tụy được chẩn đoán thường xuyên hơn so với trong quá khứ , nhưng không phải vì có nhiều người hơn .",
+    "entities": [
+      {
+        "text": "u nang tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "dinh dưỡng bác sĩ có thể đề nghị một chế độ ăn uống đặc biệt thông qua một ống cho ăn hoặc các chất dinh dưỡng tiêm vào tĩnh mạch để điều trị bệnh crohn .",
+    "entities": [
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kháng thể này gây nên các tế bào đặc biệt gọi là tế bào mast trong lớp nhầy của mắt và đường hô hấp để giải phóng các chất gây viêm , trong đó có dị ứng .",
+    "entities": [
+      {
+        "text": "dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tùy thuộc vào nguyên nhân nghi ngờ chứng ù tai , có thể cần xét nghiệm hình ảnh như ct hoặc mri .",
+    "entities": [
+      {
+        "text": "xét nghiệm hình ảnh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "loại viêm nội tâm mạc thường đi kèm với cấy máu âm tính mặc dù chưa sử dụng kháng sinh loại viêm nội tâm mạc này thường do các vi khuẩn khó nuôi cấy như các biến thể dinh dưỡng , các vi khuẩn gram âm thuộc nhóm hacek ( haemophilus parainfluenzae , h . aphrophilus , h . paraphrophilus , h . influenzae , actinobacillus actinomycetemcomitans , cardiobacterium hominis , eikenella corrodens , kingella kingae và k . dentrificans ) , brucella và nấm .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể đúng các điều kiện với kính đọc sách hay kính thuốc không cần toa thuốc hoặc kính áp tròng .",
+    "entities": [
+      {
+        "text": "kính áp tròng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đau đớn làm cho rất khó chịu không thể ngồi yên hoặc tìm một vị trí thoải mái là một cấp cứu y tế .",
+    "entities": [
+      {
+        "text": "đau đớn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chủ đề : thai ngoài tử cung mang thai chậm kinh tinh trùng tử cung sinh con mang thai 3 tháng đầu thụ tinh trứng thai sản",
+    "entities": [
+      {
+        "text": "thai ngoài tử cung",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chậm kinh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thuê một người nào đó giúp đỡ nhiệm vụ gia đình , với sự chăm sóc thể chất người bị bệnh huntington là một lựa chọn .",
+    "entities": [
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đôi khi thuốc chẹn beta được chỉ định kết hợp với thuốc chống trầm cảm , và sự kết hợp này đôi khi hiệu quả hơn thuốc dùng đơn lẻ .",
+    "entities": [
+      {
+        "text": "thuốc chống trầm cảm",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chẹn beta",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thay thế thuốc những người bị đau dạ dày không viêm loét thường tìm đến thuốc bổ sung và thay thế để giúp đối phó .",
+    "entities": [
+      {
+        "text": "đau dạ dày không viêm loét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi khám họng có thể thấy họng đỏ , amidan có giả mạc màu trắng ở một bên , có thể sờ thấy hạch cổ nhỏ , di động và không đau .",
+    "entities": [
+      {
+        "text": "họng đỏ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phục hồi sau khi phẫu thuật , bác sĩ có thể kê toa thuốc chống co giật , như phenytoin ( dilantin ) , để kiểm soát hoặc ngăn chặn các cơn động kinh sau chấn thương .",
+    "entities": [
+      {
+        "text": "để kiểm soát hoặc ngăn chặn các cơn động kinh sau chấn thương",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bác sĩ có thể kê toa thuốc chống co giật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phenytoin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "dilantin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng trong một số trường hợp viêm thanh quản do nhiễm trùng , nhiễm trùng có thể lan truyền đến các bộ phận khác của đường hô hấp .",
+    "entities": [
+      {
+        "text": "viêm thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chọc dịch ối nếu xét nghiệm máu cho thấy mức afp cao , nhưng kết quả siêu âm là bình thường , có thể sẽ thực hiện chọc dịch ối để kiểm tra .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "một kỹ thuật hình ảnh được gọi là lập bản đồ não , thường được sử dụng trước khi phẫu thuật động kinh .",
+    "entities": [
+      {
+        "text": "phẫu thuật động kinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "kỹ thuật hình ảnh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "lập bản đồ não",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị thông liên nhĩ hiệu quả điều trị thông liên nhĩ có 3 biện pháp chủ yếu : điều trị nội khoa : được áp dụng cho các bệnh nhân chưa có chỉ định can thiệp hoặc không còn chỉ định phẫu thuật gồm : thuốc lợi tiểu , ức chế canxi , ức chế beta , digoxin , thuốc giãn mạch phổi… .",
+    "entities": [
+      {
+        "text": "ức chế canxi , ức chế beta , digoxin , thuốc giãn mạch phổi…",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phương pháp điều trị thông liên nhĩ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "điều trị nội khoa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc lợi tiểu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thoát vị bẹn ở trẻ em : biểu hiện và biến chứng thường gặp phẫu thuật nội soi điều trị thoát vị bẹn cho trẻ em tại vinmec có gì đặc biệt ?",
+    "entities": [
+      {
+        "text": "phẫu thuật nội soi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thoát vị bẹn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến bệnh mạch vành theo thông thường , bệnh mạch vành là do : các mảng xơ vữa mạch vành : sự lắng đọng cục bộ của các mảng lipid trong các động mạch vành trung bình và lớn .",
+    "entities": [
+      {
+        "text": "xơ vữa mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán đường huyết cao đường huyết cao được gợi ý bởi các triệu chứng và dấu hiệu điển hình và được chứng minh bằng định lượng glucose huyết tương .",
+    "entities": [
+      {
+        "text": "định lượng glucose huyết tương",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đường huyết cao",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống các bác sĩ không rõ chính xác vi khuẩn h . pylor i lây lan thế nào , vì vậy không có cách nào chứng minh ngăn ngừa nhiễm h . pylori .",
+    "entities": [
+      {
+        "text": "nhiễm h . pylori",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có hội chứng suy hô hấp cấp , khó thở ( tím tái , co kéo cơ hô hấp ) và spo 2 &lt; 92% .",
+    "entities": [
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

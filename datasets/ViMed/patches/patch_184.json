@@ -1,0 +1,372 @@
+[
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc ( bị ) sa van hai lá các yếu tố làm tăng nguy sa van hai lá : tiền sử gia đình có người bị sa van hai lá ; dị tật tim bẩm sinh ( ebstein dị thường ) ; bệnh grave ; vẹo cột sống , … rối loạn mô liên kết ( collagen , gân , dây chằng , .",
+    "entities": [
+      {
+        "text": "sa van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh grave",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thoái hóa khớp háng gồm hai thể bệnh : thoái hóa khớp háng nguyên phát : chiếm 50% các trường hợp , hay gặp ở người trên 60 tuổi .",
+    "entities": [
+      {
+        "text": "thoái hóa khớp háng nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi chúng xảy ra , các dấu hiệu và triệu chứng của u ác tính mắt có thể bao gồm : một phát triển tối tại chỗ trên mống mắt .",
+    "entities": [
+      {
+        "text": "một phát triển tối tại chỗ trên mống mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "u ác tính mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ sẽ tìm những dấu hiệu của rối loạn chức năng đường ruột và cơ di chuyển thức ăn qua ruột kết .",
+    "entities": [
+      {
+        "text": "rối loạn chức năng đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phân biệt ù tai với các âm thanh do ảo giác như tiếng nói trong tai , tiếng nhạc , thường là kết quả của của nhiễm độc thuốc , rối loạn tâm lý hoặc với tình trạng nghe tiếng nói , hơi thở của chính bệnh nhân do điếc dẫn truyền , vòi nhĩ dãn rộng chứng ù tai không phải là một bệnh , đó là triệu chứng của một tình trạng tiềm ẩn , chẳng hạn như mất thính lực liên quan đến tuổi , chấn thương tai hoặc rối loạn hệ thống tuần hoàn .",
+    "entities": [
+      {
+        "text": "ảo giác",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "điếc",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "cả hai viêm tụy cấp và mãn tính có thể gây ra tuyến tụy sản xuất các enzyme cần thiết ít hơn để phá vỡ thực phẩm và quá trình dinh dưỡng .",
+    "entities": [
+      {
+        "text": "viêm tụy cấp và mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mắt u ác tính có thể xảy ra ở phần phía trước của uvea ( mống mắt và cơ thể mi ) hoặc ở phần sau của uvea ( tròng trắng ) .",
+    "entities": [
+      {
+        "text": "u ác tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đôi khi , oxy chỉ có thể trì hoãn chứ không phải dừng cơn đau và đau có thể trở lại .",
+    "entities": [
+      {
+        "text": "cơn đau",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "oxy",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ sẽ muốn loại trừ các nguyên nhân khác có thể góp phần vào sưng tấy , chẳng hạn như vấn đề về thận hoặc tuyến giáp , nhiễm trùng , hoặc bị dị ứng .",
+    "entities": [
+      {
+        "text": "vấn đề về thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sưng tấy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối phó và hỗ trợ ù tai không phải luôn luôn cải thiện hoặc hoàn toàn biến mất với điều trị .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ổ đĩa quang trở nên sưng lên trong khoảng một phần ba những người có viêm dây thần kinh thị giác .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chẩn đoán và điều trị nhiễm trùng đường ruột tiêu chảy nhiễm trùng - nhận biết dấu hiệu để tránh biến chứng nguy hiểm chủ đề : nhi nhiễm trùng tiêu chảy tiêu chảy nhiễm trùng tiêu hóa sơ sinh",
+    "entities": [
+      {
+        "text": "tiêu chảy nhiễm trùng tiêu hóa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ mắt có thể sử dụng công cụ tìm kiếm lẻ , với mục tiêu ánh sáng trực tiếp vào mắt và yêu cầu xem xét thông qua một loạt các ống kính .",
+    "entities": [
+      {
+        "text": "sử dụng công cụ tìm kiếm lẻ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ung thư xương có thể nguyên phát hoặc do di căn từ nơi khác đến ( chủ yếu từ vú , phổi . . ) nguyên nhân bệnh ung thư xương ung thư xương thứ phát : đa số ung thư xương là ung thư thứ phát do di căn từ vị trí khác của cơ thể .",
+    "entities": [
+      {
+        "text": "bệnh ung thư xương",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vì mức độ nguy hiểm của bệnh rubella , phụ nữ mang thai cần : tiêm phòng vaccine là biện pháp hiệu quả nhất để phòng ngừa hội chứng rubella bẩm sinh; hạn chế tiếp xúc với bệnh nhân có phát ban , sốt hoặc trẻ mắc hội chứng rubella bẩm sinh; nếu phụ nữ mang thai trong những tháng đầu có triệu chứng phát ban , sốt cần đến các cơ sở y tế để được khám , xét nghiệm , chẩn đoán và điều trị kịp thời để hạn chế biến chứng của bệnh .",
+    "entities": [
+      {
+        "text": "tiêm phòng vaccine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xét nghiệm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "phát ban",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khám",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "và nếu đeo kính hai tròng , có thể có xu hướng nghiêng đầu về phía sau để có thể nhìn xuyên qua phần dưới của kính .",
+    "entities": [
+      {
+        "text": "đeo kính hai tròng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thử nghiệm này được gọi là manometry , một ống nhỏ được đưa vào thực quản và kết nối với một máy ghi áp lực .",
+    "entities": [
+      {
+        "text": "manometry",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "một số thuốc kháng sinh , chẳng hạn như erythromycin , trong những tuần đầu tiên của cuộc sống có nguy cơ cao hẹp môn vị .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "erythromycin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hẹp môn vị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm giác mạc truyền nhiễm có thể được gây ra bởi vi khuẩn , virus , nấm và ký sinh trùng .",
+    "entities": [
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xem xét đặt máy ở bệnh nhân có nguy cơ cao , bao gồm : tiền sử gia đình có thành viên bị ngừng tim đột ngột sớm .",
+    "entities": [
+      {
+        "text": "ngừng tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tác dụng phụ của bức xạ thực quản bao gồm các phản ứng da giống như bị cháy nắng , đau đớn hoặc khó nuốt , và thiệt hại ngẫu nhiên cho các cơ quan gần đó , chẳng hạn như phổi và tim .",
+    "entities": [
+      {
+        "text": "bức xạ thực quản",
+        "type": "THUỐC"
+      },
+      {
+        "text": "khó nuốt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đớn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bức xạ trị liệu cũng được sử dụng để làm giảm các biến chứng của bệnh ung thư thực quản giai đoạn muộn , chẳng hạn như khi một khối u phát triển đủ lớn để ngăn chặn thực phẩm từ đi qua đến dạ dày .",
+    "entities": [
+      {
+        "text": "bệnh ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bức xạ trị liệu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tia xạ - ung thư biểu mô tế bào đáy nhạy cảm với tia nên hiệu quả có thể ngang với phẫu thuật .",
+    "entities": [
+      {
+        "text": "ung thư biểu mô tế bào đáy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu van không sửa chữa được , bác sĩ sẽ chỉ định thay van hai lá cơ học hoặc van làm tư mô tim của lợn , bò hoặc người .",
+    "entities": [
+      {
+        "text": "thay van hai lá cơ học",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "lớp tế bào đáy sinh ra ung thư tế bào đáy , lớp tế bào vảy sinh ra ung thư biểu mô vảy .",
+    "entities": [
+      {
+        "text": "ung thư biểu mô vảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng máy làm ẩm không khí mát để loại bỏ không khí khô có thể gây kích thích đau họng hoặc ngồi vài phút trong một phòng tắm ướt .",
+    "entities": [
+      {
+        "text": "đau họng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nó thường không gây ra bất kỳ triệu chứng nào nhưng nó có thể liên quan đến đau lưng ở một số bệnh nhân .",
+    "entities": [
+      {
+        "text": "đau lưng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều đó có nghĩa là dùng hai hoặc nhiều loại thuốc , thường là thuốc kháng sinh : bệnh phong paucibacillary : dapsone mỗi ngày và rifampicin mỗi tháng một lần .",
+    "entities": [
+      {
+        "text": "bệnh phong paucibacillary",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rifampicin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "dapsone",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thường là do một vấn đề với các xung điện đi quanh một vết sẹo từ một cơn đau tim trước đó .",
+    "entities": [
+      {
+        "text": "cơn đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong quá trình phẫu thuật tái tạo , bác sĩ phẫu thuật làm việc để sửa chữa cải thiện khả năng nhai , nuốt , nói hoặc thở , có thể cần ghép da , mô hoặc dây thần kinh từ các bộ phận khác của cơ thể để xây dựng lại các khu vực trong miệng , cổ họng hoặc hàm của bạn .",
+    "entities": [
+      {
+        "text": "phẫu thuật tái tạo",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ghép da",
+        "type": "THUỐC"
+      }
+    ]
+  }
+]

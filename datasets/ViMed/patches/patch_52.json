@@ -1,0 +1,415 @@
+[
+  {
+    "text": "bác sĩ có thể đề nghị phẫu thuật để nhìn vào bên trong bụng , dấu hiệu cho thấy ung thư túi mật đã lan rộng .",
+    "entities": [
+      {
+        "text": "ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu và triệu chứng của hội chứng ruột kích thích có thể rất khác nhau từ người sang người và thường giống như những bệnh khác .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cận thị có thể phát triển dần dần hoặc nhanh chóng , thường xấu đi trong thời thơ ấu và niên thiếu .",
+    "entities": [
+      {
+        "text": "cận thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "botox điều trị nếp nhăn trên mặt , nhưng nó cũng có thể hữu ích trong điều trị một số loại run , đặc biệt là người triệu chứng ở đầu và giọng nói .",
+    "entities": [
+      {
+        "text": "người triệu chứng ở đầu và giọng nói",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "botox điều trị nếp nhăn trên mặt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "run",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đông kết có thể xảy ra vì một số lý do sau : chấn thương : thành mạch máu bị tổn thương có thể thu hẹp hoặc chặn dòng chảy của máu , tăng nguy cơ hình thành cục máu đông .",
+    "entities": []
+  },
+  {
+    "text": "tuy nhiên vẫn cần cảnh giác với các dấu hiệu và triệu chứng có thể của ung thư tuyến nước bọt và không bỏ qua chúng có thể giúp phát hiện sớm các bệnh ung thư này để khi điều trị có khả năng hiệu quả nhất .",
+    "entities": [
+      {
+        "text": "ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục nếu có p hình động mạch não chưa vỡ , có thể giảm nguy cơ vỡ của nó bằng cách làm thay đổi lối sống : không hút thuốc hay sử dụng ma túy .",
+    "entities": [
+      {
+        "text": "không hút thuốc hay sử dụng ma túy",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hình động mạch não chưa vỡ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán phình tách động mạch chủ siêu âm tim qua thực quản ( tee ) , chụp mạch ct ( cta ) hoặc chụp mạch cộng hưởng từ ( mra ) bất kỳ bệnh nhân nào bị đau ngực , đau lưng ngực , ngất không rõ nguyên nhân , đau bụng không rõ nguyên nhân , đột quỵ hoặc suy tim khởi phát cấp tính , đặc biệt khi mạch hoặc huyết áp ở các chi không bằng nhau đều phải nghĩ đến tình trạng phình tách động mạch chủ .",
+    "entities": [
+      {
+        "text": "siêu âm tim qua thực quản",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "phình tách động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chụp mạch cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đau lưng ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chụp mạch ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ngất",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tee",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "cta",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mra",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "hóa trị có thể được chỉ định trước phẫu thuật hay xạ trị ( gọi là hóa trị tân bổ trợ ) để thu nhỏ tổn thương và giúp tăng hiệu của phương pháp điều trị chính .",
+    "entities": [
+      {
+        "text": "hóa trị tân bổ trợ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố môi trường : các thức ăn giàu chất nitrosamine dễ bay hơi là tác nhân gây ung thư đã được biết tới , gây ung thư biểu mô mũi , xoang trên thực nghiệm ( cá khô muối , ướp muối… ) .",
+    "entities": [
+      {
+        "text": "ung thư biểu mô mũi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nó có thể lắng cặn với mức dịch – dịch , dạng này hay gặp trong di căn ung thư cơ trơn , ung thư hắc tố , ung thư nhầy , di căn thể vôi hóa thường là vôi hóa nhỏ rải rác hay gặp ung thư dạng dịch nhầy đại tràng hoặc của buồng trứng .",
+    "entities": [
+      {
+        "text": "ung thư cơ trơn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư hắc tố",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư nhầy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật bong võng mạc bác sĩ cũng sử dụng các thủ tục phẫu thuật để sửa chữa bong võng mạc .",
+    "entities": [
+      {
+        "text": "phẫu thuật bong võng mạc",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bong võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra trực quan này cũng sẽ giúp loại trừ các điều kiện vật lý mà kích hoạt viêm xoang , như polyp mũi hoặc bất thường khác .",
+    "entities": [
+      {
+        "text": "kiểm tra trực quan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm xoang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "polyp mũi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đúng hơn , đó là một dấu hiệu của một vấn đề y tế - như một khối u , đột quỵ hoặc tổn thương tủy sống , thiệt hại các dây thần kinh đến mặt .",
+    "entities": [
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa giãn tĩnh mạch thực quản ( varices ) là bất thường , các tĩnh mạch giãn rộng ở phần dưới của thực quản - ống nối cổ họng và dạ dày .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "varices",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm rubella pcr : phương pháp có giá trị chẩn đoán cao , phát hiện các rna của rubella kể cả khi kháng thể igg và igm chưa xuất hiện .",
+    "entities": [
+      {
+        "text": "xét nghiệm rubella pcr",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các sóng âm tim dội lại được phản ánh thông qua thành ngực và xử lý điện tử để cung cấp hình ảnh video của tim chuyển động , để phát hiện bệnh cấu trúc tim cơ bản .",
+    "entities": [
+      {
+        "text": "bệnh cấu trúc tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc điều trị cho bất kỳ bệnh tiềm ẩn hoặc vấn đề gây đau nhức đầu .",
+    "entities": [
+      {
+        "text": "thuốc điều trị cho bất kỳ bệnh tiềm ẩn hoặc vấn đề gây đau nhức đầu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp , bác sĩ có thể sử dụng một tăm bông để lấy mẫu dầu hoặc lớp vỏ hình thành mí mắt .",
+    "entities": [
+      {
+        "text": "dụng một tăm bông để lấy mẫu dầu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một loại xạ trị mới hơn sử dụng các hạt gọi là neutron có thể hiệu quả hơn trong điều trị một số bệnh ung thư tuyến nước bọt .",
+    "entities": [
+      {
+        "text": "bệnh ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một chế độ ăn uống bao gồm trái cây và rau quả có thể làm tăng nguy cơ thoái hóa điểm vàng .",
+    "entities": [
+      {
+        "text": "thoái hóa điểm vàng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chưa rõ vai trò , nếu có , kháng sinh có thể dùng trong điều trị hội chứng ruột kích thích .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "caffeine , nicotine , một số loại thuốc cảm và nước tăng lực có thể khiến tim bạn đập nhanh hoặc không đều .",
+    "entities": [
+      {
+        "text": "đập nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "không đều",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "có các yếu tố nguy cơ làm tăng khả năng mắc bệnh như : công việc buộc phải ngồi lâu thường xuyên , bị tiêu chảy hoặc táo bón mãn tính , béo phì , phụ nữ mang thai , quan hệ tình dục qua đường hậu môn , chế độ ăn ít chất xơ , có tiền sử u vùng tiểu khung bao gồm u đại trực tràng , u ở tử cung và thai nhiều tháng làm cản trở hồi lưu máu trở về tim gây giãn tĩnh mạch .",
+    "entities": [
+      {
+        "text": "u đại trực tràng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "u ở tử cung",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "táo bón",
+        "type": "THUỐC"
+      },
+      {
+        "text": "béo phì",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ít thường xuyên hơn , loét kháng trị có thể là một kết quả của sản xuất quá mức acid dạ dày , như xảy ra trong hội chứng zollinger - ellison .",
+    "entities": [
+      {
+        "text": "hội chứng zollinger - ellison",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng có thể kèm theo là trên da , tăng sừng hóa , tăng sắc tố , da cứng và dày lên , tăng nguy cơ nhiễm nấm và nhiễm trùng tái phát .",
+    "entities": [
+      {
+        "text": "tăng sừng hóa",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tăng sắc tố",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "da cứng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "dày lên",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "lựa chọn điều trị ung thư gan có thể bao gồm : phẫu thuật cắt bỏ một phần gan ( hepatectomy ) .",
+    "entities": [
+      {
+        "text": "phẫu thuật cắt bỏ một phần gan",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hepatectomy",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "giai đoạn toàn phát ở giai đoạn toàn phát , các triệu chứng bắt đầu xuất hiện rõ trên lâm sàng , ảnh hưởng nhiều đến cuộc sống của bệnh nhân , nên bệnh ung thư lưỡi thường được phát hiện ở giai đoạn này .",
+    "entities": [
+      {
+        "text": "bệnh ung thư lưỡi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "người đó cũng có thể đề nghị một hoặc cả hai của các xét nghiệm sau đây : thử nghiệm chích da .",
+    "entities": [
+      {
+        "text": "thử nghiệm chích da",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu không tìm thấy cứu trợ trong vòng một vài tuần , bác sĩ có thể đề nghị phương pháp điều trị khác , bao gồm cả thuốc và phẫu thuật .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  }
+]

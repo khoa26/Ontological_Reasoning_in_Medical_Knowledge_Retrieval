@@ -1,0 +1,368 @@
+[
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của viêm ruột thừa cấp chế độ sinh hoạt : dành nhiều thời gian để nghỉ ngơi và tránh vận động nặng .",
+    "entities": [
+      {
+        "text": "viêm ruột thừa cấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hoặc , bác sĩ có thể khuyên nên kết hợp các phương pháp điều trị phóng xạ và hóa trị khi ung thư không thể được điều trị bằng phẫu thuật .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phóng xạ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trầm cảm sau sinh là một chứng bệnh có thể gặp ở tất cả các phụ nữ sau khi sinh đẻ không chỉ gặp ở lần đầu mang thai mà có thể gặp ở bất kì thời điểm nào , lần mang thai nào .",
+    "entities": [
+      {
+        "text": "trầm cảm sau sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "việc phẫu thuật chỉ được thực hiện khi tình trạng của trẻ đã tiến triển và phải có đầy đủ các phương tiện hồi sức cấp cứu .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": ". . sốt rét ác tính/biến chứng : sốt rét có biến chứng đe dọa tính mạng người bệnh , thường xảy ra trên người bệnh nhiễm p . falciparum hoặc nhiễm phối hợp p . falciparum .",
+    "entities": [
+      {
+        "text": "sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc chủng ngừa hib thường không cho trẻ em trên 5 tuổi hoặc người lớn vì họ ít có khả năng phát triển bệnh hib .",
+    "entities": [
+      {
+        "text": "thuốc chủng ngừa hib",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "vùng bìu càng to hơn khi người bệnh đi lại , chạy nhảy hay làm việc nặng , giảm hoặc mất hẳn khi người bệnh nằm nghỉ đôi khi thoát vị bẹn xảy ra mà không có bất kỳ triệu chứng nào khác .",
+    "entities": [
+      {
+        "text": "thoát vị bẹn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể khuyên nên phẫu thuật cắt bỏ một phần gan để loại bỏ các mô bệnh ung thư gan và một phần nhỏ các mô xung quanh nó , nếu khối u nhỏ và chức năng gan tốt .",
+    "entities": [
+      {
+        "text": "phẫu thuật cắt bỏ một phần gan",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thuốc chống đông kháng vitamin k ( vka ) vka là một thuốc chống đông đường uống được sử dụng từ những năm 1950 để dự phòng đột quị trên các bn rung nhĩ .",
+    "entities": [
+      {
+        "text": "thuốc chống đông kháng vitamin k",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "châm cứu thôi miên điều trị thần kinh bằng cách sử dụng kích thích từ xuyên sọ ( tms ) là một liệu pháp không gây đau đớn , không xâm lấn đã thành công trong việc giảm các triệu chứng ù tai cho một số người .",
+    "entities": [
+      {
+        "text": "sử dụng kích thích từ xuyên sọ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "châm cứu thôi miên",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tms",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "soi đại trang sigmoid ( sigmoidoscopy ) trong thử nghiệm này , bác sĩ sử dụng ống để kiểm tra trực tràng và đại tràng sigmoid - khoảng 61 cm đại tràng .",
+    "entities": [
+      {
+        "text": "soi đại trang sigmoid",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sigmoidoscopy",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "cách duy nhất để chắc chắn không phải là viêm mũi do dị ứng là thông qua thử nghiệm dị ứng , có thể liên quan đến da hoặc xét nghiệm máu .",
+    "entities": [
+      {
+        "text": "thông qua thử nghiệm dị ứng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm mũi do dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "liên quan đến da",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị hội chứng qt kéo dài khi bệnh nhân không xuất hiện triệu chứng , điều trị hội chứng qt kéo dài có thể không cần thiết , nhưng cần theo dõi và kiểm tra thường xuyên .",
+    "entities": [
+      {
+        "text": "hội chứng qt kéo dài",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù các dấu hiệu và triệu chứng khác nhau từ người này sang người khác , chức năng quan trọng , chẳng hạn như nuốt , ăn uống , nói và đi bộ , thường suy giảm theo thời gian .",
+    "entities": [
+      {
+        "text": "nuốt , ăn uống , nói và đi bộ , thường suy giảm theo thời gian",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ yếu tố nguy cơ viêm dây thần kinh thị giác phát sinh từ các rối loạn tự miễn dịch bao gồm : tuổi .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù kế thừa gen khiếm khuyết làm tăng nguy cơ rất nhiều , không phải tất cả mọi người với gen đột biến phát triển bệnh ung thư .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : triệu chứng cảnh báo u não &amp; cách điều trị bác sĩ vinmec đã đẩy lùi được bệnh u não cho con gái tôi u màng não : nguyên nhân , triệu chứng , chẩn đoán và điều trị chủ đề : thần kinh ung bướu u não ung thư não",
+    "entities": [
+      {
+        "text": "ung thư não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh u não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u màng não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung bướu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những đề nghị này có thể giúp đối phó dễ dàng hơn : tìm hiểu càng nhiều về i hội chứng ruột kích thích như có thể .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ trong khi nguyên nhân chính xác của các khuyết tật tim bẩm sinh , chẳng hạn như thân chung động mạch là không rõ , một số yếu tố có thể làm tăng nguy cơ em bé sinh ra với bệnh tim .",
+    "entities": [
+      {
+        "text": "bệnh tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "giảm căng thẳng trong cuộc sống hàng ngày giảm stress , kỹ thuật có thể giúp kiểm soát các dấu hiệu và triệu chứng .",
+    "entities": [
+      {
+        "text": "căng thẳng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "stress",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong kênh nhĩ thất hoàn toàn , một lỗ lớn ở trung tâm của tim , nơi có thành giữa các buồng trên ( tâm nhĩ ) và ngăn dưới ( tâm thất ) .",
+    "entities": [
+      {
+        "text": "kênh nhĩ thất hoàn toàn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các yếu tố cơ học gây cản trở sự di chuyển của tinh hoàn như : cuống mạch của tinh hoàn ngắn , xơ hóa vùng ống bẹn , … triệu chứng bệnh tinh hoàn ẩn triệu chứng tinh hoàn ẩn ở bé trai : không nhìn thấy hoặc sờ thấy tinh hoàn ở vị trí bình thường ở bìu triệu chứng tinh hoàn ẩn ở người trưởng thành : người bệnh tự sờ thấy trong bìu không có tinh hoàn hoặc sờ thấy ở ống bẹn có khối u nổi lên .",
+    "entities": [
+      {
+        "text": "tinh hoàn ẩn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những loại t huốc có sẵn trong các chất lỏng toa và thuốc theo toa , thuốc viên và thuốc xịt mũi .",
+    "entities": [
+      {
+        "text": "huốc có sẵn trong các chất lỏng toa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc theo toa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc xịt mũi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc viên",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của đau bụng đau toàn thân cảm thấy đau hơn một nửa bụng .",
+    "entities": [
+      {
+        "text": "đau toàn thân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sau khi bác sĩ đã xác định mức độ của bệnh ung thư , giai đoạn của nó được phân công một chữ số la mã .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguy cơ mắc phải những ai có nguy cơ mắc phải rubella rubella có thể xảy ra ở bất cứ ai , bất cứ độ tuổi nào , nhưng mối đe dọa nguy hiểm nhất là phụ nữ mang thai ở 3 tháng đầu .",
+    "entities": [
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đau liên quan với viêm dây thần kinh thị giác thường đỉnh núi trong vòng một tuần và sau đó biến mất trong vòng vài ngày .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng có thể gặp của teo thực quản là : : trào ngược dạ dày thực quản : do sau phẫu thuật bị thay đổi góc tâm vị rối loạn bú nuốt : do quá lâu trẻ không bú bằng đường miệng kèm rối loạn hoạt động của thực quản mềm sụn khí quản : do bất thường thực quản đi kèm bất thường khí quản .",
+    "entities": [
+      {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "teo thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết những người bị hội chứng ruột kích thích , có thể thấy các dấu hiệu và triệu chứng nặng hơn hoặc thường xuyên hơn trong các sự kiện căng thẳng , như một sự thay đổi trong thói quen hàng ngày .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hãy nói chuyện với bác sĩ về dabigatran là một thay thế cho warfarin nếu lo ngại về nguy cơ đột quỵ .",
+    "entities": [
+      {
+        "text": "dabigatran",
+        "type": "THUỐC"
+      },
+      {
+        "text": "warfarin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

@@ -1,0 +1,428 @@
+[
+  {
+    "text": "điều trị này còn được gọi là trao đổi huyết tương trong đó các kháng thể trong máu gây tổn hại được loại bỏ .",
+    "entities": [
+      {
+        "text": "các kháng thể trong máu gây tổn hại được loại bỏ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "trao đổi huyết tương",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các chuyển động múa giật ( múa giật sydenham ) không thể kiểm soát ở tay , chân hoặc các bộ phận cơ thể khác .",
+    "entities": [
+      {
+        "text": "múa giật sydenham",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "có thể có các dấu hiệu và triệu chứng bắt đầu khoảng một giờ trước khi tim đi vào rung thất .",
+    "entities": [
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ví dụ , quá nhiều vitamin k có thể bỏ qua khả năng làm loãng máu và ngăn ngừa đông máu của warfarin .",
+    "entities": [
+      {
+        "text": "loãng máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đông máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh thấp tim chẩn đoán bệnh thấp tim dựa trên các tiêu chuẩn của jone bao gồm : các tiêu chuẩn chính viêm đa khớp : biểu hiện đau sưng đỏ ở các khớp to với các đặc điểm lâm sàng như không cử động được khớp , và đau khớp có tính chất di động , từ khớp này sang khớp khác thì khỏi mà không để lại di chứng .",
+    "entities": [
+      {
+        "text": "đau sưng đỏ ở các khớp to",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "không cử động được khớp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm đa khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau khớp",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chờ đợi để điều trị u sắc tố mắt nhỏ một khối u ác tính mắt nhỏ có ảnh hưởng đến phần màu của mắt ( mống mắt ) có thể không cần điều trị ngay lập tức .",
+    "entities": [
+      {
+        "text": "u ác tính mắt nhỏ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u sắc tố mắt nhỏ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bong võng mạc xảy ra thế nào bong võng mạc có thể xảy ra khi tinh thể lỏng rò rỉ thông qua một lỗ võng mạc hay rách và tích tụ bên dưới võng mạc .",
+    "entities": [
+      {
+        "text": "bong võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng ma túy : việc sử dụng một số loại thuốc , bao gồm cocaine và amphetamine , có thể thu hẹp các mạch máu , có thể làm tăng nguy cơ đau tim .",
+    "entities": [
+      {
+        "text": "đau tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , đặc điểm chung của thống kinh thứ phát do mọi nguyên nhân đều do gia tăng lượng prostaglandin .",
+    "entities": [
+      {
+        "text": "thống kinh thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trường hợp ung thư lan rộng không thể phẫu thuật , hóa trị đơn thuần hoặc phối hợp với xạ trị nhằm giảm triệu chứng , cải thiện chất lượng sống .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị khác có thể cải thiện chất lượng nước mắt hay dừng nước mắt khỏi nhanh chóng thoát ra khỏi đôi mắt .",
+    "entities": [
+      {
+        "text": "cải thiện chất lượng nước mắt hay dừng nước mắt khỏi nhanh chóng thoát ra khỏi đôi mắt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các dấu hiệu và triệu chứng thường xuất hiện trong độ tuổi 30 hoặc 40. có thể đầu tiên bao gồm thay đổi nhân cách nhẹ , dễ cáu gắt , lo lắn g và trầm cảm và tiến triển đến mất trí nhớ trầm trọng .",
+    "entities": [
+      {
+        "text": "thay đổi nhân cách nhẹ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mất trí nhớ trầm trọng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "dễ cáu gắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "trầm cảm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lo lắn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa nhịp tim chậm hiệu quả để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : nhịp tim chậm có thể do một số loại thuốc gây ra , đặc biệt nếu chúng được dùng với liều lượng cao , vì vậy điều quan trọng là phải dùng tất cả các loại thuốc theo chỉ dẫn .",
+    "entities": [
+      {
+        "text": "nhịp tim chậm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thủ thuật được gọi là nội soi ngược dòng ( ercp ) sử dụng ống dài với máy ảnh để kiểm tra tuyến tụy và đường mật .",
+    "entities": [
+      {
+        "text": "nội soi ngược dòng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ercp",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "theo dõi dài hạn bệnh nhân bị block nhĩ thất ( av ) cấp độ 1 hoặc mobitz i không cần theo dõi lâu dài với các dải nhịp/ điện tâm đồ lặp lại hoặc monitor .",
+    "entities": [
+      {
+        "text": "block nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những trẻ bị mắc bệnh teo thực quản thường phải được phẫu thuật để giúp trẻ có cơ hội sống cao hơn , nếu để lâu dễ dẫn đến nguy cơ viêm phổi , tăng áp phổi làm bệnh thêm trầm trọng .",
+    "entities": [
+      {
+        "text": "bệnh teo thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vật lý và lao động trị liệu vật lý trị liệu có thể giúp giữ cho cơ bắp mạnh mẽ hơn và linh hoạt hơn , giúp duy trì sự cân bằng và có thể làm giảm nguy cơ té ngã .",
+    "entities": [
+      {
+        "text": "vật lý và lao động trị liệu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "vật lý trị liệu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "theo thời gian , khi nguy cơ đào thải giảm , liều lượng và số lượng thuốc chống thải ghép có thể giảm .",
+    "entities": [
+      {
+        "text": "thuốc chống thải ghép",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đột ngột mất thị giác ở một mắt , mờ đột ngột hoặc mờ mắt , nhấp nháy ánh sáng , đốm đen , hoặc quầng hoặc cầu vồng xung quanh đèn có thể báo hiệu một vấn đề y tế nghiêm trọng , chẳng hạn như bệnh tăng nhãn áp cấp tính hoặc đột quỵ , hoặc một số khác có thể điều trị bệnh võng mạc , như một vết xước hoặc võng mạc bong võng mạc .",
+    "entities": [
+      {
+        "text": "bệnh tăng nhãn áp cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cầu vồng xung quanh đèn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đột ngột mất thị giác",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhấp nháy ánh sáng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bong võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mờ đột ngột",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đốm đen",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mờ mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "quầng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "vấn đề liên quan vấn đề của tai giữa có thể có liên quan đến nhiễm trùng tai hoặc gây ra vấn đề tương tự bao gồm : viêm tai giữa với tràn dịch là tình trạng viêm và tích tụ chất dịch trong tai giữa mà không có nhiễm vi khuẩn hoặc virus .",
+    "entities": [
+      {
+        "text": "nhiễm trùng tai",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm tai giữa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tràn dịch",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị lạnh lạnh ( cryotherapy ) có thể được sử dụng để tiêu diệt các tế bào u ác tính ở một số u sắc tố mắt nhỏ , nhưng điều trị này không thường được sử dụng .",
+    "entities": [
+      {
+        "text": "u sắc tố mắt nhỏ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "điều trị lạnh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cryotherapy",
+        "type": "THUỐC"
+      },
+      {
+        "text": "u ác tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tìm cách để đối phó với căng thẳng có thể hữu ích trong việc ngăn ngừa hoặc giảm nhẹ các triệu chứng : tư vấn .",
+    "entities": [
+      {
+        "text": "căng thẳng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tư vấn",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , một số bệnh nhiễm trùng có thể dẫn đến một loại viêm dây thần kinh thị giác gọi là neuroretinitis mà không có liên quan với nguy cơ phát triển bệnh đa xơ cứng .",
+    "entities": [
+      {
+        "text": "một loại viêm dây thần kinh thị giác gọi là neuroretinitis",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh đa xơ cứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "với sự quan tâm kịp thời , từ nhẹ đến vừa phải các trường hợp viêm giác mạc thường có thể thu được hiệu quả điều trị mà không mất tầm nhìn .",
+    "entities": [
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bởi vì bệnh crohn xảy ra thường xuyên hơn giữa những người sống ở các thành phố và các quốc gia công nghiệp , nó có thể là các yếu tố môi trường , bao gồm chế độ ăn giàu chất béo trong thực phẩm hoặc tinh chế , đóng vai trò trong bệnh crohn .",
+    "entities": [
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với trĩ chảy máu dai dẳng hoặc đau đớn , bác sĩ có thể đề nghị thủ tục xâm lấn tối thiểu .",
+    "entities": [
+      {
+        "text": "chảy máu dai dẳng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đớn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm thanh quản mạn tính có thể gây ra c ăng dây thanh âm và thương tích hoặc tăng trưởng trên các dây thanh âm ( khối u hay bướu ) .",
+    "entities": [
+      {
+        "text": "viêm thanh quản mạn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ăng dây thanh âm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khối máu tụ dưới màng cứng điều này xảy ra khi mạch máu - thường là tĩnh mạch - vỡ giữa bộ não và ngoài cùng của ba lớp màng bao phủ não bộ ( dura mater ) .",
+    "entities": [
+      {
+        "text": "khối máu tụ dưới màng cứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh sán máng schistosoma là sán lá đơn giới , ký sinh trong huyết quản nên còn gọi là sán máu .",
+    "entities": [
+      {
+        "text": "bệnh sán máng schistosoma",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thời kỳ đau mãn tính có thể tiếp tục trong hơn một năm , hoặc giai đoạn đau có thể kéo dài ít hơn một tháng .",
+    "entities": [
+      {
+        "text": "thời kỳ đau mãn tính có thể tiếp tục trong hơn một năm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "giai đoạn đau có thể kéo dài ít hơn một tháng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

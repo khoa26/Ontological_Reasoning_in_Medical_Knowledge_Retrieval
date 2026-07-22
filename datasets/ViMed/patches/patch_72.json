@@ -1,0 +1,456 @@
+[
+  {
+    "text": "nếu con quý vị đã bị nhiễm trùng tai hoặc sự tích tụ chất lỏng liên tục kéo dài trong tai giữa , bác sĩ có thể giới thiệu đến một chuyên gia , liệu pháp lời nói hay trị liệu phát triển cho các bài kiểm tra nghe , kỹ năng nói , hiểu ngôn ngữ hoặc khả năng phát triển .",
+    "entities": [
+      {
+        "text": "bài kiểm tra nghe",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nhiễm trùng tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng khi tiến triển ung thư tuyến tụy , nó có thể gây biến chứng như : vàng da .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "- phương pháp điều trị để giảm triệu chứng bác sĩ có thể khuyên nên điều trị để giúp giảm triệu chứng viêm xoang .",
+    "entities": [
+      {
+        "text": "triệu chứng viêm xoang",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các chỉ định cụ thể bao gồm : bệnh cơ tim phì đại; bệnh cơ tim thiếu máu cục bộ ; bệnh tim bẩm sinh không thể hoặc điều trị thất bại với các phương pháp khác; phân suất tống máu dưới 20%; đau thắt ngực khó chữa hoặc rối loạn nhịp tim ác tính mà liệu pháp thông thường không hiệu quả; sức cản mạch máu phổi dưới 2 đơn vị wood; tuổi &lt; 65 tuổi .",
+    "entities": [
+      {
+        "text": "bệnh cơ tim thiếu máu cục bộ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh cơ tim phì đại;",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tim bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau thắt ngực",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những người được tiêm chủng cúm gia cầm , uốn ván , bạch hầu và bại liệt có nguy cơ bệnh alzheimer giảm đáng kể , do đó , tiêm chủng có thể có tác dụng bảo vệ chống lại bệnh sa sút trí tuệ mất trí nhớ phát triển .",
+    "entities": [
+      {
+        "text": "bệnh sa sút trí tuệ mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh alzheimer",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cúm gia cầm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bạch hầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bại liệt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "liệu pháp xạ tr ị có thể được sử dụng khi : là phương pháp điều trị chính ( một mình hoặc kết hợp với hóa trị liệu ) đối với một số bệnh ung thư tuyến nước bọt không thể cắt bỏ bằng phẫu thuật vì kích thước hoặc vị trí của khối u hoặc nếu người bệnh không muốn phẫu thuật vì lý do cá nhân .",
+    "entities": [
+      {
+        "text": "bệnh ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "liệu pháp xạ tr",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hóa trị liệu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thống kinh là hiện tượng tử cung phải co bóp để tống máu ra ngoài , do đó trong quá trình hành kinh , phần lớn người phụ nữ sẽ cảm thấy tức phần bụng dưới , thi thoảng nhói đau , mệt mỏi , tuy nhiên vẫn có thể sinh hoạt .",
+    "entities": [
+      {
+        "text": "tức phần bụng dưới",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thống kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhói đau",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân có thể không được chẩn đoán mắc bệnh động mạch vành cho đến khi khởi phát đau tim , đau thắt ngực , đột quỵ hoặc suy tim .",
+    "entities": [
+      {
+        "text": "bệnh động mạch vành",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điện tâm đồ gắng sức ( bằng thảm chạy , xe đạp . . ) : ghi điện tâm đồ liên tục khi bệnh nhân hoạt động , tìm kiếm sự biến đổi điện tim trong khi gắng sức được thực hiện khi nghi ngờ bệnh nhân bị bệnh lí mạch vành mà điện tim lúc nghỉ bình thường , không có dấu hiệu gợi ý siêu âm tim và siêu âm tim gắng sức : trên siêu âm doppler tim có thể thấy các rối loạn vận động vùng , giảm hoặc mất vận động vùng cơ tim theo vùng cấp máu của động mạch vành .",
+    "entities": [
+      {
+        "text": "điện tâm đồ gắng sức",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm tim gắng sức",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm doppler tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ghi điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "điện tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , một người có hiv dương tính có thể có một hoặc định kỳ đau họng mạn tính do nhiễm thứ cấp .",
+    "entities": [
+      {
+        "text": "đau họng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hiv",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các dấu hiệu và triệu chứng của chảy máu do giãn tĩnh mạch thực quản bao gồm : nôn ra máu .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nôn ra máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa hội chứng guillain - barre là một rối loạn hiếm gặp trong đó hệ thống miễn dịch của cơ thể tấn công các dây thần kinh .",
+    "entities": [
+      {
+        "text": "hội chứng guillain - barre",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị bằng tế bào gốc đa năng : nhằm thay thế cho những tế bào võng mạc đã chết không có khả năng hồi phục .",
+    "entities": [
+      {
+        "text": "tế bào gốc đa năng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "viêm tụy có thể xảy ra như viêm tụy cấp tính - có nghĩa là nó xuất hiện đột ngột và kéo dài trong nhiều ngày .",
+    "entities": [
+      {
+        "text": "viêm tụy cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chủ đề : tiền sản giật mang thai tăng huyết áp sinh non sinh con huyết áp tăng huyết áp thai kỳ protein niệu",
+    "entities": [
+      {
+        "text": "tăng huyết áp thai kỳ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiền sản giật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa đau dạ dày không viêm loét ( nonulcer ) là một thuật ngữ dùng để mô tả các dấu hiệu và triệu chứng của chứng khó tiêu không có nguyên nhân rõ ràng .",
+    "entities": [
+      {
+        "text": "đau dạ dày không viêm loét",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chứng khó tiêu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nonulcer",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương normal 0 false false false microsoftinternetexplorer4 định nghĩa polyp mũi có hình giọt nước , tăng trưởng không phải ung thư trên niêm mạc mũi , xoang .",
+    "entities": [
+      {
+        "text": "polyp mũi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu có một số lượng đáng kể chất nhuộm màu trong mắt sau khi năm phút nhấp nháy bình thường , có thể có một ống dẫn nước mắt bị chặn .",
+    "entities": [
+      {
+        "text": "ống dẫn nước mắt bị chặn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc kháng viêm giảm đau nsaid : ibuprofen , aspirin … tùy vào mức độ đau mà bác sĩ sẽ kê liều phù hợp .",
+    "entities": [
+      {
+        "text": "thuốc kháng viêm giảm đau nsaid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ibuprofen , aspirin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "có thể không có khả năng thực hiện một nhiệm vụ cũng như mong muốn , và tầm nhìn hạn chế có thể làm giảm đi sự thú vị của các hoạt động hằng ngày .",
+    "entities": [
+      {
+        "text": "tầm nhìn hạn chế",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh lý mạch vành là bệnh lý của thời đại hiện nay với tỉ lệ mắc và tỉ lệ tử vong xếp số một trên toàn thế giới ( xếp trên ung thư , đột quỵ não . . ) .",
+    "entities": [
+      {
+        "text": "đột quỵ não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bất cứ ai có bệnh tim , bao gồm cả vấn đề về vantim , lịch sử cơn đau tim và phẫu thuật tim , tăng nguy cơ bị rung nhĩ .",
+    "entities": [
+      {
+        "text": "phẫu thuật tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cơn đau tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra mẫu mô gan ( sinh thiết gan ) , thường được thực hiện bằng cách sử dụng một kim dẫn bởi hình ảnh siêu âm .",
+    "entities": [
+      {
+        "text": "sinh thiết gan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mẫu mô gan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "lịch sử gia đình có một thành viên gia đình có ung thư vòm họng làm tăng nguy cơ của bệnh , mặc dù các nhà nghiên cứu không chắc chắn kết hợp này là do yếu tố di truyền hay môi trường .",
+    "entities": [
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không phải tất cả các ca bệnh nhiễm trùng huyết đều có biểu hiện giống nhau , tùy vào từng trường hợp với mức độ khác nhau mà triệu chứng sẽ có sự thay đổi .",
+    "entities": [
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "người bệnh cần nhận biết được các dấu hiệu thoái hóa võng mạc sau : giảm thị lực , mắt nhìn mờ .",
+    "entities": [
+      {
+        "text": "thoái hóa võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "giảm thị lực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mắt nhìn mờ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tia xạ áp dụng trong trường hợp khối u không cắt bỏ được , vị trí bệnh rải rác , những tổn thương còn sót lại sau phẫu thuật .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tia xạ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm bao gồm công thức máu toàn bộ , đường huyết ( bao gồm cả đo tại giường ) , điện giải đồ , nitơ ure máu , creatinin và khí máu động mạch ( abgs ) .",
+    "entities": [
+      {
+        "text": "công thức máu toàn bộ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "khí máu động mạch",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "điện giải đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nitơ ure máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đường huyết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "creatinin",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa màng nhĩ thủng một lỗ hay vết rách màng nhĩ , giống như màng trống mỏng phân cách ống tai và tai giữa .",
+    "entities": [
+      {
+        "text": "màng nhĩ thủng một lỗ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vết rách màng nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa thông liên thất hiệu quả để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : tránh tiếp xúc các yếu tố nguy cơ hay nguyên nhân gây bệnh .",
+    "entities": [
+      {
+        "text": "thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

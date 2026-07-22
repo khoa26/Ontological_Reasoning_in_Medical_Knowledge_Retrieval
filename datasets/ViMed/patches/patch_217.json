@@ -1,0 +1,440 @@
+[
+  {
+    "text": "cơ sẽ bị co giật nặng , bệnh nhân có thể ngừng thở và tử vong nếu nhóm cơ hô hấp bị co cứng kéo dài .",
+    "entities": [
+      {
+        "text": "co cứng kéo dài",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "co giật",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của tai biến mạch máu não các triệu chứng tai biến mạch máu não có thể xuất hiện thoáng qua và biến mất rất nhanh , lặp lại nhiều lần .",
+    "entities": [
+      {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "người lớn có thể nhận được một giọt nước mắt bị chặn ống như là một kết quả của một nhiễm trùng , viêm , chấn thương hoặc một khối u . một ống dẫn nước mắt bị chặn hầu như luôn luôn cần sửa chữa , nhưng điều trị phụ thuộc vào nguyên nhân và độ tuổi .",
+    "entities": [
+      {
+        "text": "ống dẫn nước mắt bị chặn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chụp động mạch vành qua da : để loại trừ nhồi máu cơ tim , đặc biệt ở người bệnh có đau ngực kèm các yếu tố nguy cơ của bệnh mạch vành .",
+    "entities": [
+      {
+        "text": "chụp động mạch vành qua da",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống mặc dù một số nỗ lực khoa học đã được thực hiện để ngăn chặn hoặc làm chậm sự tiến triển của cận thị , có nhiều cách không được chứng minh để ngăn chặn tình trạng xảy ra hoặc tiến triển .",
+    "entities": [
+      {
+        "text": "cận thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng tăng nguy cơ tim đập nhanh như : mắc bệnh tim ; mắc bệnh lý chuyển hóa , mãn kinh hoặc đang mang thai; có vấn đề về tâm lý; sử dụng một số thuốc .",
+    "entities": [
+      {
+        "text": "bệnh lý chuyển hóa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tim đập nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều này cũng cung cấp thông tin khác về tim và phổi của bạn có thể hữu ích nếu người bệnh được chỉ định phẫu thuậ t .",
+    "entities": [
+      {
+        "text": "phẫu thuậ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "có thể thực hiện cắt túi mật mở rộng là cắt túi mật cộng với phần mô xung quanh túi mật khoảng 1 inch cùng vét hạch vùng .",
+    "entities": [
+      {
+        "text": "cắt túi mật mở rộng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": ". . do chèn ép các dây thần kinh số iii , iv và số v . tăng áp lực trong sọ : khi có các biểu hiện đau đầu , nôn , buồn nôn , rối loạn ý thức , thậm chí là hôn mê chính là lúc khối u đã chèn ép trong so gây tăng áp lực trong sọ .",
+    "entities": [
+      {
+        "text": "rối loạn ý thức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hôn mê",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù các nghiên cứu đã chỉ ra rằng rượu vừa phải - một ly một ngày cho phụ nữ và hai dành cho nam giới - đặc biệt là rượu vang đỏ , có tác dụng bảo vệ cơ thể , lạm dụng rượu đặt vào nguy cơ phát triển chứng mất trí nhớ .",
+    "entities": [
+      {
+        "text": "chứng mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lạm dụng rượu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hoặc khối u di căn xa đến các cơ quan khác đối tượng nguy cơ bệnh ung thư túi mật các bệnh nhân có tiền sử sỏi mật , đặc biệt là sỏi mật tái phát nhiều lần bệnh nhân có tiền sử polyp túi mật người hút thuốc lá người nghiện rượu người có người thân trong gia đình bị ung thư túi mật phòng ngừa bệnh ung thư túi mật chưa có biện pháp phòng ung thư túi mật đặc hiệu .",
+    "entities": [
+      {
+        "text": "bệnh ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "polyp túi mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sỏi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm trùng huyết là một tình trạng đe dọa tính mạng tiến triển nhanh chóng có thể gây sốc và suy cơ quan .",
+    "entities": [
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau khi cắt bỏ nút nhĩ thất , sẽ cần phải tiếp tục dùng thuốc làm loãng máu để giảm nguy cơ đột quỵ , bởi vì nhịp tim vẫn là rung nhĩ .",
+    "entities": [
+      {
+        "text": "dùng thuốc làm loãng máu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cắt bỏ nút nhĩ thất",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "rửa mũi bằng nước muối là một cách nhanh chóng , không tốn kém và rất hiệu quả để làm giảm nghẹt mũi .",
+    "entities": [
+      {
+        "text": "rửa mũi bằng nước muối",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nghẹt mũi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "suy tim giai đoạn c : bệnh nhân có bệnh tim thực thể kèm theo triệu chứng cơ năng của suy tim trước đây hoặc hiện tại ( mệt , khó thở , giảm khả năng gắng sức ) .",
+    "entities": [
+      {
+        "text": "giảm khả năng gắng sức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thuốc corticosteroid ở dạng thuốc viên , chẳng hạn như prednisone , đôi khi được sử dụng để giảm các triệu chứng dị ứng nghiêm trọng .",
+    "entities": [
+      {
+        "text": "triệu chứng dị ứng nghiêm trọng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thuốc corticosteroid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "prednisone",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "vi khuẩn từ ruột thừa bị vỡ có thể xâm nhập vào máu , nó có thể gây ra tình trạng nghiêm trọng gọi là nhiễm trùng huyết .",
+    "entities": [
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "do tiền sử gia đình , một số người mang gen có thể khiến bản thân họ bị bệnh sốt thấp khớp bệnh thấp tim hiếm gặp ở các nước phát triển , tuy nhiên ở các nước đang phát triển bệnh vẫn còn phổ biến , đặc biệt là ở những nơi có không có điều kiện , dinh dưỡng và vệ sinh còn kém như nam á hay châu phi .",
+    "entities": [
+      {
+        "text": "bệnh sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viện hàn lâm hoa kỳ khuyến cáo rằng mắt cố gắng liên lạc monovision để xác định xem có thể điều chỉnh để chỉnh sửa trước khi xem xét phẫu thuật khúc xạ .",
+    "entities": [
+      {
+        "text": "phẫu thuật khúc xạ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguy cơ mắc phải yếu tố làm tăng nguy cơ mắc phải bệnh động mạch ngoại biên một số yếu tố làm tăng nguy cơ mắc bệnh động mạch ngoại biên , bao gồm : hút thuốc lá; đái tháo đường ; béo phì ; tăng huyết áp ; tăng cholesterol máu ; tuổi .",
+    "entities": [
+      {
+        "text": "bệnh động mạch ngoại biên",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng cholesterol máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc ( bị ) hở van ba lá các yếu tố làm tăng nguy hở van ba lá : dị tật tim bẩm sinh , ví dụ như dị tật ebstein ; bị đau tim hoặc suy tim ; tăng huyết áp ; tăng áp động mạch phổi ; cơ tim suy yếu ; bị nhiễm trùng gây ảnh hưởng tới tim , như viêm nội tâm mạc nhiễm trùng ; bức xạ ở vùng ngực; sử dụng một số loại thuốc như thược điều trị chứng đau nửa đầu , bệnh parkinson .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng áp động mạch phổi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "dị tật ebstein",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cơ tim suy yếu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh parkinson",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hở van ba lá",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tim bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tình trạng này có thể giới hạn lưu lượng máu đến các tế bào não ( đột quỵ thiếu máu cục bộ ) và gây thiệt hại tế bào thêm .",
+    "entities": [
+      {
+        "text": "đột quỵ thiếu máu cục bộ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tắc nghẽn ngưng thở khi ngủ , một tình trạng nghiêm trọng , trong đó dừng lại và bắt đầu thở nhiều lần trong khi ngủ .",
+    "entities": [
+      {
+        "text": "tắc nghẽn ngưng thở khi ngủ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thân chung động mạch ở người lớn trong trường hợp hiếm , người có thân chung động mạch có thể sống sót mà không cần sửa chữa phẫu thuật tim và sống vào tuổi trưởng thành .",
+    "entities": [
+      {
+        "text": "thân chung động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bệnh lý tại gốc van động mạch chủ gây giãn vòng van , van không đóng kín được : hội chứng marfan , hội chứng ehler–danlo s; viêm động mạch chủ do giang mai ; phình , bóc tách thành động mạch chủ .",
+    "entities": [
+      {
+        "text": "bóc tách thành động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng ehler–danlo",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng marfan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phình",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có các biện pháp điều trị bệnh ung thư thực quản như sau : phẫu thuật là biện pháp chủ yếu .",
+    "entities": [
+      {
+        "text": "bệnh ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , điều trị nhiễm khuẩn đường hô hấp , viêm họng do liên cầu vì chúng có nguy cơ gây thấp tim dẫn đến các tổn thương van hậu thấp .",
+    "entities": [
+      {
+        "text": "nhiễm khuẩn đường hô hấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của suy tim chế độ sinh hoạt : tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị .",
+    "entities": [
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "rubella có thể lây truyền trong không gian nhỏ , ngay cả khi không tiếp xúc giữa người với người; người có nguy cơ mắc bệnh rubella : chưa tiêm vaccine phòng ngừa rubella hoặc những người chưa từng mắc bệnh rubella ; du lịch đến khu vực lưu hành rubella hoặc tiếp xúc những người bị rubella đến từ các khu vực này sẽ làm tăng nguy cơ phơi nhiễm rubella .",
+    "entities": [
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống mặc dù không thể ngăn chặn viễn thị , có thể giúp bảo vệ đôi mắt và tầm nhìn .",
+    "entities": [
+      {
+        "text": "viễn thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

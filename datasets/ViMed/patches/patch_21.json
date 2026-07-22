@@ -1,0 +1,438 @@
+[
+  {
+    "text": "nước ối ít hay hết ối định lượng fibrinogen trong máu : đánh giá ảnh hưởng của thai đến quá trình đông máu .",
+    "entities": [
+      {
+        "text": "định lượng fibrinogen trong máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị viêm cơ tim nguyên tắc điều trị : bác sĩ sẽ đưa ra các phác đồ điều trị riêng biệt cho từng người bệnh , tùy thuộc vào nguyên nhân và tình trạng của người bệnh .",
+    "entities": [
+      {
+        "text": "viêm cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị bằng hóa chất : có đến 80 - 90% bệnh nhân bị ung thư phổi giảm bệnh khi tế bào còn nhỏ và được sử dụng hóa chất để điều trị .",
+    "entities": [
+      {
+        "text": "ung thư phổi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hóa chất",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nhiều khối u máu sẽ biến mất khi trẻ lên 5 tuổi , và đa phần sẽ không nhìn thấy u máu nữa khi trẻ lên 10 tuổi .",
+    "entities": [
+      {
+        "text": "u máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù có thể báo động khi có u nang tụy , những tin tức tốt lành nhất u nang tuyến tụy là không ung thư và nhiều người thậm chí không gây ra triệu chứng .",
+    "entities": [
+      {
+        "text": "u nang tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u nang tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xạ trị xạ trị sử dụng các nguồn năng lượng mạnh , như x quang để diệt bất kỳ tế bào ung thư có thể vẫn còn sau khi phẫu thuật , để thu nhỏ khối u lớn trước khi phẫu thuật để nó có thể được loại bỏ dễ dàng hơn , hoặc để làm giảm triệu chứng bệnh ung thư đại tràng và ung thư trực tràng .",
+    "entities": [
+      {
+        "text": "bệnh ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "x quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân trong suốt một quá trình gọi là nhạy cảm , hệ thống miễn dịch xác định nhầm một chất vô hại trong không khí như là một cái gì đó có hại .",
+    "entities": []
+  },
+  {
+    "text": "cho đến khi bác sĩ biết kết quả xét nghiệm máu và các mô , quý vị hoặc con có thể được điều trị bằng một loại thuốc phổ rộng .",
+    "entities": [
+      {
+        "text": "điều trị bằng một loại thuốc phổ rộng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xét nghiệm máu và các mô",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "hoặc nó có thể được thực hiện bằng cách sử dụng siêu âm nội soi để dẫn các công cụ đặc biệt vào tuyến tụy và mẫu tế bào có thể được lấy để xét nghiệm .",
+    "entities": [
+      {
+        "text": "mẫu tế bào",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "người bị bệnh đường ruột hoặc vi khuẩn phát triển bất thường trong dạ dày hoặc đã cắt đi một phần ruột hay dạ dày .",
+    "entities": [
+      {
+        "text": "bệnh đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số dấu hiệu có thể đi kèm triệu chứng tim đập nhanh như : chóng mặt , ngất sau đó; cảm giác lo lắng , hoảng sợ ; khó thở , tức ngực .",
+    "entities": [
+      {
+        "text": "cảm giác lo lắng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tim đập nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hoảng sợ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tức ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngất",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đối với trẻ em sau khi sinh bệnh tim bẩm sinh ebstein được chẩn đoán thông qua việc thăm khám lâm sàng kết hợp với thực hiện các xét nghiệm giúp chẩn đoán nhanh và chính xác : khám lâm sàng dựa trên diễn biến lâm sàng của trẻ như trẻ khó thở , da xanh , lạnh , tím tái , tim đập nhanh để định hướng chẩn đoán cho trẻ .",
+    "entities": [
+      {
+        "text": "bệnh tim bẩm sinh ebstein",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tim đập nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "da xanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tím tái",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nó cũng có thể được gây ra bởi các vấn đề với dây thần kinh thính giác hoặc một phần của bộ não để dịch tín hiệu thần kinh như âm thanh .",
+    "entities": []
+  },
+  {
+    "text": ". . một số loại thuốc có thể gây ra hoặc làm nặng thêm chứng ù tai , liều của các loại thuốc này càng cao thì chứng ù tai càng nặng : một số nhóm kháng sinh , thuốc trị ung thư , thuốc lợi tiểu , thuốc quinine , một số thuốc chống trầm cảm , aspirin dùng với liều cao , . . triệu chứng bệnh ù tai ù tai liên quan đến cảm giác của âm thanh nghe khi không có âm thanh bên ngoài .",
+    "entities": [
+      {
+        "text": "thuốc chống trầm cảm",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc trị ung thư",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc lợi tiểu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc quinine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh ù tai",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "aspirin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "không phải tất cả những người bị đau tim đều có các triệu chứng giống nhau hoặc có cùng mức độ nghiêm trọng của các triệu chứng .",
+    "entities": [
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến hở van hai lá nguyên nhân dẫn tới hở van hai lá có thể do bẩm sinh ở van hai lá , hay còn gọi là hở van hai lá nguyên phát .",
+    "entities": [
+      {
+        "text": "hở van hai lá nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu nhận thấy bất kỳ dấu hiệu hoặc triệu chứng của viêm giác mạc , làm một cuộc hẹn để gặp bác sĩ ngay lập tức .",
+    "entities": [
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị bằng tia xạ : được áp dụng nhằm phá hủy khói u khi còn nhỏ và chưa có di căn hoặc làm hạn chế sự phát triển của khối u lớn .",
+    "entities": [
+      {
+        "text": "tia xạ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thật không may , hầu hết mọi người bị ảnh hưởng bởi mất thính lực sống với những khó khăn này trong nhiều năm trước khi tìm cách chữa trị - hoặc không bao giờ tìm cách điều trị nào cả .",
+    "entities": [
+      {
+        "text": "mất thính lực",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thông thường , kháng sinh liên quan đến tiêu chảy là nhẹ và hết ngay sau khi ngừng thuốc kháng sinh .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong những trường hợp mà trong đó điều trị steroid thất bại và mất thị lực nghiêm trọng vẫn xảy ra , một liệu pháp điều trị gọi là trao đổi huyết tương có thể giúp một số người hồi phục tầm nhìn của họ .",
+    "entities": [
+      {
+        "text": "mất thị lực nghiêm trọng vẫn xảy ra",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "trao đổi huyết tương",
+        "type": "THUỐC"
+      },
+      {
+        "text": "điều trị steroid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một số nghiên cứu đã chỉ ra việc sử dụng các loại thuốc này có thể giúp điều trị viêm thực quản bạch cầu ái toan .",
+    "entities": [
+      {
+        "text": "viêm thực quản bạch cầu ái toan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đường lây truyền bệnh tắc ruột sơ sinh do nguyên nhân chính dẫn tới tắc ruột sơ sinh là do lồng ruột nên các triệu chứng nổi bật thường gặp ở tắc ruột sơ sinh thường liên quan mật thiết tới bệnh này , bao gồm : triệu chứng cơ năng : đau bụng : khởi phát một cách đột ngột , dữ dội và quặn theo từng cơn .",
+    "entities": [
+      {
+        "text": "bệnh tắc ruột sơ sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lồng ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hóa trị liệu bổ trợ được sử dụng để tấn công bất kỳ tế bào ung thư còn lại trong cơ thể , bao gồm cả những có thể đã vỡ ra từ khối u ban đầu và lây lan ở những nơi khác .",
+    "entities": [
+      {
+        "text": "hóa trị liệu bổ trợ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khối u",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ mặc dù các bác sĩ không chắc chắn những gì gây ra các đột biến gen có thể dẫn đến các khối u não tiên phát , họ đã xác định các yếu tố có thể làm tăng nguy cơ bị một khối u não .",
+    "entities": [
+      {
+        "text": "khối u não tiên phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ai cũng có nguy cơ mắc phải chứng đầy hơi nhưng một số đối tượng sau đây sẽ có nguy cơ cao mắc chứng đầy hơi : người gặp phải tình trạng dị ứng , không dung nạp một số thực phẩm như sữa bò , tinh bột .",
+    "entities": [
+      {
+        "text": "đầy hơi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "dị ứng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh vi tính chẳng hạn như chụp cắt lớp ( ct ) , siêu âm và hình ảnh cộng hưởng từ ( mri ) .",
+    "entities": [
+      {
+        "text": "cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp cắt lớp",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của rung nhĩ rung tâm nhĩ thường không có triệu chứng , nhưng nhiều bệnh nhân có thể thấy đánh trống ngực , khó chịu trong ngực , hoặc triệu chứng của suy tim ( ví dụ như suy nhược cơ thể , nhức đầu , khó thở ) , đặc biệt khi tần số thất rất nhanh ( thường là 140 - 160 lần/phút ) .",
+    "entities": [
+      {
+        "text": "khó chịu trong ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy nhược cơ thể",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đánh trống ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhức đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "người làm việc trong các ngành công nghiệp nhất định có thể có tăng nguy cơ u não , có thể vì những hoá chất mà họ đang tiếp xúc trong công việc .",
+    "entities": [
+      {
+        "text": "u não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "gdncbm hoạt động bằng cách kết hợp công nghệ hình ảnh cộng hưởng từ truyền thống với tần số thấp sóng âm .",
+    "entities": [
+      {
+        "text": "cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "gdncbm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  }
+]

@@ -1,0 +1,396 @@
+[
+  {
+    "text": "sau đó trong thời kỳ mang thai , áp lực về đường ruột do tử cung mở rộng cũng có thể gây táo bón .",
+    "entities": [
+      {
+        "text": "táo bón",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh thấp tim là bệnh viêm toàn tim , được biểu hiện viêm nội tâm mạc , viêm màng ngoài tim , viêm cơ tim hoặc kết hợp cả ba trường hợp trên .",
+    "entities": [
+      {
+        "text": "viêm màng ngoài tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh viêm toàn tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm nội tâm mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống để giảm nguy cơ bệnh gan nhiễm mỡ không do rượu , cố gắng : chọn một chế độ ăn uống khỏe mạnh .",
+    "entities": [
+      {
+        "text": "bệnh gan nhiễm mỡ không do rượu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vấn đề có thể làm hư hại các sợi thần kinh giao cảm và gây ra hội chứng horner bao gồm : đột quỵ .",
+    "entities": [
+      {
+        "text": "hội chứng horner",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với thử nghiệm này , một miếng gạc vô trùng được cọ xát trên mặt sau của cổ họng và amiđan để có được một mẫu của chất tiết .",
+    "entities": [
+      {
+        "text": "một miếng gạc vô trùng được cọ xát trên mặt sau của cổ họng và amiđan để có được một mẫu của chất tiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải bệnh tim mạch một số yếu tố làm tăng nguy cơ mắc bệnh tim mạch , bao gồm : tuổi tác : tuổi càng cao nguy cơ động mạch bị tổn thương và thu hẹp cũng như cơ tim bị suy yếu hoặc dày lên càng tăng .",
+    "entities": [
+      {
+        "text": "bệnh tim mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đây là những thông tin rất quan trọng giúp bác sĩ phẫu thuật lên kế hoạch cắt bỏ khối ung thư .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán cơ tim phì đại chẩn đoán dựa trên tiếng thổi điển hình và các triệu chứng , đặc biệt nếu bệnh nhân có tiền sử ngất không rõ nguyên nhân hoặc tiền sử gia đình có người đột tử không rõ nguyên nhân .",
+    "entities": [
+      {
+        "text": "cơ tim phì đại",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiếng thổi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngất",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "có thể phẫu thuật nối thông 2 hệ tĩnh mạch cửa chủ ( tips ) bồi phụ dịch , bao gồm truyền máu nếu cần , được thực hiện để kiểm soát tình trạng sốc giảm thể tích và sốc mất máu .",
+    "entities": [
+      {
+        "text": "phẫu thuật nối thông 2 hệ tĩnh mạch cửa chủ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "truyền máu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "giải phẫu cắt bỏ một khối u não mang những rủi ro , chẳng hạn như nhiễm trùng và chảy máu .",
+    "entities": [
+      {
+        "text": "giải phẫu cắt bỏ một khối u não",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một loại tâm lý liệu pháp được gọi là nhận thức hành vi thường được sử dụng trong điều trị rối loạn ăn uống , đặc biệt là rối loạn tâm thần cuồng ăn và ăn quá nhiều .",
+    "entities": [
+      {
+        "text": "rối loạn tâm thần",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tâm lý liệu pháp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh đa xơ cứng nếu có v iêm dây thần kinh thị giác và có nguy cơ cao phát triển bệnh đa xơ cứng , có thể hưởng lợi từ các loại thuốc giúp ngăn ngừa bệnh đa xơ cứng .",
+    "entities": [
+      {
+        "text": "iêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh đa xơ cứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân xcbht thường rất lo lắng về bệnh và tình trạng da căng cứng gây ngứa , khó chịu , mất ngủ .",
+    "entities": [
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mất ngủ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngứa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "quy trình này loại bỏ các bộ phận của mống mắt và các mô hỗ trợ xung quanh giác mạc tại căn cứ của mống mắt , cho mống mắt nhỏ u sắc tố đã xâm chiếm các mô .",
+    "entities": [
+      {
+        "text": "u sắc tố",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân thứ phát gây ra hội chứng raynaud có thể là triệu chứng của một bệnh lý khác : lupus ban đỏ , xơ cứng bì , viêm khớp dạng thấp hoặc xơ vữa động mạch … bệnh lý tuyến giáp .",
+    "entities": [
+      {
+        "text": "viêm khớp dạng thấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng raynaud",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lupus ban đỏ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ cứng bì",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu phần máu đông này di chuyển đến những cơ quan khác có thể dẫn đến tắc nghẽn mạch máu , gia tăng nguy cơ tắc phổi , đột quỵ , .",
+    "entities": [
+      {
+        "text": "tắc nghẽn mạch máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tắc phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các chất chỉ điểm khối u : cea , ca 72 - 4 và ca 19 - 9. các biện pháp điều trị bệnh ung thư dạ dày điều trị ung thư dạ dày phụ thuộc vào giai đoạn bệnh , các bệnh kèm theo , thể trạng bệnh nhân .",
+    "entities": [
+      {
+        "text": "các chất chỉ điểm khối u",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các phương pháp chẩn đoán hình ảnh thường được áp dụng là : siêu âm : sử dụng đầu dò tần số cao , đè ép đầu dò dần dần và nhẹ nhàng trên vùng nhạy cảm đau , nghi ngờ có viêm ruột thừa cấp để khảo sát , đánh giá tình trạng sưng tấy của ruột thừa bị viêm .",
+    "entities": [
+      {
+        "text": "chẩn đoán hình ảnh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm ruột thừa cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sưng tấy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm máu cũng có thể thấy virus có thể gây ra gan to , chẳng hạn như các vi rút viêm gan .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "gan to",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu không có đủ vi sinh vật \"tốt\" , vi khuẩn \"xấu\" kháng với các kháng sinh sử dụng , việc sản xuất độc tố có thể làm hư niêm mạc ruột và gây ra viêm ruột .",
+    "entities": [
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị không phẫu thuật : đầu tiên dùng một ống thông bơm thuốc cản quang vào buồng tử cung - vòi trứng .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "những sản phẩm này có chứa các thành phần như witch haze , hydrocortison và lidocaine , có thể làm tạm thời giảm đau và ngứa .",
+    "entities": [
+      {
+        "text": "ngứa",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "có thể được chỉ định phương pháp điều trị phóng xạ trước khi hoặc sau khi phẫu thuật ung thư , thường kết hợp với hóa trị .",
+    "entities": [
+      {
+        "text": "phẫu thuật ung thư",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phóng xạ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các biểu hiện khi khám sức khỏe là nhịp tim chậm ( đặc biệt là mobitz ii ) và/hoặc nhịp tim không đều ( trong quá trình block av mobitz i ) .",
+    "entities": [
+      {
+        "text": "nhịp tim không đều",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhịp tim chậm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu có thiếu máu cục bộ đường ruột , những hình ảnh có thể hiển thị một động mạch bị chặn hoặc thu hẹp .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "men vi sinh bổ sung các vi khuẩn có lợi và nấm men có sẵn ở dạng viên nang hoặc chất lỏng .",
+    "entities": [
+      {
+        "text": "men vi sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hướng điều trị : điều trị nội khoa là phòng ngừa biến chứng và nhiễm trùng… điều trị ngoại khoa thường không mổ đặc biệt là khi tăng áp động mạch phổ i cố định .",
+    "entities": [
+      {
+        "text": "tăng áp động mạch phổ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể được chỉ định một loại thuốc hóa trị liệu , hoặc có thể sự kết hợp của các loại thuốc hóa trị .",
+    "entities": [
+      {
+        "text": "hóa trị liệu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng máy tính có thể gây ra các triệu chứng mỏi mắt bổ sung , bao gồm : có vấn đề trọng tâm chuyển đổi giữa các tài liệu theo dõi và giấy .",
+    "entities": [
+      {
+        "text": "mỏi mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không dị ứng gây nên viêm mũi bao gồm : môi trường hoặc chất kích thích nghề nghiệp bụi , khói , khói thuốc hay mùi nặng , chẳng hạn như nước hoa , có thể gây viêm mũi không dị ứng .",
+    "entities": [
+      {
+        "text": "viêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

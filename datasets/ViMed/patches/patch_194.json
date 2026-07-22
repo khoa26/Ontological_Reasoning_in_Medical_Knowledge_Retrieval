@@ -1,0 +1,475 @@
+[
+  {
+    "text": "tuy nhiên , siêu âm chẩn đoán viêm ruột thừa cấp cũng có thể gặp khó khăn nếu bệnh nhân béo phì , bụng chướng hơi , bàng quang quá căng , bệnh nhân đang mang thai trên 6 tháng , phản ứng thành bụng hoặc vị trí ruột thừa bất thường .",
+    "entities": [
+      {
+        "text": "viêm ruột thừa cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "bởi vì việc sử dụng lâu dài của corticosteroid đường uống có thể gây ra t ác dụng phụ nghiêm trọng như loãng xương , đục thủy tinh thể và suy nhược cơ bắp , chúng thường được quy định đối với chỉ một thời gian ngắn .",
+    "entities": [
+      {
+        "text": "corticosteroid đường uống",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy nhược cơ bắp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "loãng xương",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một đục thủy tinh thể sau bao thường gây trở ngại cho tầm nhìn , làm giảm tầm nhìn trong ánh sáng chói sáng và các nguyên nhân hoặc quầng quanh đèn chiếu sáng vào ban đêm .",
+    "entities": [
+      {
+        "text": "giảm tầm nhìn trong ánh sáng chói sáng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "quầng quanh đèn chiếu sáng vào ban đêm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đục thủy tinh thể sau bao",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gây trở ngại cho tầm nhìn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ một số yếu tố làm tăng nguy cơ phát triển chặn ống lệ : - tuổi tác và giới tính .",
+    "entities": []
+  },
+  {
+    "text": "các triệu chứng các triệu chứng của chứng ợ nóng bao gồm cơn đau rát trong ngực thường xảy ra sau khi ăn và có thể xảy ra vào ban đêm .",
+    "entities": [
+      {
+        "text": "cơn đau rát trong ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chứng ợ nóng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều này có thể được thực hiện bởi đóng một phần hoặc hoàn toàn ống dẫn nước mắt , mà thường phục vụ thoát nước mắt đi .",
+    "entities": [
+      {
+        "text": "đóng một phần hoặc hoàn toàn ống dẫn nước mắt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tâm thất trái sẽ phải làm việc nhiều hơn dẫn tới phì đại tâm thất trái và cuối cùng sẽ dẫn đến suy tim .",
+    "entities": [
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tùy thuộc vào độ tuổi , sức khỏe và loại huyết áp thấp , có một số cách để làm điều này : sử dụng nhiều muối hơn : các chuyên gia thường khuyên bạn nên hạn chế muối ( natri ) vì nó có thể làm tăng huyết áp .",
+    "entities": [
+      {
+        "text": "huyết áp thấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các thủ tục liên quan đến việc áp dụng năng lượng tần số vô tuyến để c ắt bỏ con đường kết nối các khoang trên và dưới của tim ( nút av ) , ống thông dùng để tiêu diệt khu vực mô nhỏ này .",
+    "entities": [
+      {
+        "text": "ắt bỏ con đường kết nối các khoang trên và dưới của tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "áp dụng năng lượng tần số vô tuyến",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu có dị ứng theo mùa hoặc phản ứng dị ứng đang diễn ra với bụi , nấm mốc hoặc lông thú , có nhiều khả năng phát triển đau họng hơn là những người không có dị ứng .",
+    "entities": [
+      {
+        "text": "đau họng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số loại chất béo có thể làm tăng nguy cơ ung thư đại tràng , nhưng các loại khác lại bảo vệ .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ghép gan là một thủ tục loại bỏ gan và thay thế bằng toàn bộ gan từ nhà tài trợ đã chết hoặc với một phần của gan từ một nhà tài trợ sống .",
+    "entities": [
+      {
+        "text": "ghép gan",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bao gồm các : hội chứng ruột kích thích ( ibs ) , bệnh viêm ruột , chẳng hạn như viêm loét đại tràng hoặc bệnh crohn , rối loạn tiêu hóa chức năng khác ( fgids ) , ợ nóng , không dung nạp thực phẩm , tăng cân , thay đổi nội tiết tố ( đặc biệt đối với phụ nữ ) , giardiasis ( nhiễm ký sinh trùng đường ruột ) , rối loạn ăn uống như chán ăn tâm thần hoặc ăn vô độ , các yếu tố sức khỏe tâm thần như căng thẳng , lo lắng , trầm cảm , một số loại thuốc .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm loét đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "giardiasis",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "căng thẳng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "trầm cảm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lo lắng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ợ nóng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "radioembolization : nút mạch u gan bằng hạt phóng xạ cryoablation : nhiệt động là phương pháp sử dụng nhiệt lạnh như co2, argon , helium tạo nhiệt độ - 100 độ c để tiêu diệt khối u . xạ trị ( radiation therapy ) , xạ phẫu ( stereotactic radiotherapy ) hóa chất toàn thân và sinh học phân tử điều trị đích xem thêm : bệnh ung thư gan nên ăn gì ?",
+    "entities": [
+      {
+        "text": "sử dụng nhiệt lạnh như co2, argon , helium tạo nhiệt độ - 100 độ c để tiêu diệt khối u",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nút mạch u gan bằng hạt phóng xạ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sinh học phân tử điều trị đích",
+        "type": "THUỐC"
+      },
+      {
+        "text": "stereotactic radiotherapy",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hóa chất toàn thân",
+        "type": "THUỐC"
+      },
+      {
+        "text": "radioembolization",
+        "type": "THUỐC"
+      },
+      {
+        "text": "radiation therapy",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cryoablation",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhiệt động",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ phẫu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bộ dụng cụ loại bỏ ráy tai có sẵn trong các cửa hàng cũng có thể hiệu quả loại bỏ sự tích tụ ráy .",
+    "entities": [
+      {
+        "text": "bộ dụng cụ loại bỏ ráy tai",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "globulin miễn dịch liều cao có thể chặn các kháng thể gây tổn hại có thể góp phần vào hội chứng guillain - barre .",
+    "entities": [
+      {
+        "text": "globulin miễn dịch liều cao có thể chặn các kháng thể gây tổn hại",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hội chứng guillain - barre",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kỹ thuật làm dịu căng thẳng và lo lắng có thể làm giảm các dấu hiệu và triệu chứng của trào ngược dạ dày thực quản .",
+    "entities": [
+      {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "căng thẳng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lo lắng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng nguy hiểm như : tổn thương cơ tim , tổn thương phổi , cơ quan sinh dục hay ung thư thứ 2 ( leukemia ) ghép tủy/ghép tế bào gốc tự thân : sử dụng hóa chất liều cao và xạ trị làm ức chế tủy xương sau đó ghép tủy xương lành từ người cho hoặc chính bệnh nhân bệnh nhân thực hiện ghép tủy xương có nguy cơ nhiễm trùng khá cao điều trị u lympho thần kinh trung ương nguyên phát : methotrexate liều cao kèm hoặc không kèm cytarabine .",
+    "entities": [
+      {
+        "text": "methotrexate liều cao kèm hoặc không kèm cytarabine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "u lympho thần kinh trung ương nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ghép tủy/ghép tế bào gốc tự thân",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sử dụng hóa chất liều cao",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ghép tủy xương",
+        "type": "THUỐC"
+      },
+      {
+        "text": "leukemia",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bệnh quai bị có nguy cơ thành dịch , do tính chất rất dễ lây nhất là ở những nơi tập trung đông người sinh hoạt tập thể : trường học , ký túc xá , doanh trại .",
+    "entities": [
+      {
+        "text": "bệnh quai bị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "loại ù tai hiếm gặp này có thể do vấn đề về mạch máu , tình trạng xương tai giữa hoặc co thắt cơ bắp .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một số phương pháp điều trị có thể tham khảo như sau : trường hợp nhẹ : đa phần các trường hợp tiêu chảy nhiễm trùng nếu nhẹ thì có thể tự cầm tiêu chảy sau một vài ngày , bệnh nhân chỉ cần nghỉ ngơi , ăn các thức ăn dạng lỏng , dễ tiêu hóa và uống thật nhiều nước có chứa điện giải như nước biển khô , dung dịch muối đường để bù lượng nước đã mất .",
+    "entities": [
+      {
+        "text": "tiêu chảy nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của đầy hơi chế độ sinh hoạt : bạn cần tuân theo phác đồ điều trị của bác sĩ .",
+    "entities": [
+      {
+        "text": "đầy hơi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "dấu hiệu dự báo sốt rét ác tính : rối loạn ý thức nhẹ , thoáng qua ( li bì , cuồng sảng , vật vã , .",
+    "entities": [
+      {
+        "text": "rối loạn ý thức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , các thuốc này thường chỉ được sử dụng cho chứng ù tai nặng , vì chúng có thể gây ra tác dụng phụ phiền hà , bao gồm khô miệng , mờ mắt , táo bón và các vấn đề tim mạch .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc kháng sinh dùng để điều trị viêm xoang mãn tính gây ra do nhiễm trùng bởi vi khuẩn bao gồm amoxicillin , doxycycline hoặc thuốc kết hợp trimethoprim - sulfamethoxazole .",
+    "entities": [
+      {
+        "text": "thuốc kết hợp trimethoprim - sulfamethoxazole",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm xoang mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "amoxicillin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "doxycycline",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , viêm xoang mãn tính thường được gây ra bởi một cái gì đó khác hơn là vi khuẩn và kháng sinh sẽ không giúp đỡ gì .",
+    "entities": [
+      {
+        "text": "viêm xoang mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán nhồi máu cơ tim điện tâm đồ điện tâm đồ là xét nghiệm quan trọng nhất và nên được thực hiện trong vòng 10 phút sau khi thăm khám .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng của pdt có thể bao gồm thu hẹp thực quản , đau ngực , khó nuốt và ói mửa .",
+    "entities": [
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó nuốt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ói mửa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nhìn chung , các ca phẫu thuật thành công có thể xử lý hầu hết các trường hợp bong võng mạc , mặc dù điều trị thứ hai là đôi khi cần thiết .",
+    "entities": [
+      {
+        "text": "bong võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không giống như chụp x - quang thông thường , chụp ct có thể hiển thị chi tiết trong các mô mềm với kích thước , hình dạng và vị trí của khối u và có thể giúp tìm thấy các hạch bạch huyết phì đại có thể chứa tế bào ung thư .",
+    "entities": [
+      {
+        "text": "chụp x - quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

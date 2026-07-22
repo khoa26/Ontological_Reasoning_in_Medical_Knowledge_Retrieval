@@ -1,0 +1,356 @@
+[
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải cao huyết áp một số yếu tố làm tăng nguy cơ mắc cao huyết áp , bao gồm : tuổi : nguy cơ cao huyết áp gia tăng khi tuổi càng cao .",
+    "entities": [
+      {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : vinmec nội soi thành công ung thư thực quản phức tạp u lành thực quản : nguyên nhân , triệu chứng , chẩn đoán và điều trị trào ngược dạ dày thực quản : nguyên nhân , triệu chứng , chẩn đoán và điều trị chủ đề : ung thư thực quản thực quản u thực quản tiêu hóa polyp",
+    "entities": [
+      {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u lành thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": ". . vi sinh vật : vi khuẩn có thể trực tiếp tác động làm thay đổi gen hoặc gián tiếp gây viêm , dẫn đến việc phát sinh ung thư lưỡi .",
+    "entities": [
+      {
+        "text": "ung thư lưỡi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh lý bao gồm bệnh tuyến giáp , lượng đường trong máu thấp , thiếu máu , huyết áp thấp , sốt và mất nước .",
+    "entities": [
+      {
+        "text": "lượng đường trong máu thấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tuyến giáp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp thấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiếu máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mức độ ngứa thường tăng lên về đêm và hầu như không đáp ứng với các thuốc điều trị da liễu .",
+    "entities": [
+      {
+        "text": "ngứa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thường xuyên khám mắt toàn diện có thể giúp phát hiện bệnh tăng nhãn áp trong giai đoạn đầu trước khi xảy ra thiệt hại không thể đảo ngược .",
+    "entities": [
+      {
+        "text": "khám mắt toàn diện",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán bác sĩ sẽ bắt đầu với khám chung như nhau cho trẻ em và người lớn .",
+    "entities": [
+      {
+        "text": "khám chung",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ù tai là tiếng kêu không mong muốn có nguồn gốc từ chính hệ thống thính giác hoặc các cơ quan lân cận và thường không thể nghe được bởi người khác .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết phụ nữ sau sinh đều có rối loạn khí sắc , triệu chứng này có thể thoáng qua và tương đối nhẹ , tuy nhiên một số bị rối loạn dai dẳng kéo dài dần dần dẫn đến trầm cảm , ảnh hưởng đến tính mạng của mẹ và con do hành vi tự sát do bệnh trầm cảm gây nên .",
+    "entities": [
+      {
+        "text": "rối loạn khí sắc",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh trầm cảm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục nếu có xơ gan , biện pháp phòng ngừa để hạn chế tổn thương gan thêm .",
+    "entities": [
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm tai giữa mạn tính mủ là một nhiễm trùng tai dai dẳng mà kết quả là rách hoặc thủng màng nhĩ .",
+    "entities": [
+      {
+        "text": "viêm tai giữa mạn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thủng màng nhĩ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rách",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mủ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "do đó , việc lên kế hoạch điều trị ung thư lưỡi phụ thuộc nhiều vào tình trạng cụ thể của bệnh nhân .",
+    "entities": [
+      {
+        "text": "ung thư lưỡi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , chấn thương đầu trước đây hoặc r ối loạn khác của các cơ quan tai cân bằng có thể làm cho dễ bị chóng mặt lành tính tư thế .",
+    "entities": [
+      {
+        "text": "chóng mặt lành tính tư thế",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong các loại tăng tiết mồ hôi thì loại phổ biến nhất là tăng tiết mồ hôi thứ phát ( hyperhidrosis ) .",
+    "entities": [
+      {
+        "text": "tăng tiết mồ hôi thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm hạch bạch huyết mạc treo ruột cũng có thể do nhiễm vi khuẩn yersinia , có thể đến từ việc ăn thịt heo nấu chưa chín hoặc uống sữa chưa được tiệt trùng hoặc nước bị ô nhiễm .",
+    "entities": [
+      {
+        "text": "viêm hạch bạch huyết mạc treo ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những chỉ định của ghép tim các chỉ định chung cho việc ghép tim bao gồm chức năng tim xấu đi và tiên lượng sống dưới 1 năm .",
+    "entities": [
+      {
+        "text": "ghép tim",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thuốc chẹn kênh kali , có thể gây ra huyết áp thấp , các vấn đề với tuyến giáp của bạn , tình trạng phổi hoặc một loại rối loạn nhịp tim khác .",
+    "entities": [
+      {
+        "text": "thuốc chẹn kênh kali",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đôi khi , tuy nhiên , tiêu chảy và các triệu chứng khác có thể không xuất hiện trong những ngày điều trị hoặc thậm chí cả tuần sau khi đã hoàn tất điều trị kháng sinh .",
+    "entities": [
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc chẹn beta giao cảm ( bb ) : nên sử dụng thuốc bb đường uống trong vòng 24 giờ nếu không có tình trạng suy tim cấp , tình trạng cung lượng thấp; nguy cơ bị sốc tim hoặc các chống chỉ định khác .",
+    "entities": [
+      {
+        "text": "thuốc chẹn beta giao cảm",
+        "type": "THUỐC"
+      },
+      {
+        "text": "suy tim cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốc tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "loạn nhịp tim có thể xảy ra ở tâm nhĩ ( buồng tim phía trên ) hoặc tâm thất ( buồng tim phía dưới ) .",
+    "entities": [
+      {
+        "text": "loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tiền sử bệnh tật thông thường bước đầu tiên là bác sĩ sẽ hỏi về tiền sử bệnh tật của người bệnh gồm các triệu chứng hiện tại , khi nào triệu chứng xuất hiện lần đầu tiên , các yếu tố nguy cơ có thể gây ung thư tuyến nước bọt và về sức khỏe chung của người bệnh .",
+    "entities": [
+      {
+        "text": "ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mục tiêu điều trị thuốc thuốc điều trị tập trung vào mục tiêu cụ thể với những bất thường của các tế bào ung thư .",
+    "entities": [
+      {
+        "text": "điều trị thuốc thuốc điều trị tập trung vào mục tiêu cụ thể với những bất thường của các tế bào ung thư",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật phẫu thuật vẫn là điều trị hiệu quả nhất cho người lớn và trẻ em lớn tuổi bị chống chỉ định ống thông .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phẫu thuật loại bỏ khối u : phương pháp này có hiệu quả nhất khi khối u còn nhỏ , chưa bị di căn .",
+    "entities": [
+      {
+        "text": "phẫu thuật loại bỏ khối u",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu bị đỏ mắt hoặc các triệu chứng khác của viêm giác mạc , làm một cuộc hẹn để gặp bác sĩ .",
+    "entities": [
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bị đỏ mắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hội chứng guillain - barre là một căn bệnh nghiêm trọng đòi hỏi phải nhập viện ngay lập tức vì tốc độ nặng hơn nhanh chóng .",
+    "entities": [
+      {
+        "text": "nhập viện ngay lập tức vì tốc độ nặng hơn nhanh chóng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hội chứng guillain - barre",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các dấu hiệu và triệu chứng của viêm xoang mãn tính cũng tương tự như viêm xoang cấp tính , ngoại trừ nó kéo dài hơn và thường gây mệt mỏi đáng kể nhiều hơn .",
+    "entities": [
+      {
+        "text": "viêm xoang mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm xoang cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "để giảm khí dư thừa và ợ hơi , ngưng hoạt động dẫn đến nuốt không khí , chẳng hạn như hút thuốc , ăn nhanh , kẹo cao su , uống qua ống hút và uống đồ uống có ga .",
+    "entities": [
+      {
+        "text": "ợ hơi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một số trường hợp ung thư xương có liên quan đến yếu tố di truyền hoặc tiền sử phơi nhiễm phóng xạ trừ trước .",
+    "entities": [
+      {
+        "text": "ung thư xương",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối phó và hỗ trợ mặc dù các dự báo cho những người bị xơ gan mật tốt hơn nhiều trong quá khứ , nó vẫn có thể khó và bực bội để sống với một căn bệnh gan mãn tính .",
+    "entities": [
+      {
+        "text": "bệnh gan mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ gan mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

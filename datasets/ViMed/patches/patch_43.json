@@ -1,0 +1,460 @@
+[
+  {
+    "text": "sửa chữa ống kính đeo kính xử lý khắc phục cận thị bằng cách chống lại việc tăng độ cong của giác mạc hoặc tăng chiều dài của mắt .",
+    "entities": [
+      {
+        "text": "sửa chữa ống kính",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cận thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "rối loạn nhịp tim : như block nhĩ thất ( cần đặt các loại máy tạo nhịp ) , rung nhĩ , nhịp nhanh thất hay rung thất gây đột tử .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhịp nhanh thất",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "block nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đồ uống có ga và một số loại trái cây và rau quả có thể dẫn đến đầy hơi và khó chịu ở một số người hội chứng ruột kích thích .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đầy hơi và khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "những dấu hiệu và triệu chứng của huyết khối tĩnh mạch sâu các triệu chứng của huyết khối tĩnh mạch sâu ở chân là : đau nhói hoặc chuột rút ở một chân ( hiếm khi cả hai chân ) , thường ở bắp chân hoặc đùi .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch sâu ở chân",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chuột rút ở một chân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau nhói",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân thường gặp của giảm miễn dịch bao gồm hiv , tiểu đường , điều trị bằng steroid hoặc thuốc hóa trị , căng thẳng , mệt mỏi , và chế độ ăn uống nghèo nàn .",
+    "entities": [
+      {
+        "text": "tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hiv",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp , điều trị có thể giúp ngăn ngừa bệnh dị ứng nghiêm trọng hơn như hen suyễn hay eczema .",
+    "entities": [
+      {
+        "text": "bệnh dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hen suyễn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "eczema",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : phương pháp điều trị &amp; cách phòng tránh ung thư tụy hiện nay chế độ ăn uống cho bệnh nhân ung thư tụy cắt 95% tụy bằng kỹ thuật nội soi tiên tiến xua mây mù , thắp hy vọng sống cho bệnh nhân nghèo mắc ung thư tuyến tụy chủ đề : hóa trị xạ trị siêu âm sỏi mật tuyến tụy ung thư tụy sinh thiết chụp cắt lớp vi tính",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "hóa trị",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sỏi mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xạ trị",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , giảm cân , chất bổ sung hoặc các loại thảo mộc có thể có tác dụng phụ nghiêm trọng , chẳng hạn như tim đập không đều , chấn động , ảo giác , mất ngủ , chóng mặt , buồn nôn và căng thẳng .",
+    "entities": [
+      {
+        "text": "tim đập không đều",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "căng thẳng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chấn động",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ảo giác",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mất ngủ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến rung nhĩ các nguyên nhân phổ biến nhất của rung nhĩ là : tăng huyết áp ; bệnh động mạch vành ; bệnh cơ tim ; bệnh van hai lá hoặc van ba lá ; cường giáp ; uống rượu nhiều hơn khi có dịp nghỉ lễ .",
+    "entities": [
+      {
+        "text": "bệnh van hai lá hoặc van ba lá",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh động mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cường giáp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không nên cho rằng chảy máu trực tràng là do bệnh trĩ , đặc biệt là nếu người bệnh trên 40 tuổi .",
+    "entities": [
+      {
+        "text": "chảy máu trực tràng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thấp tim có thể gây hở van động mạch chủ dấu hiệu và tiêu chuẩn chẩn đoán thấp tim chủ đề : tim mạch sốt thấp khớp thấp khớp thấp tim",
+    "entities": [
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng không phù hợp để ghép tim gồm : tuổi cao , khó có khả năng phục hồi sau phẫu thuật; mắc bệnh lý khác có khả năng rút ngắn tuổi thọ , như bệnh thận , gan hoặc phổi nghiêm trọng ; nhiễm trùng đang hoạt động; tiền sử bệnh ung thư gần đây; không muốn hoặc không thể thay đổi lối sống cần thiết để giữ cho trái tim hiến tặng khỏe mạnh , như không sử dụng thuốc kích thích , không hút thuốc và hạn chế dùng rượu .",
+    "entities": [
+      {
+        "text": "gan hoặc phổi nghiêm trọng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ghép tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thoát vị rốn ở người lớn : việc tăng áp lực ổ bụng gây ra tình trạng thoát vị rốn với các nguyên nhân do béo phì , dịch ổ bụng trong các bệnh về gan , phẫu thuật ổ bụng hoặc xuất hiện ở phụ nữ mang thai nhiều lần .",
+    "entities": [
+      {
+        "text": "phẫu thuật ổ bụng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thoát vị rốn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "béo phì",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm tụy do bị chặn hay thu hẹp ống mật có thể yêu cầu thủ tục mở hoặc mở rộng ống mật .",
+    "entities": [
+      {
+        "text": "viêm tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh tăng thông khí khi nhận thấy các triệu chứng bất thường , bác sĩ sẽ nhanh chóng kiểm tra hơi thở và hệ tuần hoàn của bệnh nhân .",
+    "entities": [
+      {
+        "text": "bệnh tăng thông khí",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chứng sa sút trí tuệ mất trí nhớ này là kết quả của thiệt hại não gây ra bởi vấn đề với các động mạch não hoặc của tim .",
+    "entities": [
+      {
+        "text": "chứng sa sút trí tuệ mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thiết bị nghe nhạc di động , chẳng hạn như máy nghe nhạc mp3 hoặc ipod , cũng có thể gây ra mất thính giác liên quan đến tiếng ồn nếu chơi lớn trong thời gian dài .",
+    "entities": [
+      {
+        "text": "mất thính giác",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "xạ trị gia tốc toàn não hoặc xạ phẫu bằng dao gamma : điều trị tổn thương di căn não , để cải thiện chất lượng sống và kéo dài thời gian sống cho bệnh nhân .",
+    "entities": [
+      {
+        "text": "xạ phẫu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nhiều bác sĩ đề nghị mở mống mắt với mắt còn lại vào ngày sau vì nguy cơ cao , góc thoát đã mở gần như hoạt động tốt .",
+    "entities": [
+      {
+        "text": "mở mống mắt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ung thư tụy phát triển ép vào thành tá tràng , có thể chặn dòng chảy của thức ăn tiêu hóa từ dạ dày - ruột non .",
+    "entities": [
+      {
+        "text": "ung thư tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay đổi lối sống có tầm quan trọng nhất định trong việc điều trị hở van động mạch chủ : chế độ ăn uống khoa học , bảo vệ sức khỏe tim mạch : ăn trái cây rau quả , các sản phẩm từ sữa không hoặc ít có chất béo , thịt gia cầm , cá và ngũ cốc nguyên hạt .",
+    "entities": [
+      {
+        "text": "hở van động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh tự kỷ ở người lớn hiện tại không có tiêu chuẩn chẩn đoán cho người lớn bị nghi ngờ mắc tự kỷ , nhưng hiện nay bộ công cụ vẫn đang được phát triển .",
+    "entities": [
+      {
+        "text": "bệnh tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cũng có thể mở mống mắt , một thủ tục laser tạo ra một lỗ nhỏ ở mống mắt để dịch nước có thể truyền vào meshwork trabecular .",
+    "entities": [
+      {
+        "text": "một thủ tục laser",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phân tích mô hạch bạch huyết trong phòng thí nghiệm có thể tiết lộ liệu bạn có bị ung thư hạch không hodgkin hay không và nếu có thì loại nào .",
+    "entities": [
+      {
+        "text": "ung thư hạch không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh thiên đầu thống ( tăng nhãn áp ) tăng nhãn áp góc mở và tăng nhãn áp bẩm sinh : thường do di truyền trong gia đình tăng nhãn áp góc đóng : hệ thống ống dẫn lưu ở màng mạch bị tắc nghẽn , thuỷ dịch không thoát ra được dẫn đến tăng áp lực ổ mắt tăng nhãn áp thứ cấp : xảy ra ở những người có tiền căn tăng nhãn áp góc mở , tăng nhãn áp góc đóng và đồng thời bị thêm các bệnh như tăng huyết áp , tiểu đường , chấn thương mắt hoặc thường xuyên sử dụng thuốc corticosteroids .",
+    "entities": [
+      {
+        "text": "tăng nhãn áp bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng nhãn áp góc đóng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh thiên đầu thống",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng nhãn áp thứ cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng nhãn áp góc mở",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những người mắc bệnh lý đái tháo đường , béo phì : do lối sống thiếu khoa hoặc kèm chế độ ăn uống không hợp lý và thói quen ít vận động , tập thể dục thể thao nên càng ngày càng mắc các bệnh lý đái tháo đường , béo phì - là yếu tố nguy cơ quan trọng dẫn đến bệnh tăng huyết áp .",
+    "entities": [
+      {
+        "text": "bệnh tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "béo phì",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mất máu mãn tính từ bệnh trĩ có thể gây thiếu máu , không có các tế bào máu khỏe mạnh , kết quả là mệt mỏi và yếu .",
+    "entities": [
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "yếu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "vấn đề thường gặp bao gồm nhiễm nấm gọi là nấm miệng và nhiễm trùng cytomegalovirus , là nhiễm virus phổ biến có thể nghiêm trọng ở những người bị tổn thương hệ thống miễn dịch .",
+    "entities": [
+      {
+        "text": "nấm miệng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đôi khi sử dụng biện pháp thảo dược khắc phục các triệu chứng trào ngược dạ dày thực quản bao gồm cam thảo , hoa cúc và marshmallow .",
+    "entities": [
+      {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu máu khu trú và không đông máu quá nhiều , bác sĩ có thể tạo ra lỗ khoan qua hộp sọ và sau đó loại bỏ các chất dịch bằng cách hút .",
+    "entities": [
+      {
+        "text": "bác sĩ có thể tạo ra lỗ khoan qua hộp sọ và sau đó loại bỏ các chất dịch bằng cách hút",
+        "type": "THUỐC"
+      }
+    ]
+  }
+]

@@ -1,0 +1,348 @@
+[
+  {
+    "text": "cắt trĩ là cách hiệu quả nhất và hoàn chỉnh để loại bỏ bệnh trĩ , nhưng nó cũng có tỷ lệ cao nhất của biến chứng .",
+    "entities": [
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cắt trĩ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu các phần của não gây ra cơn động kinh quá quan trọng nếu loại bỏ , bác sĩ phẫu thuật có thể làm một loạt các vết cắt để giúp cô lập phần của bộ não .",
+    "entities": [
+      {
+        "text": "bác sĩ phẫu thuật có thể làm một loạt các vết cắt để giúp cô lập phần của bộ não",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cơn động kinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu ung thư tuyến tụy nằm trong đầu của tuyến tụy , có thể xem xét phẫu thuật gọi là thủ tục whipple ( pancreatoduodenectomy ) .",
+    "entities": [
+      {
+        "text": "pancreatoduodenectomy",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "whipple",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đôi khi , tuy nhiên , có thể có các dấu hiệu và triệu chứng như : chảy máu trực tràng .",
+    "entities": [
+      {
+        "text": "chảy máu trực tràng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục khi rời bệnh viện , có thể thực hiện các bước để viêm tụy tiếp tục phục hồi , chẳng hạn như : ngừng uống rượu .",
+    "entities": [
+      {
+        "text": "ngừng uống rượu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh thoái hóa võng mạc tổng quan bệnh thoái hóa võng mạc thoái hóa võng mạc là gì ?",
+    "entities": [
+      {
+        "text": "bệnh thoái hóa võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu ợ nóng trở nên tồi tệ bởi sự lo lắng và căng thẳng , cố gắng xem xét : tập thể dục nhẹ nhàng , như đi bộ hoặc cưỡi xe đạp , nhưng tránh tập thể dục mạnh , chúng có thể gây chứng ợ nóng .",
+    "entities": [
+      {
+        "text": "chứng ợ nóng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "căng thẳng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lo lắng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ợ nóng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một ví dụ về một loại thuốc xạ trị được sử dụng để điều trị ung thư hạch không hodgkin là ibritumomab tiuxetan ( zevalin ) .",
+    "entities": [
+      {
+        "text": "ung thư hạch không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ibritumomab tiuxetan",
+        "type": "THUỐC"
+      },
+      {
+        "text": "zevalin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu máu cung cấp cho búi trĩ bị ngắt bỏ , trĩ có thể nghẹt , gây ra đau đớn và dẫn đến hoại tử mô .",
+    "entities": [
+      {
+        "text": "đau đớn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "viêm gan do virus , bao gồm cả viêm gan a , b và c hoặc gây ra bởi tăng bạch cầu đơn nhân nhiễm khuẩn .",
+    "entities": [
+      {
+        "text": "viêm gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cơn đau sẽ không giảm khi nghỉ ngơi và kéo dài hơn cơn đau thắt ngực ổn định , có thể là trên 20 phút hoặc lâu hơn .",
+    "entities": [
+      {
+        "text": "cơn đau thắt ngực ổn định",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ người ta cho rằng kích thích thực quản mãn tính có thể đóng góp vào sự thay đổi dna gây ra ung thư thực quản .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh ung thư da da tiếp xúc với các tia phóng xạ : bức xạ cực tím : tia bức xạ cực tím do các tia nắng mặt trời và các đèn phát tia tử ngoại như đèn hồ quang các - bon , thủy ngân , thạch anh lạnh…đây là yếu tố nguy cơ chủ yếu của ung thư da .",
+    "entities": [
+      {
+        "text": "bệnh ung thư da",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cromolyn sodium không có tác dụng phụ nghiêm trọng , và nó hiệu quả nhất khi bắt đầu sử dụng nó trước khi các triệu chứng bắt đầu .",
+    "entities": [
+      {
+        "text": "cromolyn sodium",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "vấn đề như đa xơ cứng phát sinh từ hệ thống miễn dịch của cơ thể tấn công các tế bào thần kinh cũng có thể gây ra chứng mất trí .",
+    "entities": [
+      {
+        "text": "chứng mất trí",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đa xơ cứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư ruột non giai đoạn 3a : ung thư di căn 1 - 3 hạch vùng , có thể hoặc không vượt quá lớp cơ thành ruột nhưng không có di căn xa ung thư ruột non giai đoạn 3b : ung thư di căn từ 4 hạch vùng trở lệ , có hoặc không vượt quá lớp cơ thành ruột nhưng không có di căn xa ung thư ruột non giai đoạn cuối ( 4 ) : khối u di căn xa tới các cơ quan khác ( phổi , gan .",
+    "entities": [
+      {
+        "text": "ung thư ruột non",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh u tuyến yên hiện nay các nhà khoa học chưa tìm ra nguyên nhân chính xác của u tuyến yên , chỉ có rất ít trường hợp bệnh nhân bị u tuyến yên do di truyền trong gia đình có người bị bệnh khổng lồ .",
+    "entities": [
+      {
+        "text": "bệnh u tuyến yên",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh khổng lồ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu đã được chẩn đoán với giãn tĩnh mạch thực quản , bác sĩ có thể hướng dẫn phải thận trọng với những dấu hiệu chảy máu .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của hẹp van hai lá chế độ sinh hoạt : tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị .",
+    "entities": [
+      {
+        "text": "hẹp van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ kiểm tra các hạch bạch huyết bị sưng , bao gồm ở cổ , nách và háng , cũng như cho một lá lách hoặc gan bị sưng .",
+    "entities": [
+      {
+        "text": "hạch bạch huyết bị sưng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "gan bị sưng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc điều trị viêm bờ mi có thể bao gồm : làm sạch khu vực bị ảnh hưởng thường xuyên .",
+    "entities": [
+      {
+        "text": "làm sạch khu vực bị ảnh hưởng thường xuyên",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm bờ mi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có 2 loại phù bạch huyết chính : phù bạch huyết nguyên phát : gây ra bởi các gen bị lỗi , ảnh hưởng đến sự phát triển của hệ bạch huyết; nó có thể phát triển ở mọi lứa tuổi , nhưng thường bắt đầu ở giai đoạn sơ sinh , thanh thiếu niên hoặc giai đoạn đầu trưởng thành .",
+    "entities": [
+      {
+        "text": "phù bạch huyết nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều này khắc phục tại nhà , được gọi là rửa mũi , có thể giúp đỡ để giữ cho mũi từ chất kích thích .",
+    "entities": [
+      {
+        "text": "rửa mũi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh tăng huyết áp nguyên phát tăng huyết áp nguyên phát đến nay vẫn chưa tìm ra nguyên nhân gây bệnh .",
+    "entities": [
+      {
+        "text": "bệnh tăng huyết áp nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp , phẫu thuật để thay đổi hình dáng mũi ( rhinoplasty ) được thực hiện đồng thời như septoplasty .",
+    "entities": [
+      {
+        "text": "phẫu thuật để thay đổi hình dáng mũi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng nếu không điều trị , viêm loét dạ dày tá tràng có thể gây ra : chảy máu .",
+    "entities": [
+      {
+        "text": "viêm loét dạ dày tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đây có thể là dấu hiệu cho thấy suy tim hoặc biến chứng khác của kênh truyền nhĩ thất : ăn không ngon miệng .",
+    "entities": [
+      {
+        "text": "kênh truyền nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ăn không ngon miệng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thảo dược hoặc các sản phẩm thay thế dùng cho đau họng thường được đóng gói như trà , thuốc xịt hoặc viên ngậm .",
+    "entities": [
+      {
+        "text": "thuốc xịt hoặc viên ngậm",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sau đó , tùy thuộc vào nguồn gốc của tắc nghẽn , các bác sĩ có thể sử dụng các công cụ khác nhau để loại bỏ mô hoặc cạo đi một polip gây tắc nghẽn mũi .",
+    "entities": [
+      {
+        "text": "loại bỏ mô hoặc cạo đi một polip gây tắc nghẽn mũi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống ung thư đại tràng cho những người có nguy cơ cao một số phương pháp điều trị , kể cả thuốc và phẫu thuật đã được tìm thấy để giảm nguy cơ khối u tiền ung thư hoặc ung thư đại tràng .",
+    "entities": [
+      {
+        "text": "khối u tiền ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

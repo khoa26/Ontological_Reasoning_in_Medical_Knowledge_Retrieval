@@ -1,0 +1,342 @@
+[
+  {
+    "text": "nấm và bệnh lao ( tb ) : xác định phơi nhiễm trong quá khứ và dự đoán sự tái hoạt .",
+    "entities": []
+  },
+  {
+    "text": "bệnh nhân bệnh tiểu đường tuýp 2 có thể xuất hiện với triệu chứng của tăng đường máu nhưng thường không triệu chứng , và tình trạng này chỉ được phát hiện khi xét nghiệm thường xuyên .",
+    "entities": [
+      {
+        "text": "bệnh tiểu đường tuýp 2",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ống kính đặc biệt con người với đôi mắt khô trầm trọng có thể lựa chọn kính áp tròng đặc biệt .",
+    "entities": [
+      {
+        "text": "kính áp tròng đặc biệt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng liệu pháp y học bổ sung và thay thế cùng với thuốc theo chỉ định của bác sĩ có thể giúp cảm thấy kiểm soát được cơn đau .",
+    "entities": [
+      {
+        "text": "cơn đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "theo dõi đau đầu : một trong những điều hữu ích nhất có thể làm là giữ nhật ký đau đầu ít nhất là hai tháng .",
+    "entities": [
+      {
+        "text": "theo dõi đau đầu : một trong những điều hữu ích nhất có thể làm là giữ nhật ký đau đầu ít nhất là hai tháng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật : phẫu thuật cắt bỏ màng ngoài tim là liệu pháp cuối cùng khi không còn lựa chọn nào khác , sử dụng trong trường hợp viêm màng ngoài tim tái phát và không đáp ứng với điều trị nào khác .",
+    "entities": [
+      {
+        "text": "viêm màng ngoài tim tái phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cắt bỏ màng ngoài tim",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "quy trình này sử dụng năng lượng tần số vô tuyến để áp dụng nhiệt đến các điểm nhỏ trên giác mạc .",
+    "entities": [
+      {
+        "text": "sử dụng năng lượng tần số vô tuyến để áp dụng nhiệt đến các điểm nhỏ trên giác mạc",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bởi vì phụ nữ gấp đôi có hội chứng ruột kích thích , nhà nghiên cứu tin rằng những thay đổi nội tiết đóng một vai trò trong tình trạng này .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán sa van hai lá bác sĩ sẽ thăm khám lâm sàng và thực hiện một số xét nghiệm để chẩn đoán chính xác bệnh .",
+    "entities": [
+      {
+        "text": "sa van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thử nghiệm không xâm lấn , miếng dán với dây ( điện cực ) được gắn liền với da để đ o xung điện phát ra bởi tim .",
+    "entities": [
+      {
+        "text": "o xung điện phát ra bởi tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "thử nghiệm không xâm lấn",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "mờ mắt , ví dụ , có thể đề nghị cần một thay đổi đơn thuốc , hoặc có thể là một dấu hiệu của vấn đề khác .",
+    "entities": [
+      {
+        "text": "mờ mắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nhiệm vụ có yêu cầu tập trung , chẳng hạn như làm việc tại một máy tính , lái xe hay đọc .",
+    "entities": []
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán chướng bụng việc xác định căn nguyên của chứng đầy hơi và chướng bụng có thể gặp nhiều khó khăn .",
+    "entities": [
+      {
+        "text": "chướng bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đầy hơi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "để chẩn đoán rối loạn nhịp tim , bác sĩ sẽ hỏi bạn về bất kỳ triệu chứng , thói quen lối sống và các yếu tố nguy cơ khác của rối loạn nhịp tim .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "block nhĩ thất là sự tắc nghẽn một phần hoặc hoàn toàn dẫn truyền xung động từ tâm nhĩ xuống tâm thất .",
+    "entities": [
+      {
+        "text": "block nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các loại thuốc có sẵn để giúp quản lý các dấu hiệu và triệu chứng của bệnh huntington , nhưng phương pháp điều trị không thể ngăn chặn sự suy giảm về thể chất và tinh thần liên kết với tình trạng này .",
+    "entities": [
+      {
+        "text": "suy giảm về thể chất và tinh thần",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "lasik là một thủ tục trong đó bác sĩ nhãn khoa sử dụng một dụng cụ gọi là keratome để thực hiện cắt mỏng , tròn khớp vào giác mạc .",
+    "entities": [
+      {
+        "text": "lasik",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật đục thủy tinh thể nói chung là an toàn , nhưng mang một nguy cơ nhiễm trùng và chảy máu .",
+    "entities": [
+      {
+        "text": "phẫu thuật đục thủy tinh thể",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu thấy rằng dùng chất xơ giúp ích cho hội chứng ruột kích thích , hãy sử dụng nó một cách thường xuyên để kết quả tốt nhất .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc men đơn thuốc dùng để điều trị khô mắt bao gồm : thuốc kháng sinh để giảm viêm mí mắt .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh để giảm viêm mí mắt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các thuốc giãn mạch tác dụng kéo dài như nicorandil , ranolazin cũng được sử dụng nhóm ức chế men chuyển/ ức chế thụ thể at1 : được ưu tiên sử dụng khi có suy tim , tăng huyết áp , đái tháo đường kèm theo chỉ định tái thông mạch vành : ở bệnh nhân mạch vành ổn định , khi điều trị nội khoa tối ưu mà không cải thiện triệu chứng có thể tái thông mạch vành qua da hoặc phẫu thuật bắc cầu nối chủ vành tùy từng trường hợp cụ thể .",
+    "entities": [
+      {
+        "text": "phẫu thuật bắc cầu nối chủ vành",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tái thông mạch vành qua da",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nội khoa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của phù bạch huyết các dấu hiệu và triệu chứng có thể từ nhẹ đến nặng .",
+    "entities": [
+      {
+        "text": "phù bạch huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "do sự gia tăng áp lực vùng bụng như phụ nữ mang thai , người bị bệnh có khối u trong ổ bụng , người bệnh tuyến tiền liệt phì đại … .",
+    "entities": [
+      {
+        "text": "bệnh tuyến tiền liệt phì đại",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đôi khi , bệnh nhân có các triệu chứng giảm tưới máu ( đột quỵ , nhồi máu cơ tim , nhồi máu đường ruột , suy thận , liệt hoặc liệt nửa người ) do việc cung cấp máu đến tủy sống , não , tim , thận , ruột , tứ chi bị gián đoạn .",
+    "entities": [
+      {
+        "text": "nhồi máu đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "liệt nửa người",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống sàng lọc ung thư đại tràng thường xuyên kiểm tra ung thư đại tràng nên bắt đầu ở tuổi 50 đối với người có nguy cơ trung bình .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm thực quản bạch cầu ái toan yếu tố nguy cơ viêm thực quản bạch cầu ái toan , hoặc viêm thực quản có liên quan đến dị ứng , có thể bao gồm : lịch sử gia đình rối loạn , cho thấy một gen hoặc những gen có thể làm tăng nguy cơ viêm thực quản bạch cầu ái toan .",
+    "entities": [
+      {
+        "text": "viêm thực quản bạch cầu ái toan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều này , các enzym gây kích thích các tế bào tuyến tụy , gây viêm và các dấu hiệu và triệu chứng liên quan với viêm tụy .",
+    "entities": [
+      {
+        "text": "viêm tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể kể đến một số phương pháp điều trị u tuyến yên hiện nay : phẫu thuật , xạ trị và dùng thuốc .",
+    "entities": [
+      {
+        "text": "u tuyến yên",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "dùng thuốc",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hai xét nghiệm tìm sự hiện diện của kháng thể nào đó đôi khi có thể giúp chẩn đoán loại hình bệnh viêm ruột , nhưng tất cả mọi người không bị bệnh crohn hoặc viêm loét đại tràng cũng có các kháng thể .",
+    "entities": [
+      {
+        "text": "viêm loét đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chúng bao gồm tắc nghẽn ruột non hoặc ruột kết , thu hẹp ruột già , tình trạng nội tiết như suy giáp hoặc xáo trộn chất điện gải , chẳng hạn như canxi quá nhiều trong máu ( chứng tăng calci huyết ) .",
+    "entities": [
+      {
+        "text": "chứng tăng calci huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tắc nghẽn ruột non",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy giáp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

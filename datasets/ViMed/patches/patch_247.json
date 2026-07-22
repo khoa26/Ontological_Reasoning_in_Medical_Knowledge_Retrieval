@@ -1,0 +1,396 @@
+[
+  {
+    "text": "nhóm i : thiếu hụt nghiêm trọng ( độ hoạt động &lt;10% ) với thiếu máu tán huyết mạn tính nhóm ii : thiếu hụt nghiêm trọng ( độ hoạt động &lt;10% ) , tan máu không liên tục nhóm iii : thiếu hụt vừa phải ( độ hoạt động 10 - 60% ) , tan máu chỉ xảy ra khi phơi nhiễm với các yếu tố khởi phát .",
+    "entities": [
+      {
+        "text": "thiếu máu tán huyết mạn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "glucose huyết tương ở thời điểm sau 2 giờ làm nghiệm pháp dung nạp với 75g glucose bằng đường uống ≥ 200 mg/dl ( hay 11,1 mmol/l ) .",
+    "entities": [
+      {
+        "text": "glucose huyết tương ở thời điểm sau 2 giờ làm nghiệm pháp dung nạp với 75g glucose bằng đường uống ≥ 200 mg/dl",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "11,1 mmol/l",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "giai đoạn này , bệnh ung thư túi mật đã phát triển xâm nhập vào lớp ngoài của túi mật và có thể nhô vào cơ quan gần đó , chẳng hạn như , gan , dạ dày , ruột hay tuyến tụy .",
+    "entities": [
+      {
+        "text": "bệnh ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên trong một số trường hợp aso cũng tăng trước khi có sốt thấp hay gặp ở những người dễ cảm thụ , khi có các biến đổi về tim như trong nhồi máu cơ tim , vì thế chuẩn độ kháng thể này lại không phải là xét nghiệm cơ bản .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt thấp",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nội soi kết hợp chụp cắt lớp vi tính ( ct ) để tạo ra hình ảnh chi tiết bên trong đại tràng .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ở những người bị ung thư tuyến tụy giai đoạn nặng , hóa trị có thể được kết hợp với liệu pháp thuốc nhắm mục tiêu .",
+    "entities": [
+      {
+        "text": "liệu pháp thuốc nhắm mục tiêu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu bác sĩ nghi ngờ rằng tình trạng này có thể được gây ra bởi dị ứng , một thử nghiệm da bị dị ứng có thể được khuyến khích .",
+    "entities": [
+      {
+        "text": "thử nghiệm da bị dị ứng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "giảm stress mặc dù stress không gây bệnh crohn , nó có thể làm cho các dấu hiệu và triệu chứng nặng hơn nhiều và có thể kích hoạt đợt cấp .",
+    "entities": [
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cabg cho thấy vượt trội hơn pci đối với bệnh nhân đái tháo đường và bệnh nhân có nhiều mạch có thể dùng để phẫu thuật .",
+    "entities": [
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cabg",
+        "type": "THUỐC"
+      },
+      {
+        "text": "pci",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nhức đầu khi ho ngắn nếu có lịch sử đau đầu khi ho ngắn , bác sĩ có thể khuyên nên uống thuốc hàng ngày để giúp ngăn chặn hoặc giảm đau .",
+    "entities": [
+      {
+        "text": "uống thuốc hàng ngày để giúp ngăn chặn hoặc giảm đau",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhức đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tùy thuộc nguồn gốc khối u ác tính chia thành u ng thư gan nguyên phát và ung thư gan di căn .",
+    "entities": [
+      {
+        "text": "ng thư gan nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư gan di căn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ghép gan cũng có thể làm giảm áp lực hộ thống mạch cửa nhưng đây là một lựa chọn chỉ dành cho bệnh nhân đã nằm trong danh sách ghép .",
+    "entities": [
+      {
+        "text": "ghép gan",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán bác sĩ xác định thực quản barrett bằng cách sử dụng một thủ tục gọi là nội soi tiêu hóa trên : kiểm tra thực quản .",
+    "entities": [
+      {
+        "text": "thực quản barrett",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nội soi tiêu hóa",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục nếu màng nhĩ không có ống hoặc có lỗ trong đó , các biện pháp tự chăm sóc có thể giúp loại bỏ ráy tai thừa ngăn chặn ống tai : làm mềm .",
+    "entities": [
+      {
+        "text": "loại bỏ ráy tai thừa ngăn chặn ống tai",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng ở bệnh nhân thể rubella điển hình : sốt nhẹ , ban đỏ xuất hiện đầu tiên ở mặt , cổ và lan khắp toàn thân , có các dấu hiệu ở cơ quan bạch huyết .",
+    "entities": [
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ban đỏ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh thấp tim các dấu hiệu triệu chứng của bệnh thấp tim bao gồm : sốt viêm đa khớp đau hoặc sưng đỏ khớp hoặc kết hợp cả hai cùng với đặc điểm là hay gặp ở các khớp lớn như khớp gối , có tính di truyền .",
+    "entities": [
+      {
+        "text": "bệnh thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm đa khớp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sưng đỏ khớp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hội chứng ruột kích thích thường gây ra đau rút bụng , đau bụng , đầy hơi , tiêu chảy và táo bón .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiêu chảy và táo bón",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau rút bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đầy hơi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , adalimumab , infliximab mang một số nguy cơ nhiễm trùng , bao gồm cả bệnh lao và nhiễm nấm nghiêm trọng .",
+    "entities": [
+      {
+        "text": "adalimumab",
+        "type": "THUỐC"
+      },
+      {
+        "text": "infliximab",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhiễm nấm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh lao",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh tắc ống dẫn tinh tổng quan bệnh tắc ống dẫn tinh tắc ống dẫn tinh là một trong những bệnh lý ảnh hưởng trực tiếp đến khả năng sinh sản của nam giới .",
+    "entities": [
+      {
+        "text": "bệnh tắc ống dẫn tinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục để giúp đối phó với các dấu hiệu và triệu chứng của đau mắt đỏ , cố gắng : áp nén cho mắt .",
+    "entities": [
+      {
+        "text": "áp nén cho mắt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau mắt đỏ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "x - quang ngực : thường chỉ thấy các dấu hiệu gián tiếp như cung động mạch phổi nổi , nhĩ trái giãn , thất trái giãn thông tim ống lớn : để tính chính xác áp lực động mạch phổi , đưa ra quyết định điều trị phù hợp các biện pháp điều trị bệnh thông liên thất điều trị bệnh thông liên thất có hai phương pháp chính : phẫu thuật vá lỗ thông hoặc can thiệp bít thông liên thất bằng dù .",
+    "entities": [
+      {
+        "text": "can thiệp bít thông liên thất bằng dù",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật vá lỗ thông",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "x - quang ngực",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị viêm tá tràng hiệu quả điều trị viêm tá tràng sẽ tùy vào nguyên nhân cũng như các triệu chứng mà bạn mắc phải .",
+    "entities": [
+      {
+        "text": "viêm tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , gây đau đầu ít nhất một trong những điều sau đây : đỏ mắt ở bên bị ảnh hưởng .",
+    "entities": [
+      {
+        "text": "đỏ mắt ở bên bị ảnh hưởng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "co thắt động mạch vành : điều này xảy ra khi các động mạch vành co thắt , tạm thời làm giảm hoặc cắt nguồn cung cấp máu cho tim .",
+    "entities": [
+      {
+        "text": "co thắt động mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị giãn tĩnh mạch chi dưới hiệu quả điều trị nhằm mục đích làm giảm các triệu chứng , cải thiện hình dạng của chân và ngăn ngừa khả năng các biến chứng xảy ra , điều trị bao gồm : thay đổi lối sống; sử dụng vớ nén; liệu pháp xâm lấn hoặc phẫu thuật .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch chi dưới",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ sẽ xem xét tình trạng tổng thể trước khi kê toa thuốc uống để điều trị viêm mống mắt .",
+    "entities": [
+      {
+        "text": "viêm mống mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng vitamin a cho trẻ em mắc bệnh sởi có liên quan đến giảm tỷ lệ mắc bệnh và tử vong .",
+    "entities": [
+      {
+        "text": "sử dụng vitamin a",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh sởi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu có một số thiệt hại vĩnh viễn đến màng nhĩ hoặc cấu trúc tai giữa khác , vĩnh viễn mất thính lực có thể xảy ra .",
+    "entities": [
+      {
+        "text": "vĩnh viễn mất thính lực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguy cơ thiếu máu cục bộ đường ruột tăng lên nếu có suy tim sung huyết hoặc nhịp đập của tim bất thường .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim sung huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số triệu chứng có thể gặp ở bệnh nhân giai đoạn cuối : sụt cân nhanh : dấu hiệu này có thể cho thấy bệnh đang trở nặng .",
+    "entities": [
+      {
+        "text": "sụt cân nhanh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

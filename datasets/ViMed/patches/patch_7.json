@@ -1,0 +1,404 @@
+[
+  {
+    "text": "khi tá tràng bị viêm , lớp niêm mạc bị tổn thương gây ra tình trạng đau bụng , chảy máu và một số vấn đề tiêu hóa khác .",
+    "entities": [
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục để đối phó với bệnh tiêu chảy và mất nước sau đó , có thể xảy ra với viêm đại tràng màng giả , cố gắng : uống nhiều nước .",
+    "entities": [
+      {
+        "text": "viêm đại tràng màng giả",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến thông liên thất nguyên nhân bệnh thông liên thất thật sự còn chưa biết rõ .",
+    "entities": [
+      {
+        "text": "bệnh thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "u tuyến dưới lưỡi : lấy bỏ toàn bộ khối u và tổ chức tuyến , tránh làm tổn thương sàn miệng .",
+    "entities": [
+      {
+        "text": "lấy bỏ toàn bộ khối u và tổ chức tuyến",
+        "type": "THUỐC"
+      },
+      {
+        "text": "u tuyến dưới lưỡi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể kê đơn thuốc để điều trị các điều kiện góp phần vào tình trạng viêm mạn tính trong xoang hoặc đường mũi .",
+    "entities": [
+      {
+        "text": "viêm mạn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù chứng phình động mạch có thể xuất hiện bất cứ nơi nào trong não , chúng phổ biến nhất ở các động mạch ở đáy não .",
+    "entities": [
+      {
+        "text": "chứng phình động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh có ảnh hưởng đến hệ thống tuần hoàn , chẳng hạn như huyết áp cao , có thể làm tăng nguy cơ thoái hóa điểm vàng .",
+    "entities": [
+      {
+        "text": "thoái hóa điểm vàng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều này sẽ dẫn đến tổn thương các van tĩnh mạch và làm dòng máu chảy ngược ( hoặc tích tụ ) , được gọi là trào ngược tĩnh mạch hoặc suy tĩnh mạch .",
+    "entities": [
+      {
+        "text": "suy tĩnh mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . một số bệnh lý làm cơ sở cho bệnh ung thư thực quản phát triển như : ung thư tị hầu , bệnh ruột non , bệnh sừng hóa gan bàn chân .",
+    "entities": [
+      {
+        "text": "bệnh sừng hóa gan bàn chân",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư tị hầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ruột non",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết các trường hợp ung thư đại tràng được hình thành từ u nhỏ , các tế bào lành tính gọi là bướu u tuyến .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bướu u tuyến",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chẩn đoán ung thư có thể làm cho cảm thấy như là có quyền kiểm soát ít , do đó , thực hiện các bước để trao quyền cho chính mình và kiểm soát những gì có thể về sức khỏe .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "u trung thất là khối u nằm ở trong lồng ngực , khối u có thể là lành tính hoặc ác tính , thường phát triển âm thầm và ít khi được phát hiện sớm .",
+    "entities": [
+      {
+        "text": "u trung thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đau bụng là cảm nhận và mô tả riêng của từng bệnh nhân , có nhiều loại đau như : đau bụng cấp tính , cơn đau có thể kéo dài không quá một tuần .",
+    "entities": [
+      {
+        "text": "đau bụng cấp tính",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cơn đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "vi khuẩn liên quan đến việc tăng nguy cơ mắc ung thư hạch không hodgkin bao gồm vi khuẩn helicobacter pylori gây loét .",
+    "entities": [
+      {
+        "text": "ung thư hạch không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cả hai thủ tục đặt ra những rủi ro , đặc biệt là chảy máu trong não và mất dòng máu lên não .",
+    "entities": [
+      {
+        "text": "hai thủ tục",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu khối u ác tính là nhỏ và không phát triển , bác sĩ có thể chọn để chờ đợi và theo dõi các dấu hiệu của sự tăng trưởng .",
+    "entities": [
+      {
+        "text": "u ác tính là nhỏ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm não : virus quai bị tấn công hệ thần kinh trung ương dẫn đến nguy cơ viêm não , viêm màng não hoặc dị tật tiểu não ( gây ra các vấn đề phối hợp vận động ) .",
+    "entities": [
+      {
+        "text": "dị tật tiểu não",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm màng não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "việc quan trọng nhất là đau bụng và khó chịu kéo dài ít nhất 12 tuần , mặc dù những tuần không xảy ra liên tiếp .",
+    "entities": [
+      {
+        "text": "đau bụng và khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nhóm bệnh lý này đặc trưng bằng sự yếu của các cơ được chi phối mà không có sự thay đổi cảm giác .",
+    "entities": [
+      {
+        "text": "yếu của các cơ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán phình động mạch não chẩn đoán hình ảnh thần kinh .",
+    "entities": [
+      {
+        "text": "phình động mạch não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hình ảnh thần kinh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh u tuyến nước bọt phương pháp điều trị tốt nhất với các khối u tuyến nước bọt là phẫu thuật , làm xét nghiệm mô bệnh học .",
+    "entities": [
+      {
+        "text": "bệnh u tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mô bệnh học",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm khác có thể đánh giá khả năng duy trì tư thế thẳng đứng trong điều kiện dễ dàng và khó khăn .",
+    "entities": [
+      {
+        "text": "xét nghiệm khác có thể đánh giá khả năng duy trì tư thế thẳng đứng trong điều kiện dễ dàng và khó khăn",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "khu vực xung quanh mắt và khuôn mặt có thể cảm thấy bị sưng và có thể có cơn đau nhói mặt hay đau đầu .",
+    "entities": [
+      {
+        "text": "cơn đau nhói mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bị sưng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": ". . vàng da , vàng mắt do xoắn khuẩn , tan huyết , nhiễm khuẩn đường mật , viêm gan virus , … sốc nhiễm khuẩn , nhiễm khuẩn huyết , … suy hô hấp cấp do nguyên nhân khác .",
+    "entities": [
+      {
+        "text": "nhiễm khuẩn đường mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm khuẩn huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốc nhiễm khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm gan virus",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy hô hấp cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tan huyết",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "vàng mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ung thư hạch không hodgkin xảy ra ít hơn trong các tế bào t . các loại phụ của u lympho không hodgkin liên quan đến các tế bào t bao gồm u lympho tế bào t ngoại vi và u lympho tế bào t ở da .",
+    "entities": [
+      {
+        "text": "ung thư hạch không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u lympho tế bào t ngoại vi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u lympho không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc mỡ kháng sinh mắt , thay cho thuốc nhỏ mắt , đôi khi được quy định trong điều trị đau mắt đỏ do vi khuẩn ở trẻ em .",
+    "entities": [
+      {
+        "text": "thuốc mỡ kháng sinh mắt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc nhỏ mắt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau mắt đỏ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm xoang mãn tính kéo dài nghẹt mũi do viêm mũi không dị ứng có thể làm tăng nguy cơ viêm xoang phát triển - một b ệnh nhiễm trùng hoặc viêm màng các xoang .",
+    "entities": [
+      {
+        "text": "viêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm xoang mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm màng các xoang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ệnh nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nghẹt mũi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "viêm mũi không dị ứng có thể ảnh hưởng đến trẻ em và người lớn , nhưng phổ biến hơn sau tuổi 20. mặc dù viêm mũi không dị ứng gây khó chịu hơn có hại , nó có thể làm đau khổ .",
+    "entities": [
+      {
+        "text": "viêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tiêm phòng sởi cũng là biện pháp gián tiếp phòng ngừa tiêu chảy vì tiêu chảy chỉ hay xảy ra khi trẻ bị bệnh sởi .",
+    "entities": [
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh sởi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi khối u lấn sang bên vào xoang tĩnh mạch hang có thể có biểu hiện lác mắt , tê bì mặt .",
+    "entities": [
+      {
+        "text": "tê bì mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lác mắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

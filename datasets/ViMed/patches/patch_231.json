@@ -1,0 +1,363 @@
+[
+  {
+    "text": "ruột non nối giữa dạ dày và đại tràng , được chia làm 3 bộ phận chính bao gồm : tá tràng : liên tiếp dạ dày hỗng tràng : phần ở giữa hồi tràng : phần cuối cùng , liên tiếp với đại tràng ung thư ruột non xảy ra khi các tế bào ruột bị biến đổi và phát triển không có kiểm soát , tạo thành khối u . có 5 loại ung thư ruột non chính : carcinoma tuyến : thể bệnh hay gặp nhất của ung thư ruột non , thường xảy ra ở tá tràng và hỗng tràng .",
+    "entities": [
+      {
+        "text": "ung thư ruột non",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "carcinoma tuyến",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tích cực điều trị ban đầu và ổn định , quản lý lâu dài có thể làm giảm đau đớn và làm cho đau nhức đầu mãn tính hàng ngày ít hơn .",
+    "entities": [
+      {
+        "text": "đau nhức đầu mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau đớn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các bác sĩ đã biết rằng nhiễm trùng do vi khuẩn hoặc một số loại thuốc - gây ra hầu hết loét dạ dày tá tràng .",
+    "entities": [
+      {
+        "text": "loét dạ dày tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "lối sống ít vận động : lối sống có liên quan đến nhiều dạng bệnh tim và một số yếu tố nguy cơ của nó .",
+    "entities": [
+      {
+        "text": "bệnh tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm papanicolaou ( phết tế bào cổ tử cung ) : kết quả âm tính trước khi đưa vào danh sách cấy ghép .",
+    "entities": [
+      {
+        "text": "xét",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cấy",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc mục tiêu của điều tr ị viêm xoang mãn tính là : - giảm viêm xoang .",
+    "entities": [
+      {
+        "text": "ị viêm xoang mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu xét nghiệm cho thấy bị rối loạn đông máu , có thể dùng thuốc chống đông máu cho phần còn lại của cuộc đời .",
+    "entities": [
+      {
+        "text": "rối loạn đông máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư hạ họng bắt đầu từ hạ hầu - phần thấp của cổ họng , ngay phía trên thực quản và khí quản .",
+    "entities": [
+      {
+        "text": "ung thư hạ họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị rung nhĩ hiệu quả kiểm soát tần số tim bằng thuốc hoặc triệt đốt nút nhĩ thất .",
+    "entities": [
+      {
+        "text": "triệt đốt nút nhĩ thất",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nhưng với thời gian , ống kính dần dần biến thành các đám mây dày đặc màu vàng và hơn nữa là hạn chế tầm nhìn .",
+    "entities": [
+      {
+        "text": "ống kính dần dần biến thành các đám mây dày đặc màu vàng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hạn chế tầm nhìn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các phần khác của thế giới , đặc biệt là châu á và bắc phi , ung thư vòm họng xảy ra thường xuyên hơn .",
+    "entities": [
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chọn một độ ẩm mát - sương và làm sạch nó hàng ngày , bởi vì vi khuẩn và nấm mốc có thể phát triển ở một số độ ẩm .",
+    "entities": []
+  },
+  {
+    "text": "trong một số trường hợp , có thể cần một phương pháp điều trị xâm lấn hơn , chẳng hạn như phẫu thuật hoặc thủ tục sử dụng ống thông .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nghiên cứu thêm là cần thiết để hiểu liệu pháp này , có các thuốc mục tiêu khác có thể được sử dụng để kiểm soát ung thư gan .",
+    "entities": [
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thử nghiệm lâm sàng thử nghiệm lâm sàng nghiên cứu để thử các hình thức điều trị mới , chẳng hạn như các loại thuốc mới , phương pháp tiếp cận mới để điều trị phẫu thuật hoặc bức xạ , và các phương pháp mới như liệu pháp gen .",
+    "entities": [
+      {
+        "text": "liệu pháp gen",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bức xạ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra hình ảnh được sử dụng chẩn đoán giai đoạn ung thư gan bao gồm ct , mri , x quang .",
+    "entities": [
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "x quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "một số bệnh , như bệnh tiểu đường , bệnh đa xơ cứng và các bệnh tim mạch , có thể làm tăng nguy cơ bị lão thị sớm .",
+    "entities": [
+      {
+        "text": "bệnh tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh đa xơ cứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tim mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lão thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số người có thể cảm thấy ngột ngạt bên trong máy mri , mặc dù thử nghiệm là không đau .",
+    "entities": [
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các thuốc này bao gồm các thuốc theo toa omeprazole ( prilosec ) , lansoprazole ( prevacid ) , rabeprazole ( aciphex ) và esomeprazole ( nexium ) .",
+    "entities": [
+      {
+        "text": "lansoprazole",
+        "type": "THUỐC"
+      },
+      {
+        "text": "esomeprazole",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rabeprazole",
+        "type": "THUỐC"
+      },
+      {
+        "text": "prilosec",
+        "type": "THUỐC"
+      },
+      {
+        "text": "prevacid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "aciphex",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nexium",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống trong nhiều trường hợp , không có cách nào để tránh các điều kiện cơ bản gây ra viêm mũi không dị ứng .",
+    "entities": [
+      {
+        "text": "viêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mẫu này sau đó được nuôi cấy trong phòng thí nghiệm cho sự hiện diện của vi khuẩn , nhưng kết quả có thể mất đến hai ngày .",
+    "entities": [
+      {
+        "text": "nuôi cấy trong phòng thí nghiệm cho sự hiện diện của vi khuẩn",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "chẳng hạn như các thực phẩm rán , rượu , chocolate , bạc hà , hành tây , tỏi và cà phê có thể làm cho chứng ợ nóng tệ hơn .",
+    "entities": [
+      {
+        "text": "ợ nóng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "cũng có thể làm giảm mức độ nghiêm trọng của các triệu chứng viêm kết mạc dị ứng bằng cách tránh bất cứ điều gì gây dị ứng , khi có thể .",
+    "entities": [
+      {
+        "text": "tránh bất cứ điều gì gây dị ứng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm kết mạc dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ điều kiện có thể làm tăng nguy cơ bị trào ngược dạ dày thực quản bao gồm : bệnh béo phì .",
+    "entities": [
+      {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh tiến triển và thường tử vong trong vòng 3 - 5 năm , nguyên nhân tử vong thường gặp nhất là do viêm phổi .",
+    "entities": [
+      {
+        "text": "viêm phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguy cơ của cabg là nhồi máu cơ tim hay nhồi máu não , nguy cơ tử vong nếu phải phẫu thuật lần 2 cao hơn gấp 3 – 5 lần so với chỉ phẫu thuật 1 lần .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhồi máu não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cabg",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đau bụng và phản ứng viêm trong thành của đường ruột có thể ảnh hưởng đến cảm giác ngon miệng , khả năng tiêu hóa và hấp thụ thức ăn .",
+    "entities": [
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "khối u tuyến nước bọt thường xảy ra nhất ở tuyến mang tai , chiếm gần 85% trong tất cả các khối u tuyến nước bọt và khoảng 25% là ung thư tuyến nước bọt dưới hàm .",
+    "entities": [
+      {
+        "text": "ung thư tuyến nước bọt dưới hàm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phục hồi trọng lượng và giáo dục dinh dưỡng nếu đang giảm cân bằng cân nặng do sự rối loạn ăn uống , mục tiêu đầu tiên của việc điều trị sẽ được bắt đầu trở lại với trọng lượng khỏe mạnh .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các nghiên cứu ở thời điểm hiện tại cho rằng tắc mạch ối tuy hiếm gặp là một biến chứng sản khoa nguy hiểm nguy cơ tử vong cho mẹ lên đến 90% , tử vong cho con từ 20 - 60% .",
+    "entities": [
+      {
+        "text": "tắc mạch ối",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

@@ -1,0 +1,368 @@
+[
+  {
+    "text": "viêm tá tràng mạn tính : bệnh tiến triển từ từ và xảy ra trong một khoảng thời gian dài từ nhiều tháng tới nhiều năm .",
+    "entities": [
+      {
+        "text": "viêm tá tràng mạn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể sử dụng kỹ thuật điều trị xâm lấn tối thiểu bằng nhiệt giúp tiêu diệt khối u . ung thư thận giai đoạn 3 : cắt khối u thận kèm theo điều trị toàn thân bổ trợ .",
+    "entities": [
+      {
+        "text": "cắt khối u thận kèm theo điều trị toàn thân bổ trợ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xâm lấn tối thiểu bằng nhiệt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư thận",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi có dấu hiệu bất thường nào , cần đến ngay các cơ sở y tế để có thể phát hiện sớm và điều trị kịp thời ung thư lưỡi .",
+    "entities": [
+      {
+        "text": "ung thư lưỡi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bởi vì đau của đau đầu cơn đến đột ngột và có thể giảm dần trong một thời gian ngắn , thuốc giảm đau mua không cần toa , chẳng hạn như aspirin hay ibuprofen không có hiệu quả .",
+    "entities": [
+      {
+        "text": "đến đột ngột và có thể giảm dần trong một thời gian ngắn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đầu cơn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bởi vì thử nghiệm ama không hoàn toàn đơn giản , bác sĩ thường thực hiện sinh thiết gan , dứt khoát có thể xác nhận sự có mặt hay vắng mặt của bệnh .",
+    "entities": [
+      {
+        "text": "thử nghiệm ama",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sinh thiết gan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "giới tính : nam giới thường có nguy cơ mắc bệnh tim cao hơn và nguy cơ cũng tăng đối với phụ nữ sau khi mãn kinh .",
+    "entities": [
+      {
+        "text": "bệnh tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh cho phép bác sĩ kiểm tra gan bao gồm chụp cắt lớp vi tính ( ct ) hoặc siêu âm .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "bởi vì bệnh trĩ nội thường quá mềm để cảm nhận trong kiểm tra trực tràng , bác sĩ cũng có thể kiểm tra phần dưới của ruột già và trực tràng với một proctoscope , anoscope hoặc sigmoidoscope .",
+    "entities": [
+      {
+        "text": "sigmoidoscope",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh trĩ nội",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "proctoscope",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "anoscope",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "u sắc tố mắt lớn thường gây mất tầm nhìn vào mắt bị bệnh và có thể gây biến chứng , chẳng hạn như bong võng mạc , còn gây mất thị lực .",
+    "entities": [
+      {
+        "text": "u sắc tố mắt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mất tầm nhìn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "vi khuẩn , nấm hay ký sinh trùng - đặc biệt là ký sinh trùng acanthamoeba - có thể sống trên bề mặt của ống kính và làm ô nhiễm giác mạc khi ống kính là trong mắt , dẫn đến viêm giác mạc truyền nhiễm .",
+    "entities": [
+      {
+        "text": "viêm giác mạc truyền nhiễm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "để đạt được hai mục tiêu này bác sĩ sẽ đưa ra những biện pháp điều trị phù hợp : như điều chỉnh nhịp tim hoặc chuyển về nhịp tim bình thường và dự phòng biến cố tắc mạch bằng thuốc chống đông dựa trên đánh giá và cân bằng nguy cơ tắc mạch và nguy cơ chảy máu cho từng bệnh nhân .",
+    "entities": [
+      {
+        "text": "thuốc chống đông",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "gia đình và bạn bè của những người đã bắt đầu sử dụng máy trợ thính là thậm chí nhiều khả năng báo cáo những cải tiến về chất lượng chung của cuộc sống .",
+    "entities": [
+      {
+        "text": "máy trợ thính",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ phẫu thuật có thể bỏ qua các động mạch bị thu hẹp hoặc mở rộng động mạch với điều trị nong mạch hoặc bằng cách đặt stent .",
+    "entities": [
+      {
+        "text": "nong mạch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "stent",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu bạn có các triệu chứng của huyết áp thấp ( hạ huyết áp ) hoặc sốc như trên , hãy tìm sự trợ giúp y tế khẩn cấp .",
+    "entities": [
+      {
+        "text": "huyết áp thấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "lựa chọn điều trị khối u não phụ thuộc vào loại u não có , cũng như kích thước và vị trí của nó .",
+    "entities": [
+      {
+        "text": "khối u não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các bước chẩn đoán ung thư phổi các biện pháp điều trị bệnh ung thư phổi bệnh ung thư phổi có nhiều giai đoạn khác nhau .",
+    "entities": [
+      {
+        "text": "bệnh ung thư phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "túi thừa thực quản có 2 dạng cấu trúc : túi thừa có đầy đủ các lớp của thực quản cấu tạo nên .",
+    "entities": [
+      {
+        "text": "túi thừa thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thường chỉ định trong trường hợp bệnh nhân bị bệnh rất nặng , có triệu chứng đau nhiều và thường là trên 60 tuổi .",
+    "entities": [
+      {
+        "text": "đau nhiều",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân có rung nhĩ mới xuất hiện nên được nhập viện để điều trị trong trường hợp nghi ngờ nguyên nhân của rung nhĩ là do một bệnh lý tim mạch nền nào đó .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xác định các tình huống phiền hà có khả năng kích hoạt tư tưởng hoặc hành vi có thể góp phần rối loạn ăn uống , để có thể phát triển kế hoạch để đối phó với chúng .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc này là một phiên bản tổng hợp của hormone somatostatin não , điều trị hiệu quả cho đau đầu cơn và an toàn nếu bị huyết áp cao và bệnh tim thiếu máu cục b ộ .",
+    "entities": [
+      {
+        "text": "phiên bản tổng hợp của hormone somatostatin não",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh tim thiếu máu cục b",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau đầu cơn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các trường hợp nghiêm trọng của phù bạch huyết có thể ảnh hưởng đến khả năng cử động của chi , làm tăng nguy cơ nhiễm trùng da và nhiễm trùng huyết .",
+    "entities": [
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phù bạch huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng da",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau khi lưu lượng máu qua tim được phục hồi , nếu cần thiết , sẽ phải lựa chọn điều trị để giúp ngăn chặn rung thấ t trong tương .",
+    "entities": [
+      {
+        "text": "rung thấ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các nguyên nhân ít phổ biến hơn của bệnh van tim bao gồm khối u , do sử dụng một số loại thuốc và bức xạ .",
+    "entities": [
+      {
+        "text": "bệnh van tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vào mùa lạnh cần mang găng tay , tất ấm và đội mũ khi đi ra ngoài , không để cơ thể bị lạnh vì không khí lạnh là yếu tố khởi phát các đợt co thắt mạch máu gây ra các biểu hiện lâm sàng .",
+    "entities": [
+      {
+        "text": "mang găng tay",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tất ấm",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đội mũ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thuốc men thuốc có thể sẽ được chỉ định trước khi phẫu thuật có thể bao gồm : digoxin ( lanoxin ) .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "digoxin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "lanoxin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "điều trị sẽ tùy thuộc vào nguyên nhân của viêm tụy , nhưng các ví dụ của việc điều trị có thể bao gồm : thủ tục để loại bỏ các vật cản đường mật .",
+    "entities": [
+      {
+        "text": "viêm tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị bệnh mạch vành hiệu quả điều trị nội khoa ( t huốc chống kết tập tiểu cầu , thuốc điều trị rối loạn lipid máu , thuốc chẹn beta giao cảm ) .",
+    "entities": [
+      {
+        "text": "thuốc điều trị rối loạn lipid máu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "huốc chống kết tập tiểu cầu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chẹn beta giao cảm",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ sẽ làm việc để xác định nguyên nhân gây đau và phương pháp điều trị thích hợp để làm cho thoải mái hơn .",
+    "entities": [
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh thoát vị rốn việc chẩn đoán thoát vị rốn dựa vào biểu hiện việc thăm khám lâm sàng kết hợp với thực hiện các xét nghiệm chẩn đoán .",
+    "entities": [
+      {
+        "text": "bệnh thoát vị rốn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

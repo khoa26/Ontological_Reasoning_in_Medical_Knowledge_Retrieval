@@ -1,0 +1,355 @@
+[
+  {
+    "text": "trước tiên , có thể nhận thấy những dấu hiệu và triệu chứng : một xu hướng giữ tài liệu đọc xa hơn để làm cho các ký tự rõ ràng hơn .",
+    "entities": [
+      {
+        "text": "một xu hướng giữ tài liệu đọc xa hơn để làm cho các ký tự rõ ràng hơn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mục đích là để cơ thể sử dụng để các chất dị ứng gây ra triệu chứng , và làm giảm nhu cầu đối với thuốc .",
+    "entities": []
+  },
+  {
+    "text": "khối máu tụ ngoài màng cứng loại này xảy ra khi một mạch máu - thường là một động mạch - vỡ giữa bề mặt ngoài của màng cứng và hộp sọ .",
+    "entities": [
+      {
+        "text": "khối máu tụ ngoài màng cứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , một số liệu pháp thay thế đã có tác dụng cho ù tai bao gồm : châm cứu .",
+    "entities": [
+      {
+        "text": "châm cứu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với người mẹ tiểu đường thai kỳ sau sinh có thể không cần điều trị và kiểm tra lại tiểu đường sau 4 đến 6 tuần .",
+    "entities": [
+      {
+        "text": "tiểu đường thai kỳ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng rửa mũi , hoặc rửa mũi sử dụng nước mặn ( nước muối ) phun hoặc rửa mũi để rửa đường mũi .",
+    "entities": [
+      {
+        "text": "rửa mũi sử dụng nước mặn",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rửa mũi để rửa đường mũi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sử dụng rửa mũi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu nhiễm trùng không hết hoặc nếu viêm xoang quay trở lại , bác sĩ có thể thử một kháng sinh khác , điều này có nghĩa sẽ phải mất cho 10 - 14 ngày , ngay cả sau khi các triệu chứng có tốt hơn .",
+    "entities": [
+      {
+        "text": "một kháng sinh khác",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm xoang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , có một số giả thuyết cho rằng lồng ruột xảy ra là do kích thước ruột có sự mất cân đối , do quá sản tế bào lympho , do polip đại tràng , hoặc do viêm đường hô hấp trên hay bệnh viêm đường ruột do virus ( adenovirus , enterovirus , cytomegalovirus , rotavirus ) .",
+    "entities": [
+      {
+        "text": "polip đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lồng ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh tế bào thần kinh vận động tổng quan bệnh tế bào thần kinh vận động tế bào thần kinh vận động là một loại tế bào thần kinh mà thân tế bào nằm ở vỏ não vận động , thân não hoặc tủy sống , và các sợi trục hướng về tủy sống hoặc bên ngoài tủy sống để điều khiển các cơ quan , chủ yếu là cơ và các tuyến một cách trực tiếp hoặc gián tiếp .",
+    "entities": [
+      {
+        "text": "bệnh tế bào thần kinh vận động",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , ngoại trừ viêm màng ngoài tim do nhiễm virus , vi khuẩn , nấm , ký sinh trùng , các nguyên nhân còn lại thường khó xác định chính xác .",
+    "entities": [
+      {
+        "text": "viêm màng ngoài tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng trong trường hợp hiếm hoi , một khối u di căn não có thể là dấu hiệu đầu tiên của bệnh ung thư bắt đầu ở nơi khác trong cơ thể .",
+    "entities": [
+      {
+        "text": "u di căn não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "giai đoạn đầu bệnh nhân được xạ trị vào vùng dưới cơ hoành , chủ yếu vào hạch chậu bẹn , hạch cạnh động mạch chủ giai đoạn sau có thể sử dụng hóa chất bổ trợ .",
+    "entities": [
+      {
+        "text": "hóa chất",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nói chuyện với bác sĩ trước khi dùng bất cứ thuốc nhuận tràng nào , vì ngay cả những thuốc bán không cần toa .",
+    "entities": [
+      {
+        "text": "thuốc nhuận tràng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "điều kiện như ợ nóng , bệnh trào ngược dạ dày thực quản có thể gây ra co thắt , và điều trị những điều kiện này có thể làm giảm bớt khả năng xảy ra các triệu chứng co thắt thực quản .",
+    "entities": [
+      {
+        "text": "bệnh trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "co thắt thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ợ nóng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu một loại thuốc gây ra bệnh gan nhiễm mỡ , bác sĩ sẽ cố gắng để chuyển đến một loại thuốc khác .",
+    "entities": [
+      {
+        "text": "bệnh gan nhiễm mỡ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu sống trong một khí hậu nóng ẩm , nguy cơ viêm giác mạc được tăng lên , đặc biệt nếu nguyên liệu thực vật vào một trong đôi mắt .",
+    "entities": [
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh u tuyến nước bọt tổng quan bệnh u tuyến nước bọt u tuyến nước bọt là tình trạng tăng trưởng bất thường hiếm gặp ở tuyến nước bọt .",
+    "entities": [
+      {
+        "text": "bệnh u tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh lý mắc kèm : các bệnh về tim và mạch máu , chẳng hạn như bệnh cơ tim , dị tật tim bẩm sinh , đau tim và viêm tim .",
+    "entities": [
+      {
+        "text": "dị tật tim bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một người nào đó với sự thiếu hụt màu đỏ - xanh lá cây hoặc màu vàng xanh có thể không thể phân biệt màu sắc của cầu vồng hay nhận ra bầu trời màu hồng vào lúc bình minh hoặc hoàng hôn .",
+    "entities": [
+      {
+        "text": "không thể phân biệt màu sắc của cầu vồng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu có triệu chứng của chứng phình động mạch não ổn định , chẳng hạn như đau phía sau mắt , thay đổi thị lực , và tê liệt ở một bên mặt , có thể sẽ trải qua các thử nghiệm tương tự .",
+    "entities": [
+      {
+        "text": "chứng phình động mạch não ổn định",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tê liệt ở một bên mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau phía sau mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thay đổi thị lực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh thoái hóa võng mạc võng mạc được cung cấp bởi các nhánh mạch máu nhỏ từ động mạch võng mạc trung tâm .",
+    "entities": [
+      {
+        "text": "bệnh thoái hóa võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , nếu có tràn dịch màng tim gây chèn ép tim , hoặc viêm màng ngoài tim co thắt thì cần can thiệp y tế kịp thời vì có thể dẫn đến suy tim , thậm chí là nguy hiểm đến tính mạng .",
+    "entities": [
+      {
+        "text": "viêm màng ngoài tim co thắt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "dịch màng tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chèn ép tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư khoang miệng bao gồm : ung thư môi ( gồm môi trên , môi dưới , mép ) , lợi hàm trên , lợi hàm dưới , khe liên hàm , khẩu cái cứng , lưỡi ( phần di động ) , niêm mạc má và sàn miệng .",
+    "entities": [
+      {
+        "text": "ung thư khoang miệng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư môi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "do búi trĩ nằm trong trực tràng , do đó người bệnh thường không thể nhìn thấy hoặc cảm thấy những bệnh búi trĩ này và hiếm khi gây khó chịu .",
+    "entities": [
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu không chữa trị , mắt khô nặng có thể dẫn đến viêm mắt , sẹo trên bề mặt giác mạc và các vấn đề tầm nhìn .",
+    "entities": [
+      {
+        "text": "sẹo trên bề mặt giác mạc và các vấn đề tầm nhìn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm màng ngoài tim mạn : đây là tình trạng tái phát ngay khi người bệnh ngừng điều trị với thuốc chống viêm .",
+    "entities": [
+      {
+        "text": "viêm màng ngoài tim mạn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc chống viêm",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "viêm thực quản truyền nhiễm viêm thực quản cũng có thể được gây ra do nhiễm trùng bởi vi khuẩn , siêu vi , nấm hay ký sinh trùng trong các mô của thực quản .",
+    "entities": [
+      {
+        "text": "viêm thực quản truyền nhiễm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu có thân chung động mạch , sự lưu thông bất thường của máu thường đưa đến vấn đề hô hấp .",
+    "entities": [
+      {
+        "text": "thân chung động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tình trạng này không thể đảo ngược tiến triển và nguyên nhân hình thành mô sẹo trong gan và làm tăng nguy cơ phát triển ung thư gan .",
+    "entities": [
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong thủ tục này , đặt trên bàn và một máy lớn xung quanh , chỉ đạo bức xạ tới vị trí chính xác nơi mà nó có thể nhắm mục tiêu ung thư .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

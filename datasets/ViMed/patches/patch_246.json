@@ -1,0 +1,384 @@
+[
+  {
+    "text": "vi khuẩn bacillus anthracis có khả năng sinh bào tử hay còn gọi là nha bào chính là tác nhân chính dẫn đến bệnh than .",
+    "entities": [
+      {
+        "text": "bệnh than",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu h . pylori không được xác định trong hệ thống , có thể loét là do nsaids - nên ngừng sử dụng nếu có thể - hoặc acid trào ngược , có thể gây loét thực quản .",
+    "entities": [
+      {
+        "text": "loét thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nsaids",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các yếu tố gây dị ứng trong các tế bào của thực quản và làm tăng nguy cơ ung thư thực quản bao gồm : rượu .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu xét nghiệm máu cho thấy chỉ số afp cao , kiểm tra siêu âm sẽ được chỉ định để giúp xác định lý do .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "thay thế thuốc trong khi không có nhiều bằng chứng về cách họ làm việc tốt , một số người thử phương pháp điều trị thay thế cho bệnh sốt cỏ khô .",
+    "entities": [
+      {
+        "text": "bệnh sốt cỏ khô",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh tim bẩm sinh tổng quan bệnh tim bẩm sinh tim bẩm sinh được xếp vào nhóm bệnh lí tim cấu trúc .",
+    "entities": [
+      {
+        "text": "bệnh tim bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm tai giữa là phổ biến hơn ở trẻ em , một phần bởi vì ống eustachian hẹp hơn và nhiều hơn theo chiều ngang , yếu tố làm cho khó khăn hơn để thoát nước và dễ bị tắc .",
+    "entities": [
+      {
+        "text": "viêm tai giữa",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "lão thị được chẩn đoán bằng kiểm tra mắt cơ bản , thường được quản lý bởi một bác sĩ nhãn khoa hoặc chuyên viên đo mắt .",
+    "entities": [
+      {
+        "text": "kiểm tra mắt cơ bản",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "lão thị",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đo mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "thuốc thường được dùng để điều trị huyết áp cao , thuốc chẹn beta chẳng hạn như propranolol , atenolol , metoprolol và nadolol giúp giảm run ở một số người .",
+    "entities": [
+      {
+        "text": "điều trị huyết áp cao",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chẹn beta",
+        "type": "THUỐC"
+      },
+      {
+        "text": "propranolol",
+        "type": "THUỐC"
+      },
+      {
+        "text": "metoprolol",
+        "type": "THUỐC"
+      },
+      {
+        "text": "atenolol",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nadolol",
+        "type": "THUỐC"
+      },
+      {
+        "text": "run",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu phụ huynh nghĩ rằng trẻ có thể nằm trong phổ tự kỷ , bài viết này sẽ giải thích một số đặc điểm chung liên quan đến tự kỷ , cũng như cách chẩn đoán và điều trị .",
+    "entities": [
+      {
+        "text": "phổ tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ví dụ , để ngăn chặn một cơn đột quỵ , bác sĩ có thể kê toa để kiểm soát huyết áp cao , cholesterol cao , bệnh tim và tiểu đường .",
+    "entities": [
+      {
+        "text": "kiểm soát huyết áp cao , cholesterol cao , bệnh tim và tiểu đường",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu siêu âm lần đầu không thấy sùi , phải làm siêu âm lại sau 7 – 10 ngày khi lâm sàng vẫn còn nghi ngờ viêm nội tâm mạc , thậm chí phải làm lại siêu âm sớm hơn đối với viêm nội tâm mạc do s . aureus .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "s . aureus",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "suy tim : van hai lá bị hẹp làm cản trở dòng chảy của máu , gây tăng áp lực trong phổi dẫn đến tích tụ dịch .",
+    "entities": [
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đây là một phương pháp tiên tiến , mang lại một tương lai đáng để kỳ vọng cho các bệnh nhân thoái hóa võng mạc .",
+    "entities": [
+      {
+        "text": "thoái hóa võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh ung thư hậu môn người nhiễm hpv người hút thuốc lá kéo dài người suy giảm miễn dịch : hiv , dùng thuốc ức chế miễn dịch ( tự miễn , ghép tạng . . ) người quan hệ tình dục không an toàn người có nhiều bạn tình bệnh nhân rò hậu môn kéo dài , không điều trị .",
+    "entities": [
+      {
+        "text": "thuốc ức chế miễn dịch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư hậu môn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rò hậu môn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ghép tạng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tự miễn",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "uống thuốc đau nhức đầu , kể cả thuốc mua không cần toa , hơn hai lần một tuần có thể thực sự làm tăng mức độ và tần số nhức đầu .",
+    "entities": [
+      {
+        "text": "đau nhức đầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhức đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một loại tăng tiết mồ hôi khác ít phổ biến hơn nhưng đang có xu hướng tăng đó là tăng tiết mồ hôi thứ phát .",
+    "entities": [
+      {
+        "text": "tăng tiết mồ hôi thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu gặp phải vấn đề tuổi tác và tầm nhìn gần ( lão thị ) , kính áp tròng monovision có thể là một lựa chọn .",
+    "entities": [
+      {
+        "text": "kính áp tròng monovision",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tầm nhìn gần",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lão thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị bằng huyết tương tinh chế bao gồm loại bỏ các phần chất lỏng của máu ( plasma ) và tách nó ra khỏi tế bào máu thực sự .",
+    "entities": [
+      {
+        "text": "loại bỏ các phần chất lỏng của máu ( plasma ) và tách nó ra khỏi tế bào máu thực sự",
+        "type": "THUỐC"
+      },
+      {
+        "text": "điều trị bằng huyết tương tinh chế",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "điện tâm đồ dạng brugada type 1 có st chênh cao ở v1 và v2 ( có khi là cả v3 ) khiến cho phức bộ qrs giống như block nhánh phải .",
+    "entities": [
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "hóa trị : hóa trị là nền tảng của điều trị ung thư tuyến tụy tiến triển tại chỗ hoặc đã di căn .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "kiểm soát gàu nếu có gàu góp phần viêm bờ mi , hãy hỏi bác sĩ để giới thiệu một loại dầu gội trị gàu .",
+    "entities": [
+      {
+        "text": "viêm bờ mi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu bổ sung chất xơ , như metamucil hoặc citrucel , hãy chắc chắn dùng nó dần dần và uống nhiều nước mỗi ngày để giảm thiểu khí , đầy hơi và táo bón .",
+    "entities": [
+      {
+        "text": "bổ sung chất xơ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "metamucil",
+        "type": "THUỐC"
+      },
+      {
+        "text": "citrucel",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đầy hơi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mắt có thể có nhiều ảnh hưởng hơn và có thể nhận được tốt hơn nếu các bệnh tiềm ẩn có thể được điều trị .",
+    "entities": [
+      {
+        "text": "bệnh tiềm ẩn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "để giảm bớt căng thẳng , cố gắng : xác định các yếu tố gây stress trong cuộc sống hiện tại .",
+    "entities": [
+      {
+        "text": "căng thẳng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "stress",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải viêm mạch một số yếu tố làm tăng nguy cơ mắc viêm mạch , bao gồm : hút thuốc lá .",
+    "entities": [
+      {
+        "text": "viêm mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm measles igg : kháng thể igg xuất hiện cao nhất sau khoảng 4 tuần phát bệnh và tồn tại thời gian dài sau nhiễm trùng .",
+    "entities": [
+      {
+        "text": "xét nghiệm measles igg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc nguyên nhân của rách ống gây tắc tuyến lệ sẽ xác định điều trị phù hợp .",
+    "entities": [
+      {
+        "text": "rách ống gây tắc tuyến lệ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng thuốc thay thế có thể giúp bạn đối phó với sự căng thẳng của chẩn đoán ung thư và tác dụng phụ của điều trị ung thư chẳng hạn như : trị liệu nghệ thuật tập thể dục thiền âm nhạc trị liệu bài tập thư giãn tâm linh các phương pháp góp phần cải thiện tâm lý đối với bệnh nhân ung thư , bao gồm : tìm hiểu về ung thư hạch không hodgkin .",
+    "entities": [
+      {
+        "text": "ung thư hạch không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "theo tiến triển bệnh mất trí nh ớ , khả năng nhớ được tên của người và những thứ có thể bị mất .",
+    "entities": [
+      {
+        "text": "khả năng nhớ được tên của người và những thứ có thể bị mất",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh mất trí nh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

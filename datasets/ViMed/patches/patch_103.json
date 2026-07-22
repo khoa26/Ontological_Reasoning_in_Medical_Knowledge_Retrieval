@@ -1,0 +1,388 @@
+[
+  {
+    "text": "điều này có thể là lựa chọn duy nhất cho một số người có và không thể chịu được ngứa giải tỏa .",
+    "entities": [
+      {
+        "text": "ngứa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "có rất nhiều nguyên nhân gây hội chứng tăng thông khí , một số người dễ bị hiện tượng này hơn so với những người khác trong đó phụ nữ mắc chứng rối loạn thần kinh tim là thường gặp nhất .",
+    "entities": [
+      {
+        "text": "hội chứng tăng thông khí",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không biết tại sao một số trải nghiệm ráy tai tắc nghẽn hoặc tại sao ráy tai tắc nghẽn thường xảy ra trong một tai .",
+    "entities": [
+      {
+        "text": "ráy tai tắc nghẽn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cân nhắc các biến chứng hay tác dụng phụ của điều trị lựa chọn của bệnh nhân thể trạng bệnh nhân phẫu thuật giai đoạn sớm ( 1,2 ) : cắt bỏ khối u hậu môn và một số tổ chức xung quanh .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tiếp xúc với tia phóng xạ : đây là nguyên nhân gây ra nhiều bệnh ung thư , trong đó có ung thư phổi .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tiên lượng sống sau 5 năm ở người bị ung thư tùy thuộc vào giai đoạn bệnh , nếu phát hiện khi bệnh ở giai đoạn sớm thì điều trị hiệu quả hơn .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư tụy giai đoạn 4 : khối u có thể đạt bất kỳ kích thước nào , xâm lấn đến những bộ phận xa hơn như gan , phổi… nguyên nhân bệnh ung thư tụy các nguyên nhân ung thư tụy là gì ?",
+    "entities": [
+      {
+        "text": "bệnh ung thư tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ở trẻ sơ sinh và trẻ em , các dấu hiệu và triệu chứng nuốt khó có thể bao gồm : thiếu sự chú ý khi cho ăn .",
+    "entities": [
+      {
+        "text": "nuốt khó",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "u lympho tế bào t là một loại trong u lympho không hodgkin , chiếm 1/3 các trường hợp ,2/3 các trường hợp còn lại là u lympho tế bào b . u lympho không hodgkin là nhóm bệnh của tổ chức lympho .",
+    "entities": [
+      {
+        "text": "u lympho không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u lympho tế bào t",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u lympho tế bào b",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có những phương pháp để điều trị ung thư bàng quang hiện nay như : phẫu thuật điều trị ung thư bàng quang là phương pháp điều trị ung thư bàng quang phổ biến .",
+    "entities": [
+      {
+        "text": "ung thư bàng quang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nhiều nghiên cứu trên thế giới chứng minh rằng , khi phụ nữ tập thể thao thường xuyên thì tình trạng đau thống kinh ít hơn so với người phụ nữ ít tập hoặc không tập .",
+    "entities": [
+      {
+        "text": "đau thống kinh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ung thư : thuốc ức chế miễn dịch cũng có thể làm tăng nguy cơ phát triển ung thư , đặc biệt là ung thư da và ung thư hạch không hodgkin .",
+    "entities": [
+      {
+        "text": "ung thư hạch không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư da",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa l ệch vách ngăn xảy ra khi vách ngăn mũi bên trong mũi được dời sang một bên .",
+    "entities": [
+      {
+        "text": "ệch vách ngăn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa viêm ruột thừa cấp hiệu quả để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : nguyên nhân gây vrt cấp là do tắc nghẽn mà gần 40% là do ứ đọng sạn phân và vật lạ trong lòng ruột thừa , từ đó để đề phòng ta nên tránh táo bón , nên có chế độ ăn giàu chất xơ và uống nhiều nước mỗi ngày .",
+    "entities": [
+      {
+        "text": "viêm ruột thừa cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vrt cấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị này có thể gây đau đớn , và một số người gặp phải tình trạng yếu cơ tạm thời ở vùng được điều trị .",
+    "entities": [
+      {
+        "text": "đau đớn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ở giai đoạn khởi phát , bệnh nhân thường biểu hiện các triệu chứng toàn thân như sốt , đau đầu , đau nhức cơ .",
+    "entities": [
+      {
+        "text": "đau nhức cơ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu viêm phúc mạc vẫn tiếp diễn hoặc tái phát , có thể cần phải dừng thẩm phân phúc mạc hoàn toàn và chuyển sang hình thức lọc máu khác .",
+    "entities": [
+      {
+        "text": "thẩm phân phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lọc máu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân có thể xuất hiện nghe kém , điếc dẫn truyền , nhiều khi đến bệnh viện trong bệnh cảnh của viêm tai giữa thanh dịch do u làm tắc vòi eustache .",
+    "entities": [
+      {
+        "text": "viêm tai giữa thanh dịch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "điếc dẫn truyền",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nghe kém",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thay vào đó , bệnh ung thư trong cùng một gia đình có thể chia sẻ kết quả từ tiếp xúc với một chất gây ung thư từ môi trường hoặc từ chế độ ăn uống hoặc các yếu tố lối sống .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ghi điện tâm đồ thường quy , hoặc các dạng ghi điện tâm đồ khác để chẩn đoán xác định rung nhĩ .",
+    "entities": [
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng , bất cứ điều gì kích hoạt , kết quả là như nhau - sưng màng mũi và tắc nghẽn .",
+    "entities": [
+      {
+        "text": "sưng màng mũi và tắc nghẽn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "liệu pháp tái tưới máu : thuốc tiêu sợi huyết hoặc chụp mạch với can thiệp mạch vành qua da hoặc phẫu thuật bắc cầu động mạch vành .",
+    "entities": [
+      {
+        "text": "phẫu thuật bắc cầu động mạch vành",
+        "type": "THUỐC"
+      },
+      {
+        "text": "can thiệp mạch vành qua da",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc tiêu sợi huyết",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chụp mạch",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "vắc xin cho bệnh than đã được sử dụng đối với những người làm việc trong lĩnh vực quân đội , nghiên cứu khoa học liên quan đến bệnh than hoặc có nguy cơ mắc bệnh than , bác sĩ thú y có làm việc trực tiếp với những động vật nhiễm bệnh hoặc nghi ngờ nhiễm bệnh than và những người bị nhiễm bệnh than sau cuộc tấn công sử dụng bệnh than như vũ khí sinh học .",
+    "entities": [
+      {
+        "text": "bệnh than",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh ung thư tuyến nước bọt ung thư tuyến nước bọt không phổ biến do đó các bác sĩ không khuyên người bệnh xét nghiệm trừ khi có người bệnh có triệu chứng nghi ngờ .",
+    "entities": [
+      {
+        "text": "bệnh ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ bất kỳ điều kiện góp phần vào tình trạng viêm mạn tính ở đường mũi hoặc xoang ( viêm xoang mãn tính ) , chẳng hạn như nhiễm trùng hoặc dị ứng , có thể làm tăng nguy cơ polyp mũi .",
+    "entities": [
+      {
+        "text": "viêm mạn tính ở đường mũi hoặc xoang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm xoang mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "polyp mũi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bụng hoặc vùng bụng với siêu âm , x quang hoặc chụp cắt lớp vi tính ( ct ) có thể phát hiện tắc ruột do lồng ruột .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "lồng ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tắc ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "x quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "một số liệu pháp có thể được sử dụng để giúp kiểm soát ngứa dữ dội thường xảy ra trong xơ gan mật , bao gồm : cholestyramin và colestipol .",
+    "entities": [
+      {
+        "text": "cholestyramin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xơ gan mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "colestipol",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ngứa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "dấu hiệu tai biến mạch máu não chính xác nhất là không thể nâng hai cánh tay qua đầu cùng một lúc .",
+    "entities": [
+      {
+        "text": "nâng hai cánh tay qua đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tai biến mạch máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu gặp bất kỳ vấn đề này hoặc nếu nghĩ rằng có thể có rối loạn ăn uống , tìm kiếm sự trợ giúp y tế .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu bố hoặc mẹ mắc thông liên nhĩ thì con có nguy cơ mắc thông liên nhĩ , hoặc người con trước mắc thông liên nhĩ thì người con tiếp theo có nguy cơ cao mắc thông liên nhĩ .",
+    "entities": [
+      {
+        "text": "thông liên nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

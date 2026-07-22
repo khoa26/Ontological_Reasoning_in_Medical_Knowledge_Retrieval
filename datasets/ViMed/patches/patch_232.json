@@ -1,0 +1,379 @@
+[
+  {
+    "text": "vi khuẩn lây qua đường hô hấp ( giọt bắn ) khi người bị nhiễm ho hoặc hắt hơi , vi khuẩn bạch hầu lây lan rất dễ qua đường này đặc biệt ở nơi tiếp xúc đông người .",
+    "entities": [
+      {
+        "text": "vi khuẩn bạch hầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thắt vòng cao su : bác sĩ đặt một hoặc hai dải cao su nhỏ xung quanh gốc của một búi trĩ nội để cắt đứt lưu thông máu nuôi dưỡng búi trĩ .",
+    "entities": [
+      {
+        "text": "thắt vòng cao su",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh ung thư phổi bệnh nhân bị ung thư phổi bởi những nguyên nhân sau : hút thuốc lá : hiện nay ,90% bệnh nhân bị ung thư phổi bởi hút thuốc lá ,4% bệnh nhân do hít phải số lượng đáng kể khói thuốc hàng ngày .",
+    "entities": [
+      {
+        "text": "bệnh ung thư phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tư vấn cho người bệnh cách nhận biết được cơn phát bệnh khi tiếp xúc với lạnh để kịp thời trở về môi trường ấm và có thể sưởi ấm tay , chân bằng máy sấy tóc hoặc ngâm nước ấm .",
+    "entities": [
+      {
+        "text": "trở về môi trường ấm",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sưởi ấm tay",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chân",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nói chuyện với bác sĩ về chiến lược phòng ngừa nếu phát triển phản ứng dưới mắt do t huốc nhuộm tóc , xà phòng , mỹ phẩm hoặc các chất gây dị ứng khác .",
+    "entities": []
+  },
+  {
+    "text": "xoang bị nhiễm bệnh và không thể thoát trở thành đầy mủ , dẫn đến các triệu chứng như xả màu vàng hay xanh và các triệu chứng khác của nhiễm trùng .",
+    "entities": [
+      {
+        "text": "triệu chứng khác của nhiễm trùng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xả màu vàng hay xanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "trở thành đầy mủ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều trị cho những người có nguy cơ rung thất bao gồm thuốc và các thiết bị cấy ghép có thể phục hồi nhịp tim bình thường .",
+    "entities": [
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bởi vì các triệu chứng của hội chứng ruột kích thích có thể xảy ra với các bệnh khác , tốt nhất là để thảo luận về các triệu chứng này với bác sĩ .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng một ống sợi quang linh hoạt , các bác sĩ có thể nhìn xuống cổ họng hoặc để xem những gì gây ra các triệu chứng .",
+    "entities": [
+      {
+        "text": "sử dụng một ống sợi quang linh hoạt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "để bảo vệ gan , hãy nói chuyện với bác sĩ về những rủi ro tiềm năng trước khi dùng : black cohosh .",
+    "entities": [
+      {
+        "text": "black cohosh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bao gồm các thuốc điều trị suy tim như lợi tiểu , chẹn kênh canxi , chẹn beta giao cảm , kháng aldosterone , … điều trị rối loạn nhịp nhĩ và nhịp thất bằng các thuốc chống loạn nhịp .",
+    "entities": [
+      {
+        "text": "thuốc chống loạn nhịp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chẹn beta giao cảm",
+        "type": "THUỐC"
+      },
+      {
+        "text": "kháng aldosterone",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rối loạn nhịp nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chẹn kênh canxi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhịp thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lợi tiểu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một phần nhỏ của khối u não xảy ra ở người có tiền sử gia đình có các khối u não hoặc tiền sử gia đình của hội chứng di truyền làm tăng nguy cơ u não .",
+    "entities": [
+      {
+        "text": "khối u não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mất một phần của tầm nhìn rất có thể thay đổi lối sống - ảnh hưởng đến khả năng lái xe , đọc và làm nhiều việc khác đang quen với việc làm .",
+    "entities": [
+      {
+        "text": "mất một phần của tầm nhìn rất có thể thay đổi lối sống",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đọc và làm nhiều việc khác đang quen với việc làm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ảnh hưởng đến khả năng lái xe",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nghiên cứu đã thấy một số loại omega - 3 giảm nguy cơ bệnh tim , đột quỵ , chứng sa sút trí tuệ mất trí nhớ và s uy giảm nhận thức .",
+    "entities": [
+      {
+        "text": "chứng sa sút trí tuệ mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "uy giảm nhận thức",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "omega - 3",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không chỉ có các hoạt động này trì hoãn việc khởi phát của bệnh mất trí nhớ , cũng có thể giúp giảm ảnh hưởng của nó , các hoạt động thường xuyên hơn càng có nhiều những tác động có lợi .",
+    "entities": [
+      {
+        "text": "bệnh mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mri : nếu cấu trúc là nang , xác định khối u có chèn ép hoặc xâm nhập vào các cấu trúc lân cận không .",
+    "entities": [
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "những người này thường sẽ có một tình trạng gọi là rối loạn hành vi giấc ngủ rem ( rbd ) có liên quan đến tạo ra những giấc mơ , bao gồm đạp hoặc đá trong khi ngủ .",
+    "entities": [
+      {
+        "text": "rối loạn hành vi giấc ngủ rem",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rbd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trước khi vỡ , việc phình động mạch có thể gây đau đầu do sự giãn mạch máu hay rỉ máu vào khoang dưới nhện .",
+    "entities": [
+      {
+        "text": "phình động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": ". . hoại tử vô khuẩn chỏm xương đùi không được điều trị dứt điểm nên khi bước sang tuổi trung niên dễ bị thoái hóa khớp háng .",
+    "entities": [
+      {
+        "text": "hoại tử vô khuẩn chỏm xương đùi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thoái hóa khớp háng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng đối với những người khác , h . pylori có thể dẫn đến biến chứng nghiêm trọng , chẳng hạn như viêm loét và ung thư dạ dày .",
+    "entities": [
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm loét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không rõ chính xác tình trạng viêm mạn tính dẫn đến sự hình thành của khối u , nhưng phản ứng của hệ thống miễn dịch trong màng nhầy xuất hiện để đóng góp .",
+    "entities": [
+      {
+        "text": "viêm mạn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi các triệu chứng của bệnh phát triển , chẳng hạn như mệt mỏi và ngứa nghiêm trọng có thể ảnh hưởng đến chất lượng sống .",
+    "entities": [
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngứa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc bệnh nhiễm sán máng những người sống chung với bệnh sán máng trong một thời gian dài mà không được điều trị có thể phát triển các vấn đề sức khỏe nghiêm trọng hơn .",
+    "entities": [
+      {
+        "text": "bệnh nhiễm sán máng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh sán máng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi bị thiếu máu cơ tim thiếu máu cơ tim nếu không chẩn đoán và điều trị kịp thời có thể gây ra một số biến chứng sau : suy tim : thiếu máu cơ tim có thể làm tổn hại đến cơ tim khi đó khả năng bơm máu đến các cơ quan trong cơ thể giảm , khiến tim ngày càng suy yếu , dẫn đến các triệu chứng mệt mỏi , khó thở , ho , đau thắt ngực .",
+    "entities": [
+      {
+        "text": "thiếu máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nhìn chung , diễn biến của thông liên thất như sau : máu từ tim trái với áp lực cao qua lỗ thông sang buồng tim phải và lên động mạch phổi , lâu dần gây ra tăng áp động mạch phổi .",
+    "entities": [
+      {
+        "text": "tăng áp động mạch phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải quai bị có rất nhiều yếu tố có thể tăng nguy cơ mắc bệnh này , như : quai bị rất dễ lây lan , sự lây truyền xảy ra khi tiếp xúc giữa người với người cũng như lây lan trong không khí .",
+    "entities": [
+      {
+        "text": "quai bị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hãy hỏi bác sĩ về tầm soát ung thư gan tầm soát ung thư gan chưa được chứng minh dứt khoát để giảm nguy cơ chết vì ung thư gan .",
+    "entities": [
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một ví dụ chứng minh vai trò của các yếu tố môi trường là tỷ lệ mắc bệnh ung thư vòm họng ở người trung quốc di cư tới mỹ với chế độ ăn khác thì thấp hơn so với người dân sống tại trung quốc .",
+    "entities": [
+      {
+        "text": "bệnh ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh ung thư khoang miệng nguyên nhân ung thư khoang miệng chưa được biết rõ , tuy nhiên có rất nhiều yếu tố được xác định là yếu tố nguy cơ gây bệnh .",
+    "entities": [
+      {
+        "text": "ung thư khoang miệng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hở van ba lá 4/4 : mức độ rất nặng , thường ở mức độ này cần phải phẫu thuật , điều trị thay thế .",
+    "entities": [
+      {
+        "text": "hở van ba lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

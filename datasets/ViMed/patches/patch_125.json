@@ -1,0 +1,339 @@
+[
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán bệnh huyết khối tĩnh mạch sâu siêu âm đây là xét nghiệm được sử dụng phổ biến nhất để chẩn đoán huyết khối tĩnh mạch sâu .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng nghiêm trọng lâu dài có thể xảy ra , chẳng hạn như tổn thương tim , tổn thương phổi , các vấn đề sinh sản và các bệnh ung thư khác , chẳng hạn như bệnh bạch cầu .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trước khi chuyển nhịp , cần kiểm soát tần số thất &lt; 120 lần/phút , và nhiều bệnh nhân cần được dùng thuốc chống đông máu .",
+    "entities": [
+      {
+        "text": "thuốc chống đông máu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": ". . bị tiền sản giật bị béo phì , thừa cân trong thai kỳ đa thai , thai to thiếu máu cục bộ tử cung - nhau thai triệu chứng bệnh tiền sản giật triệu chứng tiền sản giật bao gồm : tăng huyết áp đây là dấu hiệu thường gặp nhất và sớm nhất , có giá trị chẩn đoán , theo dõi , tiên lượng .",
+    "entities": [
+      {
+        "text": "bệnh tiền sản giật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "béo phì",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh ung thư bàng quang để chẩn đoán ung thư bàng quang , cần phải thực hiện các phương pháp sau : xét nghiệm nước tiểu tìm tế bào ung thư .",
+    "entities": [
+      {
+        "text": "xét nghiệm nước tiểu tìm tế bào ung thư",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh ung thư bàng quang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu đang trải qua thẩm phân phúc mạc và có viêm phúc mạc , bác sĩ có thể khuyên nên được chạy thận trong một cách khác trong vài ngày trong khi chữa bệnh nhiễm trùng .",
+    "entities": [
+      {
+        "text": "thẩm phân phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chạy thận",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một gen bất thường gây ra rối loạn di truyền hiếm gặp trên nhiễm sắc thể thường chi phối động kinh thùy trán về đêm .",
+    "entities": [
+      {
+        "text": "động kinh thùy trán",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc điều trị ung thư tuyến tụy phụ thuộc vào các giai đoạn và vị trí của ung thư cũng như tuổi tác , sức khỏe tổng thể và sở thích cá nhân .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các nghiên cứu đã chỉ ra rằng các bổ sung thực phẩm chức năng bổ sung chất xơ không kê đơn , chẳng hạn như metamucil và citrucel , cải thiện các triệu chứng tổng thể và chảy máu do bệnh trĩ .",
+    "entities": [
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong thử nghiệm này , một mẫu nhỏ mô gan ( sinh thiết ) được lấy ra và kiểm tra trong phòng thí nghiệm , hoặc là để xác định chẩn đoán hoặc để xác định mức độ ( giai đoạn ) của bệnh .",
+    "entities": [
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các cận lâm sàng bổ sung xét nghiệm điện sinh lý : để xác định vị trí block và các rối loạn nhịp tim khác .",
+    "entities": [
+      {
+        "text": "điện sinh lý",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "sự tích tụ của những mảng này được gọi là xơ vữa động mạch , làm giảm lưu lượng máu đến tim và các bộ phận khác của cơ thể .",
+    "entities": []
+  },
+  {
+    "text": "sự chậm trễ trong chẩn đoán và điều trị viêm giác mạc có thể dẫn đến biến chứng nghiêm trọng , bao gồm cả mù lòa .",
+    "entities": [
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mù lòa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh ung thư thận chẩn đoán ung thư thận dựa vào các triệu chứng lâm sàng và cận lâm sàng .",
+    "entities": [
+      {
+        "text": "bệnh ung thư thận",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "u thực quản lành tính có thể diễn tiến thành ung thư thực quản , tuy nhiên , tỷ lệ này là rất ít .",
+    "entities": [
+      {
+        "text": "u thực quản lành tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bởi vì mật cần thiết cho sự tiêu hóa và hấp thu chất béo , xơ gan đường mật chính có thể gây ra các vấn đề về đường ruột .",
+    "entities": [
+      {
+        "text": "xơ gan đường mật chính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thiếu máu cục bộ mạc treo phẫu thuật có thể là cần thiết để loại bỏ cục máu đông , để bỏ qua tắc nghẽn động mạch , hoặc để sửa chữa hoặc loại bỏ phần ruột bị hoại tử .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ mạc treo",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của hở van động mạch chủ hở van động mạch chủ tiến triển chậm , những người mắc hở van động mạch chủ có thể không có bất cứ dấu hiệu hay triệu chứng nào trong nhiều năm .",
+    "entities": [
+      {
+        "text": "hở van động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân có thể bao gồm : khí do khó tiêu chức năng , không dung nạp thức ăn hoặc hội chứng ruột kích thích ( ibs ) .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm được sử dụng để chẩn đoán giãn tĩnh mạch thực quản bao gồm : soi kiểm tra thực quản .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "soi kiểm tra thực quản",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "quy trình này sử dụng năng lượng tần số vô tuyến để áp nhiệt những điểm rất nhỏ quanh giác mạc .",
+    "entities": [
+      {
+        "text": "sử dụng năng lượng tần số vô tuyến để áp nhiệt những điểm rất nhỏ quanh giác mạc",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tình trạng viêm liên quan đến sốt thấp khớp có thể làm suy yếu cơ tim , ảnh hưởng đến chức năng bơm máu của tim .",
+    "entities": [
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "giống như các thuốc ức chế tnf khác , bởi vì thuốc này ảnh hưởng đến hệ thống miễn dịch , cũng có nguy cơ trở thành bệnh nặng với bệnh nhiễm trùng nhất định , chẳng hạn như bệnh lao .",
+    "entities": [
+      {
+        "text": "bệnh nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh lao",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết mọi người có thể quản lý những khó chịu của chứng ợ nóng với thay đổi lối sống và thuốc không kê đơn .",
+    "entities": [
+      {
+        "text": "ợ nóng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thai chết lưu là tình trạng thai nhi đã chết trong bụng mẹ trước khi được sinh ra , sau tuần thứ 20 của thai kỳ .",
+    "entities": [
+      {
+        "text": "thai chết lưu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các đối tượng sau sẽ dễ bị xơ vữa động mạch : người có bệnh nền là rối loạn lipid máu , cao huyết áp , béo phì , đái tháo đường …; người ít vận động; người hút nhiều thuốc lá , uống nhiều rượu; người thường xuyên bị stress , căng thẳng , trầm cảm lo âu .",
+    "entities": [
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các thuốc này - donepezil , rivastigmine và galantamine hydrobromide - thuốc tác dụng bằng cách thúc đẩy chất hoá học tham gia vào bộ nhớ .",
+    "entities": [
+      {
+        "text": "thuốc tác dụng bằng cách thúc đẩy chất hoá học tham gia vào bộ nhớ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "galantamine hydrobromide",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rivastigmine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "donepezil",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải sởi có rất nhiều yếu tố có thể tăng nguy cơ mắc bệnh này , như : sởi rất dễ lây lan , sự lây truyền xảy ra khi tiếp xúc giữa người với người cũng như lây lan trong không khí .",
+    "entities": [
+      {
+        "text": "sởi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh thiểu sản men răng tổng quan bệnh thiểu sản men răng thiểu sản men răng là sự hình thành không hoàn toàn hoặc cấu trúc men răng bị lỗi trong giai đoạn hình thành men răng , dẫn đến thiếu hụt số lượng men răng .",
+    "entities": [
+      {
+        "text": "bệnh thiểu sản men răng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật cho bệnh ung thư túi mật giai đoạn đầu phẫu thuật có thể là một lựa chọn nếu bệnh ung thư túi mật giai đoạn đầu .",
+    "entities": [
+      {
+        "text": "bệnh ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  }
+]

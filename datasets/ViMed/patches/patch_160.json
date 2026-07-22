@@ -1,0 +1,344 @@
+[
+  {
+    "text": "khối u tuyến nước bọt có thể bắt đầu ở bất kỳ tuyến nước bọt nào trong miệng , cổ hoặc cổ họng của người bệnh .",
+    "entities": [
+      {
+        "text": "u tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đau đầu sau một chấn thương đầu , ngay cả khi đó là một chấn thương nhỏ hoặc vết sưng , đặc biệt là nếu nó tồi tệ hơn .",
+    "entities": [
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "kính hoặc kính áp tròng được thiết kế đặc biệt cho công việc máy tính có thể là một đầu tư đáng giá .",
+    "entities": [
+      {
+        "text": "kính áp tròng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ngay cả khi đã có một vấn đề quá khứ với ráy tai , không thể chắc chắn rằng ráy tích tụ là nguyên nhân của triệu chứng hiện tại .",
+    "entities": [
+      {
+        "text": "triệu chứng hiện tại",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu bác sĩ nghi ngờ xơ gan mật , một số xét nghiệm có thể giúp chẩn đoán , bao gồm : xét nghiệm chức năng gan .",
+    "entities": [
+      {
+        "text": "xét nghiệm chức năng gan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xơ gan mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh thường do nhiều yếu tố phối hợp và cũng có sự góp phần của yếu tố di truyền triệu chứng bệnh tiểu đường tuýp 2 tiểu đường tuýp 2 thường khởi phát từ từ .",
+    "entities": [
+      {
+        "text": "bệnh tiểu đường tuýp 2",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "dấu hiệu của bệnh trĩ nội độ 2 là búi trĩ sa thấp hơn , nằm thập thò ở bên trong hậu môn .",
+    "entities": [
+      {
+        "text": "bệnh trĩ nội",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán rối loạn nhịp tim đôi khi , đặc biệt nếu bạn không có bất kỳ triệu chứng đáng chú ý nào của rối loạn nhịp tim , bác sĩ có thể phát hiện ra bạn mắc chứng rối loạn nhịp tim khi khám định kỳ .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc lựa chọn điều trị cho barrett thực quản phụ thuộc vào các loại của những thay đổi trong các tế bào thực quản , sức khỏe tổng thể và sở thích của bản thân .",
+    "entities": [
+      {
+        "text": "barrett thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đây là loại điều trị bắt đầu với giả định rằng người có rối loạn ăn uống không còn khả năng ra quyết định về sức khỏe của mình và cần sự giúp đỡ từ gia đình .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong trường hợp sử dụng các thuốc giảm đau mà vẫn không đỡ kèm theo các triệu chứng bất thường về kinh nguyệt như đa kinh , rong kinh , vô kinh … thì người phụ nữ không nên chủ quan trước những triệu chứng này .",
+    "entities": [
+      {
+        "text": "rong kinh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đa kinh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "vô kinh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc điều trị khác nhau tùy thuộc vào loại u nang và nó gây ra triệu chứng .",
+    "entities": [
+      {
+        "text": "u nang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số bệnh đường tiêu hóa gây đầy hơi và chướng bụng , bao gồm cả vi khuẩn đường ruột phát triển quá mức ( sibo ) , bệnh celiac , suy tuyến tụy ngoại tiết ( epi ) và bệnh viêm ruột ( ibd ) .",
+    "entities": [
+      {
+        "text": "suy tuyến tụy ngoại tiết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chướng bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh celiac",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đầy hơi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu có loét thực quản - thường liên kết với acid trào ngược - có thể mất một vài bước để giúp quản lý trào ngược axit .",
+    "entities": [
+      {
+        "text": "loét thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể loại bỏ ráy tai bằng cách nới lỏng nó với dầu và sau đó xả nước , hút sáp mềm ra .",
+    "entities": [
+      {
+        "text": "loại bỏ ráy tai",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng của chứng giãn tĩnh mạch không được điều trị có thể bao gồm : viêm tắc tĩnh mạch : lưu lượng máu trong tĩnh mạch bề ngoài thường chậm và có thể tạo ra các cục máu đông gần bề mặt da .",
+    "entities": [
+      {
+        "text": "viêm tắc tĩnh mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "giãn tĩnh mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tìm kiếm sự điều trị y tế khẩn cấp nếu có dấu hiệu hoặc triệu chứng của chảy máu bên trong , bao gồm : bất tỉnh .",
+    "entities": [
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bất tỉnh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc điều trị bao gồm việc đầu tiên với nắp thanh quản và đảm bảo hoặc con có thể hít thở , và sau đó điều trị nhiễm trùng nào có thể có .",
+    "entities": [
+      {
+        "text": "đảm bảo hoặc con có thể hít thở",
+        "type": "THUỐC"
+      },
+      {
+        "text": "điều trị nhiễm trùng",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "viêm nội tâm mạc cấy máu âm tính do sử dụng kháng sinh trước đó tình trạng này xảy ra ở các bệnh nhân đã được dùng kháng sinh để điều trị sốt không rõ nguyên nhân trước khi cấy máu và chẩn đoán viêm nội tâm mạc không được đặt ra; rốt cuộc thì chẩn đoán viêm nội tâm mạc cũng được cân nhắc khi các đợt sốt phải lập lại nhiều lần sau khi ngừng kháng sinh .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các phương pháp khác được cân nhắc phối hợp trong điều trị bổ trợ sau phẫu thuật hoặc tân bổ trước trước phẫu thuật .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "những thay đổi này có thể là dấu hiệu đầu tiên của thoái hóa điểm vàng , đặc biệt nếu lớn tuổi hơn 50. nguyên nhân không phải rõ ràng những gì gây ra thoái hóa điểm vàng ướt .",
+    "entities": [
+      {
+        "text": "thoái hóa điểm vàng ướt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc bệnh viêm tá tràng viêm tá tràng là tình trạng tiêu hóa phổ biến hiện nay .",
+    "entities": [
+      {
+        "text": "viêm tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các yếu tố nguy cơ các yếu tố có thể làm tăng nguy cơ thoái hóa điểm vàng bao gồm : lớn tuổi .",
+    "entities": [
+      {
+        "text": "thoái hóa điểm vàng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hiện tại không có xét nghiệm máu để chẩn đoán uốn ván và không phân lập được vi khuẩn uốn ván ở người .",
+    "entities": [
+      {
+        "text": "uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu các dây thần kinh bị thương tại bất kỳ điểm nào dọc theo tuyến đường này , có thể dẫn đến hội chứng horner .",
+    "entities": [
+      {
+        "text": "hội chứng horner",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "răng và nướu không khỏe mạnh sẽ khiến vi khuẩn dễ dàng xâm nhập vào máu và di chuyển đến tim , có thể gây ra viêm nội tâm mạc .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu có co thắt thực quản nhưng thực quản bình thường và không có gerd , có thể được điều trị bằng thuốc để thư giãn thực quản và giảm cảm giác khó chịu .",
+    "entities": [
+      {
+        "text": "co thắt thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gerd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau khi phẫu thuật phụ thuộc một phần vào việc các phần trung tâm của võng mạc ( hoàng điểm ) bị ảnh hưởng bởi các đội trước khi phẫu thuật , và nếu có trong bao lâu .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đi kèm với sốt , cứng cổ , rối loạn tầm nhìn , nhìn đôi , yếu , tê hoặc nói khó .",
+    "entities": [
+      {
+        "text": "rối loạn tầm nhìn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhìn đôi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cứng cổ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nói khó",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "yếu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tê",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị nhịp tim chậm hiệu quả điều trị nguyên nhân dẫn đến chậm nhịp tim nếu bệnh đang mắc khiến cho nhịp tim chậm thì phương pháp điều trị chính là chữa bệnh đó .",
+    "entities": [
+      {
+        "text": "nhịp tim chậm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chậm nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

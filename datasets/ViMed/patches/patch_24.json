@@ -1,0 +1,398 @@
+[
+  {
+    "text": "tăng áp lực tĩnh mạch cửa có thể gây ra chất dịch từ gan bị rò rỉ vào khoang bụng ( cổ trướng ) .",
+    "entities": [
+      {
+        "text": "cổ trướng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán viêm tá tràng nếu bạn thấy một số dấu hiệu chứng tỏ bạn đang bị bệnh viêm tá tràng .",
+    "entities": [
+      {
+        "text": "bệnh viêm tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "theo dõi sau điều trị : khám lâm sàng , chụp ct vùng chậu , bụng 3 tháng/lần trong năm đầu , sau đó 6 tháng/lần trong 2 năm tiếp theo rồi mỗi năm 1 lần .",
+    "entities": [
+      {
+        "text": "chụp ct vùng chậu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , còn có thể phát hiện những bất thường khác của tinh hoàn như u tinh hoàn , vôi hóa nhu mô tinh hoàn , … xét nghiệm nhiễm sắc thể : nên được tiến hành một cách hệ thống để phát hiện các trường hợp giới tính không xác định .",
+    "entities": [
+      {
+        "text": "vôi hóa nhu mô tinh hoàn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xét nghiệm nhiễm sắc thể",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "u tinh hoàn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi có thể , chụp mạch vành cấp cứu và làm pci càng sớm càng tốt sau khi khởi phát nhồi máu cơ tim cấp ( pci nguyên phát ) .",
+    "entities": [
+      {
+        "text": "chụp mạch vành cấp cứu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nhồi máu cơ tim cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "pci",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sa van hai lá thì thường hiếm xảy ra , theo hiệp hội tim mạch hoa kỳ , chỉ có 2% người mỹ gặp tình trạng này .",
+    "entities": [
+      {
+        "text": "sa van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm trùng ở đường hô hấp thông thường nhất , cảm - có thể làm nóng và dày màng xoang , ngăn chặn thoát nước nhầy và tạo điều kiện chín muồi cho sự phát triển của vi khuẩn .",
+    "entities": [
+      {
+        "text": "nhiễm trùng ở đường hô hấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ngăn chặn thoát nước nhầy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cảm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "lúc đó , có thể thấy các triệu chứng sau : liên quan đến động mạch vành và cơn đau tim : loạn nhịp tim , đau thắt ngực , khó thở , mệt mỏi , buồn nôn , nôn , đổ mồ hôi .",
+    "entities": [
+      {
+        "text": "loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cơn đau tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đổ mồ hôi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến đầy hơi một số nguyên nhân phổ biến sau dẫn đến chứng đầy hơi như : một số thói quen ăn uống không lành mạnh dễ dẫn đến tình trạng rối loạn tiêu hóa , đầy hơi như dùng nhiều thức ăn chứa nhiều dầu mỡ , khó tiêu hoặc dùng nhiều đồ uống kích thích , nước ngọt có gas , cách ăn quá nhiều , nhanh , khi ăn nói chuyện , cười đùa .",
+    "entities": [
+      {
+        "text": "rối loạn tiêu hóa",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đầy hơi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "cũng có thể là do hội chứng di truyền nào đó , như hội chứng alport 's , bệnh fabry và galactosemia .",
+    "entities": [
+      {
+        "text": "hội chứng alport 's",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "galactosemia",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh fabry",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đây là loại xét nghiệm có thể phát hiện làm chậm dẫn truyền điện dẫn từ các khu vực bị thiệt hại về thần kinh .",
+    "entities": [
+      {
+        "text": "loại xét nghiệm có thể phát hiện làm chậm dẫn truyền điện dẫn từ các khu vực bị thiệt hại về thần kinh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "hội chứng chèn ép tĩnh mạch chủ trên hoặc tắc nghẽn đường thở do tổn thương ở trung thất giữa gây chèn ép mạch máu hoặc tắc nghẽn đường hô hấp .",
+    "entities": [
+      {
+        "text": "hội chứng chèn ép tĩnh mạch chủ trên",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đứa trẻ làm tăng nguy cơ nhiễm trùng tai nếu một thành viên khác của gia đình đã có bệnh nhiễm trùng tai .",
+    "entities": [
+      {
+        "text": "bệnh nhiễm trùng tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thoát vị rốn nếu không điều trị sẽ gây ra tình trạng đau nhức , chỗ thoát vị bị sưng tấy , bị đổi màu , trẻ nhỏ sẽ có biểu hiện bụng to , tròn , đầy hơn bình thường kèm theo triệu chứng nôn mửa , khó đi ngoài hoặc có máu trong phân .",
+    "entities": [
+      {
+        "text": "có máu trong phân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thoát vị rốn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó đi ngoài",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau nhức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sưng tấy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bụng to",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nôn mửa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu là một người phụ nữ qua tuổi mãn kinh , liệu pháp hormone có thể làm giảm nguy cơ ung thư đại trực tràng .",
+    "entities": [
+      {
+        "text": "ung thư đại trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "liệu pháp hormone",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , trẻ có tinh hoàn ẩn nếu không được điều trị có thể gặp các nguy cơ như ung thư hoá tinh hoàn , thoát vị bẹn , xoắn tinh hoàn , chấn thương tinh hoàn hoặc tổn thương về tâm sinh lý do không có hay chỉ có một tinh hoàn dưới bìu .",
+    "entities": [
+      {
+        "text": "ung thư hoá tinh hoàn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chấn thương tinh hoàn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xoắn tinh hoàn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tinh hoàn ẩn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thoát vị bẹn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng của nhiễm trùng đường tiểu , tắc nghẽn đường tiểu do u xâm lấn hay do cục máu đông .",
+    "entities": [
+      {
+        "text": "nhiễm trùng đường tiểu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tắc nghẽn đường tiểu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu đang gặp khó khăn khi đọc sách hoặc l àm công việc gần , hoặc nếu bị mờ tầm nhìn cận cảnh không giữ cho thưởng thức các hoạt động bình thường , gặp bác sĩ mắt .",
+    "entities": [
+      {
+        "text": "không giữ cho thưởng thức các hoạt động bình thường",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "gặp khó khăn khi đọc sách",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bị mờ tầm nhìn cận cảnh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "àm công việc gần",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "người lớn ở người lớn , nguyên nhân của lồng ruột có thể là : khối u không phải ung thư ( lành tính ) hoặc ( ác tính ) ung thư tăng trưởng .",
+    "entities": [
+      {
+        "text": "lồng ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương normal 0 false false false microsoftinternetexplorer4 định nghĩa cận thị là một điều kiện tầm nhìn chung , trong đó có thể nhìn thấy các vật thể gần một cách rõ ràng , nhưng đối tượng ở xa hơn là mờ .",
+    "entities": [
+      {
+        "text": "trong đó có thể nhìn thấy các vật thể gần một cách rõ ràng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhưng đối tượng ở xa hơn là mờ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cận thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không rõ lý do tại sao ở điều trị này , nhưng các nhà khoa học tin rằng loại bỏ được các kháng thể góp phần vào việc tấn công hệ thống miễn dịch trên các dây thần kinh ngoại vi .",
+    "entities": [
+      {
+        "text": "loại bỏ được các kháng thể góp phần vào việc tấn công hệ thống miễn dịch trên các dây thần kinh ngoại vi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nhiều người trải qua đau nhức đầu thực sự do đau đầu hồi ứng , trước đó uống thuốc giảm đau quá thường xuyên .",
+    "entities": [
+      {
+        "text": "đau đầu hồi ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "giải phẫu thần kinh loại bỏ một phần xương sọ để truy cập vào nơi phình động mạch và xác định các mạch máu nuôi phình động mạch .",
+    "entities": [
+      {
+        "text": "giải phẫu thần kinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một tùy chọn khác có thể là hệ thống truyền hình mạch kín sử dụng một máy quay phim để phóng to tài liệu đọc và phát lên một màn hình video .",
+    "entities": [
+      {
+        "text": "hệ thống truyền hình mạch kín",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc mục tiêu của điều trị là để bù đắp cho sự bất lực của đôi mắt tập trung vào các đối tượng ở gần đó .",
+    "entities": [
+      {
+        "text": "thuốc mục tiêu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các yếu tố nguy cơ mắc bệnh u lympho tế bào t bao gồm : nhiễm khuẩn : hiv , ebv .",
+    "entities": [
+      {
+        "text": "bệnh u lympho tế bào t",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hiv",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ebv",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bất kỳ vấn đề có thể cho phép vi khuẩn vào thành phúc mạc thông qua một lỗ ở đường tiêu hóa .",
+    "entities": []
+  },
+  {
+    "text": "nếu có bất cứ dấu hiệu hoặc triệu chứng của viêm túi mật , liên hệ với bác sĩ ngay lập tức .",
+    "entities": [
+      {
+        "text": "viêm túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , cần theo dõi chăm sóc cả đời với bác sĩ chuyên khoa tim , người chuyên về bệnh tim bẩm sinh .",
+    "entities": [
+      {
+        "text": "bệnh tim bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "loại đau này nguyên nhân thường là nhiễm trùng do virus , vi khuẩn sinh sôi ở dạ dày , chứng khó tiêu hoặc đầy hơi .",
+    "entities": []
+  }
+]

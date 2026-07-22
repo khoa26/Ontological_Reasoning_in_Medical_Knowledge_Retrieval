@@ -1,0 +1,360 @@
+[
+  {
+    "text": "và loại ung thư này được đặt theo tên cơ quan nó bắt đầu - chẳng hạn như ung thư đại tràng di căn để mô tả bệnh ung thư bắt đầu ở đại tràng và lây lan đến gan .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ví dụ , nếu một loại thuốc gây khô mắt , bác sĩ có thể đề nghị một loại thuốc khác mà không gây tác dụng phụ đó .",
+    "entities": [
+      {
+        "text": "bác sĩ có thể đề nghị một loại thuốc khác mà không gây tác dụng phụ đó",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "điều trị để chống lại vi khuẩn xấu trong tiêu chảy nghiêm trọng liên quan đến kháng sinh nếu gặp viêm đại tràng hoặc viêm đại tràng giả , bác sĩ có thể khuyên nên dùng kháng sinh để diệt các vi khuẩn gây tiêu chảy xấu liên quan đến kháng sinh .",
+    "entities": [
+      {
+        "text": "viêm đại tràng giả",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của viêm nội tâm mạc nhiễm khuẩn tới 90% bệnh nhân có sốt , sốt thường đi kèm với rét run , ăn mất ngon và gầy sút .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc nhiễm khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ăn mất ngon",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rét run",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "gầy sút",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục cùng với sự giúp đỡ của bác sĩ , có thể thực hiện các bước để kiểm soát bệnh gan nhiễm mỡ không do rượu .",
+    "entities": [
+      {
+        "text": "bệnh gan nhiễm mỡ không do rượu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các phương pháp điều trị có thể là : bổ sung fluor : khi tình trạng thiểu sản men răng ở mức độ nhẹ , bệnh nhân có thể được bác sĩ hướng dẫn bổ sung fluor để cải thiện tình trạng của men răng .",
+    "entities": [
+      {
+        "text": "thiểu sản men răng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cách tiếp cận này , được gọi là hệ thống stretta , sử dụng điện năng lượng để làm nóng mô thực quản .",
+    "entities": [
+      {
+        "text": "stretta",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "có thể không cần điều chỉnh mắt sử dụng cho tầm nhìn xa ( thường là mắt chiếm ưu thế ) , nhưng một ống kính liên hệ có thể được sử dụng cho tầm nhìn cận cảnh .",
+    "entities": [
+      {
+        "text": "ống kính liên hệ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , một phụ nữ sinh ra bị khuyết tật ống thần kinh có nguy cơ sinh con bị thoát vị não màng não cao hơn .",
+    "entities": [
+      {
+        "text": "thoát vị não màng não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm mạch thứ phát : bệnh lý viêm mạch máu này có thể liên quan đến gen di truyền hoặc sự bất thường của hệ thống miễn dịch .",
+    "entities": [
+      {
+        "text": "viêm mạch thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm mạch máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đưa đến bác sĩ nếu trẻ nhỏ bị đau cổ họng không dùng đồ uống vào buổi sáng , khuyến cáo của viện hàn lâm nhi khoa mỹ .",
+    "entities": [
+      {
+        "text": "đau cổ họng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thông tim : thông tim có thể giúp ích cho việc đánh giá mức độ shunt , ngoài ra còn xác định chính xác áp lực động mạch phổi , đo cung lượng động mạch phổi , cung lượng động mạch chủ .",
+    "entities": [
+      {
+        "text": "thông tim",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các tuyến phụ thuộc của da như tuyến mồ hôi , tuyến bã sinh ra ung thư tuyến mồ hôi , tuyến bã… ung thư da hay gặp ở người da trắng , chủ yếu ở người già , nam nhiều hơn nữ .",
+    "entities": [
+      {
+        "text": "ung thư tuyến mồ hôi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư da",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phát triển quá mức của vi khuẩn có hại nghiêm trọng , có thể có các dấu hiệu và triệu chứng của viêm đại tràng hoặc viêm đại tràng giả , chẳng hạn như : thường xuyên tiêu chảy .",
+    "entities": [
+      {
+        "text": "viêm đại tràng giả",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , với những trường hợp viêm ruột thừa không có biến chứng trong những trường hợp tình trạng bệnh nhân không đảm bảo cho phẫu thuật như : bệnh nhân bị rối loạn đông máu nặng , bệnh nhân có bệnh nội khoa kèm rất nặng không thể chịu đựng được cuộc phẫu thuật có thể cân nhắc áp dụng điều trị bảo tồn với kháng sinh .",
+    "entities": [
+      {
+        "text": "rối loạn đông máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm ruột thừa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "vì vậy việc chăm sóc người bệnh thủy đậ u đóng một vai trò quan trọng , cần đảm bảo : ăn uống đầy đủ chất dinh dưỡng , ăn các thức ăn mềm , uống đủ nước , có thể uống thêm nước hoa quả vệ sinh mũi họng hằng ngày bằng dung dịch nước muối sinh lý thay quần áo và tắm rửa hằng ngày bằng nước ấm sạch .",
+    "entities": [
+      {
+        "text": "bệnh thủy đậ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "duy trì một môi trường an bình và ổn định một môi trường an bình và ổn định làm giảm các vấn đề hành vi , tình huống mới , tiếng ồn , các nhóm lớn người , đang vội vã hoặc ép để nhớ hoặc được yêu cầu làm nhiệm vụ phức tạp có thể gây ra lo lắng .",
+    "entities": [
+      {
+        "text": "duy trì một môi trường an bình và ổn định",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trẻ em các dấu hiệu và triệu chứng thường gặp ở trẻ em bao gồm : đau tai , nhất là khi nằm xuống .",
+    "entities": [
+      {
+        "text": "đau tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tình trạng thở nhanh có thể điều trị và khống chế được , nhưng bệnh nhân vẫn cần quan tâm đến những vấn đề tiềm ẩn .",
+    "entities": [
+      {
+        "text": "thở nhanh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một đục thủy tinh thể sau bao có thể bắt đầu như là một khu vực đục nhỏ , mà thường là gần phía sau của ống kính , ngay trong con đường của ánh sáng trên đường tới võng mạc .",
+    "entities": [
+      {
+        "text": "đục thủy tinh thể sau bao",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân viêm thanh quản cấp tính hầu hết các trường hợp viêm thanh quản là tạm thời và cải thiện sau khi các nguyên nhân cơ bản được tốt hơn .",
+    "entities": [
+      {
+        "text": "viêm thanh quản cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị hiệu quả dùng thuốc : thuốc hạ huyết áp ( thuốc chẹn β , ức chế men chuyển ace hoặc thuốc chẹn thụ thể angiotensin ii - arb … ) .",
+    "entities": [
+      {
+        "text": "thuốc chẹn thụ thể angiotensin ii - arb",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ức chế men chuyển ace",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc hạ huyết áp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chẹn β",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "viêm trên bề mặt mắ t có thể được kiểm soát với eyedrops toa chứa thuốc c yclosporine miễn dịch - suppressing hoặc có chứa corticosteroid để kiểm soát tình trạng viêm .",
+    "entities": [
+      {
+        "text": "yclosporine miễn dịch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tình trạng viêm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "corticosteroid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "eyedrops toa",
+        "type": "THUỐC"
+      },
+      {
+        "text": "suppressing",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "dấu hiệu và triệu chứng điển hình bao gồm : đau thường trong hoặc xung quanh mắt , nhưng có thể tỏa đến các vùng khác của mặt , đầu , cổ và vai .",
+    "entities": [
+      {
+        "text": "đau thường trong hoặc xung quanh mắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nó cũng có thể dẫn đến nhiễm trùng thường xuyên trong miệng và ăn uống , nuốt và nói khó khăn .",
+    "entities": [
+      {
+        "text": "nuốt và nói khó khăn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm thực quản truyền nhiễm bác sĩ có thể kê toa thuốc để điều trị nhiễm trùng do vi khuẩn , siêu vi , nấm hay ký sinh trùng gây ra viêm thực quản truyền nhiễm .",
+    "entities": [
+      {
+        "text": "viêm thực quản truyền nhiễm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các chỉ định điều trị với khối u máu được đưa ra trong các trường hợp : khối u thường xuyên chảy máu u máu xuất hiện ở những vị trí làm giảm tính thẩm mỹ , gây ảnh hưởng đến tâm lý của người bệnh .",
+    "entities": [
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "u máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong một số bệnh nhân , triệu chứng ban đầu là biến chứng của đái tháo đường , gợi ý bệnh đã xuất hiện được một thời gian .",
+    "entities": [
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "để làm điều này , bác sĩ có thể gợi ý những điều sau đây : khám thần kinh khảo sát hoạt động hệ thần kinh , bao gồm kiểm tra : phản xạ gân .",
+    "entities": [
+      {
+        "text": "khám thần kinh khảo sát hoạt động hệ thần kinh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "kiểm tra : phản xạ gân",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "người lớn tuổi thường bị teo dây thần kinh thị giác do giảm dòng máu nuôi dưỡng dây thần kinh thị .",
+    "entities": [
+      {
+        "text": "teo dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

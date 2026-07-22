@@ -1,0 +1,456 @@
+[
+  {
+    "text": "các dấu hiệu và triệu chứng của polyp mũi tương tự như nhiều điều kiện khác , bao gồm cảm lạnh thông thường .",
+    "entities": [
+      {
+        "text": "polyp mũi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cảm lạnh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đang ở độ tuổi trên 50 ( 45 tuổi nếu đang đi phân đen ) và không nội soi trong vòng 10 năm .",
+    "entities": [
+      {
+        "text": "đi phân đen",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của bệnh nhiễm sán máng lúc đầu , thường không có triệu chứng của bệnh sán máng nhưng trong vòng 1 - 2 tháng kể từ khi nhiễm bệnh , các triệu chứng có thể phát triển bao gồm sốt , đau bụng ( vùng gan/ lá lách ) , tiêu chảy ra máu hoặc có máu trong phân hoặc nước tiểu , ho , khó chịu , đau đầu , phát ban và và đau nhức cơ thể .",
+    "entities": [
+      {
+        "text": "bệnh nhiễm sán máng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau nhức cơ thể",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "máu trong phân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh sán máng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nước tiểu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phát ban",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "những người khác không có bất kỳ điều kiện cơ bản cũng có thể có tái phát viêm dây thần kinh thị giác .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau khi mắt với khối u ác tính được loại bỏ , cấy ghép được đưa vào vị trí tương đương , và các cơ điều khiển chuyển động của mắt được gắn vào cấy ghép , cho phép cấy ghép để di chuyển .",
+    "entities": [
+      {
+        "text": "khối u ác tính được loại bỏ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "mắt được gắn vào cấy ghép",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "yếu cơ bụng , làm cho các chất trong bụng chảy xệ ra ngoài và xuống dưới ( bệnh rối loạn tiêu hóa ) .",
+    "entities": [
+      {
+        "text": "bệnh rối loạn tiêu hóa",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong phản hồi sinh học , có thể học cách kiểm soát cơn đau đầu bằng cách trở thành ý thức hơn và sau đó thay đổi một số phản ứng cơ thể như căng cơ , nhịp tim và nhiệt độ da .",
+    "entities": [
+      {
+        "text": "trong phản hồi sinh học",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cơn đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị rối loạn nhịp tim hiệu quả điều trị nguyên nhân sử dụng các biện pháp như thuốc chống loạn nhịp tim , máy tạo nhịp tim , khử rung tim , cắt bỏ qua ống thông hoặc phẫu thuật .",
+    "entities": [
+      {
+        "text": "thuốc chống loạn nhịp tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cắt bỏ qua ống thông",
+        "type": "THUỐC"
+      },
+      {
+        "text": "máy tạo nhịp tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "khử rung tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ung thư tế bào vảy hay di căn hạch khu vực như vùng cổ , vùng chẩm , hạch trước tai , hạch dưới cằm , dưới hàm : hạch di căn thường to , chắc , đơn độc hoặc dính thành đám , hạch di động hoặc cố định .",
+    "entities": [
+      {
+        "text": "ung thư tế bào vảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm bờ mi thường là một tình trạng mãn tính , có nghĩa là nó có thể yêu cầu chăm sóc dài hạn .",
+    "entities": [
+      {
+        "text": "viêm bờ mi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mọi người đều có nguy cơ mắc phình tách động mạch chủ , đặc biệt là người cao tuổi , bệnh nhân đang mắc các bệnh lý tim mạch như tăng huyết áp , xơ vữa động mạch .",
+    "entities": [
+      {
+        "text": "phình tách động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số hội chứng có thể dẫn đến ung thư thận như hội chứng von hippel - lindau ( vhl syndrome ) , hội chứng birt - hogg - dube hay bệnh xơ hóa củ .",
+    "entities": [
+      {
+        "text": "hội chứng von hippel - lindau",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng birt - hogg - dube",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh xơ hóa củ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vhl syndrome",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh tiền mãn kinh tiền mãn kinh là một quá trình diễn ra tự nhiên và bắt buộc phải trải qua trong vòng đời của người phụ nữ .",
+    "entities": [
+      {
+        "text": "bệnh tiền mãn kinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "di truyền : bệnh có tính chất di truyền liên quan đến một số hội chứng như bệnh xơ da nhiễm sắc , hội chứng tế bào đáy dạng nơ - vi , hội chứng gardner , hội chứng torres triệu chứng bệnh ung thư da đầu dấu hiệu ung thư da đầu tương đối dễ nhận biết so với các loại ung thư khác xuất hiện các mụn nhỏ trên bề mặt da đầu , những nốt sần sùi … xuất hiện rất nhiều gàu , đặc biệt là g àu nhớt , gàu ướt hay các loại bã nhờn trên tóc .",
+    "entities": [
+      {
+        "text": "hội chứng tế bào đáy dạng nơ - vi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh xơ da nhiễm sắc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ung thư da đầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng gardner",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng torres",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bã nhờn trên tóc",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nốt sần sùi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mụn nhỏ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "àu nhớt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "gàu ướt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ở phương tây , hai nguyên nhân phổ biến của tăng áp lực tĩnh mạch cửa là rượu và viêm gan siêu vi .",
+    "entities": [
+      {
+        "text": "tăng áp lực tĩnh mạch cửa",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vấn đề huyết mạch , chẳng hạn như huyết áp cao , chứng phình động mạch có thể khuếch đại âm thanh của nhịp tim trong tai .",
+    "entities": [
+      {
+        "text": "khuếch đại âm thanh của nhịp tim trong tai",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chứng phình động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mri cũng có thể giúp loại bỏ khối u hoặc điều kiện khác có thể bắt chước viêm dây thần kinh thị giác .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khối u",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm : men tim ( troponin t hoặc troponin i , ck , ck - mb ) để loại trừ hội chứng vành cấp , xét nghiệm cholesterol , triglycerid , ldl - c , hdl - c , glucose , hba1c , chức năng gan , thận , . . để chẩn đoán các bệnh và các yếu tố nguy cơ kèm theo .",
+    "entities": [
+      {
+        "text": "xét nghiệm cholesterol",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh ung thư tinh hoàn nguyên nhân gây thư tinh hoàn hiện nay vẫn chưa được xác định rõ .",
+    "entities": [
+      {
+        "text": "bệnh ung thư tinh hoàn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng xạ trị : mệt mỏi , phản ứng da từ nhẹ đến vừa , rối loạn tiêu hóa , cảm giác khó chịu khi đi vệ sinh , các kích thích hậu môn tạm thời ( đỏ da , sưng phồng .",
+    "entities": [
+      {
+        "text": "khó chịu khi đi vệ sinh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sưng phồng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đỏ da",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tổn thương van hai lá và van tim khác hoặc các mô tim khác có thể gây ra vấn đề với tim sau này trong cuộc sống như : nhịp đập bất thường và rung tâm nhĩ tim không có khả năng bơm đủ máu đến cơ thể dấu hiệu cần đưa trẻ đi khám tim mạch đường lây truyền bệnh thấp tim ở trẻ em bệnh thấp tim không lây truyền từ người bệnh sang người khỏe mạnh .",
+    "entities": [
+      {
+        "text": "bệnh thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân thiếu máu cục bộ đường ruột xảy ra khi dòng máu qua các động mạch chính cung cấp máu cho ruột chậm lại hoặc dừng lại .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tia xạ triệu chứng trong giai đoạn cuối phẫu thuật : giúp cắt bỏ khối u phẫu thuật có vai trò quan trọng trong chẩn đoán nhưng không phải là lựa chọn điều trị các trường hợp u nguyên bào thần kinh nguy cơ cao .",
+    "entities": [
+      {
+        "text": "u nguyên bào thần kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tia xạ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thông thường , tim đập nhanh có liên quan đến vấn đề bệnh lý tim hoặc không liên quan đến tim .",
+    "entities": [
+      {
+        "text": "tim đập nhanh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chẩn đoán giai đoạn bệnh : thai ngoài tử cung chưa vỡ hay thai ngoài tử cung đã vỡ có ý nghĩa quan trọng trong việc lựa chọn phương pháp điều trị thích hợp , tiên lượng bệnh nhân xem thêm thông tin về chẩn đoán thai ngoài tử cung tại đây các biện pháp điều trị bệnh thai ngoài tử cung thai ngoài tử cung có nhiều phương pháp điều trị khác nhau , tuy nhiên dựa vào giai đoạn , tình trạng bệnh , và một số yếu tố có liên quan khác mà bác sĩ đưa ra hướng điều trị thích hợp .",
+    "entities": [
+      {
+        "text": "bệnh thai ngoài tử cung",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những người mắc bệnh lý đái tháo đường , tim mạch , rối loạn lipid máu cần thiết phải khám sức khỏe định kỳ để kiểm soát tình trạng bệnh .",
+    "entities": [
+      {
+        "text": "rối loạn lipid máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : viêm nhiễm âm đạo là nguyên nhân hàng đầu gây tắc ống dẫn trứng tìm hiểu ống dẫn trứng là gì ?",
+    "entities": [
+      {
+        "text": "viêm nhiễm âm đạo",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tắc ống dẫn trứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi tim của bạn không nhận được máu và oxy cần thiết để hoạt động bình thường , nó có thể khiến bạn có nguy cơ cao bị suy tim và các biến chứng nghiêm trọng khác .",
+    "entities": [
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nội soi dạ dày nếu có nghi ngờ tái phát ở miệng nối ngoài ra cần chú ý tình trạng thiếu dinh dưỡng ở các bệnh nhân sau phẫu thuật cắt dạ dày .",
+    "entities": [
+      {
+        "text": "phẫu thuật cắt dạ dày",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "thay vào đó , các bác sĩ thường làm việc để điều trị các yếu tố nguy cơ góp phần vào bệnh gan .",
+    "entities": [
+      {
+        "text": "bệnh gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

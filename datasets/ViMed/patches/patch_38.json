@@ -1,0 +1,456 @@
+[
+  {
+    "text": "các khối u não có thể bắt đầu trong não , hoặc ung thư có thể bắt đầu ở các bộ phận khác của cơ thể và lan tới não .",
+    "entities": [
+      {
+        "text": "khối u não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đường lây truyền bệnh tự kỷ ở người lớn tự kỷ là nhóm bệnh tâm thần , không phải là bệnh truyền nhiễm , do đó không có khả năng lây truyền từ người bệnh sang người khỏe mạnh .",
+    "entities": [
+      {
+        "text": "bệnh tâm thần",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc điều trị tiêu chảy liên do kháng sinh phụ thuộc vào mức độ nghiêm trọng của các dấu hiệu và triệu chứng .",
+    "entities": [
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng một biểu đồ hoặc các thiết bị xem chữ dần dần nhỏ hơn , bác sĩ mắt quyết định nếu có thị lực 20/20 hoặc nếu tầm nhìn có dấu hiệu suy giảm .",
+    "entities": [
+      {
+        "text": "sử dụng một biểu đồ hoặc các thiết bị xem chữ dần dần nhỏ hơn",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "trong trường hợp tắc mạch máu cấp hoặc tình trạng bệnh không còn đáp ứng với điều trị bằng thuốc , các can thiệp bằng phẫu thuật như tái tạo mạch máu ( đặt stent mạch máu qua chỗ tắc ) có thể được thực hiện .",
+    "entities": [
+      {
+        "text": "tái tạo mạch máu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trong các thử nghiệm kỹ lưỡng hơn , được tiến hành bởi bác sĩ thính học , đeo tai nghe và nghe âm thanh trực tiếp tới một tai tại một thời điểm .",
+    "entities": [
+      {
+        "text": "nghe âm thanh trực tiếp tới một tai tại một thời điểm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đeo tai nghe",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "quang trị liệu có thể ngăn chặn sự mất mát của tầm nhìn hoặc ít nhất là làm chậm tốc độ mất thị lực .",
+    "entities": [
+      {
+        "text": "quang trị liệu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp này chỉ được chỉ định ở những bệnh nhân không có suy nút xoang hoặc rối loạn dẫn truyền nhĩ thất , block nhánh , qt dài , hội chứng brugada , hoặc bệnh tim thực tổn .",
+    "entities": [
+      {
+        "text": "rối loạn dẫn truyền nhĩ thất",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hội chứng brugada",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh tim thực tổn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy nút xoang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "block nhánh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "qt dài",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "lấy hẹn với bác sĩ nếu gặp các triệu chứng nặng hoặc thường xuyên của trào ngược dạ dày thực quản .",
+    "entities": [
+      {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ví dụ về các bệnh nhiễm trùng bao gồm n hiễm trùng não như viêm màng não và viêm não , giang mai không được điều trị , bệnh lyme và vấn đề gây ra hệ thống miễn dịch bị tổn hại chẳng hạn như bệnh bạch cầu .",
+    "entities": [
+      {
+        "text": "bệnh nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hiễm trùng não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm màng não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh bạch cầu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "giang mai",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh lyme",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh van tim tim có bốn van gồm van động mạch chủ , van hai lá , van phổi và van ba lá , chúng mở và đóng để di chuyển máu qua tim .",
+    "entities": [
+      {
+        "text": "bệnh van tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu bị tiêu chảy và đau bụng mà không trầm cảm , bác sĩ có thể cho một liều thuốc chống trầm cảm ba vòng thấp hơn so với bình thường , chẳng hạn như imipramine ( tofranil ) và amitripxylin .",
+    "entities": [
+      {
+        "text": "thuốc chống trầm cảm ba vòng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "amitripxylin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "imipramine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "trầm cảm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tofranil",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm máu nếu trẻ đã được chẩn đoán bị nhiễm liên cầu khuẩn , bác sĩ có thể không yêu cầu xét nghiệm định danh vi khuẩn .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tuân thủ điều trị , sử dụng thuốc đúng chỉ định là biện pháp phòng ngừa tăng đường huyết ở bệnh nhân đái tháo đường .",
+    "entities": [
+      {
+        "text": "tuân thủ điều trị , sử dụng thuốc đúng chỉ định",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "giai đoạn sản giật có thể kéo dài vài giờ , vài ngày , vài tuần hoặc chỉ thoáng qua tùy mức độ nặng nhẹ của bệnh .",
+    "entities": [
+      {
+        "text": "sản giật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng viêm xoang cấp tính triệu chứng thường bao gồm : - thoát dịch màu vàng hoặc hơi xanh từ mũi xuống phía sau cổ họng .",
+    "entities": [
+      {
+        "text": "viêm xoang cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thoát dịch màu vàng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nha bào uốn ván xâm nhập qua dây rốn vì cắt rốn bằng dụng cụ bẩn hoặc sau khi sinh , trẻ không được chăm sóc rốn sạch sẽ , gạc băng rốn không vô khuẩn nên đã bị nhiễm nha bào uốn ván .",
+    "entities": [
+      {
+        "text": "uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . u nguyên bào thần kinh được chia làm 3 mức độ nguy cơ thấp , trung bình và cao : nhóm nguy cơ thấp thường gặp ở trẻ nhỏ , khả năng chữa khỏi cao chỉ bằng phẫu thuật nhóm nguy cơ cao có tỷ lệ chữa khỏi còn thấp mặc dù u nguyên bào thần kinh rất nhạy cảm với hóa chất và tia xạ .",
+    "entities": [
+      {
+        "text": "u nguyên bào thần kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu giọng nói không được rõ , tròn , không lưu loát hoặc không thể nói được thì đây chính là dấu hiệu bất thường của tai biến mạch máu não .",
+    "entities": [
+      {
+        "text": "giọng nói không được rõ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "không thể nói được",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "không lưu loát",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tròn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "khi bệnh nhân mắc hội chứng qt kéo dài có triệu chứng rối loạn nhịp tim cần điều trị bằng các phương pháp : điều trị bằng thuốc : sử dụng thuốc ức chế beta nhằm khống chế tình trạng rối loạn nhịp tim trong hội chứng qt kéo dài .",
+    "entities": [
+      {
+        "text": "hội chứng qt kéo dài",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc ức chế beta",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể khuyên nên tiêm vitamin k và nước uống bổ sung các vitamin a , d và e . hiện tượng raynaud .",
+    "entities": [
+      {
+        "text": "vitamin a , d và e",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiêm vitamin k",
+        "type": "THUỐC"
+      },
+      {
+        "text": "raynaud",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh thiểu sản men răng các nguyên nhân chính dẫn đến thiểu sản men răng : thiểu sản men răng do di truyền : do gen di truyền trong gia đình .",
+    "entities": [
+      {
+        "text": "bệnh thiểu sản men răng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân phổ biến nhất của các hạch mạc treo ruột sưng là nhiễm virus , chẳng hạn như viêm dạ dày ruột - thường được gọi là cúm dạ dày .",
+    "entities": [
+      {
+        "text": "hạch mạc treo ruột sưng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm dạ dày ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cúm dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng lâm sàng có thể gặp lúc này bao gồm : mệt mỏi , chóng mặt , có thể có sốt khó thở , mạch nhanh nước tiểu đậm màu vàng da và/hoặc vàng lòng trắng của mắt .",
+    "entities": [
+      {
+        "text": "vàng lòng trắng của mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nước tiểu đậm màu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mạch nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều này thường chỉ được khuyến nghị trong trường hợp cục máu đông rất lớn hoặc cục máu đông gây ra các vấn đề nghiêm trọng , như tổn thương mô .",
+    "entities": [
+      {
+        "text": "tổn thương mô .",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cục máu đông",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi bạn thấy xuất hiện các dấu hiệu của huyết khối tĩnh mạch sâu , hoặc khi xuất hiện các triệu chứng tắc mạch phổi , bạn cần đến bác sĩ để được điều trị .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tắc mạch phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc điều trị cho các nguyên nhân của xơ gan trong xơ gan sớm , có thể giảm thiểu thiệt hại cho gan bằng cách xử lý nguyên nhân cơ bản .",
+    "entities": [
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "quan sát thông qua keratoscope sự phản chiếu của ánh sáng từ giác mạc và kiểm tra hình dạng và khoảng cách của các vòng cung cấp thông tin về mức độ loạn thị .",
+    "entities": [
+      {
+        "text": "loạn thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đau nhức đầu mãn tính được phân loại bởi thời gian mắc bao lâu - hơn bốn giờ hoặc ít hơn bốn giờ .",
+    "entities": [
+      {
+        "text": "đau nhức đầu mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , có thể được xác định bằng các phương pháp khác : chụp ct tim , trắc nghiệm gắng sức , chụp cộng hưởng từ ( mri ) tim , … phương pháp điều trị hở van động mạch chủ khi bệnh nhân mắc hở van động mạch chủ cần điều trị bằng các phương pháp : hở van động mạch chủ cấp tính : phẫu thuật .",
+    "entities": [
+      {
+        "text": "hở van động mạch chủ cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "trắc nghiệm gắng sức",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp ct tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  }
+]

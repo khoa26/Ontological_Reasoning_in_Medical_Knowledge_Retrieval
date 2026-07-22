@@ -1,0 +1,413 @@
+[
+  {
+    "text": "tuy nhiên , trong hầu hết trường hợp , nguyên nhân của bệnh động kinh thùy trán vẫn còn chưa rõ .",
+    "entities": []
+  },
+  {
+    "text": "nữ giới , trong độ tuổi từ 15 đến 30. mắc các bệnh như xơ cứng bì , lupus , bệnh lý tuyến giáp .",
+    "entities": [
+      {
+        "text": "xơ cứng bì",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "lupus",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu trứng thường gặp và tăng dần là : thể trạng suy sụp khó nuốt nôn ho khan đau ngực hoặc có cảm giác khó chịu sau xương ức hơi thở có mùi hôi nghe có tiếng óc ách khi túi thừa ứ đọng thức ăn viêm họng , chảy nhiều nước bọt trào ngược gây ra bởi túi thừa , thường xảy ra vào ban đêm hoặc khi nằm , dẫn đến khó thở , viêm phổi và áp xe phổi các triệu trứng xấu đi khi nuốt nghẹn , thậm chí có viêm , vỡ và thủng túi thừa thực quản là biến chứng nguy hiểm và cần được can thiệp ngoại khoa ngay .",
+    "entities": [
+      {
+        "text": "vỡ và thủng túi thừa thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cảm giác khó chịu sau xương ức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hơi thở có mùi hôi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thể trạng suy sụp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nghe có tiếng óc ách",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chảy nhiều nước bọt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "áp xe phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nuốt nghẹn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó nuốt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ho khan",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nghiêm trọng hơn liên quan đến kháng sinh gây tiêu chảy có thể yêu cầu dừng , chuyển đổi thuốc kháng sinh .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số bệnh gan có thể dẫn đến xơ gan , như nhiễm trùng viêm gan , bệnh gan do rượu và chứng rối loạn đường mật gọi là xơ gan đường mật chính .",
+    "entities": [
+      {
+        "text": "xơ gan đường mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tinh hoàn ẩn thường được phát hiện ở những trẻ bị rối loạn nội tiết , dị tật bẩm sinh lúc sinh hoặc bất thường về di truyền , tuy nhiên cũng có nhiều trẻ được sinh ra với tinh hoàn ẩn nhưng lại không xác định được nguyên nhân .",
+    "entities": [
+      {
+        "text": "tinh hoàn ẩn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sorafenib ( nexavar ) là một loại thuốc được nhắm mục tiêu thiết kế để cản trở khả năng tạo ra các mạch máu mới khối u . sorafenib làm chậm hoặc ngăn chặn ung thư gan mới tiến triển trong vài tháng hoặc lâu hơn không được điều trị .",
+    "entities": [
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sorafenib",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nexavar",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu có các triệu chứng bao gồm đau hoặc trầm cảm , bác sĩ có thể chỉ định thuốc chống trầm cảm ba vòng hoặc ức chế tái hấp thu serotonin chọn lọc ( ssri ) .",
+    "entities": [
+      {
+        "text": "thuốc chống trầm cảm ba vòng hoặc ức chế tái hấp thu serotonin chọn lọc",
+        "type": "THUỐC"
+      },
+      {
+        "text": "trầm cảm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ssri",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong trường hợp hiếm hoi , các thủ tục phẫu thuật có thể là một lựa chọn để điều trị các vấn đề phức tạp , chẳng hạn như là lệch vách ngăn mũi hoặc polyp mũi dai dẳng .",
+    "entities": [
+      {
+        "text": "lệch vách ngăn mũi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "polyp mũi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các loại thuốc như axit valproic hoặc carbamazepine có thể được sử dụng để điều trị các cử động nặng không tự chủ do chứng múa giật sydenham gây ra .",
+    "entities": [
+      {
+        "text": "múa giật sydenham",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "axit valproic",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "carbamazepine",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi xâm nhập vào cơ thể , chúng sẽ theo dòng máu gây tổn thương những cơ quan như hệ thần kinh trung ương , gan , mắt , … borrelia recurrentis trú ngụ ở tất cả các mô của ve bọ , chấy rận .",
+    "entities": []
+  },
+  {
+    "text": "hình ảnh bệnh ung thư dương vật tổng quan bệnh ung thư dương vật ung thư dương vật là gì ?",
+    "entities": [
+      {
+        "text": "bệnh ung thư dương vật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vật ung thư dương vật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , những người có tình trạng này gần như chắc chắn sẽ phát triển suy tim và hội chứng eisenmenger .",
+    "entities": [
+      {
+        "text": "hội chứng eisenmenger",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bức xạ , chẳng hạn như bức xạ được sử dụng để điều trị ung thư đầu và cổ , làm tăng nguy cơ khối u tuyến nước bọt .",
+    "entities": [
+      {
+        "text": "u tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bức xạ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đối với viêm niêm mạc trực tràng gây ra do nhiễm virus , chẳng hạn như các vi rút herpes truyền qua đường tình dục , bác sĩ có thể kê toa một loại thuốc kháng vi - rút .",
+    "entities": [
+      {
+        "text": "viêm niêm mạc trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc kháng vi - rút",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu không uống sữa hoặc tránh ánh nắng mặt trời , có thể xem xét việc cả vitamin d và bổ sung một lượng canxi .",
+    "entities": [
+      {
+        "text": "vitamin d",
+        "type": "THUỐC"
+      },
+      {
+        "text": "canxi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh ù tai nguyên nhân của ù tai thường gặp : tiếp xúc với tiếng ồn lớn : những tiếng động lớn là những nguồn gây mất thính lực liên quan đến tiếng ồn phổ biến .",
+    "entities": [
+      {
+        "text": "bệnh ù tai",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các dấu hiệu hay triệu chứng có thể xảy ra khi nhiễm h . pylori , bao gồm : cơn đau nhức hoặc nóng trong bụng .",
+    "entities": [
+      {
+        "text": "nhiễm h . pylori",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nóng trong bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cơn đau nhức",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên vẫn có một tỷ lệ nhiễm virus viêm gan b , c dù chưa có xơ gan vẫn bị ung thư gan .",
+    "entities": [
+      {
+        "text": "virus viêm gan b",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật cắt bè củng mạc ( trabeculectomy ) sẽ tạo một đường thoát dịch mới giúp làm giảm áp lực ở mắt .",
+    "entities": [
+      {
+        "text": "phẫu thuật cắt bè củng mạc",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm máu có thể xác định sự hiện diện của gen bị lỗi , thậm chí trước khi có dấu hiệu hay triệu chứng .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu có thể xác định sự hiện diện của gen bị lỗi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "thiếu máu : đặc điểm của thiếu máu trong ung thư đại tràng là thiếu máu mà không biểu hiện rõ sự mất máu nên khó phát hiện .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiếu máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các loại bệnh gan nhiễm mỡ không do rượu bệnh gan nhiễm mỡ không do rượu có thể có một số hình thức - từ vô hại đến đe dọa tính mạng .",
+    "entities": [
+      {
+        "text": "bệnh gan nhiễm mỡ không do rượu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể có mối liên hệ giữa trẻ em sinh ra từ cha mẹ lớn tuổi và rối loạn phổ tự kỷ , nhưng cần nhiều nghiên cứu hơn để tìm hiểu rõ hơn về mối quan hệ này .",
+    "entities": [
+      {
+        "text": "rối loạn phổ tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các dấu hiệu và triệu chứng của trào ngược dạ dày thực quản bao gồm acid trào ngược và ợ nóng .",
+    "entities": [
+      {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ợ nóng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hồi sức huyết động : truyền dịch : khuyến cáo đặt đường truyền ngoại vi và truyền không quá 500ml dung dịch nước muối đẳng trương cho bệnh nhân thuyên tắc phổi cấp .",
+    "entities": [
+      {
+        "text": "thuyên tắc phổi cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hồi sức huyết động",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể đề nghị xét nghiệm máu để kiểm tra xem có thiếu máu - một tình trạng mà trong đó không có đủ tế bào hồng cầu mang ôxy đến các mô hoặc để kiểm tra các dấu hiệu nhiễm trùng .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc điều trị tình trạng sức khỏe tiềm ẩn để điều trị chứng ù tai , đầu tiên bác sĩ cố gắng xác định bất kỳ điều kiện , cơ sở điều trị có thể được liên kết với các triệu chứng .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kéo dài có thể dẫn đến viêm dính của mống mắt , làm đồng tử để trở nên nhỏ hơn hoặc hình dạng bất thường và khuynh hướng đến bệnh tăng nhãn áp .",
+    "entities": []
+  },
+  {
+    "text": "chụp cộng hưởng từ ( mri ) tim : mri tim sử dụng từ trường và sóng vô tuyến do máy tính tạo ra để tạo ra hình ảnh chi tiết của tim .",
+    "entities": [
+      {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  }
+]

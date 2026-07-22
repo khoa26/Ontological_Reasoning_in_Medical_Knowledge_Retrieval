@@ -1,0 +1,398 @@
+[
+  {
+    "text": "thuốc lá : thuốc lá có liên quan đến hầu hết các ung thư khoang miệng ở nam và hơn nửa số ung thư khoang miệng ở nữ .",
+    "entities": [
+      {
+        "text": "ung thư khoang miệng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số đục thủy tinh thể là do thừa hưởng rối loạn di truyền gây ra vấn đề sức khỏe khác và làm tăng nguy cơ bị đục thủy tinh thể .",
+    "entities": [
+      {
+        "text": "đục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "loại bỏ khối u và tổn thương phẳng trước khi chúng trở thành ung thư có thể ngăn ngừa ung thư đại tràng .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số ý tưởng cho việc học tập để đối phó với bệnh ung thư túi mật , bao gồm : đặt câu hỏi về bệnh ung thư túi mật .",
+    "entities": [
+      {
+        "text": "bệnh ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh tim bẩm sinh ebstein là bệnh lý hiếm gặp về bất thường trong cấu trúc của tim mà trong đó các lá van của van ba lá không khép khít được vào nhau .",
+    "entities": [
+      {
+        "text": "bệnh tim bẩm sinh ebstein",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ cũng có thể yêu cầu siêu âm nội soi để hình dung nang và để có dịch từ u nang để phân tích .",
+    "entities": [
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "u nang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thường là hạch cổ cao ( ví dụ hạch kuttner ) , có nhiều hạch xuất hiện ở 1 hoặc 2 bên cổ .",
+    "entities": [
+      {
+        "text": "nhiều hạch xuất hiện ở 1 hoặc 2 bên cổ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hạch kuttner",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hạch cổ cao",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân khác gây viêm túi mật bao gồm nhiễm trùng , chấn thương và các khối u . nếu không chữa trị , viêm túi mật có thể dẫn đến biến chứng nghiêm trọng , chẳng hạn như tổn thương mô , chảy máu trong túi mật và nhiễm trùng lây lan sang các bộ phận khác của cơ thể .",
+    "entities": [
+      {
+        "text": "viêm túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vì lý do này , nhiều bác sĩ vẫn sử dụng ngoáy họng , đặc biệt là nếu kết quả xét nghiệm kháng nguyên nhanh chóng tiêu cực .",
+    "entities": [
+      {
+        "text": "xét nghiệm kháng nguyên",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ngoáy họng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu không có bảo vệ này , acid dạ dày có thể làm xói mòn lớp niêm mạc , gây chảy máu và loét .",
+    "entities": [
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các loại insulin gồm có : insulin thường ( tác dụng rất nhanh và nhanh , insulin lispro , actrapid . . ) , insulin bán chậm ( nph , lente . . ) , insulin chậm ( ultralente . . ) , insulin hỗn hợp ( mixtard . . ) , insulin nền ( lantus ) điều trị tăng huyết áp : dùng các thuốc ức chế men chuyển/ức chế thụ thể đặc biệt khi có protein niệu ( captopril , ibesartan , losartan . . ) điều trị rối loạn lipid máu : liệu pháp statin .",
+    "entities": [
+      {
+        "text": "liệu pháp statin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ví dụ , ung thư dạ dày phổ biến nhiều hơn ở các nước châu á hơn so với ở hoa kỳ .",
+    "entities": [
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cao huyết áp nghiêm trọng có thể gây ra mệt mỏi , lo lắng , buồn nôn/nôn , lú lẫn , đau ngực và run cơ .",
+    "entities": [
+      {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "buồn nôn/nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lo lắng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lú lẫn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "run cơ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "đối với một số trẻ , rối loạn phổ tự kỷ có thể liên quan đến rối loạn di truyền , chẳng hạn như hội chứng rett hoặc hội chứng fragile x . đối với những đứa trẻ khác , những đột biến gen có thể làm tăng nguy cơ rối loạn phổ tự kỷ .",
+    "entities": [
+      {
+        "text": "hội chứng fragile x",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rối loạn phổ tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng rett",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tác động của phong đối với sức khỏe nếu không được điều trị , bệnh phong có thể làm tổn thương da , dây thần kinh , cánh tay , chân , bàn chân và mắt vĩnh viễn .",
+    "entities": [
+      {
+        "text": "bệnh phong",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nét mặt thiếu sự biểu cảm và tư thế cơ thể không được tự nhiên người bệnh sử dụng các mẫu nói giống nhau , đơn điệu hoặc nói chuyện như robot mà ý truyền đạt thì người đối diện không cảm nhận được .",
+    "entities": [
+      {
+        "text": "tư thế cơ thể không được tự nhiên",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sử dụng các mẫu nói giống nhau",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nét mặt thiếu sự biểu cảm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nói chuyện như robot",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các bác sĩ biết rằng mắt u ác tính xảy ra khi các lỗi phát triển trong dna của tế bào mắt khỏe mạnh .",
+    "entities": [
+      {
+        "text": "u ác tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tiếp xúc với các chất kích thích , như khói thuốc lá , uống rượu quá nhiều , acid dạ dày hoặc hóa chất tại nơi làm việc .",
+    "entities": []
+  },
+  {
+    "text": "điều trị bằng thuốc : thuốc chống ngưng tập tiểu cầu , thuốc chống đau thắt ngực , thuốc chống đông , và trong một số trường hợp cần các thuốc khác .",
+    "entities": [
+      {
+        "text": "thuốc chống ngưng tập tiểu cầu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chống đau thắt ngực",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chống đông",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các dấu hiệu và triệu chứng được liệt kê trên đây có thể báo hiệu một vấn đề nghiêm trọng hơn , chẳng hạn như đột quỵ hay tình trạng bệnh tim .",
+    "entities": [
+      {
+        "text": "bệnh tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tăng sản mô lympho có liên quan đến tình trạng viêm và nhiễm trùng như : bệnh crohn , sởi , nhiễm amip , viêm ruột , viêm đường hô hấp và bệnh tăng bạch cầu đơn nhân .",
+    "entities": [
+      {
+        "text": "bệnh tăng bạch cầu đơn nhân",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm đường hô hấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm amip",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sởi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng nguy hiểm có thể xảy ra khi mắc nhiễm trùng huyết : sốc nhiễm trùng : khó thở , nhịp tim nhanh , rối loạn tâm thần , … biến chứng sốc nhiễm trùng gây tỷ lệ tử vong cao .",
+    "entities": [
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rối loạn tâm thần",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốc nhiễm trùng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhịp tim nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "những người bị trào ngược dạ dày thực quản có thể cần thuốc mạnh hơn , thậm chí phẫu thuật , để làm giảm triệu chứng .",
+    "entities": [
+      {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra và chẩn đoán kiểm tra lâm sàng để phát hiện gan to bác sĩ có thể xác định gan to bởi khám bụng .",
+    "entities": [
+      {
+        "text": "gan to",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh vi mạch cơ bản có 3 biểu hiện phổ biến và nặng nề của đái tháo đường : biến chứng mắt đái tháo đường : bệnh võng mạc , đục thủy tinh thể , glaucoma .",
+    "entities": [
+      {
+        "text": "đục thủy tinh thể",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh võng mạc",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh vi mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "glaucoma",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh than để phòng ngừa bệnh than , cần thực hiện những biện pháp sau : tuyên truyền giữ gìn vệ sinh cá nhân , đặc biệt khi tiếp xúc với những vật nhiễm vi khuẩn bệnh than .",
+    "entities": [
+      {
+        "text": "bệnh than",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , sự thay đổi về màu sắc không phải luôn luôn chỉ ra một vấn đề , bổ sung sắt và một số thuốc chống tiêu chảy có thể làm cho phân có màu đen , trong khi củ cải đỏ và cam thảo có thể biến phân thành màu đỏ .",
+    "entities": [
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu và triệu chứng của viêm tụy có thể thay đổi tùy thuộc vào loại trải nghiệm .",
+    "entities": [
+      {
+        "text": "viêm tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xạ trị thường kết hợp với hóa trị liệu , có thể được sử dụng sau khi phẫu thuật để giảm nguy cơ ung thư có thể tái diễn trong khu vực của trực tràng , nơi nó bắt đầu .",
+    "entities": [
+      {
+        "text": "hóa trị liệu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "rối loạn thần kinh vận động là một nhóm bệnh có nguyên nhân là sự thoái hóa của các tế bào thần kinh vận động .",
+    "entities": []
+  }
+]

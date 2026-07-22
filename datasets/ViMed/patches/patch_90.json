@@ -1,0 +1,440 @@
+[
+  {
+    "text": "khi bắt đầu điều trị viêm đại tràng màng giả , dấu hiệu và triệu chứng có thể bắt đầu cải thiện trong vòng vài ngày .",
+    "entities": [
+      {
+        "text": "viêm đại tràng màng giả",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các dấu hiệu và triệu chứng của bệnh tăng nhãn áp có thể bao gồm đau mắt và đỏ , cũng như tầm nhìn bị mờ .",
+    "entities": [
+      {
+        "text": "tầm nhìn bị mờ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau mắt và đỏ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật nếu thuốc điều trị không giảm hoặc loại bỏ polyp mũi , bác sĩ có thể đề nghị phẫu thuật .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "polyp mũi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thực hành tạo ra một trạng thái nghi ngơi trong đó hơi thở chậm và thư giãn cơ bắp , có thể giúp quản lý đau và giảm căng thẳng .",
+    "entities": [
+      {
+        "text": "thực hành tạo ra một trạng thái nghi ngơi trong đó hơi thở chậm và thư giãn cơ bắp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "căng thẳng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "viêm nội tâm mạc một bệnh nhiễm trùng ảnh hưởng đến van tim và lớp lót bên trong của buồng tim và van tim ( màng trong tim ) .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể thử các loại thuốc chống động kinh hoặc kết hợp các loại thuốc để kiểm soát cơn động kinh .",
+    "entities": [
+      {
+        "text": "kết hợp các loại thuốc để kiểm soát cơn động kinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "các loại thuốc chống động kinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu không chữa trị , khiếm khuyết kênh nhĩ thất có thể gây ra suy tim và tăng áp động mạch phổi .",
+    "entities": [
+      {
+        "text": "khiếm khuyết kênh nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng áp động mạch phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm vi - rút như cúm hoặc covid 19. phẫu thuật : bạn có thể có nguy cơ cao bị rối loạn nhịp tim trong những ngày đầu và vài tuần sau khi phẫu thuật liên quan đến tim , phổi hoặc cổ họng của bạn .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ cũng sẽ thực hiện một cuộc kiểm tra thể chất để tìm manh mối bổ sung về những nguyên nhân của các dấu hiệu và triệu chứng .",
+    "entities": [
+      {
+        "text": "kiểm tra thể chất",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị nhịp nhanh thất hiệu quả cấp tính : shock điện đồng bộ chuyển nhịp , có thể dùng thuốc chống loạn nhịp nhóm i hay nhóm iii .",
+    "entities": [
+      {
+        "text": "shock điện đồng bộ chuyển nhịp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chống loạn nhịp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhịp nhanh thất",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm một loạt các xét nghiệm tại phòng thí nghiệm có thể giúp loại trừ các vấn đề khác , chẳng hạn như suy thận có thể đóng góp vào các triệu chứng .",
+    "entities": [
+      {
+        "text": "suy thận",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm vi rút suy giảm miễn dịch ở người ( hiv ) , gây ra aids , dẫn đến hủy diệt các tế bào não và kết quả là bộ nhớ suy giảm , lãnh đạ m và k hó tập trung .",
+    "entities": [
+      {
+        "text": "nhiễm vi rút suy giảm miễn dịch ở người",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bộ nhớ suy giảm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hó tập trung",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lãnh đạ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "aids",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hiv",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tập thể dục giúp ngăn ngừa cơn đau tim bằng cách giúp đạt được và duy trì một trọng lượng khỏe mạnh và kiểm soát bệnh tiểu đường , cholesterol cao và huyết áp cao .",
+    "entities": [
+      {
+        "text": "bệnh tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cơn đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù có thể không có khả năng ngăn chặn rối loạn ăn uống phát triển , có thể khuyến khích người đó tìm cách điều trị .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "máy khử rung tim ( icd ) nếu bệnh nhân bị ngất , ngừng tuần hoàn , loạn nhịp thất ( được chẩn đoán bằng ecg hoặc sau khi theo dõi 24 giờ ) , nên cấy máy khử rung tim ( icd ) .",
+    "entities": [
+      {
+        "text": "cấy máy khử rung tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ngừng tuần hoàn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "loạn nhịp thất",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngất",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ecg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc viêm ruột thừa cấp nếu không được điều trị , ruột thừa bị viêm có thể bị vỡ .",
+    "entities": [
+      {
+        "text": "viêm ruột thừa cấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cụ thể , bao gồm lớp bảo vệ dây thần kinh ( bao myelin ) bị hư hỏng và điều này cản trở quá trình truyền tín hiệu , gây yếu , tê hoặc liệt .",
+    "entities": [
+      {
+        "text": "tê hoặc liệt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "gây yếu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống nếu có tiền sử gia đình bệnh huntington , có thể xem xét tư vấn di truyền trước khi bắt đầu lập gia đình .",
+    "entities": [
+      {
+        "text": "tư vấn di truyền trước khi bắt đầu lập gia đình",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hoạt động hàng ngày bị ngừng trệ viêm mũi không dị ứng có thể gây gián đoạn , có thể ít hiệu quả trong công việc hay trường học .",
+    "entities": [
+      {
+        "text": "viêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "giai đoạn sau phá hủy tiến triển ống mật và tế bào gan , các dấu hiệu và triệu chứng có thể phát triển , chẳng hạn như : vàng da .",
+    "entities": [
+      {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ở giai đoạn này , ung thư túi mật đã phát triển xâm nhập nhiều hơn một trong những cơ quan gần đó , hoặc nó có thể xâm nhập vào tĩnh mạch cửa hay động mạch gan .",
+    "entities": [
+      {
+        "text": "ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau đó do mất máu kéo dài nên làm người bệnh thiếu máu .4. triệu chứng toàn thân do các sản phẩm thoái hoá của tổ chức ung thư và các chất trong ruột đã được hấp thụ qua thành ruột vào cơ thể , thường gặp ở ung thư đại tràng phải nhiều hơn ở ung thư đại tràng trái sụt cân : có thể sụt cân từ từ làm người bệnh không chú ý , nhưng cũng có khi sụt cân nhanh ( 5kg trong 1 tháng ) , kèm theo các triệu chứng chán ăn , mệt mỏi .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng trái",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mất máu kéo dài",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sụt cân từ từ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sụt cân nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thiếu máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu không thể phẫu thuật thì xạ trị là phương án thứ hai có thể dùng cho bệnh nhân ung thư tuyến tụy để giảm nhẹ triệu chứng đau , vàng da đồng thời góp phần ngăn ngừa bệnh tái phát nếu tiến hành xạ trị sau phẫu thuật .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một số phương pháp điều trị thiếu máu cơ tim là : điều trị bằng thuốc thuốc làm tan huyết khối : để ngăn ngừa biến chứng khi cục máu đông phát triển trong buồng tim dưới sau cơn đau tim .",
+    "entities": [
+      {
+        "text": "thuốc thuốc làm tan huyết khối",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thiếu máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cơn đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hơn nữa , lượng dịch quá nhiều sẽ gây c hèn ép tim , khiến tim không thể co bóp tống máu ra các cơ quan một cách bình thường , dẫn đến thiếu oxy mô .",
+    "entities": [
+      {
+        "text": "lượng dịch quá nhiều",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thiếu oxy mô",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hèn ép tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu nhiễm trùng không dịu bớt hoặc nếu viêm xoang quay trở lại , bác sĩ có thể thử một kháng sinh khác nhau .",
+    "entities": [
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm xoang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu trẻ sốt cao , có thể cho trẻ uống nhiều nước ( tránh nước ép trái cây vì chúng kích thích sản xuất nước bọt , có thể gây đau ) , chỉ sử dụng thuốc hạ sốt khi thực sự cần thiết và không nên dùng aspirin .",
+    "entities": [
+      {
+        "text": "uống nhiều nước",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc hạ sốt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống chăm sóc cho kính áp tròng nếu đeo kính áp tròng , sử dụng hợp lý , làm sạch và khử trùng có thể giúp ngăn ngừa viêm giác mạc .",
+    "entities": [
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các phương pháp chính trong điều trị ung thư ruột non : phẫu thuật : là phương pháp điều trị chính , cắt bỏ khối u và các bộ phận bị xâm lấn , lập lại lưu thông đường tiêu hóa .",
+    "entities": [
+      {
+        "text": "cắt bỏ khối u và các bộ phận bị xâm lấn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư ruột non",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể lấy mẫu nước mắt hoặc một số tế bào từ giác mạc để phân tích trong phòng thí nghiệm để xác định nguyên nhân gây ra viêm giác mạc và làm thế nào tốt nhất để điều trị nó .",
+    "entities": [
+      {
+        "text": "lấy mẫu nước mắt hoặc một số tế bào từ giác mạc để phân tích trong phòng thí nghiệm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

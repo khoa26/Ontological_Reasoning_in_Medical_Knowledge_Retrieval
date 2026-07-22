@@ -1,0 +1,408 @@
+[
+  {
+    "text": "các can thiệp để ngăn ngừa đột quỵ do lưu lượng máu không đủ bao gồm tiêm tĩnh mạch thuốc vasopressor , trong đó nâng huyết áp để vượt qua sự kháng cự của mạch máu bị co hẹp .",
+    "entities": [
+      {
+        "text": "nâng huyết áp để vượt qua sự kháng cự của mạch máu bị co hẹp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "can thiệp để ngăn ngừa đột quỵ do lưu lượng máu không đủ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiêm tĩnh mạch thuốc vasopressor",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nội soi siêu âm ( ctc ) cũng được gọi là nội soi , thử nghiệm này bao gồm một máy vi tính chụp cắt lớp , một x quang có độ nhạy cao với đại tràng .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "x quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ctc",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "bệnh có tỷ lệ tử vong cao vì khoảng 53% bệnh nhân ung thư khoang miệng có biểu hiện bệnh lan tràn tại vùng hoặc di căn xa tại thời điểm chẩn đoán .",
+    "entities": [
+      {
+        "text": "ung thư khoang miệng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số enzyme từ trong trái tim bị rò rỉ vào máu nếu tim đã bị hư hỏng bởi một cơn đau tim .",
+    "entities": [
+      {
+        "text": "cơn đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "dung dịch tiêm truyền chủ yếu là nước muối bình thường hoặc nước có chứa các khoáng chất ; liệu pháp oxy : tăng cường cung cấp oxy cho máu bằng : ống thông qua mũi , mặt nạ oxy hay thở máy; lọc máu : trong trường hợp suy thận cấp , sử dụng thiết bị thay thế chức năng thận để loại bỏ chất thải nguy hại , muối và nước dư thừa trong máu; phẫu thuật : phương pháp điều trị tận gốc nhiễm trùng huyết trong trường hợp xác định được nguồn gốc nhiễm trùng .",
+    "entities": [
+      {
+        "text": "nước có chứa các khoáng chất",
+        "type": "THUỐC"
+      },
+      {
+        "text": "liệu pháp oxy",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nước muối",
+        "type": "THUỐC"
+      },
+      {
+        "text": "lọc máu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "khám lâm sàng đánh giá tình trạng thoát vị rốn và kiểm tra xem thoát vị rốn có thể được đặt lại hay không .",
+    "entities": [
+      {
+        "text": "thoát vị rốn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vai trò của dị ứng thực phẩm hoặc không dung nạp trong hội chứng ruột kích thích vẫn chưa được hiểu rõ ràng .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trị liệu bài tập vật lý trị liệu đôi khi có thể giảm bớt run và tăng cường điều phối và kiểm soát cơ bắp .",
+    "entities": [
+      {
+        "text": "trị liệu bài tập",
+        "type": "THUỐC"
+      },
+      {
+        "text": "vật lý trị liệu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "run",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , điều quan trọng là gặp bác sĩ nếu có sự thay đổi liên tục trong thói quen đi cầu , hoặc nếu có bất kỳ dấu hiệu hoặc triệu chứng của hội chứng ruột kích thích bởi vì chúng có thể chỉ ra một tình trạng nghiêm trọng hơn , chẳng hạn như ung thư ruột kết .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư ruột kết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu bất kỳ khu vực đáng ngờ được tìm thấy , bác sĩ có thể sử dụng các công cụ lấy mẫu tế bào để sinh thiết .",
+    "entities": [
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc ( bị ) đau tim các yếu tố tăng nguy cơ đau tim bao gồm : tuổi .",
+    "entities": [
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một phương pháp được gọi là soi đáy mắt , sử dụng ống kính và một ánh sáng được đặt trên trán của bác sĩ - một chút giống như đèn của thợ mỏ .",
+    "entities": [
+      {
+        "text": "soi đáy mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tắc mạch ối ở sản phụ thường xảy ra trong chuyển dạ nhưng cũng có thể xảy ra trong khi mổ lấy thai , sảy thai , chấn thương bụng , chọc hút nước ối , ngay sau khi đẻ , sau mổ lấy thai .",
+    "entities": [
+      {
+        "text": "tắc mạch ối",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng đôi khi , kết quả viêm mống mắt từ một tình trạng mãn tính tiềm ẩn hoặc yếu tố di truyền .",
+    "entities": [
+      {
+        "text": "viêm mống mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa bệnh thiếu máu cơ tim dưới đây là một số cách đơn giản có thể giúp phòng ngừa thiếu máu cơ tim , cụ thể : giảm cân nếu thừa cân .",
+    "entities": [
+      {
+        "text": "bệnh thiếu máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật nếu khối u não nằm ở một nơi dễ tiếp cận , bác sĩ phẫu thuật sẽ làm để loại bỏ càng nhiều khối u não càng tốt .",
+    "entities": [
+      {
+        "text": "phẫu thuật nếu khối u não nằm ở một nơi dễ tiếp cận",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu bạn hoặc con có dấu hiệu hoặc triệu chứng của viêm họng , gặp bác sĩ để điều trị kịp thời .",
+    "entities": [
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật khúc xạ mắt như laser hỗ trợ tại chỗ keratomileusis ( lasik ) cũng có thể gây giảm sản xuất nước mắt và khô mắt .",
+    "entities": [
+      {
+        "text": "khô mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể gặp các biểu hiện như bụng không lớn lên , bụng không tương đương với tuổi thai , thai giảm cử động khám lâm sàng thấy cao tử cung tăng chậm , sờ rõ các phần của thai ngay sát da bụng siêu âm đo thấy afi nhỏ hơn 5cm , có thể phát hiện được một số dị tật qua siêu âm đối tượng nguy cơ bệnh thiểu ối mẹ mắc một số bệnh như : tăng huyết áp , tiền sản giật , bệnh lý gan thận , dùng một số thuốc như prostagladin , hóa xạ trị ung thư , .",
+    "entities": [
+      {
+        "text": "sờ rõ các phần của thai ngay sát da bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bụng không tương đương với tuổi thai",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bụng không lớn lên",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thai giảm cử động",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tử cung tăng chậm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh thiểu ối",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiền sản giật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hóa xạ trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "người lớn tuổi cũng có nhiều khả năng mắc các tình trạng sức khỏe , chẳng hạn như huyết áp cao , suy tim , tiểu đường và bệnh tuyến giáp , có thể dẫn đến rối loạn nhịp tim .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh tuyến giáp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể điều trị trước phẫu thuật làm khối u ngừng phát triển và nhỏ lại có thể điều trị sau phẫu thuật làm tiêu diệt các tế bào ung thư còn sót lại cũng như ngăn chặn bệnh tái phát .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu đã được chẩn đoán viêm xơ đường mật , bác sĩ có thể khuyên nên thử nghiệm cho bệnh viêm ruột ngay cả khi không có dấu hiệu hoặc triệu chứng , vì nguy cơ ung thư đại tràng cao nếu có cả hai bệnh .",
+    "entities": [
+      {
+        "text": "viêm xơ đường mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau khoảng 3 – 4 ngày , ban bắt đầu xuất hiện , ban sởi có màu hồng và xuất hiện lần lượt từ sau tai , trán , xuống vùng ngực đến lưng , rồi xuống đùi và cuối cùng là bàn chân .",
+    "entities": [
+      {
+        "text": "ban",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sởi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "giai đoạn sau : những cơn đau xuất hiện dồn dập vào buổi sáng khi vừa thức dậy và đau mỏi hơn về chiều tối .",
+    "entities": [
+      {
+        "text": "đau mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "huyết khối từ tim có thể vỡ ra và di chuyển đến các bộ phận khác của cơ thể , gây ra các vấn đề nghiêm trọng như đột quỵ nếu cục máu đông làm tắc nghẽn mạch máu trong não .",
+    "entities": [
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc để giúp giảm chóng mặt lành tính , bác sĩ thính học hoặc vật lý trị liệu có thể làm thủ tục phục hồi chức năng tiền đình .",
+    "entities": [
+      {
+        "text": "thủ tục phục hồi chức năng tiền đình",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chóng mặt lành tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vật lý trị liệu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu khối u vẫn phát triển dù đang hóa trị , có thể là do ung thư đã đề kháng với liệu pháp này , một kế hoạch điều trị thay thế cần được xem xét .",
+    "entities": [
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . theo thống kê , cứ 1000 người mang thai lại có 4 - 5 người mang thai ngoài tử cung .",
+    "entities": [
+      {
+        "text": "mang thai ngoài tử cung",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân khác gây run ở những người không có đột biến di truyền , và cũng không tìm thấy nguyên nhân .",
+    "entities": [
+      {
+        "text": "run",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ mắt sử dụng thông tin từ những hình ảnh chụp mạch để xác định xem mặt sau của mắt cho thấy mạch máu võng mạc bất thường có thể được kết hợp với thoái hóa điểm vàng ướt .",
+    "entities": [
+      {
+        "text": "thoái hóa điểm vàng ướt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

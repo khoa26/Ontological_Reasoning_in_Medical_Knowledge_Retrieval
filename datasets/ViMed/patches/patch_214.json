@@ -1,0 +1,423 @@
+[
+  {
+    "text": "chấn thương lực , chấn thương xuyên hoặc đốt ( hóa chất hoặc nhiệt ) đến mắt có thể gây viêm mống mắt cấp tính .",
+    "entities": [
+      {
+        "text": "viêm mống mắt cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đôi khi ruột có thể phục hồi từ thiếu máu cục bộ , như là một phần của quá trình chữa mô cơ thể bị bệnh , vết sẹo thu hẹp hoặc tạo khối ruột .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc một số thuốc có sẵn để chữa bệnh viêm họng , giảm các triệu chứng của nó và ngăn chặn lây lan của nó .",
+    "entities": [
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh thống kinh triệu chứng thống kinh nguyên phát cơn đau thường xuất hiện trước khi xuất hiện kinh từ vài giờ hoặc ngay khi thấy kinh và kéo dài đến vài ngày với các triệu chứng như sau : đau theo từng cơn đau tại vị trí bụng dưới đau kiểu co rút bụng dưới hướng của cơn đau lan tới ra sau lưng và mặt bên trong của đùi ngoài ra , có thể kèm theo một số triệu chứng khác như đau đầu , sốt , tiêu chảy , buồn nôn .",
+    "entities": [
+      {
+        "text": "hướng của cơn đau lan tới ra sau lưng và mặt bên trong của đùi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau kiểu co rút bụng dưới",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau tại vị trí bụng dưới",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thống kinh nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau theo từng cơn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh thống kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một thiết bị cung cấp âm nhạc có chương trình riêng , tần số cụ thể trải nghiệm chứng ù tai .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thông tim và thủ tục phẫu thuật đôi khi thuốc hoặc sốc điện để điều trị rung nhĩ không hiệu quả .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân bị rối loạn nhịp tim đã gây ra hoặc có khả năng gây ra các triệu chứng của tổn thương huyết động có thể phải hạn chế lái xe cho đến khi đánh giá được đáp ứng với điều trị .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "xem thông tin chi tiết tại đây xem thêm : các biện pháp điều trị ung thư phổ i tiên lượng điều trị ung thư phổ i giai đoạn cuối có những loại ung thư phổi nào ?",
+    "entities": [
+      {
+        "text": "ung thư phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các nguyên nhân có thể gây ra tim bẩm sinh : mẹ nhiễm cúm , rubella trong khi mang thai người mẹ lạm dụng rượu và thuốc lá các bất thường nhiễm sắc thể : ba nhiễm sắc thể 18, ba nhiễm sắc thể 21… một số thuốc được chứng minh có thể gây quái thai : thalidomide , lithium , hydantoin , . . triệu chứng bệnh tim bẩm sinh triệu chứng tim bẩm sinh rất đa dạng và phong phú , từ không có triệu chứng cho đến những triệu chứng nặng nề , nguy hiểm tới tính mạng đều có thể gặp .",
+    "entities": [
+      {
+        "text": "bệnh tim bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các bác sĩ xem như là một bệnh rối loạn trội nhiễm sắc thể thường bởi vì chỉ có một bản sao gen khiếm khuyết , được thừa kế từ cha mẹ , hoặc cần thiết để tạo ra bệnh tật .",
+    "entities": [
+      {
+        "text": "bệnh rối loạn trội nhiễm sắc thể thường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xương tai thay đổi : cứng xương trong tai giữa có thể ảnh hưởng đến thính giác của bạn và gây ù tai .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của xơ vữa động mạch chế độ sinh hoạt : tuân thủ theo hướng dẫn của bác sĩ trong việc điều trị .",
+    "entities": [
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng tips có thể gây ra một số biến chứng nghiêm trọng , bao gồm suy gan và rối loạn tâm thần , có thể phát triển khi các độc tố mà thông thường sẽ được lọc ở gan được chuyển qua shunt trực tiếp vào máu .",
+    "entities": [
+      {
+        "text": "rối loạn tâm thần",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tips",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "vàng da là hậu quả của tình trạng tắc nghẽn đường mật gây ra bởi khối u . muối mật ( bilirubin ) trào ngược từ trong đường mật vào các xoang gan , đi vào máu và lắng đọng ở da .",
+    "entities": [
+      {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều này được gọi là huyết khối tĩnh mạch mạc treo ruột và nó có thể do : viêm tụy cấp tính hoặc viêm mãn tính .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch mạc treo ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm tụy cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hai thuật ngữ thường được đề cập đến ung thư dạ dày bắt đầu ở các tế bào sản xuất dịch nhầy trên lớp lót bên trong của dạ dày ( adenocarcinoma ) .",
+    "entities": [
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "adenocarcinoma",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh trĩ được chia làm 2 loại : nếu búi trĩ ở bên trong trực tràng thì được gọi là bệnh trĩ nội nếu búi trĩ nằm ở lớp dưới da xung quanh hậu môn thì được gọi là bệnh trĩ ngoại bệnh trĩ là bệnh rất phổ biến , có đến ¾ người lớn có triệu chứng bệnh trĩ theo thời gian và có thể bệnh không gây ra triệu chứng nhưng đôi khi gây ngứa , khó chịu và chảy máu .",
+    "entities": [
+      {
+        "text": "bệnh trĩ ngoại",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh trĩ nội",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngứa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh ung thư tụy các triệu chứng chính của ung thư tuyến tụy bao gồm : đau bụng , có thể lan ra sau lưng sụt cân không rõ nguyên nhân , thường đi kèm với : chán ăn đầy hơi , chướng bụng tiêu chảy phân lỏng , màu sậm hoặc tiêu ra phân mỡ nổi trên mặt nước vàng da , vàng mắt ngứa da lòng bàn tay , bàn chân các triệu chứng của ung thư tụy nhìn chung là khá mơ hồ và có thể dễ dàng được quy cho các tình trạng khác ít nghiêm trọng và phổ biến hơn .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh ung thư tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiêu ra phân mỡ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chướng bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phân lỏng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "vàng mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sụt cân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đầy hơi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngứa da",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân xơ gan là do mô sẹo hình thành trong gan để phản ứng lại thiệt hại xảy ra liên tục trong nhiều năm .",
+    "entities": [
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không phải chỉ gặp ở trẻ em , bệnh thủy đậu còn gặp ở người lớn với các biểu hiện đôi khi còn nặng nề hơn .",
+    "entities": [
+      {
+        "text": "bệnh thủy đậu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trường hợp phẫu thuật với thoát vị đùi nghẹt : cắt cung đùi : đi từ phía trên ổ bụng xuống hoặc đường rạch thấp ở đùi .",
+    "entities": [
+      {
+        "text": "thoát vị đùi nghẹt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thiểu sản men răng do môi trường : trong quá trình mang thai , bà mẹ không được bổ sung đầy đủ canxi và flour hoặc khi còn nhỏ , các bé không được bổ sung đầy đủ các chất này trong chế độ ăn uống nên các bé có men răng mỏng , răng sữa bị thiểu sản .",
+    "entities": [
+      {
+        "text": "thiểu sản men răng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật cần kết hợp với siêu âm tim qua thực quản để đánh giá đầy đủ tình trạng huyết khối ngoài phổi .",
+    "entities": [
+      {
+        "text": "siêu âm tim qua thực quản",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thử nghiệm di truyền thường được thực hiện trong khung cảnh trước xét nghiệm tư vấn và sau xét nghiệm hỗ trợ .",
+    "entities": [
+      {
+        "text": "xét nghiệm tư vấn và sau xét nghiệm hỗ trợ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "thử nghiệm di truyền",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu cố gắng butterbur , hãy chắc chắn sử dụng một sản phẩm mà chỉ ra nó đã loại bỏ chất độc .",
+    "entities": []
+  },
+  {
+    "text": "những người bị dị ứng theo mùa có thể có nguy cơ nhiễm trùng tai trong thời gian phấn hoa theo mùa cao .",
+    "entities": [
+      {
+        "text": "dị ứng theo mùa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kết quả các dấu hiệu và triệu chứng có thể bao gồm khó thở , nghẹt mũi , chảy máu cam và nhiễm trùng xoang thường xuyên .",
+    "entities": [
+      {
+        "text": "nhiễm trùng xoang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy máu cam",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nghẹt mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , để tìm ra nguyên nhân cơ bản của hội chứng horner rất có thể sẽ cần các xét nghiệm khác .",
+    "entities": [
+      {
+        "text": "hội chứng horner",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sinh non : các tế bào võng mạc bị tổn thương trực tiếp ngay từ lúc sinh , gọi là bệnh võng mạc do sinh non .",
+    "entities": [
+      {
+        "text": "bệnh võng mạc do sinh non",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tắc ống dẫn trứng được phân loại thành nhiều dạng dựa vào vị trí và nguyên nhân gây tắc như : hydrosalpinx : tắc do chất lỏng , dịch tích tụ trong vòi trứng ( ứ nước vòi trứng ) pyosalpinx : tắc do mủ tích tụ trong vòi trứng ( ứ mủ vòi trứng ) hematosalpinx : tắc do máu tích tụ trong vòi trứng ( ứ máu vòi trứng ) viêm ống dẫn trứng mạn tín h : tắc do ống dẫn trứng bị viêm .",
+    "entities": [
+      {
+        "text": "viêm ống dẫn trứng mạn tín",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tắc ống dẫn trứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

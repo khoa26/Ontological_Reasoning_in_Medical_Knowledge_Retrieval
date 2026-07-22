@@ -1,0 +1,451 @@
+[
+  {
+    "text": "biến chứng có thể gặp khi ghép tim bên cạnh những rủi ro khi phẫu thuật tim hở , như c hảy máu , nhiễm trùng và huyết khối , những rủi ro khác của ghép tim bao gồm : thải ghép tim hiến tặng : một trong những rủi ro đáng lo ngại nhất sau khi ghép tim là cơ thể người nhận từ chối trái tim hiến tặng .",
+    "entities": [
+      {
+        "text": "phẫu thuật tim hở",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thải ghép tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ghép tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ghép tim",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị phình động mạch não hiệu quả phình động mạch nhỏ và không triệu chứng , cần theo dõi liên tục .",
+    "entities": [
+      {
+        "text": "phình động mạch não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "videokeratoscope là dụng cụ phổ biến nhất được sử dụng để đo lường sự thay đổi độ cong bề mặt giác mạc , quá trình này gọi là ghi hình giác mạc .",
+    "entities": [
+      {
+        "text": "ghi hình giác mạc",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "videokeratoscope",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "đánh giá âm thoa cũng có thể tiết lộ việc mất thính lực là do thiệt hại các bộ phận rung của tai giữa ( bao gồm màng nhĩ ) , thiệt hại các cảm biến hoặc dây thần kinh của tai trong , hoặc thiệt hại cho cả hai .",
+    "entities": [
+      {
+        "text": "đánh giá âm thoa",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mất thính lực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "có nhiều khả năng phát triển ung thư đại tràng nếu có cha mẹ , anh chị em ruột hoặc con bị bệnh .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh ung thư xương tổng quan bệnh ung thư xương ung thư xương là bệnh hiếm gặp trong các loại ung thư .",
+    "entities": [
+      {
+        "text": "bệnh ung thư xương",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ sẽ kiểm tra dịch não tủy nếu có các triệu chứng của chứng phình động mạch vỡ , nhưng ct scan đã không hiển thị được bằng chứng của chảy máu .",
+    "entities": [
+      {
+        "text": "bác sĩ sẽ kiểm tra dịch não tủy",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chứng phình động mạch vỡ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ct scan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật thay khớp háng nhân tạo giúp người bệnh cải thiện chức năng vận động khi bị thoái hóa khớp háng , tạo thuận lợi cho người bệnh tái hòa nhập với cuộc sống thường ngày của gia đình và cộng đồng .",
+    "entities": [
+      {
+        "text": "phẫu thuật thay khớp háng nhân tạo",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thoái hóa khớp háng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cholesteatoma cung cấp một môi trường thân thiện cho vi khuẩn và có chứa các protein có thể làm hư xương của tai giữa .",
+    "entities": []
+  },
+  {
+    "text": "bác sĩ cũng có thể nghi ngờ khuyết tật tim nếu nghe thấy tiếng thổi tim - âm thanh bất thường gây ra bởi dòng máu chảy hỗn loạn .",
+    "entities": [
+      {
+        "text": "tiếng thổi tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu đang có nguy cơ bị polyp u tuyến gia đình ( fa ) vì lịch sử gia đình của bệnh , xem xét việc tư vấn di truyền .",
+    "entities": [
+      {
+        "text": "polyp u tuyến",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , một số chất bổ sung cần thiết cho đường ruột như lactase làm giảm khí đối với các trường hợp không dung nạp lactose , hoặc chất alpha - galactosidase ( beano ) giúp bạn tiêu hóa các loại đậu và rau để giảm tình trạng đầy hơi .",
+    "entities": [
+      {
+        "text": "đầy hơi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu em bé có kênh nhĩ thất hoàn toàn , phẫu thuật cũng bao gồm tách hai van , và sửa chữa vách ngăn .",
+    "entities": [
+      {
+        "text": "kênh nhĩ thất hoàn toàn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "chậm trễ trong việc phẫu thuật sẽ không ảnh hưởng nhiều tới khả năng không phục hồi thị lực sau quyết định phẫu thuật đục thủy tinh thể .",
+    "entities": [
+      {
+        "text": "phẫu thuật đục thủy tinh thể",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "gặp bác sĩ khi nếu đang trải qua những dấu hiệu và triệu chứng ráy tai tắc nghẽn , nói chuyện với bác sĩ .",
+    "entities": [
+      {
+        "text": "ráy tai tắc nghẽn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số bằng chứng cho thấy rằng nhiệt độ cơ thể tăng ( tăng thân nhiệt ) trong những tuần đầu của thai kỳ có thể làm tăng nguy cơ mắc bệnh gai cột sống .",
+    "entities": [
+      {
+        "text": "bệnh gai cột sống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . đầu to , thóp phồng , thóp giãn , giãn khớp so ( hay gặp ở trẻ dưới 2 tuổi ) ; bệnh hay bệnh nhi rất hay nôn , dễ nôn ; hội chứng tăng áp lực trong sọ với những dấu hiệu đau đầu , buồn nôn , nôn , thay đổi tính tình , dễ bị kích thích , ngủ gà hay trì trệ , chậm tiếp thu , không tập trung trong lớp học .",
+    "entities": [
+      {
+        "text": "thay đổi tính tình",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "dễ bị kích thích",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "không tập trung",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chậm tiếp thu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "giãn khớp so",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thóp phồng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thóp giãn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "trì trệ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đầu to",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "dễ nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngủ gà",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bong võng mạc có thể bao gồm : sự xuất hiện đột ngột của nhiều hạt nổi - mảnh vụn nhỏ sót trong lĩnh vực điểm trông giống như những đốm , lông hoặc dây và dường như trôi nổi trước mắt .",
+    "entities": [
+      {
+        "text": "lông hoặc dây và dường như trôi nổi trước mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "triệu chứng bong võng mạc",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các dấu hiệu suy tuyến yên , giảm các nội tiết tố gây đến các dấu hiệu vô sinh , ăn không ngon miệng , mệt mỏi , cơ thể giảm sút cân nhanh , rụng lông , chậm phát triển hay chậm dậy thì ở trẻ em .",
+    "entities": [
+      {
+        "text": "cơ thể giảm sút cân nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ăn không ngon miệng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chậm phát triển",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy tuyến yên",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chậm dậy thì",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rụng lông",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "vô sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng ống nhỏ giọt áp dụng một vài giọt dầu trẻ em , dầu khoáng , glycerin hoặc hydrogen peroxide trong ống tai hai lần một ngày không quá 4 - 5 ngày .",
+    "entities": [
+      {
+        "text": "sử dụng ống nhỏ giọt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hydrogen peroxide",
+        "type": "THUỐC"
+      },
+      {
+        "text": "dầu khoáng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "glycerin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "dấu hiệu tim dấu hiệu tim ( dấu hiệu huyết thanh của tổn thương tế bào cơ tim ) là các enzym tim ( ví dụ , creatine kinase - mb isoenzyme [ck - mb] ) và thành phần tế bào ( ví dụ , troponin i , troponin t , myoglobin ) được giải phóng vào máu sau tế bào cơ tim hoại tử .",
+    "entities": [
+      {
+        "text": "troponin i",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "troponin t",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "enzym tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "myoglobin",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra có thể dùng thuốc chống viêm để kiểm soát cơn đau thần kinh và tổn thương liên quan đến bệnh phong như steroid ( prednisone ) .",
+    "entities": [
+      {
+        "text": "thuốc chống viêm",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh phong",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các kiểm tra hình ảnh có thể giúp bác sĩ xác định thay đổi cấu trúc não và loại trừ các rối loạn khác .",
+    "entities": [
+      {
+        "text": "kiểm tra hình ảnh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "việc cấy máy icd cũng được cân nhắc ở nhóm bệnh nhân có điện tâm đồ dạng brugada type 1 không có triệu chứng nhưng có cơn tim nhanh thất hoặc rung thất khi làm thăm dò điện sinh lý tim .",
+    "entities": [
+      {
+        "text": "cơn tim nhanh thất",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cấy máy icd",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , đặt ống thông tim với một bóng có thể được sử dụng để mở động mạch bị tắc nghẽn hay hẹp , có thể trì hoãn sự cần thiết phải phẫu thuật tiếp theo .",
+    "entities": [
+      {
+        "text": "đặt ống thông tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "viêm mạch gồm hai loại là viêm mạch nguyên phát không rõ nguyên nhân gây bệnh và viêm mạch thứ phát có thể do thuốc , chất độc , nhiễm trùng hoặc bệnh tự miễn hoặc ung thư .",
+    "entities": [
+      {
+        "text": "viêm mạch nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm mạch thứ phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thông thường bệnh nhân , nha sĩ hoặc bác sĩ có thể nhận thấy một khối u trong một trong các tuyến nước bọt ( thường ở hai bên mặt hoặc trong miệng ) , đặc biệt là ung thư tuyến nước bọt giai đoạn cuối .",
+    "entities": [
+      {
+        "text": "ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vì vậy , các chuyên gia khuyến cáo nếu có những lo lắng về thời kỳ tiền mãn kinh và các triệu chứng khó chịu mà nó gây ra thì nên đến các cơ sở y tế thăm khám để được tư vấn và chăm sóc sức khỏe tốt hơn .",
+    "entities": [
+      {
+        "text": "tiền mãn kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lo lắng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trường hợp viêm mạch nặng , tiến triển nhanh và đe dọa tới tính mạng hoặc cơ quan ( như gây xuất huyết phế nang , viêm cầu thận tiến triển nhanh , hoặc thiếu máu mạc treo tràng ) là những trường hợp khẩn cấp cần phải được nhập viện và điều trị ngay lập tức .",
+    "entities": [
+      {
+        "text": "thiếu máu mạc treo tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xuất huyết phế nang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm cầu thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc không có cách xử lý đạt yêu cầu có sẵn để ngăn chặn hoặc đảo ngược bệnh huntington .",
+    "entities": [
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

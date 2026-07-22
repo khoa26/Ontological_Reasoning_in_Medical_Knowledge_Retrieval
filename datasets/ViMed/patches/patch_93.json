@@ -1,0 +1,342 @@
+[
+  {
+    "text": "mặc dù nó có thể tồi tệ hơn với độ tuổi , đối với nhiều người , ù tai có thể cải thiện với điều trị .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng quá nhiều rượu có thể kích thích và làm xói mòn lớp nhầy trong ruột và dạ dày , gây viêm và chảy máu .",
+    "entities": [
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "với tuổi tác và sự tích tụ cholesterol và các mảng bám , c ác mạch máu lớn gần tai giữa và bên trong mất một số đàn hồi - khả năng uốn cong hoặc mở rộng một chút với mỗi nhịp đập của tim .",
+    "entities": []
+  },
+  {
+    "text": "theo thời gian , kỹ thuật này có thể quen với chứng ù tai , do đó giúp không phải tập trung vào nó .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm trùng do vi khuẩn , bao gồm bệnh lyme , sốt đầu mèo và bệnh giang mai , hoặc virus như hiv , viêm gan b và herpes có thể gây ra viêm dây thần kinh thị giác .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tăng huyết áp thai kỳ mức độ nhẹ khi huyết áp từ 140 - 159/90 - 109mmhg , mức độ nặng khi huyết áp ≥160/100mmhg các khái niệm sau cần phải phân biệt với tăng huyết áp thai kỳ : tăng huyết áp phát hiện từ trước : tăng huyết áp có từ trước tuần thứ 20 của thai kỳ , kéo dài hơn 6 tuần sau đẻ tăng huyết áp phát hiện từ trước , năng lên khi có thai kèm protein niệu tiền sản giật : tăng huyết áp thai kỳ kèm protein niệu ( &gt;0,3g/24h ) .",
+    "entities": [
+      {
+        "text": "tăng huyết áp thai kỳ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiền sản giật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh tắc mạch ối chưa có biện pháp dự phòng do người ta vẫn không hiểu tại sao nước ối vào tuần hoàn chỉ xảy ra ở một số ít người mà không xảy ra ở nhiều người khác cũng như không biết vai trò của mức độ , số lượng mảnh mô thai , loại mảnh mô thai ( có chứa kèm theo phân su hay không ) hay một số yếu tố nào đó của người mẹ nên tắc mạch ối chỉ ở một tỷ lệ rất nhỏ phụ nữ .",
+    "entities": [
+      {
+        "text": "bệnh tắc mạch ối",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "do vậy nếu phát hiệu tăng huyết áp thai kỳ ( sau tuần 20 ) kèm protein trong nước tiểu cần phải chẩn đoán là tiền sản giật tăng huyết áp thai kỳ có thể gây ảnh hưởng nguy hiểm đến cả mẹ và thai nhi .",
+    "entities": [
+      {
+        "text": "tăng huyết áp thai kỳ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiền sản giật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu cục máu đông lớn , nó có thể cản trở dòng chảy của máu qua động mạch vành , làm tim thiếu oxy và chất dinh dưỡng ( thiếu máu cục bộ ) .",
+    "entities": [
+      {
+        "text": "chất dinh dưỡng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thiếu oxy",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu không có cảnh báo , tim của bạn ngừng đập do rối loạn điện gây ra nhịp tim bất thường ( loạn nhịp tim ) .",
+    "entities": [
+      {
+        "text": "nhịp tim bất thường",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "giảm âm lượng : sử dụng các thiết bị nghe nhạc với âm thanh nhỏ vì nghe nhạc ở âm lượng rất lớn qua tai nghe có thể gây mất thính lực và ù tai .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hiện nay , những phát hiện về việc lập bản đồ điện học 3d tim nhằm xác định vị trí cơ chất gây loạn nhịp ở bệnh nhân mắc hội chứng brugada là một trong những lĩnh vực nghiên cứu mới của thế kỷ 21. lập bản đồ 3d điện thế chứng minh ajmaline có thể làm lộ diện cơ chất biến đổi gây loạn nhịp , được đặc trưng bởi điện thế ngoại mạc kéo dài , phân đoạn bất thường , nhờ đó việc triệt đốt ngoại mạc thành công có tỷ lệ thành công cao hơn .",
+    "entities": [
+      {
+        "text": "lập bản đồ 3d điện thế",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bản đồ điện học 3d",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "hội chứng brugada",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng tăng nguy cơ huyết áp thấp như : mắc bệnh tim ; mắc bệnh lý chuyển hóa , hoặc đang mang thai; có vấn đề về tâm lý; sử dụng một số thuốc; các trường hợp khác trình bày ở phần nguyên nhân gây bệnh .",
+    "entities": [
+      {
+        "text": "bệnh lý chuyển hóa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp thấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống vắc - xin hib thuốc chủng ngừa hib là một cách hiệu quả để ngăn ngừa viêm nắp thanh quản do hib .",
+    "entities": [
+      {
+        "text": "thuốc chủng ngừa hib",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm nắp thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vắc - xin hib",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tìm kiếm sự chăm sóc y tế ngay lập tức nếu con : âm thanh ồn ào , the thé khi hít thở .",
+    "entities": [
+      {
+        "text": "the thé khi hít thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "âm thanh ồn ào",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "cảm thấy nghẹn , thắt , nặng trong lồng ngực ở bên trái hay sau xương ức , xảy ra khi hoạt động gắng sức , stress .",
+    "entities": [
+      {
+        "text": "nặng trong lồng ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nghẹn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong trường hợp nặng , hội chứng guillain - barre có thể biến từ khỏe mạnh và độc lập bất ngờ bị ốm nặng và thể chất bất lực mà không có cảnh báo .",
+    "entities": [
+      {
+        "text": "hội chứng guillain - barre",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều này có thể giúp cải thiện dòng chảy của chất nhầy từ các xoang và có thể giúp ngăn ngừa tắc nghẽn và viêm .",
+    "entities": [
+      {
+        "text": "tắc nghẽn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "duy trì cân nặng hợp lý thông qua chế độ ăn uống và tập thể dục có thể giúp tránh các biến chứng như huyết áp cao , bệnh tim và tiểu đường .",
+    "entities": [
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ống này qua trực tràng và vào đại tràng , cho phép bác sĩ để kiểm tra dấu hiệu bên trong đại tràng của viêm đại tràng màng giả .",
+    "entities": [
+      {
+        "text": "viêm đại tràng màng giả",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên trong một số trường hợp , người bệnh cần được điều trị với các phương pháp khác nhau tùy theo đặc điểm của từng loại u máu .",
+    "entities": [
+      {
+        "text": "u máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chúng bao gồm thuốc kháng viêm không steroid ( nsaid ) , chẳng hạn như aspirin và ibuprofen ( advil , motrin , những người khác ) , và thuốc cao huyết áp ( huyết áp ) như thuốc chẹn beta .",
+    "entities": []
+  },
+  {
+    "text": "thiếu máu cục bộ đại tràng nếu được chẩn đoán thiếu máu cục bộ đại tràng , bác sĩ có thể khuyên nên dùng kháng sinh để điều trị hoặc ngăn ngừa nhiễm trùng .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến chướng bụng khí ga và không khí khí là nguyên nhân phổ biến nhất gây chướng bụng đầy hơi , đặc biệt là sau khi ăn .",
+    "entities": [
+      {
+        "text": "chướng bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đầy hơi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều trị rối loạn đông máu khi cần thiết : huyết tương tươi đông lạnh có thể làm tăng lượng máu và tăng nguy cơ chảy máu .",
+    "entities": [
+      {
+        "text": "huyết tương tươi đông lạnh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không giống như máy trợ thính là khuếch đại âm thanh và hướng nó vào ống tai , cấy ốc tai đền bù cho các bộ phận bị hư hỏng hoặc không hoạt động của tai trong .",
+    "entities": [
+      {
+        "text": "máy trợ thính",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cấy ốc tai",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của bệnh tim mạch các triệu chứng bệnh tim mạch phụ thuộc vào từng loại bệnh cụ thể .",
+    "entities": [
+      {
+        "text": "bệnh tim mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tim mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những người thân - anh chị em ruột hoặc cha mẹ với rối loạn ăn uống có thể có nhiều khả năng để phát triển rối loạn ăn uống , cho thấy liên kết có thể di truyền .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ sử dụng thuốc chống loạn nhịp khác nhau cho trường hợp khẩn cấp hoặc điều trị dài hạn rung thất .",
+    "entities": [
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng đôi khi rung nhĩ có thể dẫn đến các biến chứng sau đây : tai biến mạch máu não .",
+    "entities": [
+      {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

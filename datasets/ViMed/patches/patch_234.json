@@ -1,0 +1,388 @@
+[
+  {
+    "text": "xét nghiệm máu khác có thể được thực hiện để tìm kiếm các vấn đề về gan cụ thể hoặc điều kiện di truyền có ảnh hưởng đến gan .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "chụp ct hoặc mri - mạch ( dòng thứ hai , không thường quy ) : cho thấy các kênh mạch lớn trong ổ bụng , trung thất; chứng tỏ sự thông thoáng của cổng trong gan và tĩnh mạch lách .",
+    "entities": [
+      {
+        "text": "chụp ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "đau dạ dày không viêm loét có thể gây ra các dấu hiệu và triệu chứng tương tự như các bệnh viêm loét dạ dày , chẳng hạn như đau hoặc khó chịu ở bụng trên , thường kèm theo ợ hơi , đầy hơi và buồn nôn .",
+    "entities": [
+      {
+        "text": "đau hoặc khó chịu ở bụng trên",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau dạ dày không viêm loét",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh viêm loét dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đầy hơi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ợ hơi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tăng tiết mồ hôi tiên phát thường gây tăng mồ hôi ở lòng bàn tay và lòng bàn chân ( tăng tiết mồ hôi tay chân ) và đôi khi là ở cả mặt .",
+    "entities": [
+      {
+        "text": "tăng tiết mồ hôi tiên phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu liên cầu khuẩn đã được chẩn đoán , thiếu cải thiện sau khi dùng kháng sinh từ 24 đến 48 giờ .",
+    "entities": [
+      {
+        "text": "dùng kháng sinh từ 24 đến 48 giờ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ở trẻ em , táo bón có thể cho biết bệnh hirschsprung , một tình trạng bẩm sinh do thiếu tế bào thần kinh trong ruột kết .",
+    "entities": [
+      {
+        "text": "bệnh hirschsprung",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "táo bón",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng trong v iêm thanh quản hầu hết trường hợp các triệu chứng cuối cùng ít hơn một vài tuần và được gây ra bởi một cái gì đó nhẹ như cảm lạnh .",
+    "entities": [
+      {
+        "text": "iêm thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thăm khám lâm sàng một việc khám mắt đầy đủ bao gồm khám thị trường , thị lực , khả năng nhận biết màu sắc , và thực hiện soi đáy mắt .",
+    "entities": [
+      {
+        "text": "soi đáy mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị sởi việc điều trị bệnh sởi mang tính chất hỗ trợ , không có liệu pháp kháng virus sởi cụ thể được chấp thuận để điều trị bệnh sởi .",
+    "entities": [
+      {
+        "text": "bệnh sởi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số người thậm chí có thể không nhận thấy bất kỳ dấu hiệu cảnh báo nào về cơn đau tim .",
+    "entities": [
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ phẫu thuật sẽ sử dụng laser excimer để định hình lại lớp bên ngoài của giác mạc và lên độ cong của nó và sau đó đặt lại vị trí nắp biểu mô .",
+    "entities": [
+      {
+        "text": "laser excimer",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh u lympho không hodgkin các dấu hiệu và triệu chứng của ung thư hạch không hodgkin có thể bao gồm : các hạch bạch huyết không đau , sưng ở cổ , nách hoặc háng đau bụng hoặc sưng đau ngực , ho hoặc khó thở mệt mỏi kéo dài sốt đổ mồ hôi đêm giảm cân không giải thích được đối tượng nguy cơ bệnh u lympho không hodgkin trong hầu hết các trường hợp , những người được chẩn đoán mắc ung thư hạch không hodgkin không có bất kỳ yếu tố nguy cơ rõ ràng nào .",
+    "entities": [
+      {
+        "text": "bệnh u lympho không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư hạch không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sưng đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đổ mồ hôi đêm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sưng ở cổ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "giảm cân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sự nhiễm trùng có thể xảy ra trong quá trình thẩm phân phúc mạc do môi trường xung quanh không sạch , vệ sinh kém , thiết bị ô nhiễm .",
+    "entities": [
+      {
+        "text": "thẩm phân phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của cao huyết áp hầu hết những người bị cao huyết áp không có dấu hiệu hoặc triệu chứng , ngay cả khi kết quả đo huyết áp đạt mức cao nguy hiểm .",
+    "entities": [
+      {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng nếu không điều trị , viêm thực quản có thể dẫn đến những thay đổi trong cấu trúc và chức năng của thực quản , biến chứng có thể bao gồm : thu hẹp thực quản .",
+    "entities": [
+      {
+        "text": "viêm thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm phổi là tình trạng nhiễm trùng ở phổi , có rất nhiều nguyên nhân khác nhau như vi trùng , siêu vi trùng và ký sinh trùng … suy tim ứ huyết .",
+    "entities": [
+      {
+        "text": "suy tim ứ huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguy cơ tử vong do một khối máu tụ ngoài màng cứng có ảnh hưởng đến động mạch trong não là đáng kể , trừ khi được điều trị kịp thời .",
+    "entities": [
+      {
+        "text": "khối máu tụ ngoài màng cứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "điều trị kịp thời",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thuốc : các thuốc giảm đau đầu hay nhóm thuốc điều trị ung thư , dị ứng , ăn kiêng , thuốc tránh thai và thuốc chẹn beta có thể gây ra hội chứng raynaud nguy cơ mắc phải những ai có nguy cơ mắc phải hội chứng raynaud ?",
+    "entities": [
+      {
+        "text": "thuốc điều trị ung thư",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc giảm đau đầu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hội chứng raynaud",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc tránh thai",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chẹn beta",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu bạn có các triệu chứng của bệnh bạch hầu hoặc đã tiếp xúc với người bị bệnh bạch hầu , cần đến cơ sở y tế gần nhất để được chăm sóc và điều trị .",
+    "entities": [
+      {
+        "text": "bệnh bạch hầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thử nghiệm di truyền có thể giúp xác định xem đang có nguy cơ bị map , bị gây ra bởi đột biến ở gen myh .",
+    "entities": [
+      {
+        "text": "map",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa tái phát viêm đại tràng màng giả nếu đã trải nghiệm nhiều đợt viêm đại tràng màng giả , hoặc nếu có nguy cơ tái phát , có thể lựa chọn để thử điều trị men vi sinh .",
+    "entities": [
+      {
+        "text": "viêm đại tràng màng giả",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra và chẩn đoán các xét nghiệm và thủ tục được sử dụng để chẩn đoán viêm niêm mạc trực tràng bao gồm : xét nghiệm phân .",
+    "entities": [
+      {
+        "text": "viêm niêm mạc trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xét nghiệm phân",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống không rõ ràng những gì gây đục thủy tinh thể , nhưng các bác sĩ nghĩ rằng có thể làm giảm nguy cơ bị đục thủy tinh thể nếu : khám mắt thường xuyên .",
+    "entities": [
+      {
+        "text": "đục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khám mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể khuyên nên : uống thuốc thay thế mà không có khả năng gây viêm thực quản do thuốc .",
+    "entities": [
+      {
+        "text": "gây viêm thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , khuyến cáo rằng trẻ em tuổi đi học được khám tại trường hoặc thông qua các chương trình cộng đồng khoảng hai năm một lần để kiểm tra các vấn đề tầm nhìn .",
+    "entities": [
+      {
+        "text": "kiểm tra các vấn đề tầm nhìn",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "theo thời gian , sự tích tụ chất béo , bao gồm cholesterol , tạo thành các chất gọi là mảng , có thể thu hẹp động mạch ( xơ vữa động mạch ) .",
+    "entities": [
+      {
+        "text": "mảng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán các xét nghiệm để chẩn đoán ung thư vòm họng các xét nghiệm và thủ tục được sử dụng để chẩn đoán ung thư vòm họng , bao gồm : khám nghiệm vật lý .",
+    "entities": [
+      {
+        "text": "khám nghiệm vật lý",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trường hợp viêm tụy nhẹ có thể tự khỏi không cần điều trị , nhưng trường hợp nặng có thể gây ra các biến chứng đe dọa tính mạng .",
+    "entities": [
+      {
+        "text": "viêm tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu nhiễm trùng lan rộng đến ổ mắt , nó có thể gây ra giảm thị lực hoặc thậm chí mù có thể vĩnh viễn .",
+    "entities": [
+      {
+        "text": "giảm thị lực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mù",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "gây chuyển dạ sinh : áp dụng cho tất cả các trường hợp thai chết lưu mà thể tích tử cung to hơn tử cung có thai 3 tháng phương pháp stein cải tiến : dùng estrogen 10mg/ngày trong 3 ngày , đến ngày thứ tư truyền oxytocin tĩnh mạch gây cơn co tử cung , liều tối đa 30ui/ngày , mỗi đợt 3 ngày liền , các đợt cách nhau 7 ngày .",
+    "entities": [
+      {
+        "text": "gây chuyển dạ sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thai chết lưu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

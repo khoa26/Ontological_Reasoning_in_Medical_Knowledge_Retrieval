@@ -1,0 +1,463 @@
+[
+  {
+    "text": "hình ảnh bệnh thoái hóa khớp háng tổng quan bệnh thoái hóa khớp háng thoái hóa khớp háng là gì ?",
+    "entities": [
+      {
+        "text": "bệnh thoái hóa khớp háng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thoát vị rốn ở trẻ em : bệnh hay xảy ra nhất ở trẻ sinh non hoặc trẻ có cân nặng thấp , trẻ nữ tỷ lệ mắc thoát vị rốn nhiều hơn so với các trẻ nam .",
+    "entities": [
+      {
+        "text": "thoát vị rốn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong trường hợp nặng , bác sĩ có thể đề nghị một thủ tục để đưa cồn vào các dây thần kinh kiểm soát đau ở bụng .",
+    "entities": [
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "giảm căng thẳng trong cuộc sống bằng cách dành thời gian cho các hoạt động thư giãn như nghe nhạc hoặc viết nhật ký .",
+    "entities": [
+      {
+        "text": "giảm căng thẳng trong cuộc sống",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể làm việc để kiểm soát cơn đau bằng cách điều trị nguyên nhân hoặc với các thuốc .",
+    "entities": [
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "viêm kết mạc do virus thường bắt đầu ở một mắt và sau đó lây nhiễm vào mắt khác trong vòng vài ngày .",
+    "entities": [
+      {
+        "text": "bắt đầu ở một mắt và sau đó lây nhiễm vào mắt khác trong vòng vài ngày",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm kết mạc do virus",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một căn bệnh qua đường tình dục ( std ) , bởi vì nhiễm trùng như bệnh giang mai hay virus suy giảm miễn dịch ở người ( hiv ) được liên kết với một nguy cơ tăng lên đáng kể .",
+    "entities": [
+      {
+        "text": "bệnh giang mai hay virus",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh qua đường tình dục",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , những tác dụng phụ trên bệnh nhân xạ trị , như khô miệng , viêm nhiễm vùng miệng , xạm da , loét da , khít hàm , .",
+    "entities": [
+      {
+        "text": "viêm nhiễm vùng miệng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khô miệng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khít hàm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "loét da",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xạ trị",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xạm da",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh mạch vành , đau tim , bệnh cơ tim ( bệnh cơ tim ) , giang mai ( một bệnh lây truyền qua đường tình dục ) , huyết áp cao , phình động mạch chủ và các bệnh mô liên kết .",
+    "entities": [
+      {
+        "text": "phình động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh mô liên kết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "giang mai",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tùy thuộc vào nguyên nhân nghi ngờ mắc bệnh , xét nghiệm có thể được sử dụng để : chẩn đoán nhiễm vi khuẩn , siêu vi , nấm hay ký sinh trùng .",
+    "entities": []
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của giãn tĩnh mạch giãn tĩnh mạch thường bao gồm các dấu hiệu và triệu chứng như sau : chảy máu đột ngột ( nôn trớ , tiểu ra máu ) và nhiều ở đường tiêu hóa trên nhưng không cảm giác đau hoặc không đi kèm triệu chứng khác; chảy máu trực tràng; giảm cân ở bệnh nhân gan mãn tính; chán ăn , khó chịu; vàng da; chuột rút; sốc; vị trí xuất huyết thường ở đoạn thực quản đoạn xa .",
+    "entities": [
+      {
+        "text": "chảy máu đột ngột",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "giãn tĩnh mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiểu ra máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nôn trớ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh ung thư bàng quang nguyên nhân ung thư bàng quang đến nay vẫn chưa hoàn toàn rõ rệt , có những trường hợp ung thư bàng quang không tìm ra nguyên nhân .",
+    "entities": [
+      {
+        "text": "ung thư bàng quang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ phẫu thuật sẽ sử dụng một laser excimer để định hình lại lớp bên ngoài của giác mạc và san bằng độ cong của nó và sau đó đặt lại vị trí nắp biểu mô .",
+    "entities": [
+      {
+        "text": "laser excimer",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tổn thương dạng polyp , đặc biệt là polyp thực quản đoạn cổ và đoạn ngực trên , hiếm khi là một tổn thương ác tính .",
+    "entities": [
+      {
+        "text": "polyp thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các dấu hiệu và triệu chứng của bệnh huntington sau đó có thể bao gồm đột ngột giật , chuyển động không tự nguyện ( bệnh máy tay ) trên khắp cơ thể .",
+    "entities": [
+      {
+        "text": "chuyển động không tự nguyện",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột ngột giật",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh máy tay",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những người bị xơ gan đường mật nói chung có một số chứ không phải tất cả , trong những dấu hiệu và triệu chứng của crest .",
+    "entities": [
+      {
+        "text": "xơ gan đường mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "crest",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : rối loạn tự kỷ ở trẻ em các dấu hiệu bệnh tự kỷ ở người lớn trẻ chậm nói có phải bị tự kỷ không ?",
+    "entities": [
+      {
+        "text": "rối loạn tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "trẻ chậm nói",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của nôn các triệu chứng không có đ au bụng là điển hình do nguyên nhân ngộ độc thức ăn , viêm dạ dày - ruột nhiễm khuẩn và do thuốc , phải tìm hiểu những thay đổi mới đây trong thuốc men , thức ăn , các triệu chứng khác do virus gây khó chịu , hoặc tiêu chảy hoặc các chứng bệnh khác trong những người ở gia đình .",
+    "entities": [
+      {
+        "text": "viêm dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "au bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu có bệnh tiểu đường tuýp 2 , đang có nguy cơ phát triển cả hai bệnh alzheimer và sa sút trí tuệ mạch máu .",
+    "entities": [
+      {
+        "text": "bệnh tiểu đường tuýp 2",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sa sút trí tuệ mạch máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh alzheimer",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục trong nhiều trường hợp , thay đổi chế độ ăn uống và lối sống đơn giản có thể cung cấp viện trợ cho hội chứng ruột kích thích .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , nếu có kênh nhĩ thất hoàn toàn , dấu hiệu và triệu chứng thường trở nên đáng chú ý trong vòng vài tuần đầu tiên của cuộc sống .",
+    "entities": [
+      {
+        "text": "kênh nhĩ thất hoàn toàn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu chẩn đoán là viêm tai giữa với tràn dịch , các bác sĩ đã tìm thấy bằng chứng của chất dịch trong tai giữa , nhưng hiện nay không có dấu hiệu hoặc triệu chứng của nhiễm trùng .",
+    "entities": [
+      {
+        "text": "triệu chứng của nhiễm trùng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chất dịch trong tai giữa",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm tai giữa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tràn dịch",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "viêm tụy có nhiều nguyên nhân một số nguyên nhân đã được xác định gây viêm tụy cấp tính và viêm tụy mãn tính , bao gồm : nghiện rượu .",
+    "entities": [
+      {
+        "text": "viêm tụy cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm tụy mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh tim bẩm sinh ebstein các triệu chứng của bệnh tim bẩm sinh ebstein gồm có : trẻ xuất hiện các triệu chứng do thiếu oxy trong máu như hô hấp khó khăn , khó thở , thở gắng sức , da lạnh và tím tái , tim đập nhanh .",
+    "entities": [
+      {
+        "text": "bệnh tim bẩm sinh ebstein",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tim đập nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thở gắng sức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "da lạnh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tím tái",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm khác : siêu âm ngực , chụp mạch vành , … phương pháp điều trị suy tim hiệu quả mục tiêu điều trị mục tiêu ngắn hạn : giảm thiểu triệu chứng suy tim ; làm chậm tiến triển của suy giảm chức năng tim; tránh hạ kali máu , rối loạn chức năng thậ n và hạ huyết áp triệu chứng; hạn chế cơ chế bù trừ thần kinh .",
+    "entities": [
+      {
+        "text": "rối loạn chức năng thậ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chụp mạch vành",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm ngực",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "hạ kali máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hạ huyết áp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kênh nhĩ thất một phần các dấu hiệu và triệu chứng của kênh truyền nhĩ thất một phần có thể không xuất hiện cho đến tuổi trưởng thành .",
+    "entities": [
+      {
+        "text": "kênh truyền nhĩ thất một phần",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "kênh nhĩ thất một phần",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị kháng sinh bác sĩ có thể khuyên nên điều trị kháng sinh bị nhiễm trùng tai trong các trường hợp sau đây : trẻ em dưới 6 tháng tuổi với chẩn đoán có thể nhiễm trùng tai .",
+    "entities": [
+      {
+        "text": "điều trị kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhiễm trùng tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cũng có thể phát triển các khối u không ung thư ở các bộ phận khác của cơ thể , bao gồm cả da ( u nang bã nhờn và u mềm lành tính ) , xương và bụng .",
+    "entities": [
+      {
+        "text": "u mềm lành tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u nang bã nhờn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những người bị bệnh đa xơ cứng hoặc optica neuromyelitis có thể đôi khi bị tấn công tái phát của viêm dây thần kinh thị giác sau khi họ đã cải thiện từ các tập ban đầu .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "optica neuromyelitis",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh đa xơ cứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có nhiều khả năng phát triển khối u đại tràng hay ung thư đại tràng nếu có cha mẹ , anh chị em ruột hoặc con đã có u đại tràng .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khối u đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

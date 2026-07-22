@@ -1,0 +1,415 @@
+[
+  {
+    "text": "các vấn đề tim mạch như một cơn đau tim trước đó , từng phẫu thuật tim… khối u xâm nhập vào màng tim , ung thư .",
+    "entities": [
+      {
+        "text": "cơn đau tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tim mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "theo các tiêu chí này , phải có một số dấu hiệu và triệu chứng trước khi bác sĩ chẩn đoán hội chứng ruột kích thích .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số trường hợp người bệnh mắc viêm cơ tim không có triệu chứng rõ ràng , thậm chí không xuất hiện triệu chứng khiến cho người bệnh khó phát hiện những thay đổi bất thường trong cơ thể , đến khi phát hiện thì bệnh đã nghiêm trọng , cơ tim có thể bị phì đại .",
+    "entities": [
+      {
+        "text": "viêm cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong giai đoạn này , ung thư nằm ở hai vùng hạch bạch huyết , hoặc ung thư đã xâm lấn một cơ quan và các hạch bạch huyết gần đó .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra và chẩn đoán các xét nghiệm và thủ tục được sử dụng để chẩn đoán ung thư dạ dày bao gồm : nội soi để xem bên trong dạ dày .",
+    "entities": [
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp hiếm gặp hơn , nguyên nhân của bệnh động mạch ngoại biên có thể là do tình trạng viêm mạch máu , chấn thương ở vùng tay chân , giải phẫu bất thường của dây chằng hoặc cơ c ủa bạn , hoặc tiếp xúc với xạ tr ị .",
+    "entities": [
+      {
+        "text": "bệnh động mạch ngoại biên",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh ung thư dạ dày dấu hiệu ung thư dạ dày ở giai đoạn đầu mơ hồ , không rõ ràng , nhiều khi không có triệu chứng .",
+    "entities": [
+      {
+        "text": "bệnh ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay van chỉ định giới hạn cho bệnh nhân có van tim bị thay đổi hình thái nghiêm trọng dẫn đến thể nong bóng hoặc phẫu thuật nong van .",
+    "entities": [
+      {
+        "text": "thay van",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể thảo luận các bước có thể làm để giảm bớt mức độ nghiêm trọng của chứng ù tai hay để giúp đối phó tốt hơn với tiếng ồn .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "theo dõi huyết áp 4 lần/ngày , cân nặng và protein niệu hàng ngày , xét nghiệm đếm tiểu cầu , siêu âm và theo dõi tim thai liên tục .",
+    "entities": [
+      {
+        "text": "xét nghiệm đếm tiểu cầu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng sởi có những biểu hiện sau : khi sởi bắt đầu khởi phát , bệnh nhân thường biểu hiện : sốt cao , viêm kết mạc , viêm đường hô hấp trên , viêm thanh quản cấp .",
+    "entities": [
+      {
+        "text": "viêm đường hô hấp trên",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm thanh quản cấp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm kết mạc",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sởi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nguy cơ thấp tim cao hơn có liên quan đến sống đông người , vệ sinh kém và các điều kiện khác có thể dễ dàng dẫn đến việc lây truyền nhanh chóng hoặc tiếp xúc nhiều lần với vi khuẩn streptococcus .",
+    "entities": [
+      {
+        "text": "thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những dấu hiệu cảnh báo mắc viêm ruột thừa cấp là : đau bụng quanh rốn hoặc thượng vị , sau đó , chuyển sang đau ở hố chậu phải ; đau tăng dần và liên tục trong vài giờ , đau hơn khi xoay người , thở mạnh , ho , hắt hơi , đi lại hoặc khi bị đụng vào; táo bón , đôi khi bị tiêu chảy ; nhịp tim nhanh ; sốt cao , lạnh run có thể liên quan tới tình trạng viêm ruột thừa có biến chứng; chướng bụng ; chán ăn , buồn nôn và nôn ; tiểu dắt , tiểu buốt ( đau ) .",
+    "entities": [
+      {
+        "text": "viêm ruột thừa cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau ở hố chậu phải",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiểu buốt ( đau )",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhịp tim nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chướng bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lạnh run",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiểu dắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hắt hơi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt cao",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "lập bản đồ não liên quan đến việc cấy ghép các điện cực trực tiếp vào một khu vực của não và sử dụng kích thích điện để xác định xem khu vực đó có chức năng quan trọng , mà có thể phẫu thuật loại bỏ khu vực đó .",
+    "entities": [
+      {
+        "text": "phẫu thuật loại bỏ khu vực đó",
+        "type": "THUỐC"
+      },
+      {
+        "text": "lập bản đồ não",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "vận động viên , diễn viên , vũ công là các mô hình có nguy cơ cao rối loạn ăn uống .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh vàng da ở trẻ sơ sinh phân biệt v àng da sơ sinh sinh lý và vàng da bệnh lý 3 loại bệnh được sàng lọc sơ sinh bằng xét nghiệm máu vì sao cần sàng lọc sơ sinh sau khi trẻ chào đời ?",
+    "entities": [
+      {
+        "text": "bệnh vàng da ở trẻ sơ sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "từ những bào tử gây bệnh này , con người tiếp xúc với động vật , những sản phẩm của động vật bị nhiễm bệnh , những vết thương , sự hít phải vi khuẩn gây bệnh sẽ gây nên bệnh than .",
+    "entities": [
+      {
+        "text": "bệnh than",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa rubella để phòng ngừa bệnh , cần chú ý một số điều sau : tiêm phòng vaccine rubella đầy đủ theo hướng dẫn của bộ y tế; cách ly người mắc rubella , tránh tập trung đông người khi có dịch; những người tiếp xúc với bệnh nhân và bệnh nhân cần đeo khẩu trang y tế; rửa tay trước và sau khi tiếp xúc với bệnh nhân; vệ sinh cá nhân , vệ sinh môi trường thường xuyên; nâng cao thể trạng , cung cấp đầy đủ dinh dưỡng và cân bằng .",
+    "entities": [
+      {
+        "text": "tiêm phòng vaccine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xạ trị : xạ trị là phương pháp điều trị sử dụng tia xạ năng lượng cao nhắm vào khối u để tiêu diệt các tế bào ung thư hoặc để ngăn không cho chúng phát triển .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của cơ tim phì đại thông thường , các triệu chứng xuất hiện ở độ tuổi 20 - 40 và khi vận động gắng sức .",
+    "entities": [
+      {
+        "text": "cơ tim phì đại",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của hội chứng brugada chế độ sinh hoạt : chế độ sinh hoạt lành mạnh và khoa học .",
+    "entities": [
+      {
+        "text": "hội chứng brugada",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , một số trường hợp do di truyền hoặc do tiếp xúc với bệnh mô não hoặc hệ thần kinh .",
+    "entities": []
+  },
+  {
+    "text": "nhưng cũng có thể có các triệu chứng khác , chẳng hạn như choáng váng , buồn nôn và khó thở .",
+    "entities": [
+      {
+        "text": "choáng váng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể khuyên nên phẫu thuật để loại bỏ toàn bộ đại tràng khi đang ở độ tuổi 20. các bác sĩ khuyên những người có nguy cơ bị hội chứng lynch bắt đầu nội soi thường xuyên ở tuổi 20.",
+    "entities": [
+      {
+        "text": "hội chứng lynch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "u thần kinh âm thanh : khối u không ung thư ( lành tính ) này phát triển trên dây thần kinh sọ chạy từ não đến tai trong của bạn và kiểm soát sự cân bằng và thính giác .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các tùy chọn khác bao gồm phẫu thuật , xạ trị , hóa trị liệu , laser trị liệu và liệu pháp quang động .",
+    "entities": [
+      {
+        "text": "liệu pháp quang động",
+        "type": "THUỐC"
+      },
+      {
+        "text": "laser trị liệu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hóa trị liệu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thuốc chẹn beta ( beta - blocker ) và thuốc chẹn kênh canxi cũng được sử dụng để điều trị chứng đau thắt ngực .",
+    "entities": [
+      {
+        "text": "thuốc chẹn kênh canxi",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chẹn beta",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng không điển hình : sốt không thành cơn ( người bệnh thấy gai rét , ớn lạnh ) hoặc sốt cao liên tục , sốt dao động .",
+    "entities": [
+      {
+        "text": "gai rét",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ớn lạnh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "khi mang thai , cơn đau có thể đến từ bụng trên của bạn vì ruột thừa cao hơn khi mang thai .",
+    "entities": [
+      {
+        "text": "cơn đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "còn được gọi là kháng histamine ( h - 2 ) - làm giảm lượng acid hydrochloric phát hành vào đường tiêu hóa , làm giảm đau loét và khuyến khích chữa lành .",
+    "entities": [
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

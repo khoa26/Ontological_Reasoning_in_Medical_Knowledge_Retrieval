@@ -1,0 +1,375 @@
+[
+  {
+    "text": "nhiều người cũng thấy rằng tập thể dục như đi bộ , bơi lội , chạy bộ hoặc đi xe đạp là một thuốc giảm stress tuyệt vời .",
+    "entities": [
+      {
+        "text": "tập thể dục như đi bộ , bơi lội , chạy bộ hoặc đi xe đạp là một thuốc giảm stress tuyệt vời",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguy cơ mắc std tăng nếu có nhiều bạn tình , không sử dụng bao cao su và có quan hệ tình dục với một đối tác có std .",
+    "entities": [
+      {
+        "text": "std",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "siêu âm tim thai , siêu âm doppler ( afi , doppler động mạch não giữa ) , monitor sản khoa trong trường hợp có kèm thai chậm phát triển trong tử cung .",
+    "entities": [
+      {
+        "text": "thai chậm phát triển trong tử cung",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "doppler động mạch não giữa",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm tim thai",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm doppler",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "trong nhiều trường hợp động kinh thùy trán , kiểm tra sóng não ( electroencephalograms ) không hiển thị những đặc tính thay đổi của động kinh có nguồn gốc ở những nơi khác trong não .",
+    "entities": [
+      {
+        "text": "electroencephalograms",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "động kinh thùy trán",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "kiểm tra sóng não",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "có thể tiêm vắc xin uốn ván , tiêm tig hoặc sat cùng một lúc , nhưng phải dùng bơm kim tiêm riêng và tiêm ở vị trí khác nhau .",
+    "entities": [
+      {
+        "text": "uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng viêm xoang mãn tính triệu chứng bao gồm : - thoát nước màu vàng hoặc hơi xanh , từ mũi hoặc xuống phía sau cổ họng .",
+    "entities": [
+      {
+        "text": "thoát nước màu vàng hoặc hơi xanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm xoang mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : tổng quan các bệnh thường gặp ở phổi thở nhanh - một trong những dấu hiệu cảnh báo viêm phổi ở trẻ sơ sinh 8 dấu hiệu cảnh báo rối loạn nhịp tim chủ đề : hô hấp rối loạn hoảng sợ nhịp tim nhanh yoga nhịp tim hít thở tăng thông khí",
+    "entities": [
+      {
+        "text": "viêm phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "duy trì chế độ ăn uống khoa học cũng là một trong các biện pháp chữa trị bệnh trĩ nội ở giai đoạn đầu .",
+    "entities": [
+      {
+        "text": "bệnh trĩ nội",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một triệu chứng phổ biến của xơ gan mật tiên phát là mệt mỏi , nhưng các bác sĩ đã không tìm thấy bất kỳ sự tương quan giữa mức độ kiệt sức và mức độ nghiêm trọng của bệnh .",
+    "entities": [
+      {
+        "text": "xơ gan mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nhiều thứ có thể kích hoạt mũi sưng do viêm mũi không dị ứng - một số kết quả trong các triệu chứng ngắn ngủi khi những người khác gây ra vấn đề mãn tính .",
+    "entities": [
+      {
+        "text": "viêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sưng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sẽ phải xét nghiệm thêm để tìm ra nguyên nhân của rung thất , có thể bao gồm : điện tâm đồ ( ecg ) .",
+    "entities": [
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ecg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tại các bệnh viện lớn , có thể thực hiện đồng thời ghép nội tạng khác cùng lúc với ghép tim ( ghép đa tạng ) ở những người mắc nhiều bệnh lý nghiêm trọng .",
+    "entities": [
+      {
+        "text": "ghép nội tạng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ghép tim",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật lấy u và hạch cổ có thể kết hợp với tạo hình hoặc không giúp nâng cao chất lượng sống cho bệnh nhân .",
+    "entities": [
+      {
+        "text": "phẫu thuật lấy u và hạch cổ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa bị nhiễm trùng tai ( viêm tai giữa cấp tính ) là thường xuyên nhất của nhiễm trùng do vi khuẩn hoặc virus có ảnh hưởng đến tai giữa , không gian chứa đầy không khí phía sau màng nhĩ có chứa những rung xương nhỏ của tai .",
+    "entities": [
+      {
+        "text": "viêm tai giữa cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ví dụ như fluticasone propionate ( flonase ) , f luticasone furoate ( veramyst ) , mometasone ( nasonex ) và beclomethasone ( beconase ) .",
+    "entities": [
+      {
+        "text": "fluticasone propionate",
+        "type": "THUỐC"
+      },
+      {
+        "text": "luticasone furoate",
+        "type": "THUỐC"
+      },
+      {
+        "text": "beclomethasone",
+        "type": "THUỐC"
+      },
+      {
+        "text": "mometasone",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nhưng vì một số u nang tuyến tụy có thể là ung thư , bác sĩ có thể muốn có mẫu chất dịch u nang tuyến tụy để xác định xem tế bào ung thư có mặt .",
+    "entities": [
+      {
+        "text": "u nang tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp , bác sĩ có thể sử dụng vi tính cắt lớp ( ct scan ) thay vì tia x . các xét nghiệm ở trên cũng có thể cần thiết nếu đang được thẩm phân phúc mạc và chẩn đoán viêm phúc mạc là không chắc chắn sau kiểm tra lâm sàng , kiểm tra chất dịch lọc .",
+    "entities": [
+      {
+        "text": "thẩm phân phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vi tính cắt lớp",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ct scan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "tia x .",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng thuốc chống nôn bệnh say tàu xe , sóng : thuốc kháng histamine , miếng dán scopolamine , hoặc cả hai .",
+    "entities": [
+      {
+        "text": "thuốc kháng histamine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "miếng dán scopolamine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chống nôn",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tiêm glycerol vào các dây thần kinh mặt có thể cung cấp cứu trợ ngay lập tức các triệu chứng với nguy cơ ít hơn phẫu thuật khác .",
+    "entities": [
+      {
+        "text": "tiêm glycerol vào các dây thần kinh mặt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm trùng huyết ( nhiễm trùng huyết , sốc nhiễm trùng ) là những thuật ngữ y khoa chỉ tình trạng cơ thể chịu sự tấn công của vi trùng dẫn đến phản ứng quá mức và gây ra hiện tượng suy đa tạng .",
+    "entities": [
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy đa tạng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh ung thư gan bệnh sử cần tìm hiểu các yếu tố nguy cơ của người bệnh đã từng nhiễm virus viêm gan b , c hay cả hai ?",
+    "entities": [
+      {
+        "text": "bệnh ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "virus viêm gan b",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng nếu các hạch bạch huyết bị sưng là do nhiễm khuẩn nặng mà không được điều trị , các vi khuẩn có thể lây lan sang máu , nhiễm trùng có khả năng đe dọa tính mạng ( nhiễm trùng huyết ) .",
+    "entities": [
+      {
+        "text": "hạch bạch huyết bị sưng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc này điều trị bệnh alzheimer , tác dụng bằng cách điều chỉnh các hoạt động glutamate , một chất hoá học tham gia vào tất cả các chức năng não , bao gồm cả việc học và nhớ .",
+    "entities": [
+      {
+        "text": "tác dụng bằng cách điều chỉnh các hoạt động glutamate",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh alzheimer",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sống tại các địa điểm địa lý nhất định mà nguyên nhân lây nhiễm phổ biến , ví dụ , trong thung lũng sông ohio hoặc mississippi , nơi histoplasmosis xảy ra thường xuyên hơn .",
+    "entities": []
+  },
+  {
+    "text": "biến chứng có thể gặp khi bị sa van hai lá sa van hai lá là một bệnh lành tính , hầu như người bệnh không cần phải điều trị hay thay đổi lối sống .",
+    "entities": [
+      {
+        "text": "sa van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "lúc đầu , trẻ sẽ có dấu hiệu sưng 1 bên mang tai , sau 1 – 2 ngày sẽ sưn g lên bên còn lại .",
+    "entities": [
+      {
+        "text": "sưng 1 bên mang tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tiêm phòng đầy đủ cho trẻ nhỏ bị thiếu men g6pd đến gặp bác sĩ tư vấn khi có người thân trong gia đình mắc bệnh tránh tiếp xúc với các yếu tố khởi phát bệnh đã biết và các yếu tố đặc thù trên từng bệnh nhân .",
+    "entities": [
+      {
+        "text": "thiếu men g6pd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh thống kinh chế độ chăm sóc để hạn chế cơn đau , có rất nhiều cách đơn giản mà người phụ nữ có thể áp dụng ngay tại nhà : thường xuyên tập thể dục như chạy bộ/đi bộ , đạp xe , thể dục nhịp điệu .",
+    "entities": [
+      {
+        "text": "bệnh thống kinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh chủ yếu lây truyền trực tiếp qua những giọt nước bọt nhỏ bắn ra khi nói chuyện , ho , … triệu chứng thường gặp những dấu hiệu và triệu chứng của quai bị mặc dù , quai bị là bệnh truyền nhiễm rất dễ lây lan nhưng khó phát hiện với những dấu hiệu giai đoạn khởi phát giống cảm cúm thông thường .",
+    "entities": [
+      {
+        "text": "quai bị",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cảm cúm",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kiểm soát bệnh tiểu đường thực hiện theo hướng dẫn của bác sĩ để luôn trong kiểm soát bệnh tiểu đường .",
+    "entities": [
+      {
+        "text": "bệnh tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

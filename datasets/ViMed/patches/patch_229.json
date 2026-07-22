@@ -1,0 +1,395 @@
+[
+  {
+    "text": "hóa chất : hóa chất trước phẫu thuật được chỉ định đối với ung thư da có độ ác tính mô học cao .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư da",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hóa chất",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "để giảm nguy cơ phát triển một ống dẫn nước mắt bị chặn , hãy chắc chắn có được điều trị kịp thời viêm hoặc nhiễm trùng mắt .",
+    "entities": [
+      {
+        "text": "điều trị kịp thời viêm hoặc nhiễm trùng mắt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ống dẫn nước mắt bị chặn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ví dụ bệnh nhân glaucoma cần được kiểm soát tốt nhãn áp , sử dụng steroid để kiểm soát quá trình viêm nhiễm trong viêm dây thần kinh thị .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "glaucoma",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu chỗ đối chứng âm tính và chỗ thử xuất hiện nốt phỏng với quầng đỏ rộng 3mm thì đó là kết quả thử dương tính và cần phải làm giải mẫn cảm .",
+    "entities": [
+      {
+        "text": "nốt phỏng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều trị cho những người bị loạn sản cao loạn sản cao được cho là một tiền thân của ung thư thực quản .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm máu thường được thực hiện bởi vì nhiễm khuẩn , một bệnh nhiễm trùng máu nặng có thể đi kèm với viêm nắp thanh quản .",
+    "entities": [
+      {
+        "text": "bệnh nhiễm trùng máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm nắp thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống không có cách nào biết để ngăn chặn bệnh xuất huyết mạch máu trong mắt trừ khi có một nguyên nhân xác định rõ ràng cho chảy máu , chẳng hạn như có thể xảy ra nếu đang dùng nhiều loại thuốc làm loãng máu .",
+    "entities": [
+      {
+        "text": "bệnh xuất huyết mạch máu trong mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các mẫu sinh thiết sau đó đã được xem dưới kính hiển vi để xác định xem nó là ung thư hoặc lành tính .",
+    "entities": [
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những chuẩn bị cho việc khám bệnh khi gặp bác sĩ , có thể mong đợi một cuộc kiểm tra triệt để các xoang .",
+    "entities": [
+      {
+        "text": "kiểm tra triệt để các xoang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "những thủ tục này cố gắng để loại bỏ các con đường thần kinh được cho là chịu trách nhiệm về cơn đau .",
+    "entities": [
+      {
+        "text": "thủ tục này cố gắng để loại bỏ các con đường thần kinh được cho là chịu trách nhiệm về cơn đau",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "người đã bị ung thư bàng quang cũng có khả năng tái phát do đã điều trị với thuốc chống ung thư cyclophosphamide làm tăng nguy cơ ung thư bàng quang .",
+    "entities": [
+      {
+        "text": "thuốc chống ung thư cyclophosphamide",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư bàng quang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "người đã phẫu thuật một phần hoặc toàn bộ ruột non cần theo hướng dẫn của bác sĩ để có chế độ dinh dưỡng và dùng thuốc phù hợp .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "chảy máu này là tình trạng đe dọa cuộc sống khẩn cấp đòi hỏi phải chăm sóc y tế ngay lập tức .",
+    "entities": [
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm này thường được thực hiện với xét nghiệm msafp , nhưng mục tiêu của chúng là sàng lọc các bất thường khác , chẳng hạn như trisomy 21 ( hội chứng down ) , không phải dị tật ống thần kinh .",
+    "entities": [
+      {
+        "text": "xét nghiệm msafp",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "hội chứng down",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các phương pháp khác như triệt đốt rung nhĩ qua đường ống thông hay “thuốc bỏ túi” ( thuốc chống loạn nhịp mang theo người để uống ngay khi cơn rung nhĩ xuất hiện ) có thể được xem xét áp dụng cho các vận động viên .",
+    "entities": [
+      {
+        "text": "thuốc chống loạn nhịp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "triệt đốt rung nhĩ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một phương pháp mới trong phẫu thuật thần kinh này làm gián đoạn các tín hiệu thần kinh mà không loại bỏ dây thần kinh giao cảm ( cắt hạch giao cảm ) .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc hầu hết thời gian điều trị bệnh trĩ liên quan đến các bước tự chăm sóc , chẳng hạn như thay đổi lối sống .",
+    "entities": [
+      {
+        "text": "bệnh trĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong trường hợp hiếm hoi , có thể phát triển bệnh huntington mà không có tiền sử gia đình của tình trạng này .",
+    "entities": [
+      {
+        "text": "bệnh huntington",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mạch máu trong mắt xuất huyết thường xảy ra mà không có thương tích nào cho mắt , hoặc nó có thể là kết quả của hắt hơi hay ho mạnh gây ra một mạch máu bị vỡ .",
+    "entities": []
+  },
+  {
+    "text": "ví dụ tuyến giáp kém hoạt động ( suy giáp ) , dinh dưỡng kém hoặc chán ăn tâm thần , đái tháo đường , đột quỵ , viêm khớp nặng , bệnh parkinson , chấn thương và tổn thương tủy sống .",
+    "entities": [
+      {
+        "text": "tổn thương tủy sống",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh parkinson",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy giáp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tâm thần",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị u máu ngoài da các u máu nhỏ ở ngoài da thường không cần đến sự can thiệp của nhân viên y tế , một vài u máu có thể tự biến mất .",
+    "entities": [
+      {
+        "text": "u máu nhỏ ở ngoài da",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u máu ngoài da",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các cơn đau từ lồng ngực lan lên cổ , hai vai , hàm , tay trái hay sau lưng , thường kéo dài từ vài phút đến dưới 15 phút và giảm khi nghỉ ngơi hay dùng thuốc nitrate .",
+    "entities": [
+      {
+        "text": "thuốc nitrate",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cơn đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các phương pháp chẩn đoán hình ảnh như siêu âm , x - quang , ct , pet , pet - ct , mri giúp phát hiện hạch sâu như hạch trung thất , hạch ổ bụng .",
+    "entities": [
+      {
+        "text": "hạch trung thất",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hạch ổ bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "x - quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "pet",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tránh chấn thương , nhiễm khuẩn : khuyên bệnh nhân có môi trường sống an toàn , không lao động nặng , tránh các công việc có thể gây chấn thương ngoài da .",
+    "entities": [
+      {
+        "text": "tránh chấn thương",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhiễm khuẩn",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh ung thư ruột non tổng quan bệnh ung thư ruột non ruột non là bộ phận của ống tiêu hóa có chức năng hấp thụ dinh dưỡng cho cơ thể .",
+    "entities": [
+      {
+        "text": "bệnh ung thư ruột non",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của sốt rét sốt rét thể thông thường ( chưa biến chứng ) : mắc sốt rét xác định , không có dấu hiệu đe dọa tính mạng người bệnh , có thể có triệu chứng lâm sàng hoặc không .",
+    "entities": [
+      {
+        "text": "sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khoảng thời gian giữa các cơn đau sẽ ngày càng ngắn đi khiến bệnh nhi yếu dần và lả người , nằm lịm đi , vã mồ hôi .",
+    "entities": [
+      {
+        "text": "nằm lịm đi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "vã mồ hôi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lả người",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu một khối u gây ra chặn , rách ống , điều trị sẽ tập trung vào nguyên nhân gây ra khối u . phẫu thuật có thể được thực hiện để loại bỏ khối u , hoặc bác sĩ có thể khuyên sử dụng phương pháp điều trị khác để thu nhỏ nó .",
+    "entities": [
+      {
+        "text": "sử dụng phương pháp điều trị khác để thu nhỏ nó",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đáp ứng hvpg bằng hoặc lớn hơn 10% hoặc nhỏ hơn hoặc bằng 12 mmhg với propranolol tiêm tĩnh mạc h có thể xác định những người đáp ứng với thuốc chẹn beta không chọn lọc ( nsbb ) và có liên quan đến việc giảm đáng kể nguy cơ chảy máu tĩnh mạch .",
+    "entities": [
+      {
+        "text": "thuốc chẹn beta không chọn lọc",
+        "type": "THUỐC"
+      },
+      {
+        "text": "propranolol tiêm tĩnh mạc",
+        "type": "THUỐC"
+      },
+      {
+        "text": "chảy máu tĩnh mạch",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hvpg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "điện tâm đồ ( egc ) được sử dụng để kiểm tra nhịp tim của người bệnh xem có bất thường hay không .",
+    "entities": [
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  }
+]

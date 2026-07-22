@@ -1,0 +1,392 @@
+[
+  {
+    "text": "phương pháp điều trị hạ thân nhiệt chủ yếu là các phương pháp làm ấm cơ thể trở lại nhiệt độ bình thường .",
+    "entities": [
+      {
+        "text": "hạ thân nhiệt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng của chứng mất trí này cũng tương tự như bệnh alzheimer , nhưng các dấu hiệu của nó thường bao gồm các biến động về sự nhầm lẫn và tư duy rõ ràng ( sáng suốt ) , ảo giác thị giác và dấu hiệu parkinson như run và cứng .",
+    "entities": [
+      {
+        "text": "ảo giác thị giác",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh alzheimer",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chứng mất trí",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sự nhầm lẫn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "parkinson",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cứng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "run",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mục tiêu ban đầu của điều trị là loại bỏ mô bệnh ung thư túi mật , nhưng đó không phải là có thể , phương pháp điều trị khác có thể giúp kiểm soát sự lây lan của bệnh và giữ cho thoải mái như có thể .",
+    "entities": [
+      {
+        "text": "bệnh ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm tụy : biểu hiện nặng của quai bị , bệnh nhân đau bụng nhiều , buồn nôn , có khi tụt huyết áp .",
+    "entities": [
+      {
+        "text": "tụt huyết áp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "quai bị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đa số trường hợp xảy ra trong vòng 24 – 48 giờ đầu tiên , nhưng vẫn có một số trường hợp xảy ra muộn hơn , sau 30 ngày hay thậm chí là hơn 1 năm sau đối với cả stent kim loại hay stent phủ thuốc , nhất là sau khi bệnh nhân ngừng uống thuốc chống kết tập tiểu cầu .",
+    "entities": [
+      {
+        "text": "thuốc chống kết tập tiểu cầu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trường hợp bệnh viêm mạch mà bạn mắc phải không thể hết bệnh hoàn toàn và cần điều trị liên tục .",
+    "entities": [
+      {
+        "text": "bệnh viêm mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số chủng vi khuẩn streptococcus có nhiều khả năng góp phần gây sốt thấp khớp hơn so với các chủng khác .",
+    "entities": [
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù xuất hiện máu , xuất huyết mạch máu trong mắt không gây ra thay đổi tầm nhìn , không xả từ mắt và không đau .",
+    "entities": [
+      {
+        "text": "xuất huyết mạch máu trong mắt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xuất hiện máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "gặp bác sĩ ngay lập tức nếu có các triệu chứng có thể là một dấu hiệu của một nhiễm trùng nghiêm trọng : - đau hoặc sưng quanh mắt .",
+    "entities": [
+      {
+        "text": "sưng quanh mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh tắc mạch ối tổng quan bệnh tắc mạch ối tắc mạch ối hay thuyên tắc ối là một cấp cứu sản khoa hiếm gặp tuy nhiên lại vô cùng nguy hiểm có tỷ lệ tử vong cao , chiếm 1 - 12/100000 ca dinh , có thể xảy ra ở bất kỳ thời điểm nào trong khi mang thai hoặc sau khi sinh xong , không thể đoán trước và dự phòng được .",
+    "entities": [
+      {
+        "text": "bệnh tắc mạch ối",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuyên tắc ối",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , sốt thấp khớp nghiêm trọng có thể bắt đầu làm hỏng van tim trong khi vẫn có các triệu chứng nhiễm trùng .",
+    "entities": [
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp hiếm hoi , tim đập nhanh có thể là dấu hiệu của tình trạng tim nghiêm trọng hơn .",
+    "entities": [
+      {
+        "text": "tim đập nhanh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong những trường hợp này , con ngươi trong mắt bị ảnh hưởng có màu nhạt hơn so với mắt khác .",
+    "entities": [
+      {
+        "text": "con ngươi trong mắt bị ảnh hưởng có màu nhạt hơn so với mắt khác",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng thường gặp : trong giai đoạn bệnh cấp tính , người bệnh có thể sẽ bị ảnh hưởng do viêm cơ tim dẫn tới suy tim cấp hoặc rối loạn nhịp tim .",
+    "entities": [
+      {
+        "text": "viêm cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim cấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc ( bị ) rung nhĩ rung nhĩ và tăng huyết áp có quan hệ chặt chẽ với nhau .",
+    "entities": [
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xác định ung thư đã lan rộng bác sĩ cũng có thể đề nghị xét nghiệm bổ sung và thủ tục để xác định xem khối u ác tính đã lan ( di căn ) tới các phần khác của cơ thể .",
+    "entities": [
+      {
+        "text": "u ác tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , khi khử rung không kịp thời thực hiện , rối loạn nhịp tim quá mức , bệnh nhân có nguy cơ bị đột tử .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phù bạch huyết có thể do các phương pháp điều trị ung thư loại bỏ hoặc làm tổn thương các hạch bạch huyết .",
+    "entities": [
+      {
+        "text": "phù bạch huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hoặc viêm tụy có thể xảy ra như viêm tụy mãn tính , trong đó mô tả viêm tụy xảy ra trong nhiều năm .",
+    "entities": [
+      {
+        "text": "viêm tụy mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tăng tiết mồ hôi có thể dễ dàng thấy ở tay , chân , nách hoặc mặt xảy ra trong giờ thức dậy , ít nhất một lần một tuần .",
+    "entities": [
+      {
+        "text": "tăng tiết mồ hôi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư hình thành trong các tế bào sản xuất hormone của tuyến tụy được gọi là ung thư nội tiết .",
+    "entities": [
+      {
+        "text": "ung thư nội tiết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau khi phẫu thuật , một số người trải nghiệm buồn nôn và nôn có thể xảy ra nếu đổ đầy dạ dày khó khăn .",
+    "entities": [
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "xquang ổ bụng : xquang ổ bụng không chuẩn bị hoặc chụp ruột non có thuốc barium sinh thiết : sinh thiết làm giải phẫu bệnh tổn thương là tiêu chuẩn chính trong chẩn đoán ung thư ruột non .",
+    "entities": [
+      {
+        "text": "chụp ruột non có thuốc barium",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xquang ổ bụng không chuẩn bị",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ung thư ruột non",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "giải phẫu bệnh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "hệ tiêu hóa : các tổn thương não bộ khiến việc ăn uống của người bệnh trở nên khó khăn , nhưng có thể được cải thiện theo thời gian khi cơn tai biến mạch máu não biến mất .",
+    "entities": [
+      {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống có thể giảm nguy cơ thiếu máu cục bộ đường ruột bằng cách giảm nguy cơ xơ vữa động mạch .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ đường ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh cơ tim phì đại là một bệnh lý tim nguyên phát đặc trưng bởi sự phì đại vách tim , thường gặp phải ở thất trái và không có yếu tố tăng hậu tải thất trái khác như tăng huyết áp , hẹp van động mạch chủ , bệnh tuyến giáp … theo các nghiên cứu lâm sàng , đây là rối loạn di truyền tim mạch thường gặp nhất .",
+    "entities": [
+      {
+        "text": "hẹp van động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh cơ tim phì đại",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tuyến giáp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng của thiếu máu cục bộ đường ruột cấp tính các dấu hiệu và triệu chứng của thiếu máu cục bộ đường ruột cấp tính thường bao gồm : đau bụng đột ngột có thể từ nhẹ đến nặng .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ đường ruột cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau bụng đột ngột",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nhưng ở các khu vực của thế giới , nơi ung thư biểu mô vòm họng phổ biến hơn , ví dụ ở một số vùng của trung quốc , bác sĩ có thể kiểm tra cho những người được cho là có nguy cơ cao của bệnh .",
+    "entities": [
+      {
+        "text": "bác sĩ có thể kiểm tra cho những người được cho là có nguy cơ cao của bệnh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ung thư biểu mô vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong nội soi , bác sĩ dùng ống dài được trang bị một camera nhỏ xíu ( nội soi ) xuống cổ họng và thực quản vào dạ dày và tá tràng .",
+    "entities": [
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa cơn đau thắt ngực hiệu quả để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : duy trì một lối sống lành mạnh có thể giúp trì hoãn hoặc ngăn ngừa các cơn đau thắt ngực : hạn chế rượu bia , không hút thuốc lá , thường xuyên tập luyện thể dục thể thao vừa sức , duy trì trọng lượng cơ thể cân đối; kiểm soát tốt các căng thẳng trong cuộc sống; uống thuốc theo chỉ dẫn của bác sĩ; điều trị các bệnh lý khác kèm theo như tăng huyết áp , đái tháo đường , tăng lipid máu , béo phì .",
+    "entities": [
+      {
+        "text": "cơn đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng lipid máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "béo phì",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

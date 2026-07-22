@@ -1,0 +1,356 @@
+[
+  {
+    "text": "phương pháp này điều trị sửa chữa vấn đề loạn thị bằng cách tạo lại hình dáng bề mặt của mắt .",
+    "entities": [
+      {
+        "text": "tạo lại hình dáng bề mặt của mắt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "loạn thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp , có thể cần là có chủ ý về việc làm sạch các cạnh của mí mắt có lông mi .",
+    "entities": [
+      {
+        "text": "làm sạch các cạnh của mí mắt có lông mi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "xạ trị có thể được sử dụng sau phẫu thuật để tiêu diệt bất kỳ tế bào ung thư nào còn sót lại .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , nếu các cơ vòng thực quản dưới giãn bất thường hoặc suy yếu , acid dạ dày có thể chảy ngược lại vào trong thực quản , gây ra chứng ợ nóng .",
+    "entities": [
+      {
+        "text": "chứng ợ nóng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , những người bị run đôi khi có thể phát triển các dấu hiệu và triệu chứng thần kinh - như một dáng đi không vững .",
+    "entities": [
+      {
+        "text": "dấu hiệu và triệu chứng thần kinh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "một dáng đi không vững",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "run",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống thính phòng , chống mất mát bao gồm các bước có thể làm để giúp ngăn chặn tiếng ồn gây ra mất thính lực và tránh làm xấu đi mất thính lực do tuổi tác : bảo vệ đôi tai tại nơi làm việc .",
+    "entities": [
+      {
+        "text": "mất thính lực",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các nhà nghiên cứu đang nghiên cứu xem liệu nhóm thuốc này có làm giảm ngứa trầm trọng ở những người bị xơ gan đường mật .",
+    "entities": [
+      {
+        "text": "xơ gan đường mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ngứa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trước khi khử rung tim , có thể được dùng thuốc làm loãng máu như warfarin ( coumadin ) , trong vài tuần để giảm nguy cơ cục máu đông và đột quỵ .",
+    "entities": [
+      {
+        "text": "khử rung tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "warfarin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "coumadin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân gây bệnh nguyên nhân dẫn đến hội chứng raynaud nguyên nhân chính gây ra bệnh hiện nay vẫn chưa được biết rõ cơ chế bệnh sinh .",
+    "entities": [
+      {
+        "text": "hội chứng raynaud",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ghép sơ cấp thất bại : với tình trạng này , nguyên nhân tử vong thường xuyên nhất trong vài tháng đầu sau khi cấy ghép là tim của người hiến tặng không hoạt động .",
+    "entities": [
+      {
+        "text": "ghép sơ cấp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cấy ghép",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tuyệt đối không tự ý đẩy phần thoát vị trở lại bụng khi bạn không phải là bác sĩ vì có thể dẫn đến các nguy cơ gây chảy máu , nhiễm trùng và hoại tử có thể gây nguy hiểm tới tính mạng .",
+    "entities": [
+      {
+        "text": "nhiễm trùng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hoại tử",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các bệnh lí tim bẩm sinh có thể được phân loại dựa trên biểu hiện tím và mức độ tưới máu phổi .",
+    "entities": [
+      {
+        "text": "tim bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tất cả các thuốc chống động kinh có vẻ tác dụng tốt như nhau , kiểm soát các cơn động kinh ở thùy trán , nhưng không phải tất cả mọi người trở nên hết cơn với thuốc .",
+    "entities": [
+      {
+        "text": "các thuốc chống động kinh có vẻ tác dụng tốt như nhau",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cơn động kinh ở thùy trán",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một ống mỏng linh hoạt ( nội soi ) với một ánh sáng quang chèn vào mũi cho phép bác sĩ để kiểm tra trực quan bên trong xoang .",
+    "entities": [
+      {
+        "text": "kiểm tra trực quan bên trong xoang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nếu nguyên nhân gây ra tình trạng thai chết lưu là do bệnh lý mạn tính của mẹ hoặc do rối loạn di truyền của bố mẹ thì nguy cơ xảy ra lần nữa sẽ cao hơn .",
+    "entities": [
+      {
+        "text": "thai chết lưu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng thường xuất hiện sau tuổi 60 mặc dù các dấu hiệu đầu khởi phát của bệnh có thể xảy ra , thường là kết quả của một gen khiếm khuyết .",
+    "entities": [
+      {
+        "text": "triệu chứng thường xuất hiện sau tuổi 60",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một số điều có thể làm để giúp mình đối phó là : viết nhật ký về cảm xúc và trải nghiệm .",
+    "entities": [
+      {
+        "text": "viết nhật ký về cảm xúc và trải nghiệm",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "béo phì , đái tháo đường : bệnh đái tháo đường làm sản sinh các gốc tự do làm tổn thương tế bào nội mạc và thúc đẩy xơ vữa động mạch .",
+    "entities": [
+      {
+        "text": "bệnh đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu mắt sản xuất không đủ nước , dầu và lớp chất nhờn có thể kết hợp và gây ra nhử mắt .",
+    "entities": [
+      {
+        "text": "gây ra nhử mắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phục hồi chức năng sau khi điều trị bởi vì các khối u não có thể phát triển ở các bộ phận của não điều khiển kỹ năng vận động , ngôn ngữ , tầm nhìn và tư duy , phục hồi chức năng có thể là một phần cần thiết .",
+    "entities": [
+      {
+        "text": "khối u não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thiếu máu cục bộ do huyết khối tĩnh mạch mạc treo nếu ruột không có dấu hiệu tổn thương , cần phải uống thuốc chống đông máu trong khoảng 3 - 6 tháng .",
+    "entities": [
+      {
+        "text": "thiếu máu cục bộ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh tăng tiết mồ hôi nếu bạn được chẩn đoán có một tình trạng bệnh lý khác gây tăng tiết mồ hôi thì phần điều trị của bạn sẽ ưu tiên điều trị bệnh lý đó trước .",
+    "entities": [
+      {
+        "text": "bệnh tăng tiết mồ hôi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra nếu di căn xa bệnh nhân sẽ có các triệu chứng tại cơ quan di căn ( phổi , xương . . ) đối tượng nguy cơ bệnh ung thư vòm họng bệnh nhân nam giới , tuổi từ 30 - 55 tiền sử hút thuốc lá , uống rượu bia có người thân trong gia đình mắc ung thư vòm họng người có thói quen ăn uống các đồ ăn như cá muối , dưa khú , … .",
+    "entities": [
+      {
+        "text": "bệnh ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh ung thư tụy tổng quan bệnh ung thư tụy tuyến tụy là một bộ phận của cơ quan tiêu hóa , có chức năng phân hủy thức ăn để các tế bào trong cơ thể có thể hấp thụ và sử dụng .",
+    "entities": [
+      {
+        "text": "bệnh ung thư tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngày nay , theo quan điểm mới đái tháo đường được chẩn đoán trong 3 tháng giữa hoặc 3 tháng cuối của thai kỳ không nói rõ tuýp 1 hoặc tuýp 2 được gọi là tiểu đường thai kỳ còn các thai phụ có tiểu đường từ trước khi mang thai , khi mang thai được gọi là bệnh nhân tiểu đường tuýp 1 hoặc tuýp 2 mang thai .",
+    "entities": [
+      {
+        "text": "tiểu đường thai kỳ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiểu đường tuýp 1",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết các cơn nhồi máu cơ tim là do cục máu đông làm tắc nghẽn một trong các động mạch vành .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : phát triển công nghệ liệu pháp tế bào car - t để điều trị các loại ung thư máu liệu pháp tế bào car - t trong điều trị ung thư cơ chế điều trị ung thư của liệu pháp ức chế chốt kiểm soát miễn dịch chủ đề : hóa trị xạ trị ung thư u lympho tế bào t máu chức năng gan miễn dịch ung thư máu tế bào gốc miễn dịch tự thân tế bào t u lympho",
+    "entities": [
+      {
+        "text": "liệu pháp ức chế chốt kiểm soát miễn dịch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "liệu pháp tế bào car - t",
+        "type": "THUỐC"
+      },
+      {
+        "text": "u lympho tế bào t",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "không được dùng nifedipin nhỏ dưới lưỡi vì có thể gây tụt huyết áp nhóm ức chế men chuyển/ức chế thụ thể at1 : lisinopril , captopril , vasartan , losartan…thường hạ áp êm dịu , tuy nhiên thuốc ức chế men chuyển có thể gây ho khan .",
+    "entities": [
+      {
+        "text": "ho khan",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "cảm thấy khó thở khi hoạt động hoặc khi nghỉ ngơi , vào ban đêm khi cố gắng ngủ hoặc thức dậy khó thở .",
+    "entities": [
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "việc mất điện giải - chẳng hạn như natri , magiê , kali và canxi - có thể là dấu hiệu của nôn mửa liên tục và mất nước .",
+    "entities": [
+      {
+        "text": "nôn mửa",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

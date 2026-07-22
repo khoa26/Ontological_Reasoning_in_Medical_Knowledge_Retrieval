@@ -1,0 +1,408 @@
+[
+  {
+    "text": "chụp cắt lớp vi tính : ngoài phát hiện túi thừa còn đánh giá tương quan giữa túi thừa với các thành phần xung quanh , biến chứng viêm loét hay thủng .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ở giai đoạn này , cần sử dụng các phương pháp y học như : chụp cắt lớp vi tính , xạ hinh xương , nội soi phế quản để chẩn đoán bệnh .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi phế quản",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "xạ hinh xương",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "khi đó , hóa trị đóng vai trò giúp người bệnh ung thư tuyến tụy kéo dài sự sống , giảm đau đớn , khó chịu khi bước vào giai đoạn cuối .",
+    "entities": [
+      {
+        "text": "bệnh ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu có một vấn đề mí mắt mà làm cho nó khó khăn để nhấp nháy , những giọt nước mắt có thể không thể lan qua mắt đầy đủ hoặc nước mắt có thể bay hơi quá nhanh gây khô mắt .",
+    "entities": [
+      {
+        "text": "khô mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những người không được cắt bao quy đầu bị ung thư dương vật cao hơn hẳn so với những người đã cắt .",
+    "entities": [
+      {
+        "text": "ung thư dương vật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc ( bị ) hở van hai lá các yếu tố làm tăng nguy hở van hai lá : dị tật tim bẩm sinh; bị đau tim hoặc suy tim ; tăng huyết áp ; tăng áp động mạch phổi ; cơ tim suy yếu ; bị nhiễm trùng gây ảnh hưởng tới tim , như viêm nội tâm mạc nhiễm trùng ; xạ trị ở vùng ngực; sử dụng một số loại thuốc như thược điều trị chứng đau nửa đầu .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng áp động mạch phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cơ tim suy yếu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hở van hai lá",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ở người cao tuổi và bệnh nhân có nguy cơ biến chứng do phẫu thuật cao có thể thay thế bằng thủ thuật đốt cồn vách liên thất .",
+    "entities": [
+      {
+        "text": "đốt cồn vách liên thất",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các nguyên nhân ít phổ biến gây ù tai một số nguyên nhân của chứng ù tai ít phổ biến hơn .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "việc châm cứu đả thông kinh mạch có thể giảm bớt phần nào sự lo lắng và mức độ nghiêm trọng của việc thở nhanh .",
+    "entities": [
+      {
+        "text": "châm cứu đả thông kinh mạch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thở nhanh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh thấp tim bệnh thấp tim có thể phòng ngừa được nhằm tránh dẫn tới bệnh van tim do thấp hoặc phòng tránh được sự tiến triển của bệnh thêm nặng .",
+    "entities": [
+      {
+        "text": "bệnh van tim do thấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh thấp tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng nếu không được điều trị đúng cách , viêm mống mắt có thể dẫn đến biến chứng , bao gồm : đục thủy tinh thể .",
+    "entities": [
+      {
+        "text": "đục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm mống mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bức xạ cũng có thể đến từ một máy chỉ đạo các hạt phóng xạ đến mắt ( chùm tia bức xạ bên ngoài hoặc xạ trị từ xa ) .",
+    "entities": [
+      {
+        "text": "xạ trị từ xa",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật để loại bỏ đuôi của tụy tạng hoặc đuôi và một phần nhỏ của cơ thể được gọi là pancreatectomy .",
+    "entities": [
+      {
+        "text": "pancreatectomy",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thủng túi mật có thể được gây ra bởi trướng căng túi mật hoặc hoại tử xảy ra như là kết quả của viêm túi mật .",
+    "entities": [
+      {
+        "text": "viêm túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc chống ký sinh trùng được sử dụng trong trường hợp người bệnh viêm cơ tim do nhiễm ký sinh trùng .",
+    "entities": [
+      {
+        "text": "thuốc chống ký sinh trùng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị các dấu hiệu và triệu chứng tái phát ngay cả ở những người được điều trị thành công , viêm đại tràng màng giả có thể trở lại trong vài tuần đến vài tháng sau khi điều trị đã được hoàn thành .",
+    "entities": [
+      {
+        "text": "viêm đại tràng màng giả",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số người tìm thấy hữu ích khi tham khảo ý kiến một nhà tâm lý hoặc bác sĩ tâm thần , những người quen thuộc với bệnh viêm ruột và những khó khăn về tình cảm nó có thể gây ra .",
+    "entities": [
+      {
+        "text": "bệnh viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu cơn động kinh luôn bắt đầu ở vị trí cụ thể trong não , loại bỏ phần nhỏ mô não có thể giảm hoặc loại bỏ cơn động kinh .",
+    "entities": [
+      {
+        "text": "loại bỏ phần nhỏ mô não có thể giảm hoặc loại bỏ cơn động kinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cơn động kinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh thiếu men g6pd hầu hết người bị bệnh thiếu men g6pd không có dấu hiệu gì bất thường cho đến khi họ tiếp xúc với các yếu tố khởi phát .",
+    "entities": [
+      {
+        "text": "bệnh thiếu men g6pd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đôi khi bác sĩ có thể kê toa steroid đặt trực tràng nếu có bệnh ở ruột già thấp - trực tràng .",
+    "entities": [
+      {
+        "text": "steroid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh thai chậm phát triển trong tử cung tổng quan bệnh thai chậm phát triển trong tử cung hội chứng thai chậm phát triển trong tử cung ( iugr ) là tình trạng suy dinh dưỡng bào thai ngay khi còn trong bụng mẹ được xác định thông qua kích thước và trọng lượng thai dưới đường bách phân vị thứ 10 hoặc thứ 5, thứ 3 ( tùy theo tài liệu sử dụng ) .",
+    "entities": [
+      {
+        "text": "hội chứng thai chậm phát triển trong tử cung",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh thai chậm phát triển trong tử cung",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "stress có thể làm nặng thêm các triệu chứng của viêm loét dạ dày tá tràng và trong một số trường hợp , sự chậm trễ chữa lành .",
+    "entities": [
+      {
+        "text": "viêm loét dạ dày tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "stress",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thuật ngữ \" viêm đường mật \" trong viêm xơ đường mật chính là tình trạng viêm của đường mật , trong khi thuật ngữ \"xơ\" mô tả sự đông cứng và sẹo của đường mật là kết quả của tình trạng viêm mãn tính .",
+    "entities": [
+      {
+        "text": "viêm xơ đường mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm đường mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu biết rằng một trong những cha mẹ đã có huntington , hãy hỏi bác sĩ về thử nghiệm di truyền .",
+    "entities": [
+      {
+        "text": "thử nghiệm di truyền",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "huntington",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đặc biệt , khi nhiễm trùng huyết biến chứng thành áp xe , phẫu thuật cắt bỏ áp xe cần được tiến hành ngay lập tức; tăng cường sức đề kháng của cơ thể : truyền máu , đạm , sinh tố kết hợp với chế độ ăn : tăng đạm , hoa quả .",
+    "entities": [
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sinh tố kết hợp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "truyền máu",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tăng đạm",
+        "type": "THUỐC"
+      },
+      {
+        "text": "áp xe",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các vấn đề về suy nghĩ và trí nhớ : bệnh alzheimer và chứng sa sút trí tuệ mạch máu thường gặp hơn ở những người bị rối loạn nhịp tim .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh alzheimer",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sa sút trí tuệ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể yêu cầu di chuyển mắt , nghiến chặt hàm răng hay di chuyển cổ , cánh tay và chân .",
+    "entities": [
+      {
+        "text": "nghiến chặt hàm răng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "di chuyển mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "di chuyển cổ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "do vậy , bệnh nhân có thể có một số triệu chứng của bệnh tim mạch , huyết áp như nhịp tim không đều , loạn nhịp , khó thở … biến chứng có thể gặp khi mắc tim to khi kết quả chẩn đoán hình ảnh cho thấy tim to , cần tìm ra nguyên nhân và chữa trị kịp thời vì có thể dẫn đến các biến chứng nguy hiểm : suy tim có thể xảy ra khi tâm thất trái bị mở rộng .",
+    "entities": [
+      {
+        "text": "nhịp tim không đều",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh tim mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "loạn nhịp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh tự kỷ ở người lớn với sự phức tạp của tự kỷ và thực tế là các triệu chứng và mức độ nghiêm trọng khác nhau , có lẽ có nhiều nguyên nhân bao gồm cả di truyền và môi trường có thể đóng những vai trò nhất định : di truyền .",
+    "entities": [
+      {
+        "text": "bệnh tự kỷ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các chống chỉ định là tắc ruột nặng trên phim x - quang , viêm phúc mạc , bệnh nhi quá yếu hoặc trong tình trạng sốc .",
+    "entities": [
+      {
+        "text": "phim x - quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tắc ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốc",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

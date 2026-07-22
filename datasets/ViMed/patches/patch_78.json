@@ -1,0 +1,334 @@
+[
+  {
+    "text": "các xét nghiệm và chẩn đoán bác sĩ thường có thể chẩn đoán bị nhiễm trùng tai hoặc bệnh khác dựa trên các triệu chứng mô tả và kiểm tra tương đối đơn giản .",
+    "entities": [
+      {
+        "text": "nhiễm trùng tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hít ô xy 100 phần trăm một thời gian ngắn qua mặt nạ với 7 - 10 lít một phút , cung cấp cứu trợ mạnh mẽ cho hầu hết người sử dụng nó .",
+    "entities": [
+      {
+        "text": "hít ô xy 100 phần trăm một thời gian ngắn qua mặt nạ với 7 - 10 lít một phút",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thay đổi về da và tóc : trong giai đoạn này , da người phụ nữ trở nên khô ráp hơn , giảm tính đàn hồi , dễ bị nhăn vùng quanh mắt .",
+    "entities": [
+      {
+        "text": "dễ bị nhăn vùng quanh mắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sự cắt bỏ thường sử dụng ống thông đưa qua tĩnh mạch ở háng và luồn đến tim - đến sửa chữa vấn đề trong tim gây ra loạn nhịp tim .",
+    "entities": [
+      {
+        "text": "cắt bỏ thường sử dụng ống thông đưa qua tĩnh mạch ở háng và luồn đến tim",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "uống thuốc dự phòng : ở các nước có sốt rét lưu hành nặng có chủ trương uống thuốc dự phòng cho những người vào vùng sốt rét , phụ nữ có thai , người mới đến định cư .",
+    "entities": [
+      {
+        "text": "sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng đang có nguy cơ cao hơn nếu đang 50 tuổi trở lên , thừa cân hoặc người hút thuốc , chế độ ăn uống nhiều chất béo , hoặc có lịch sử cá nhân hay gia đình các khối u hay ung thư đại tràng .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguy cơ đột tử cao hơn khi có các yếu tố nguy cơ sau : tiền sử gia đình có thành viên đột tử vì bệnh cơ tim phì đại , ngừng tim hoặc rối loạn nhịp thất kéo dài; tiền sử ngất không rõ nguyên nhân , ngừng tim hoặc rối loạn nhịp thất kéo dài; nhịp nhanh thất không bền bỉ lặp lại nhiều lần ( phát hiện trên ecg ) ; phì đại thất trái lớn ( dày ≥ 30mm ) , rối loạn chức năng lv ( ef &lt; 50% ) , phình động mạch đỉnh lv; tăng gadolinium muộn lan rộng và lan tỏa trên mri .",
+    "entities": [
+      {
+        "text": "bệnh cơ tim phì đại",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rối loạn nhịp thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ngừng tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chẩn đoán xác định ung thư tế bào gan nguyên phát có 1 trong 3 tiêu chuẩn sau ( theo hướng dẫn chẩn đoán và điều trị ung thư tế bào gan nguyên phát của bộ y tế ) có bằng chứng giải phẫu bệnh lý là ung thư tế bào gan nguyên phát .",
+    "entities": [
+      {
+        "text": "ung thư tế bào gan nguyên phát",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm trùng vi khuẩn : nhiễm vi khuẩn có thể gây đau họng , bao gồm : strep họng , bị gây ra bởi một loại vi khuẩn được gọi là streptococcus pyogenes , hoặc nhóm a liên cầu .",
+    "entities": [
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "strep họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau họng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ các yếu tố sau đây làm tăng nguy cơ bong võng mạc : lão hóa - bong võng mạc là phổ biến hơn ở người trên 40 tuổi bong võng mạc trước đó ở một mắt .",
+    "entities": [
+      {
+        "text": "bong võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguy cơ thường xuất phát từ ống kính không khử trùng đúng cách , đeo kính áp tròng khi bơi lội , mặc chúng lâu hơn được đề nghị , hoặc sử dụng nước hoặc các giải pháp tự tạo để lưu trữ và làm sạch ống kính .",
+    "entities": []
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán viêm cơ tim để chẩn đoán viêm cơ tim , bác sĩ dựa vào tiền sử mắc bệnh , dấu hiệu lâm sàng kết hợp với kiểm tra thể chất .",
+    "entities": [
+      {
+        "text": "viêm cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm màng ngoài tim co thắt tiết dịch : đây là tình trạng viêm có kèm cả tràn dịch và co thắt .",
+    "entities": [
+      {
+        "text": "viêm màng ngoài tim co thắt tiết dịch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa giãn tĩnh mạch hiệu quả để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : duy trì cân nặng hợp lý .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc ở một số người , một sự kiện cụ thể hoặc điều kiện cơ bản , chẳng hạn như là rối loạn tuyến giáp , có thể gây ra rung nhĩ .",
+    "entities": [
+      {
+        "text": "rối loạn tuyến giáp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "gần như tất cả những người đã mất trí nhớ sẽ giảm bớt hoặc ngừng ăn uống tại một số điểm .",
+    "entities": [
+      {
+        "text": "mất trí nhớ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "béo phì có thể gây ra một tình trạng gọi là bệnh gan nhiễm mỡ không do rượu , có thể bao gồm mỡ gan , viêm gan và xơ gan .",
+    "entities": [
+      {
+        "text": "bệnh gan nhiễm mỡ không do rượu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mỡ gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "có thể tìm thấy một số cứu trợ từ miệng khô và biến chứng của nó nếu : đánh răng nhiều lần mỗi ngày .",
+    "entities": [
+      {
+        "text": "miệng khô",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "có nhiều loại rối loạn nhịp tim , tùy thuộc vào phần nào của tim bị ảnh hưởng và liệu chúng có gây ra nhịp tim chậm , nhanh hay không đều .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhịp tim chậm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "không đều",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhanh",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng , nguyên nhân và các yếu tố nguy cơ bị cuồng nhĩ tương tự như những người bị rung nhĩ .",
+    "entities": [
+      {
+        "text": "cuồng nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , cần tránh các môn thể thao nặng , tập thể dục quá mức và các loại thuốc có nguy cơ gây hội chứng qt kéo dài .",
+    "entities": [
+      {
+        "text": "hội chứng qt kéo dài",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "truyền máu là phương pháp điều trị làm giảm nhẹ triệu chứng có hiệu quả nhất vì tế bào hồng cầu trong máu người cho không bị thiếu hụt men g6pd nên sẽ tồn tại lâu hơn để cung cấp đủ oxy cho cơ thể .",
+    "entities": [
+      {
+        "text": "thiếu hụt men g6pd",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "truyền máu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hiện nay , hội chứng này được chẩn đoán bằng đoạn st type vòm điển hình &gt; 2 mm ở &gt; 1 chuyển đạo trước tim phải v1 và v2 xảy ra một cách tự phát hay sau test kích thích chẹn kênh natri mà không có bằng chứng về rối loạn nhịp ác tính trước đó .",
+    "entities": [
+      {
+        "text": "đoạn st type vòm điển hình",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "gọi số dịch vụ khẩn cấp địa phương ngay lập tức nếu trải nghiệm nôn ra máu hay phân có máu .",
+    "entities": [
+      {
+        "text": "phân có máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nôn ra máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "virus sởi có 2 kháng nguyên : kháng nguyên tan hồng cầu ( hemolysin ) và kháng nguyên ngưng kết hồng cầu ( hemagglutinin ) .",
+    "entities": []
+  },
+  {
+    "text": "bác sĩ có thể khuyên nên xét nghiệm máu và siêu âm định kỳ để tìm những dấu hiệu của ung thư gan .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "mẫu này sẽ được kiểm tra tại một phòng thí nghiệm cho vi khuẩn liên cầu , nguyên nhân của viêm họng .",
+    "entities": [
+      {
+        "text": "kiểm tra tại một phòng thí nghiệm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "aspirin có liên quan với hội chứng reye's , do đó , cẩn thận khi dùng aspirin cho trẻ em hoặc thanh thiếu niên .",
+    "entities": [
+      {
+        "text": "hội chứng reye's",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán giãn tĩnh mạch chi dưới chẩn đoán có thể dựa vào : đánh giá lâm sàng .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch chi dưới",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "copd hoặc viêm phổi tái phát nhiều đợt , hoặc béo phì và tuổi cao cũng có thể gây những triệu chứng tương tự .",
+    "entities": [
+      {
+        "text": "viêm phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "copd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

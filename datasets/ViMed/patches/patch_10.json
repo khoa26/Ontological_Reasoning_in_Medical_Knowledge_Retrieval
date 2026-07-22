@@ -1,0 +1,359 @@
+[
+  {
+    "text": "các biện pháp chẩn đoán bệnh trầm cảm sau sinh để chẩn đoán trầm cảm sau sinh , bệnh nhân cần đến khám và gặp bác sĩ chuyên ngành tâm thần học .",
+    "entities": [
+      {
+        "text": "bệnh trầm cảm sau sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "với những cơn lặp đi lặp lại của viêm tụy cấp , thiệt hại cho tuyến tụy có thể xảy ra và dẫn đến viêm tụy mãn tính .",
+    "entities": [
+      {
+        "text": "viêm tụy mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm tụy cấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù có thể có thể giảm tần số rửa mí mắt , nên duy trì một thói quen chăm sóc mi mắt để giữ dưới sự kiểm soát .",
+    "entities": [
+      {
+        "text": "rửa mí mắt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng của thai kỳ hội chứng marfan có thể làm suy yếu các bức tường của động mạch chủ , động mạch chính rời tim .",
+    "entities": [
+      {
+        "text": "hội chứng marfan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mục tiêu điều trị thuốc các loại thuốc mục tiêu cụ thể có sẵn cho những người bị ung thư đại tràng giai đoạn muộn , bao gồm bevacizumab , cetuximab và panitumumab .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bevacizumab",
+        "type": "THUỐC"
+      },
+      {
+        "text": "panitumumab",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cetuximab",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "bức xạ toàn bộ não đôi khi được dùng sau khi phẫu thuật để diệt tế bào khối u mà có thể còn lại .",
+    "entities": [
+      {
+        "text": "phẫu thuật để diệt tế bào khối u",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , có những dấu hiệu có thể giúp bệnh nhân phát hiện ra bệnh sớm để kịp thời đến cơ sở y tế để thăm khám như sau : mệt mỏi , gầy sút , chán ăn đái máu là dấu hiệu thường gặp nhất .",
+    "entities": [
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "gầy sút",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đái máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chụp động mạch celiac pha tĩnh mạch : cho thấy tĩnh mạch cửa và các nhánh bên; chẩn đoán tắc tĩnh mạch gan .",
+    "entities": [
+      {
+        "text": "chụp động mạch celiac pha tĩnh mạch",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "tắc tĩnh mạch gan",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng cận lâm sàng siêu âm : là một phương pháp dễ thực hiện , có giá trị cao trong chẩn đoán; góp phần khẳng định chẩn đoán lâm sàng , xác định vị trí u ở trong nhu mô hay ngoài tuyến , u đặc hay u nang , u hay là hạch .",
+    "entities": [
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra và chẩn đoán để chẩn đoán tiêu chảy liên quan đến kháng sinh , bác sĩ có thể : phân tích phân .",
+    "entities": [
+      {
+        "text": "phân tích phân",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư thận giai đoạn sớm ( 1,2 ) : phẫu thuật : tùy vào tính chất khối u chỉ định cắt bán phần hoặc toàn bộ thận có hay không có cắt tuyến thượng thận .",
+    "entities": [
+      {
+        "text": "cắt tuyến thượng thận",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cắt bán phần",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "xác định các tế bào bất thường có thể cho biết ung thư thực quản hay thay đổi tiền ung thư .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay thế thuốc có ít bằng chứng cho thấy phương pháp điều trị thuốc thay thế hiệu quả với ù tai .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các bệnh nhân thay van cơ học phải dùng thuốc chống đông suốt đời ( warfarin ) để ngừa huyết khối tắc mạch .",
+    "entities": [
+      {
+        "text": "thuốc chống đông",
+        "type": "THUỐC"
+      },
+      {
+        "text": "warfarin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "do đó , các bác sĩ thường không khuyên dùng corticosteroid trừ trường hợp nghiêm trọng , không đáp ứng với điều trị thông thường .",
+    "entities": [
+      {
+        "text": "corticosteroid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân của những dấu hiệu và triệu chứng có thể là nhiễm virus hoặc một số loại khác của bệnh .",
+    "entities": []
+  },
+  {
+    "text": "bệnh nhân cũng có thể có triệu chứng và dấu hiệu đột quỵ cấp tính hoặc các tổn thương cơ quan khác do thuyên tắc mạch hệ thống .",
+    "entities": [
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không có di căn xa ung thư túi mật giai đoạn cuối : ung thư lan tới động tĩnh mạch gần đó và/hoặc hạch vùng nhưng chưa có di căn xa .",
+    "entities": [
+      {
+        "text": "ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể khuyên nên hóa trị nếu ung thư đã lan ra ngoài thành của đại tràng hoặc nếu bệnh ung thư đã lan đến các hạch bạch huyết .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đột quỵ , thiếu máu cục bộ , một loại đột quỵ xảy ra là kết quả của lưu lượng máu giảm hoặc bị tắc động mạch dẫn đến não .",
+    "entities": [
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm khác : tổng phân tích tế bào máu ngoại vi : giảm lượng huyết sắc tố , giảm số lượng tiểu cầu , số lượng bạch cầu có thể tăng hoặc giảm .",
+    "entities": [
+      {
+        "text": "tổng phân tích tế bào máu ngoại vi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "rối loạn nhịp tim tồi tệ hơn : một số chứng loạn nhịp tim có thể trở nên tồi tệ hơn theo thời gian hoặc có thể kích hoạt một loại rối loạn nhịp tim khác .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : thay van tim qua da ( tavi ) có thể hồi phục , ra viện trong bao lâu ?",
+    "entities": [
+      {
+        "text": "thay van tim qua da",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sa sút trí tuệ mạch máu cũng có thể được gây ra bởi nhiễm trùng van tim ( viêm nội tâm mạc ) hoặc tích tụ của protein amyloid trong các mạch máu của não ( amyloid angiopathy ) mà đôi khi gây ra do \"chảy máu\" ( xuất huyết ) đột quỵ .",
+    "entities": [
+      {
+        "text": "sa sút trí tuệ mạch máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "amyloid angiopathy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm nội tâm mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xuất huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng thần kinh có tỷ lệ từ 20 – 40% các ca viêm nội tâm mạc và là hậu quả chính của tắc mạch .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tắc mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhưng căng thẳng hoặc bị dị ứng khi đi tiêu có thể làm tổn thương bề mặt của búi trĩ và làm nó chảy máu .",
+    "entities": [
+      {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "có ba phương pháp đang được áp dụng hiện nay : cắt bỏ xương để hạn chế hình thành gai xương hoặc biến dạng khớp .",
+    "entities": [
+      {
+        "text": "cắt bỏ xương",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "giai đoạn sau : nếu người bệnh qua được giai đoạn đầu thì đến giai đoạn này sẽ có biểu hiện chảy máu dữ dội nhiều nơi do đờ tử cung , đông máu rải rác trong lòng mạch , chảy máu từ tử cung không cầm khiến người bệnh rơi vào tình trạng sốc mất máu .",
+    "entities": [
+      {
+        "text": "đông máu rải rác trong lòng mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy máu dữ dội",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốc mất máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "laser hỗ trợ keratomileusis tại chỗ ( lasik ) là một thủ tục trong đó bác sĩ dùng một dụng cụ gọi là dao mổ giác mạc để thực hiện cắt mỏng tròn khớp nối vào giác mạc .",
+    "entities": [
+      {
+        "text": "keratomileusis tại chỗ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "laser hỗ trợ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "lasik",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "xác định mức độ của bệnh ung thư túi mật sau khi bác sĩ chẩn đoán ung thư túi mật , làm việc để tìm ra mức độ ( giai đoạn ) của bệnh ung thư .",
+    "entities": [
+      {
+        "text": "bệnh ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

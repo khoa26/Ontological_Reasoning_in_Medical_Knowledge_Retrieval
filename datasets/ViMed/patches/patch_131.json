@@ -1,0 +1,355 @@
+[
+  {
+    "text": "bác sĩ phẫu thuật mắt sau đó sử dụng một loại laser , gọi là laser excimer để loại bỏ các lớp từ trung tâm của giác mạc để lên hình mái vòm của nó .",
+    "entities": [
+      {
+        "text": "sử dụng một loại laser",
+        "type": "THUỐC"
+      },
+      {
+        "text": "gọi là laser excimer",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "cảnh báo sớm nhất có thể là đau ngực tái phát hoặc áp lực ( đau thắt ngực ) do hoạt động gây ra và thuyên giảm khi nghỉ ngơi .",
+    "entities": [
+      {
+        "text": "đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : hẹp thực quản : nguyên nhân , triệu chứng , chẩn đoán và điều trị nguy hiểm đến từ trào ngược dạ dày thực quản ung thư thực quản : nguyên nhân , triệu chứng , chẩn đoán và điều trị chủ đề : thực quản dạ dày tiêu hóa trào ngược dạ dày thực quản túi thừa thực quản",
+    "entities": [
+      {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "túi thừa thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hẹp thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mô chết có thể dẫn đến lỗ thủng trong thành ruột , có thể gây viêm phúc mạc , nhiễm trùng khoang bụng .",
+    "entities": [
+      {
+        "text": "nhiễm trùng khoang bụng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nghiệm pháp hcg : là một nghiệm pháp được sử dụng để xác định xem tinh hoàn có hay không có trong trường hợp cả hai tinh hoàn đều không sờ thấy .",
+    "entities": [
+      {
+        "text": "nghiệm pháp hcg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "đây là một trong những nguyên nhân dẫn tới tử vong ở người bệnh lý tim mạch trẻ tuổi hoặc trung niên , thường gặp nhất ở khoảng tuổi 40. ngoài ra , một số triệu chứng khác kèm theo : đánh trống ngực , thở hổn hển khi ngủ do nhịp tim bất thường , bị co giật .",
+    "entities": [
+      {
+        "text": "bệnh lý tim mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đánh trống ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thở hổn hển",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "co giật",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "khối khu trú : ít khi sờ thấy khối khu trú vùng gan đường lây truyền bệnh ung thư gan vì nhiễm virus viêm gan b , c có thể gây ung thư gan nên cần chú ý các đường lây truyền tiếp xúc trực tiếp với máu và quan hệ tình dục có thể lây truyền virus viêm gan .",
+    "entities": [
+      {
+        "text": "bệnh ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "virus viêm gan b",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh ung thư thực quản bệnh ung thư xuất phát từ thực quản bao gồm hai loại bệnh chính là ung thư biểu mô vảy và ung thư biểu mô tuyến , tùy thuộc vào từng loại tế bào gây ung thư .",
+    "entities": [
+      {
+        "text": "bệnh ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư biểu mô tuyến",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư biểu mô vảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên không phải trường hợp nào nước ối đi vào tuần hoàn người mẹ cũng gây ra tắc mạch ối .",
+    "entities": [
+      {
+        "text": "tắc mạch ối",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi bị cao huyết áp trong số các cơ quan thì tim mạch thường là hệ cơ quan chịu tổn thương nhiều và nghiêm trọng do tình trạng cao huyết áp .",
+    "entities": [
+      {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các hoạt động khác liên quan đến thời gian dài tập trung cường độ cao và tập trung , chẳng hạn như sử dụng một kính hiển vi hoặc lái xe .",
+    "entities": []
+  },
+  {
+    "text": "nguyên nhân không được biết , mặc dù trong một số trường hợp mất trí nhớ này là đột biến nhất định liên quan đến di truyền .",
+    "entities": [
+      {
+        "text": "mất trí nhớ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra đơn giản , bác sĩ xoa một miếng gạc vô trùng trên mặt sau của cổ họng để có được một mẫu các chất tiết .",
+    "entities": [
+      {
+        "text": "bác sĩ xoa một miếng gạc vô trùng trên mặt sau của cổ họng để có được một mẫu các chất tiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "kiểm tra đơn giản",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ung thư vòm họng giai đoạn 3 : u xâm lấn tới các xương và các xoang cạnh mũi , hạch cổ xuất hiện cả 2 bên , kích thước hạch nhỏ hơn 6 cm .",
+    "entities": [
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hạch cổ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chán ăn tâm thần khi chán ăn tâm thần , đang bị ám ảnh bởi thức ăn và đôi khi đến mức tự chết đói .",
+    "entities": [
+      {
+        "text": "tâm thần",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng của đau cách hồi bao gồm đau cơ hoặc chuột rút ở chân hoặc tay khi vận động ( chẳng hạn như đi bộ ) nhưng biến mất sau vài phút nghỉ ngơi .",
+    "entities": [
+      {
+        "text": "đau cách hồi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chuột rút",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau cơ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thường vách ngăn lệch là kết quả của một chấn thương gây ra , vách ngăn mũi rời khỏi vị trí .",
+    "entities": [
+      {
+        "text": "vách ngăn lệch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "12 nguyên nhân gây ung thư dạ dày được các chuyên gia cảnh báo chủ đề : điều trị ung thư dạ dày ung bướu ung thư dạ dày ung thư dạ dày tế bào gốc miễn dịch tự thân",
+    "entities": [
+      {
+        "text": "tế bào gốc miễn dịch tự thân",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm trùng ổ bụng : viêm phúc mạc có thể đe dọa tính mạng nếu nhiễm trùng lan rộng khắp ổ bụng .",
+    "entities": [
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những người có nguy cơ cao mắc bệnh túi thừa thực quản là : người trung niên và người cao tuổi , đặc biệt là trên 70 tuổi người có tình trạng rối loạn cơ chế nuốt phòng ngừa bệnh túi thừa thực quản thay đổi lối sống là một phương pháp hữu hiệu để phòng ngừa diễn tiến nặng của bệnh túi thừa thực quản : ăn từng miếng nhỏ và nhai cẩn thận trước khi nuốt uống nước trong và sau các bữa ăn ngồi thẳng lưng trong khi ăn ăn thức ăn mềm hay lỏng , dễ nhai nuốt , ít chất xơ .",
+    "entities": [
+      {
+        "text": "bệnh túi thừa thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong mri , từ trường và sóng vô tuyến điện được sử dụng để tạo ra hình ảnh mặt cắt các cấu trúc bên trong đầu để xác định bất kỳ vấn đề có thể gây ra nhức đầu khi ho .",
+    "entities": [
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "trường hợp sốt rét ác tính phải chuyển về đơn vị hồi sức cấp cứu của bệnh viện tuyến huyện trở lên , theo dõi chặt chẽ và hồi sức tích cực .",
+    "entities": [
+      {
+        "text": "hồi sức tích cực",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu ung thư hạch phát triển chậm ( không rõ ràng ) , phương pháp chờ xem có thể là một lựa chọn .",
+    "entities": [
+      {
+        "text": "ung thư hạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ sẽ hỏi bệnh nhân về tiền sử bệnh và thói quen ăn uống của họ và tiến hành khám sức khỏe để xác định xem có bất kỳ căng chướng nào trong bụng hay không .",
+    "entities": [
+      {
+        "text": "căng chướng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một loạt các nước mắt nhân tạo có sẵn , do đó hãy hỏi bác sĩ hoặc bác sĩ mắt loại có thể là tốt nhất .",
+    "entities": [
+      {
+        "text": "nước mắt nhân tạo",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đối với người có các vết thương sâu , nhiễm bẩn nhiều , chứa dị vật , dễ mắc bệnh uốn ván thì cần xử lý như sau : trường hợp người bị thương đã được tiêm vắc xin uốn ván đầy đủ : đối với vết thương nhẹ , không bị nhiễm bẩn và liều vắc xin uốn ván cuối cùng cách lúc đó &gt; 10 năm thì phải tiêm nhắc lại 1 liều vắc xin uốn ván .",
+    "entities": [
+      {
+        "text": "bệnh uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những loại thuốc hạ cholesterol có thể giúp giảm ngứa ở một số người , nhưng chúng có một số nhược điểm .",
+    "entities": [
+      {
+        "text": "thuốc hạ cholesterol",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "vì vậy các chuyên gia khuyến cáo nên đưa trẻ đến các cơ sở y tế để kiểm tra khi có dấu hiệu nghi ngờ tắc ruột sơ sinh .",
+    "entities": [
+      {
+        "text": "tắc ruột sơ sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên tắc phẫu thuật : lấy u đủ rộng , đảm bảo diện cắt xung quanh không còn tế bào ung thư .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh u não ở trẻ em để chẩn đoán bệnh u não ở trẻ em , hiện nay có rất nhiều biện pháp , bao gồm : chẩn đoán bằng hình ảnh; cộng hưởng từ và cắt lớp ; các biện pháp điều trị bệnh u não ở trẻ em để điều trị u não ở trẻ em , có các biện pháp sau : phẫu thuật là phương pháp chủ yếu .",
+    "entities": [
+      {
+        "text": "cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh u não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cắt lớp",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  }
+]

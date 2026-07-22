@@ -1,0 +1,327 @@
+[
+  {
+    "text": "virus và n hiễm trùng do vi khuẩn lây lan dễ dàng bất cứ nơi nào - trung tâm chăm sóc trẻ em , phòng học , văn phòng , nhà tù và khu quân sự .",
+    "entities": []
+  },
+  {
+    "text": "rối loạn ăn uống nhiều hơn đáng kể xảy ra ở những người có cha mẹ hoặc anh chị em đã có một rối loạn ăn uống .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiều bệnh lý khác cũng có thể làm tăng lượng ca 19 - 9 . ngược lại , không thể kết luận là ung thư không tái phát khi lượng ca 19 - 9 vẫn ở mức bình thường .",
+    "entities": [
+      {
+        "text": "ca 19 - 9",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm hpv : thường liên quan đến typ 16 hoặc typ 18. quan hệ tình dục bừa bãi : có thể thúc đẩy phát triển ung thư dương vật , có thể liên quan đến tỷ lệ nhiễm hpv cao hơn ở những người quan hệ tình dục bừa bãi .",
+    "entities": [
+      {
+        "text": "ung thư dương vật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu không rõ nguyên nhân gây ra huyết áp thấp hoặc không có phương pháp điều trị nào thì mục tiêu là tăng huyết áp và giảm các triệu chứng .",
+    "entities": [
+      {
+        "text": "huyết áp thấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "dấu hiệu thường gặp và triệu chứng của chứng phình động mạch vỡ bao gồm : đau đầu đột ngột rất nặng .",
+    "entities": [
+      {
+        "text": "đau đầu đột ngột rất nặng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phình động mạch vỡ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc men thuốc có thể giúp quản lý các dấu hiệu và triệu chứng đau dạ dày không viêm loét bao gồm : thuốc kháng acid .",
+    "entities": [
+      {
+        "text": "đau dạ dày không viêm loét",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc kháng acid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc bởi vì không rõ những gì gây ra hội chứng ruột kích thích , điều trị tập trung vào việc giảm các triệu chứng để có thể sống như bình thường .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết những người bị hội chứng ruột kích thích thấy các triệu chứng cải thiện khi họ học cách kiểm soát tình trạng .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không giống như các loại viêm mạch , loại bỏ và phân tích mô ( sinh thiết ) không thường được sử dụng để chẩn đoán bệnh viêm động mạch takayasu .",
+    "entities": [
+      {
+        "text": "bệnh viêm động mạch takayasu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "gặp bác sĩ khi : nếu điều trị tại nhà không kết quả , việc để làm giảm các triệu chứng mỏi mắt , gặp bác sĩ mắt .",
+    "entities": [
+      {
+        "text": "triệu chứng mỏi mắt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các loại thuốc có liên quan đến viêm thực quản , bao gồm : aspirin và các thuốc chống viêm không steroid khác ( nsaid ) như ibuprofen và naproxen .",
+    "entities": [
+      {
+        "text": "viêm thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các cuộn ống bên trong phình động mạch , làm gián đoạn dòng chảy máu và gây ra máu cục máu đông .",
+    "entities": [
+      {
+        "text": "làm gián đoạn dòng chảy máu và gây ra máu cục máu đông",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp này cũng mang lại lợi ích rất lớn đối với các bệnh nhân rung nhĩ có kèm cuồng nhĩ .",
+    "entities": [
+      {
+        "text": "cuồng nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số lượng lớn của kính áp tròng có sẵn - cứng , mềm , mở rộng , dùng một lần , khí thấm ( rgp ) và bifocal .",
+    "entities": [
+      {
+        "text": "kính áp tròng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bifocal",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị y tế và phẫu thuậ t có sẵn nếu lo ngại về sự xuất hiện sưng dưới mắt .",
+    "entities": [
+      {
+        "text": "sưng dưới mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "phẫu thuậ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đôi khi , có thể cần một thủ tục để đẩy mạnh chữa lành của màng nhĩ thủng , hoặc cần sửa chữa phẫu thuật cho màng nhĩ thủng .",
+    "entities": [
+      {
+        "text": "cần sửa chữa phẫu thuật cho màng nhĩ thủng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "màng nhĩ thủng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mri sử dụng từ trường và sóng vô tuyến để tạo ra hình ảnh chi tiết của não bộ , hoặc hình ảnh lát cắt hai chiều hoặc hình ảnh ba chiều .",
+    "entities": [
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "rung tâm nhĩ : tâm nhĩ trái bị giãn ra dẫn đến rối loạn nhịp tim như không đều hoặc quá nhanh .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rung tâm nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thử nghiệm này kiểm tra sự lệch thủy tinh thể , đục thủy tinh thể hoặc võng mạc bị tách rời .",
+    "entities": [
+      {
+        "text": "võng mạc bị tách rời",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lệch thủy tinh thể",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đục thủy tinh thể",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ví dụ , bác sĩ phẫu thuật có thể đặt một ống kim loại rỗng ( stent ) vào ống để giữ nó mở hoặc phẫu thuật định tuyến lại đường mật xung quanh tắc nghẽn .",
+    "entities": [
+      {
+        "text": "stent",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sinh thiết gan thường được thực hiện bằng cách sử dụng cây kim , dài và mỏng đưa qua da và vào gan .",
+    "entities": [
+      {
+        "text": "sinh thiết gan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tụy nhiễm khuẩn là rất nghiêm trọng và cần điều trị chuyên sâu , chẳng hạn như phẫu thuật để loại bỏ các mô bị nhiễm bệnh .",
+    "entities": [
+      {
+        "text": "nhiễm khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nhóm bệnh nhân cao tuổi bị rung nhĩ thường có một số đặc điểm như rung nhĩ có ít hoặc không có triệu chứng .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xạ trị : xạ trị sử dụng tia x hoặc hạt năng lượng cao để tiêu diệt tế bào ung thư hoặc làm chậm sự phát triển của chúng .",
+    "entities": [
+      {
+        "text": "sử dụng tia x hoặc hạt năng lượng cao để tiêu diệt tế bào ung thư hoặc làm chậm sự phát triển của chúng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải huyết khối tĩnh mạch sâu một số yếu tố làm tăng nguy cơ mắc huyết khối tĩnh mạch sâu , bao gồm : tổn thương tĩnh mạch , thường do : gãy xương; chấn thương cơ nghiêm trọng; phẫu thuật lớn ( đặc biệt liên quan đến bụng , xương chậu , hông hoặc chân ) .",
+    "entities": [
+      {
+        "text": "huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh thoái hóa võng mạc chẩn đoán thoái hóa võng mạc được thực hiện bởi các bác sĩ chuyên khoa mắt , thông qua các biện pháp : đo thị lực soi đáy mắt : là biện pháp giúp chẩn đoán xác định bệnh thoái hóa võng mạc .",
+    "entities": [
+      {
+        "text": "bệnh thoái hóa võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "soi đáy mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đo thị lực",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống có thể để ngăn chặn những tổn thương cho mũi mà có thể gây lệch vách ngăn với các biện pháp phòng ngừa : đội mũ bảo hiểm khi chơi môn thể thao như bóng đá và khúc côn cầu .",
+    "entities": [
+      {
+        "text": "lệch vách ngăn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc lựa chọn điều trị được dựa trên nhiều yếu tố , chẳng hạn như vị trí và giai đoạn của ung thư cổ họng , loại tế bào có liên quan , sức khỏe tổng thể và sở thích cá nhân .",
+    "entities": [
+      {
+        "text": "thuốc lựa chọn điều trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư cổ họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh tăng nhãn áp , thuốc nhỏ mắt có thể làm giảm đáng kể nguy cơ áp lực mắt cao sẽ tiến triển thành bệnh tăng nhãn áp .",
+    "entities": [
+      {
+        "text": "bệnh tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

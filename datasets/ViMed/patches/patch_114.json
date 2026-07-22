@@ -1,0 +1,424 @@
+[
+  {
+    "text": "nếu đã được chẩn đoán barrett thực quản , một tình trạng tiền ung thư làm tăng nguy cơ ung thư thực quản , hãy hỏi bác sĩ khi các dấu hiệu và triệu chứng cho thấy tình trạng đang xấu đi .",
+    "entities": [
+      {
+        "text": "barrett thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "người bị rối loạn tự miễn dịch liên quan đến nội tiết như bị bệnh tiểu đường hoặc bệnh tuyến giáp làm gia tăng nguy cơ thiếu máu do thiếu vitamin b12 .",
+    "entities": [
+      {
+        "text": "bệnh tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiếu máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị tùy chọn bao gồm ống kính đeo khắc phục , trải qua phẫu thuật khúc xạ hay nhận được cấy ghép ống kính .",
+    "entities": [
+      {
+        "text": "ống kính đeo khắc phục",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật khúc xạ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cấy ghép ống kính",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "lao động trị liệu có thể giúp làm cho an toàn hơn và cung cấp các chiến lược để đối phó với các vấn đề về bộ nhớ và tập trung .",
+    "entities": [
+      {
+        "text": "lao động trị liệu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa ung thư gan là ung thư bắt đầu trong tế bào của gan .",
+    "entities": [
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nghiên cứu cho thấy rằng soi tai không làm việc và nó có thể dẫn đến chấn thương , chẳng hạn như bỏng , chướng ngại vật ống tai và thậm chí thủng lỗ .",
+    "entities": [
+      {
+        "text": "soi tai",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "trên siêu âm tim có thể xác định được vị trí thông liên thất , kích thước lỗ thông , shunt trái phải hay shunt đã đảo chiều , áp lực động mạch phổi .",
+    "entities": [
+      {
+        "text": "thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "khi đi khám bác sĩ , bác sĩ có thể ở vị trí tốt để xác định các chỉ số ban đầu của rối loạn ăn uống và ngăn chặn toàn diện sự phát triển của bệnh .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ở những bệnh nhân điều trị bằng thuốc ức chế miễn dịch mạnh hoặc kéo dài cần dự phòng nhiễm pneumocystis jirovecii .",
+    "entities": [
+      {
+        "text": "thuốc ức chế miễn dịch",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nghẹt mũi kéo dài do sốt hay có thể làm tăng tính nhạy cảm viêm xoang - nhiễm trùng hoặc viêm màng các xoang .",
+    "entities": [
+      {
+        "text": "viêm màng các xoang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nghẹt mũi kéo dài",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm xoang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "giống như nhiều người mắc bệnh viêm ruộ t , có thể thấy vấn đề , chẳng hạn như tiêu chảy , đau bụng và chướng bụng , cải thiện khi giới hạn hoặc loại bỏ các sản phẩm sữa .",
+    "entities": [
+      {
+        "text": "bệnh viêm ruộ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chướng bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ban đầu pci chỉ là thủ thuật nong bóng mạch vành đơn thuần , nhưng có khoảng 5 – 8% người bệnh bị tắc mạch đột ngột sau khi thực hiện nong bóng , dẫn đến nhồi máu cơ tim cấp và phải giải phẫu bắc cầu khẩn cấp .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "pci",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu đã bị ung thư đại tràng hoặc bướu u tuyến , có nguy cơ ung thư đại tràng trong tương lai .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bướu u tuyến",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cơn đau này có thể giống với đau tim ( đau thắt ngực đột ngột ở giữa hoặc bên trái ngực , sau xương ức , lan đến vai , cổ , cánh tay hoặc hàm ) ; sốt nhẹ; suy nhược , mệt mỏi; khó thở , đặc biệt là khi nằm; đánh trống ngực ; ho khan ; sưng bàn chân , mắt cá chân và cẳng chân; sưng bụng .",
+    "entities": [
+      {
+        "text": "mắt cá chân và cẳng chân; sưng bụng .",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đánh trống ngực",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau thắt ngực",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sưng bàn chân",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ho khan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sự thành công trong điều trị viêm mạch của bệnh nhân phụ thuộc nhiều vào chẩn đoán , đáp ứng với điều trị , tác dụng phụ của thuốc .",
+    "entities": [
+      {
+        "text": "viêm mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khô không khí trong nhà , đặc biệt là vào mùa đông khi tòa nhà được làm nóng , có thể làm cho cổ họng cảm thấy khó khô và hỗn tạp , đặc biệt là vào buổi sáng khi thức dậy đầu tiên .",
+    "entities": [
+      {
+        "text": "cổ họng cảm thấy khó khô và hỗn tạp",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tập thể dục và dùng canxi và vitamin d bổ sung để giúp làm giảm nguy cơ phát triển bệnh loãng xương .",
+    "entities": [
+      {
+        "text": "bệnh loãng xương",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vitamin d",
+        "type": "THUỐC"
+      },
+      {
+        "text": "canxi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "tác dụng phụ thường gặp là buồn nôn , tiêu chảy và đau bụng , nghiên cứu thêm là cần thiết để hiểu đầy đủ về hiệu quả và an toàn của lubiprostone .",
+    "entities": [
+      {
+        "text": "lubiprostone",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bệnh nhân bị hội chứng brugada có triệu chứng như ngất hay ngừng tuần hoàn khi được cứu sống cần chỉ định cấy máy tạo nhịp – phá rung tự động ( icd ) .",
+    "entities": [
+      {
+        "text": "hội chứng brugada",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cấy máy tạo nhịp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phá rung tự động",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ngừng tuần hoàn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngất",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "icd",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc điều trị nhiễm h . pylori thường bao gồm sự kết hợp các loại thuốc để diệt trừ h . pylori trong cơ thể .",
+    "entities": [
+      {
+        "text": "nhiễm h . pylori",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh đái tháo đường là bệnh rối loạn chuyển hóa , có đặc điểm tăng glucose huyết mạn tính do khiếm khuyết về tiết insulin , về tác động của insulin , hoặc cả hai .",
+    "entities": [
+      {
+        "text": "bệnh đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư di căn : ung thư đã lan ra khỏi tuyến tụy để đến các bộ phận khác của cơ thể .",
+    "entities": [
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu đang thừa cân hoặc béo phì , làm việc để giảm cân từ từ bằng cách giảm lượng calorie và tăng lượng tập thể dục mỗi ngày .",
+    "entities": [
+      {
+        "text": "làm việc để giảm cân từ từ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tăng lượng tập thể dục",
+        "type": "THUỐC"
+      },
+      {
+        "text": "giảm lượng calorie",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng vỡ phình động mạch : nhức đầu nặng đột ngột là triệu chứng chính của chứng phình động mạch vỡ .",
+    "entities": [
+      {
+        "text": "nhức đầu nặng đột ngột",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "vỡ phình động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phình động mạch vỡ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp tái tưới máu : sử dụng thuốc tiêu sợi huyết hoặc chụp động mạch với can thiệp mạch vành hoặc phẫu thuật bắc cầu động mạch vành .",
+    "entities": [
+      {
+        "text": "chụp động mạch với can thiệp mạch vành",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật bắc cầu động mạch vành",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc tiêu sợi huyết",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một trong những cách tốt nhất để cảm thấy nhiều hơn trong kiểm soát là tìm hiểu càng nhiều càng tốt về bệnh crohn .",
+    "entities": [
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể khuyên l àm bài tập thường xuyên mắt để giúp đôi mắt tập trung ở những khoảng cách khác nhau .",
+    "entities": [
+      {
+        "text": "àm bài tập thường xuyên mắt để giúp đôi mắt tập trung ở những khoảng cách khác nhau",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "vấn đề với các khớp temperomandibular , các khớp ở hai bên đầu ở phía trước của tai , nơi xương hàm tiếp với hộp sọ , có thể gây ù tai .",
+    "entities": [
+      {
+        "text": "ù tai",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tỷ lệ tử vong của bệnh uốn ván cao hơn ở những người không tiêm chủng và người lớn trên 60 tuổi .",
+    "entities": [
+      {
+        "text": "bệnh uốn ván",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một trong các loại thuốc này , nimodipine đã được chỉ định để giảm nguy cơ chấn thương não chậm gây ra bởi dòng chảy máu sau khi xuất huyết dưới màng nhện của phình động mạch vỡ .",
+    "entities": [
+      {
+        "text": "xuất huyết dưới màng nhện",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phình động mạch vỡ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nimodipine",
+        "type": "THUỐC"
+      }
+    ]
+  }
+]

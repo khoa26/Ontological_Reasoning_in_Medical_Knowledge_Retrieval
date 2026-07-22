@@ -1,0 +1,428 @@
+[
+  {
+    "text": "phương pháp điều trị thiếu máu cơ tim để điều trị thiếu máu cơ tim có thể sử dụng các phương pháp như sử dụng thuốc hoặc thủ thuật để cải thiện lưu lượng máu đến cơ tim .",
+    "entities": [
+      {
+        "text": "thiếu máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tình trạng nhiễm khuẩn huyết tự phát này có mức độ thấp và xảy ra trong thời gian ngắn ( 1 – 100 đơn vị tạo khuẩn lạc ( cfu ) /ml máu , xảy ra trong khoảng thời gian &lt; 10 phút ) , nhưng tình trạng nhiễm khuẩn huyết tự phát này lại xảy ra với tỷ lệ cao , vì vậy mà có thể giải thích tại sao hầu hết các ca viêm nội tâm mạc nhiễm khuẩn không có liên quan tới các thủ thuật xâm lấn .",
+    "entities": [
+      {
+        "text": "nhiễm khuẩn huyết",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm : siêu âm thai cho kết quả chính xác , chẩn đoán sớm và chắc chắn : không thấy hoạt động của tim thai , đầu thai méo mó , có thể thấy hiện tượng chồng khớp sọ hay dấu hiệu hai vòng ở xương sọ do da đầu bị bong ra .",
+    "entities": [
+      {
+        "text": "đầu thai méo mó",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chồng khớp sọ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "siêu âm thai",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa ung thư thực quản là ung thư xảy ra trong ống chạy từ cổ họng đến dạ dày .",
+    "entities": [
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh u lympho không hodgkin trong hầu hết các trường hợp , các bác sĩ không biết nguyên nhân gây ra ung thư hạch không hodgkin .",
+    "entities": [
+      {
+        "text": "bệnh u lympho không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư hạch không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiều bệnh và các điều kiện khác với ung thư tụy có thể gây ra dấu hiệu và các triệu chứng tương tự , do đó , bác sĩ có thể kiểm tra các điều kiện này cũng như đối với ung thư tuyến tụy .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu nhịp tim chậm nghiêm trọng , có thể cần phải cấy máy tạo nhịp tim để giúp tim duy trì một nhịp độ thích hợp .",
+    "entities": [
+      {
+        "text": "cấy máy tạo nhịp tim",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhịp tim chậm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thuốc chống đông nên được uống &gt; 3 tuần trước khi chuyển nhịp hoặc có thể ngắn hơn nếu siêu âm tim thực quản cho thấy không có huyết khối trong nhĩ trái .",
+    "entities": [
+      {
+        "text": "thuốc chống đông",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "viêm thực quản do thuốc một số thuốc uống có thể gây tổn thương mô nếu vẫn tiếp xúc với niêm mạc thực quản trong một thời gian kéo dài .",
+    "entities": [
+      {
+        "text": "viêm thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một loại xạ trị , hình thức bên trong của bức xạ ( brachytheraphy ) , đôi khi được sử dụng trong ung thư vòm họng tái phát .",
+    "entities": [
+      {
+        "text": "ung thư vòm họng tái phát",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "brachytheraphy",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đây là cách mà một trong những nguyên nhân gây ra các triệu chứng : viêm mũi dị ứng cảm các dấu hiệu và triệu chứng chảy nước mũi , chảy lưu lượng mỏng , không sốt chảy nước mũi có màu vàng , chảy nước thải hoặc đặc , đau nhức cơ thể , chất lượng sốt thấp khởi phát ngay sau khi tiếp xúc với chất gây dị ứng từ một đến ba ngày sau khi tiếp xúc với một loại virus lạnh thời lượng đang tiếp xúc với chất gây dị ứng năm đến bảy ngày đi khám bác sĩ nếu : nghĩ rằng có thể có viêm mũi dị ứng .",
+    "entities": [
+      {
+        "text": "không sốt chảy nước mũi có màu vàng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "triệu chứng chảy nước mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chảy nước thải hoặc đặc",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chảy lưu lượng mỏng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm mũi dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau nhức cơ thể",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa sốt hồi quy hiệu quả dưới đây là một số cách đơn giản có thể giúp phòng ngừa sốt hồi quy , cụ thể : thực hiện những biện pháp diệt chấy rận và những ổ bọ; vệ sinh sạch sẽ xung quanh nhà ở; đối với vật nuôi cần được tắm rửa sạch sẽ bằng xà phòng có thành phần diệt ve bọ; khi làm việc trong môi trường ô nhiễm , rừng hoặc nơi âm u cần mặc đồ bảo hộ và sử dụng thuốc xịt côn trùng; nếu phát hiện những triệu chứng trên nên tới bệnh viện kiểm tra để điều trị bệnh sớm .",
+    "entities": [
+      {
+        "text": "sốt hồi quy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân lệch vách ngăn xảy ra khi vách ngăn mũi , thành mỏng phân cách bên phải và mũi trái dời sang một bên .",
+    "entities": [
+      {
+        "text": "nhân lệch vách ngăn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các khối u tuyến nước bọt chiếm vào khoảng 0,2 - 0,6 % các loại khối u và 2 - 4 % các khối u vùng đầu cổ .",
+    "entities": [
+      {
+        "text": "u tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "lập danh sách những thứ gây co thắt thực quản , chẳng hạn như các loại thực phẩm và thức uống lạnh hoặc nóng , hoặc rượu vang đỏ .",
+    "entities": [
+      {
+        "text": "co thắt thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "u ác thường có mật độ âm không đồng nhất , bờ không đều và có thể hoại tử trung tâm u . chụp cắt lớp vi tính hoặc chụp cộng hưởng từ : các phương pháp chẩn đoán hình ảnh này mang lại rất nhiều thông tin trong việc đánh giá bệnh lý u tuyến nước bọt , mật độ , kích thước u , ranh giới , độ xâm lấn của u vào tổ chức xung quanh .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "u tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh ung thư thận vì chưa xác định chính xác nguyên nhân gây ung thư thận nên chưa có các biện pháp phòng ngừa đặc hiệu .",
+    "entities": [
+      {
+        "text": "bệnh ung thư thận",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc bệnh huyết khối tĩnh mạch sâu các biến chứng do huyết khối tĩnh mạch sâu gây ra bao gồm : thuyên tắc phổi : xảy ra khi động mạch phổi bị tắc nghẽn do cục máu đông từ nơi khác di chuyển đến phổi ( thường là ở chân ) .",
+    "entities": [
+      {
+        "text": "bệnh huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuyên tắc phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các dấu hiệu đáng lo ngại hơn bao gồm cơn đau xuất hiện thường xuyên hơn , kéo dài hơn 24 giờ hoặc xuất hiện kèm theo sốt .",
+    "entities": [
+      {
+        "text": "cơn đau",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm này có thể giúp xác định viêm dây thần kinh thị giác là do bị viêm động mạch sọ .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khối u ở một số khu vực của não bộ có thể gây ra những thay đổi tính cách hay thay đổi hành vi .",
+    "entities": [
+      {
+        "text": "thay đổi tính cách",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thay đổi hành vi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khối u",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các yếu tố dễ gây ra biến chứng bao gồm : hạ huyết áp , suy thận , trên 70 tuổi , đau ngực khởi phát đột ngột , mất mạch và đoạn st chênh lên trên ecg .",
+    "entities": [
+      {
+        "text": "hạ huyết áp",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ví dụ , cơn đau xuất hiện khi bạn đang đi bộ lên dốc hoặc trong thời tiết lạnh có thể là đau thắt ngực .",
+    "entities": [
+      {
+        "text": "đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cơn đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phòng ngừa bệnh thiên đầu thống ( tăng nhãn áp ) hiện tại chưa có phương pháp nào hiệu quả ngăn ngừa bệnh tăng nhãn áp .",
+    "entities": [
+      {
+        "text": "bệnh thiên đầu thống",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán rubella chẩn đoán phải dựa vào triệu chứng lâm sàng của rubella và xét nghiệm cần thiết : triệu chứng lâm sàng : sốt , phát ban , ho , mệt mỏi , biếng ăn , … xét nghiệm : xét nghiệm rubella igm : phát hiện kháng thể igm đáp ứng miễn dịch đặc hiệu với virus rubella .",
+    "entities": [
+      {
+        "text": "xét nghiệm rubella igm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "phát ban",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "biếng ăn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "vitamin b 12 vitamin b12 giúp ngăn ngừa bệnh thiếu máu , thúc đẩy tăng trưởng bình thường và phát triển và là điều cần thiết cho chức năng thần kinh .",
+    "entities": [
+      {
+        "text": "bệnh thiếu máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "vitamin b 12",
+        "type": "THUỐC"
+      },
+      {
+        "text": "vitamin b12",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù có hiệu quả , cyclosporine có tiềm năng cho các hiệu ứng phụ nghiêm trọng , chẳng hạn như tổn thương gan và thận , cao huyết áp , động kinh , nhiễm trùng gây tử vong và tăng nguy cơ ung thư hạch .",
+    "entities": [
+      {
+        "text": "cyclosporine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư hạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "động kinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều liên tục trào ngược axit có thể gây kích ứng niêm mạc thực quản , làm cho nó bị viêm ( viêm thực quản ) .",
+    "entities": [
+      {
+        "text": "viêm thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sự sụt giảm loại khí này có thể khiến người bệnh cảm thấy choáng váng , nhịp tim nhanh , khó thở , khiến người bệnh thở nhanh và sâu hơn so với bình thường và thường ở trong trạng thái hoảng loạn khi phát bệnh .",
+    "entities": [
+      {
+        "text": "khiến người bệnh thở nhanh và sâu hơn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhịp tim nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "choáng váng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hoảng loạn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "xem thêm : bệnh võng mạc đái tháo đường bệnh võng mạc do tăng huyết áp bệnh võng mạc do tiểu đường nguy hiểm thế nào ?",
+    "entities": [
+      {
+        "text": "bệnh võng mạc do tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh võng mạc đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh võng mạc do tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

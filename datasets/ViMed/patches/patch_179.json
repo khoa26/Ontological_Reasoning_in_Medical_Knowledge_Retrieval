@@ -1,0 +1,468 @@
+[
+  {
+    "text": "phương pháp điều trị huyết áp thấp hiệu quả huyết áp thấp ( hạ huyết áp ) không có triệu chứng hoặc chỉ có các triệu chứng nhẹ hiếm khi cần điều trị .",
+    "entities": [
+      {
+        "text": "huyết áp thấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đục thủy tinh thể vỏ bắt đầu như là màu trắng , chấm mờ đục hình nêm hoặc sọc ở rìa ngoài của vỏ ống kính .",
+    "entities": [
+      {
+        "text": "sọc ở rìa ngoài của vỏ ống kính",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bắt đầu như là màu trắng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đục thủy tinh thể vỏ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chấm mờ đục hình nêm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "điều trị viêm phúc mạc thường liên quan đến thuốc kháng sinh và trong một số trường hợp , phẫu thuật .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh tiểu đường tuýp 2 béo phì : tình trạng thừa cân làm tăng sự đề kháng insulin lối sống tĩnh tại : ít vận động , tiền sử gia đình có người tiểu đường tuýp 2 tuổi : nguy cơ mắc bệnh tăng theo tuổi tiền sử mắc tiểu đường thai kì ở nữ hội chứng buồng trứng đa nang tăng huyết áp rối loạn mỡ máu phòng ngừa bệnh tiểu đường tuýp 2 chế độ ăn lành mạnh : ít chất béo , mỡ động vật .",
+    "entities": [
+      {
+        "text": "hội chứng buồng trứng đa nang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tiểu đường tuýp 2",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiểu đường thai kì",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rối loạn mỡ máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thừa cân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "béo phì",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chụp cộng từ có lợi còn cho hình ảnh không gian ba chiều rõ nét giữa u tuyến và mô bình thường , không làm tăng kích thước u do tia x chọc hút tế bào bằng kim nhỏ : phương pháp này góp phần chẩn đoán phân biệt viêm tuyến , khối u , các hạch lympho lân cận .",
+    "entities": [
+      {
+        "text": "chọc hút tế bào bằng kim nhỏ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp cộng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "viêm tuyến",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cận thị nặng làm tăng nguy cơ của bệnh tăng nhãn áp đang phát triển , một bệnh mắt nghiêm trọng có tiềm năng .",
+    "entities": [
+      {
+        "text": "bệnh tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cận thị nặng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ một số yếu tố làm tăng nguy cơ phát triển viêm nắp thanh quản , bao gồm : quan hệ tình dục .",
+    "entities": [
+      {
+        "text": "viêm nắp thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhồi máu cơ tim : xảy ra khi nguồn cung cấp máu đến tim bị tắc nghẽn hoàn toàn và các tế bào cơ tim chết vì thiếu oxy .",
+    "entities": [
+      {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngừng thuốc sớm có thể dẫn đến tái phát và biến chứng nghiêm trọng , chẳng hạn như sốt thấp khớp hoặc viêm thận .",
+    "entities": [
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm thận",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị thường bao gồm các loại thuốc để giữ cho huyết áp thấp để giảm sức căng lên động mạch chủ .",
+    "entities": [
+      {
+        "text": "căng lên động mạch chủ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "huyết áp thấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau gan : suy tim nặng bên phải , viêm màng ngoài tim co thắt và tắc nghẽn tĩnh mạch gan ( hội chứng budd - chiari ) .",
+    "entities": [
+      {
+        "text": "viêm màng ngoài tim co thắt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tắc nghẽn tĩnh mạch gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa hội chứng brugada để phòng ngừa bệnh hiệu quả , bạn có thể tham khảo một số gợi ý dưới đây : cần có chế độ sinh hoạt và dinh dưỡng lành mạnh , đúng cách .",
+    "entities": [
+      {
+        "text": "hội chứng brugada",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "rối loạn ăn uống có thể gây ra vấn đề nghiêm trọng về thể chất và thậm chí nghiêm trọng nhất có thể đe dọa tính mạng .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật này giúp bệnh nhân có tinh trùng trở lại trong tinh dịch ở 65 - 70% các trường hợp và giúp có thai tự nhiên 20 - 30% .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "điều trị duy trì giảm liều corticosteroid tới khi ngưng hẳn hoặc dùng liều thấp nhất có thể để duy trì lui bệnh .",
+    "entities": [
+      {
+        "text": "corticosteroid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "kiểm tra và chẩn đoán để chẩn đoán hội chứng horner , bác sĩ sẽ bắt đầu bằng cách hỏi về bệnh sử và kiểm tra toàn diện về thể chất .",
+    "entities": [
+      {
+        "text": "bác sĩ sẽ bắt đầu bằng cách hỏi về bệnh sử và kiểm tra toàn diện về thể chất",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "hội chứng horner",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mri sử dụng sóng radio và từ trường mạnh để tạo ra hình ảnh chi tiết của các mô mềm não .",
+    "entities": [
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "việc điều trị chủ yếu cho người bệnh nhằm mục đích giảm đau , giảm nhẹ những triệu chứng khó chịu ở bệnh nhân .",
+    "entities": [
+      {
+        "text": "giảm đau",
+        "type": "THUỐC"
+      },
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ví dụ một số loại thuốc chống trầm cảm , thuốc chống loạn thần , thuốc giảm đau có chất gây mê và thuốc an thần .",
+    "entities": [
+      {
+        "text": "thuốc chống loạn thần",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chống trầm cảm",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc giảm đau",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc an thần",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù giá trị của nó như là điều trị nhức đầu chưa được xác định , xoa bóp có thể đặc biệt hữu ích nếu có co cơ ở mặt sau của đầu , cổ và vai .",
+    "entities": [
+      {
+        "text": "xoa bóp có thể đặc biệt hữu ích nếu có co cơ ở mặt sau của đầu , cổ và vai",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhức đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "eng ( trong đó sử dụng các điện cực ) hoặc vng ( dùng máy ảnh nhỏ ) có thể giúp xác định xem chóng mặt là do bệnh tai trong bằng cách đo chuyển động mắt không tự nguyện trong khi đầu được đặt ở các tư thế khác nhau , hoặc các cơ quan cân bằng được kích thích bằng nước hoặc không khí .",
+    "entities": [
+      {
+        "text": "đo chuyển động mắt không tự nguyện trong khi đầu được đặt ở các tư thế khác nhau",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "eng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "vng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm có thể bao gồm chụp x - quang , ct , mri và chụp cắt lớp phát xạ positron ( pet ) .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp phát xạ positron",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp x - quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "pet",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc ( bị ) viêm tá tràng các yếu tố làm tăng nguy cơ viêm tá tràng : người trên 65 tuổi; nhiễm hp ( helicobacter pylori ) ; hút thuốc lá; uống rượu; sử dụng nsaids trong một thời gian dài; stress hoặc bệnh nặng; tiền sử viêm tá tràng; đang xạ trị hoặc hóa trị .",
+    "entities": [
+      {
+        "text": "viêm tá tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu viêm dọc theo cạnh của mí mắt giữ các tuyến tiết ra dầu vào nước mắt , bác sĩ có thể khuyên nên dùng thuốc kháng sinh để giảm viêm .",
+    "entities": [
+      {
+        "text": "bác sĩ có thể khuyên nên dùng thuốc kháng sinh để giảm viêm",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thở khò khè : ở trẻ em do khối trung thất gây chèn ép khí phế quản hoặc các triệu chứng điển hình của viêm phế quản như ho , sốt cao hoặc hạ nhiệt độ , nghẹt mũi , buồn nôn , nôn … dấu hiệu và triệu chứng phụ thuộc vào vị trí của khối u trung thất : khó thở khi bệnh nhân nằm ngửa do khối trung thất trước lớn .",
+    "entities": [
+      {
+        "text": "viêm phế quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thở khò khè",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hạ nhiệt độ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nghẹt mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt cao",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một bất thường mũi , chẳng hạn như một vách ngăn mũi lệch , polyp mũi hoặc các khối u . một điều kiện y tế chẳng hạn như xơ nang , bệnh trào ngược dạ dày ( gerd ) , hoặc hệ thống miễn dịch rối loạn như thiếu kháng thể hoặc immunoglobulin .",
+    "entities": [
+      {
+        "text": "hệ thống miễn dịch rối loạn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh trào ngược dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "một bất thường mũi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thiếu kháng thể",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "immunoglobulin",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ nang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay thế thuốc thay thế phương pháp điều trị có thể giúp giảm đau ở những người bị ung thư gan giai đoạn muộn .",
+    "entities": [
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ lấy một mẫu nhỏ mạch máu hoặc các cơ quan bị viêm như da , phổi , thận… để kiểm tra dấu hiệu của viêm mạch .",
+    "entities": [
+      {
+        "text": "viêm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu có bệnh hen suyễn , sốt mùa hè có thể làm trầm trọng thêm các dấu hiệu và triệu chứng như ho và thở khò khè .",
+    "entities": [
+      {
+        "text": "bệnh hen suyễn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thở khò khè",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt mùa hè",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một đứa trẻ không thể đảo ngược tăng áp phổi ( hội chứng eisenmenger ) có hạn chế số lượng lớn nhất .",
+    "entities": [
+      {
+        "text": "hội chứng eisenmenger",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng áp phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

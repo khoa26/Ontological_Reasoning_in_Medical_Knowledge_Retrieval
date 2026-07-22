@@ -1,0 +1,379 @@
+[
+  {
+    "text": "viêm kết mạc do kích ứng kích thích từ một đối tượng hoặc hóa học trong mắt cũng được kết hợp với viêm kết mạc .",
+    "entities": [
+      {
+        "text": "viêm kết mạc do kích ứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi các phần đại tràng chứa u được lấy ra , các u polyp không thể tái diễn , nhưng có cơ hội phát triển khối u mới trong các khu vực khác của đại tràng trong tương lai .",
+    "entities": [
+      {
+        "text": "u polyp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm đại tràng màng giả đôi khi được gọi là viêm đại tràng liên quan đến kháng sinh hoặc viêm đại tràng c . difficile .",
+    "entities": [
+      {
+        "text": "viêm đại tràng màng giả",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối tượng nguy cơ bệnh u tuyến yên bệnh u tuyến yên có thể xảy ra mọi lứa tuổi , không phân biệt tuổi tác , đặc biệt là người già .",
+    "entities": [
+      {
+        "text": "bệnh u tuyến yên",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "x quang phổi : thường không tìm thấy dấu hiệu đặc hiệu , có thể quan sát thấy dấu hiệu phù phổi .",
+    "entities": [
+      {
+        "text": "x quang phổi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "phù phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không có phương thức chữa trị đặc hiệu hội chứng guillain - barre , nhưng một số phương pháp có thể điều trị triệu chứng dễ dàng và giảm thời gian của bệnh .",
+    "entities": [
+      {
+        "text": "phương pháp có thể điều trị triệu chứng dễ dàng và giảm thời gian của bệnh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hội chứng guillain - barre",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thông liên thất là một bệnh tim bẩm sinh rất phổ biến , được phát hiện từ giữa thế kỷ 19. tần suất thông liên thất đơn thuần thay đổi từ 1,5 – 2,5% trẻ ra đời còn sống ( live birth ) nhưng chiếm đến 20 – 25% các bệnh tim bẩm sinh ở trẻ em .",
+    "entities": [
+      {
+        "text": "bệnh tim bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhức đầu khi ho trung bình là nghiêm trọng hơn , khi chúng gây ra bởi các vấn đề về cấu trúc trong não , trong đó có thể phải phẫu thuật để sửa chữa .",
+    "entities": [
+      {
+        "text": "nhức đầu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhịp nhanh thất ( ventricular tachycardia - vt ) là một rối loạn nhịp nhanh có ≥ 3 phức bộ thất liên tiếp với tần số ≥ 100 nhịp/phút , phức bộ qrs giãn rộng ( &gt; 120ms ) xuất hiện khi khử cực ở thất chậm một cách bất thường , có nguồn gốc ngoài hệ thống dẫn truyền thông thường .",
+    "entities": [
+      {
+        "text": "nhịp nhanh thất",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thủ tục có thể tạo ra hình ảnh của túi mật bao gồm siêu âm , chụp cắt lớp vi tính ( ct ) và chụp cộng hưởng từ ( mri ) .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "hở van động mạch chủ mạn tính : thường không gây triệu chứng trong một thời gian dài đến khi chức năng tim giảm đi .",
+    "entities": [
+      {
+        "text": "hở van động mạch chủ mạn tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "túi thừa có thể gây rối loạn sự phối hợp giữa động tác nuốt và thở , gây viêm phổi , áp xe phổi , viêm phế quản , có thể chèn ép vào các dây thần kinh gây đau ở vai , ngực , .",
+    "entities": [
+      {
+        "text": "viêm phế quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "áp xe phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bởi vì nguy cơ bị hội chứng reye - một căn bệnh có khả năng đe dọa mạng sống , không bao giờ cung cấp cho aspirin cho trẻ em .",
+    "entities": [
+      {
+        "text": "bị hội chứng reye",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "aspirin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "những rối loạn thần kinh có thể ảnh hưởng đến tai trong , dây thần kinh thính giác hay chức năng não liên quan .",
+    "entities": []
+  },
+  {
+    "text": "nhức đầu khi ho trung bình các yếu tố rủi ro cho nhức đầu khi ho trung bình bao gồm : trẻ hơn tuổi 40. các xét nghiệm và chẩn đoán bác sĩ có thể khuyên nên kiểm tra hình ảnh não , chẳng hạn như mri hay ct scan .",
+    "entities": [
+      {
+        "text": "kiểm tra hình ảnh não",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nhức đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ct scan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của nhịp nhanh thất nhịp nhanh thất với thời gian ngắn và tần suất chậm có thể không có triệu chứng lâm sàng .",
+    "entities": [
+      {
+        "text": "nhịp nhanh thất",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ống mỏng linh hoạt ( nội soi ) với một ánh sáng quang đưa vào bằng mũi cho phép bác sĩ để kiểm tra trực quan bên trong xoang .",
+    "entities": [
+      {
+        "text": "kiểm tra trực quan bên trong xoang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống ngăn chặn các hành động gây ra nhức đầu - cho dù đó là ho , hắt hơi hoặc căng thẳng khi đi tiêu có thể giúp giảm số lượng các cơn đau nhức đầu .",
+    "entities": [
+      {
+        "text": "cơn đau nhức đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một số người gặp khó khăn nghiêm trọng để nhìn thấy , trong khi những người khác có thể không nhận thấy bất kỳ thay đổi trong tầm nhìn của họ .",
+    "entities": [
+      {
+        "text": "khó khăn nghiêm trọng để nhìn thấy",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một số xét nghiệm có thể được bác sĩ chỉ định bổ sung để tìm hiểu nguyên nhân gây ra các dấu hiệu và triệu chứng của người bệnh bao gồm : xét nghiệm máu động mạch các xét nghiệm máu khác chụp x - quang phổi chụp thông khí/tưới máu chụp ct điện tâm đồ ( ekg , ecg ) nếu bác sĩ nghi ngờ có tình trạng nghiêm trọng hơn hội chứng tăng thông khí , bạn có thể được đề nghị nhập viện để kiểm tra và theo dõi thêm .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hội chứng tăng thông khí",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chụp thông khí/tưới máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp x - quang phổi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ekg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ecg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ung thư lưỡi giai đoạn cuối ở giai đoạn này , các triệu chứng ung thư lưỡi trở nên rầm rộ và nặng nề hơn .",
+    "entities": [
+      {
+        "text": "ung thư lưỡi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hóa trị : sử dụng hóa chất tiêu diệt tế bào ung thư , ngăn cản tế bào ung thư phát triển .",
+    "entities": [
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trên thực tế , có 3 loại xét nghiệm chính được thực hiện : chụp cản quang tử cung - vòi trứng ( chụp hsg ) : kỹ thuật chụp x quang với thuốc cản quang được tiêm vào tử cung và vòi trứng .",
+    "entities": [
+      {
+        "text": "chụp cản quang tử cung - vòi trứng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp x quang với thuốc cản quang",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chụp hsg",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "điều này đặc biệt quan trọng nếu dành nhiều giờ dưới ánh mặt trời hoặc đang dùng thuốc theo toa làm tăng độ nhạy cảm với tia cực tím .",
+    "entities": [
+      {
+        "text": "dùng thuốc theo toa",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thường xuyên tiêm phòng vắc xin hib cho trẻ em đã làm viêm nắp thanh quản không phổ biến , nhưng nó vẫn là một mối quan tâm .",
+    "entities": [
+      {
+        "text": "tiêm phòng vắc xin hib cho trẻ em",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm nắp thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ phẫu thuật sẽ sử dụng laser excimer để định hình lại lớp bên ngoài của giác mạc và lên giá độ cong của nó và sau đó đặt lại vị trí nắp biểu mô .",
+    "entities": [
+      {
+        "text": "sử dụng laser excimer",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hệ thống miễn dịch có thể coi tim hiến tặng như một vật thể lạ và cố gắng từ chối , làm tổn thương tim .",
+    "entities": [
+      {
+        "text": "tổn thương tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phụ nữ mắc bệnh tiểu đường không kiểm soát tốt lượng đường trong máu có nguy cơ sinh con mắc bệnh thoát vị não màng não cao hơn .",
+    "entities": [
+      {
+        "text": "bệnh thoát vị não màng não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tiểu đường",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa với viêm xoang mãn tính , các hốc quanh mũi ( xoang ) bị viêm và sưng lên .",
+    "entities": [
+      {
+        "text": "viêm xoang mãn tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sưng lên",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bị viêm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "theo thống kê , có khoảng 1 - 3% các trường hợp vô sinh bế tắc là do tắc ống phóng tinh .",
+    "entities": [
+      {
+        "text": "tắc ống phóng tinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

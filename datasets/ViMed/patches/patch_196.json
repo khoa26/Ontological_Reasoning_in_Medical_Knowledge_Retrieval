@@ -1,0 +1,452 @@
+[
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa viễn thị ( hyperopia ) là một điều kiện về tầm nhìn chung , trong đó có thể nhìn thấy vật ở xa rõ ràng , nhưng đối tượng ở gần có thể bị mờ .",
+    "entities": [
+      {
+        "text": "nhưng đối tượng ở gần có thể bị mờ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "có thể nhìn thấy vật ở xa rõ ràng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viễn thị ( hyperopia )",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "với thời gian tiến triển , áp lực lên não tăng lên , xuất hiện một số hoặc tất cả các dấu hiệu và triệu chứng sau đây : nhức đầu tăng .",
+    "entities": [
+      {
+        "text": "áp lực lên não tăng lên",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhức đầu tăng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hình ảnh bệnh thiểu ối tổng quan bệnh thiểu ối nước ối là chất lỏng bao quanh thai nhi , là môi trường lỏng giúp thai nhi phát triển trong suốt quá trình mang thai .",
+    "entities": [
+      {
+        "text": "bệnh thiểu ối",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "huyết áp càng cao thì tiên lượng tiền sản giật càng nặng huyết áp tâm thu ≥ 160mmhg hoặc huyết áp tâm trương ≥ 110mmhg cần được sử dụng thuốc hạ áp kịp thời .",
+    "entities": [
+      {
+        "text": "tiền sản giật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "siêu âm tim : xác định phân suất tống máu của tim và theo dõi chức năng tim của bệnh nhân trong danh sách chờ ghép .",
+    "entities": [
+      {
+        "text": "ghép",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu thức ăn hoặc chất lỏng đi vào đường hô hấp khi cố gắng nuốt , các vấn đề hô hấp hoặc nhiễm trùng có thể xảy ra , như thường xuyên của viêm phổi hoặc nhiễm trùng hô hấp trên .",
+    "entities": [
+      {
+        "text": "nhiễm trùng hô hấp trên",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong khi chờ đợi , hãy thử các thủ thuật để làm giảm triệu chứng của viêm họng : nghỉ ngơi nhiều .",
+    "entities": [
+      {
+        "text": "viêm họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư hạch không hodgkin là ung thư bắt nguồn từ hệ bạch huyết , hệ bạch huyết là mạng lưới chống lại bệnh tật lan rộng khắp cơ thể bạn .",
+    "entities": [
+      {
+        "text": "ung thư hạch không hodgkin",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nổi khối u ở bụng : thường được bệnh nhân phát hiện tình cờ hoặc qua thăm khám bụng của bác sỹ đau bụng : đau âm ỉ , mơ hồ , ít khi đau dữ dội giảm cân không rõ nguyên nhân , thường gặp trong ung thư ruột non giai đoạn cuối .",
+    "entities": [
+      {
+        "text": "ung thư ruột non",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khối u ở bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau dữ dội",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau âm ỉ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "giảm cân",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ các yếu tố có thể làm tăng nguy cơ ung thư túi mật , bao gồm : giới tính .",
+    "entities": [
+      {
+        "text": "ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với những bệnh nhân có khối ung thư tụy đã được loại bỏ hoàn toàn bằng phẫu thuật , tỷ lệ sống còn 5 năm là 20 - 30% .",
+    "entities": [
+      {
+        "text": "ung thư tụy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "được gọi là kháng histamin h2 , các thuốc này có toa và bao gồm cimetidine ( tagamet hb ) , famotidine ( pepcid ac ) , nizatidine ( axid ar ) và ranitidine ( zantac 75 ) .",
+    "entities": [
+      {
+        "text": "kháng histamin h2",
+        "type": "THUỐC"
+      },
+      {
+        "text": "cimetidine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tagamet hb",
+        "type": "THUỐC"
+      },
+      {
+        "text": "famotidine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nizatidine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ranitidine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "pepcid ac",
+        "type": "THUỐC"
+      },
+      {
+        "text": "zantac 75",
+        "type": "THUỐC"
+      },
+      {
+        "text": "axid ar",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của viêm ruột thừa cấp các dấu hiệu và triệu chứng của viêm ruột thừa cấp có thể bao gồm : đau đột ngột bắt đầu ở bên phải của bụng dưới – đây là dấu hiệu chính của bệnh viêm ruột thừa cấp .",
+    "entities": [
+      {
+        "text": "bệnh viêm ruột thừa cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố làm tăng nguy cơ mắc phải nhịp nhanh thất một số yếu tố làm tăng nguy cơ mắc nhịp nhanh thất , bao gồm : rối loạn điện giải ( hạ kali máu , hạ magie máu ) ; rối loạn kiềm toan ; giảm oxy máu; tác dụng không mong muốn của một số thuốc; hút thuốc lá; uống nhiều rượu bia; nghiện ma túy; stress .",
+    "entities": [
+      {
+        "text": "rối loạn điện giải",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rối loạn kiềm toan",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhịp nhanh thất",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thay thế thuốc không có phương pháp điều trị thay thế đã được tìm thấy để điều trị viêm xơ đường mật .",
+    "entities": [
+      {
+        "text": "viêm xơ đường mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , trong trường hợp các điều kiện không đáp ứng với điều trị hoặc đang tiến triển , các xét nghiệm mô có thể giúp chỉ ra nguyên nhân , như xác định một n guyên nhân vi khuẩn .",
+    "entities": [
+      {
+        "text": "xét nghiệm mô",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "thuốc các bác sĩ thường kê đơn thuốc hạ huyết áp để giúp ngăn động mạch chủ mở rộng và giảm nguy cơ bị bóc tách và vỡ .",
+    "entities": [
+      {
+        "text": "động mạch chủ mở rộng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thuốc hạ huyết áp",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bóc tách",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "danh sách bác sĩ vinmec có thể thực hiện thay van tim qua da không cần phẫu thuật ( tavi ) thay van động mạch chủ qua da ( tavi ) : giải pháp tối ưu cho người bị hẹp van động mạch chủ chủ đề : tim mạch tim bẩm sinh thông liên nhĩ thông liên thất tavi tim bẩm sinh ở trẻ em thay van động mạch chủ qua da can thiệp tim mạch",
+    "entities": [
+      {
+        "text": "thay van động mạch chủ qua da",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hẹp van động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thay van tim qua da",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thông liên thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thông liên nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tim bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "quan ngại lớn nhất của nhiễm trùng huyết là tập hợp những biểu hiện lâm sàng của tình trạng nhiễm trùng – nhiễm độc toàn thân , gây choáng ( sốc ) , suy đa tạng và tử vong nhanh .",
+    "entities": [
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy đa tạng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhiễm độc",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "choáng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốc",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biểu hiện u não ở trẻ rất khó khám , có thể chỉ với những dấu hiệu đơn giản như nôn , đau đầy nên có nhiều trường hợp bị chẩn đoán muộn .",
+    "entities": [
+      {
+        "text": "đau đầy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "u não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu và triệu chứng của bệnh crohn có thể từ nhẹ đến nặng và có thể phát triển dần dần hoặc đến đột ngột mà không có cảnh báo .",
+    "entities": [
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đây là một số chiến lược và nguồn lực có thể làm cho đối phó với bệnh ung thư dễ dàng hơn : biết những gì mong đợi .",
+    "entities": [
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị để ngăn ngừa các cơn tương lai nếu bác sĩ thấy rung thất là do sự thay đổi trong cấu trúc của tim , chẳng hạn như mô sẹo từ một cơn đau tim , bác sĩ có thể khuyên nên dùng thuốc hoặc thực hiện một thủ tục y tế để giảm nguy cơ rung thất trong tương lai .",
+    "entities": [
+      {
+        "text": "cơn đau tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "rung thất",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa viêm xơ đường mật là một bệnh của đường mật .",
+    "entities": [
+      {
+        "text": "viêm xơ đường mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biểu hiện : sốt : sốt cao trên 38 o c là dấu hiệu đầu tiên và quan trọng nhất của nhiễm trùng huyết ; hạ thân nhiệt : trong một số hiếm trường hợp , đáp ứng của cơ thể với tình trạng nhiễm trùng là hạ thân nhiệt .",
+    "entities": [
+      {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "hạ thân nhiệt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt cao",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp , tắc ống dẫn trứng có thể gây ra tình trạng mang thai ngoài tử cung .",
+    "entities": [
+      {
+        "text": "tắc ống dẫn trứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nguyên nhân bệnh tăng thông khí có nhiều nguyên nhân có thể dẫn đến hội chứng tăng thông khí phổi nhưng lo âu và hoảng sợ ( rối loạn lo lắng ) là nguyên nhân chính dẫn đến tình trạng tăng nhanh nhịp thở .",
+    "entities": [
+      {
+        "text": "hội chứng tăng thông khí phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tăng thông khí",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng nhanh nhịp thở",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "hoảng sợ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lo âu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu được chẩn đoán mắc hội chứng marfan , cần phải kiểm tra hình ảnh thường xuyên để theo dõi kích thước và tình trạng của động mạch chủ .",
+    "entities": [
+      {
+        "text": "hội chứng marfan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các triệu chứng sốt thường bắt đầu ngay lập tức sau khi tiếp xúc với một chất gây dị ứng cụ thể ( chất gây dị ứng ) và có thể bao gồm : chảy nước mũi và nghẹt mũi .",
+    "entities": [
+      {
+        "text": "triệu chứng sốt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chảy nước mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nghẹt mũi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong một số ít những người có gan nhiễm mỡ , có các nguyên nhân gây viêm nhiễm mỡ trong gan .",
+    "entities": [
+      {
+        "text": "viêm nhiễm mỡ trong gan",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "gan nhiễm mỡ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

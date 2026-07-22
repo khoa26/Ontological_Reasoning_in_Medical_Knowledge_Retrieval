@@ -1,0 +1,367 @@
+[
+  {
+    "text": "đối với một số người , đeo kính được quy định cho các hoạt động cụ thể , chẳng hạn như sử dụng máy tính hoặc đọc sách , có thể giúp giảm mỏi mắt .",
+    "entities": [
+      {
+        "text": "đeo kính được quy định cho các hoạt động cụ thể",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "hầu hết các triệu chứng ung thư cổ họng không cụ thể cho bệnh ung thư , do đó , bác sĩ có thể đầu tiên thường sẽ điều tra nguyên nhân khác .",
+    "entities": [
+      {
+        "text": "ung thư cổ họng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp chẩn đoán bệnh ung thư tinh hoàn chẩn đoán ung thư tinh hoàn dựa vào các dấu hiệu lâm sàng và cận lâm sàng .",
+    "entities": [
+      {
+        "text": "bệnh ung thư tinh hoàn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những người đau đầu cơn có mức độ bất thường hoóc môn nhất định , chẳng hạn như melatonin và cortisol trong thời gian đau .",
+    "entities": [
+      {
+        "text": "đau đầu cơn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bệnh học ung thư đại tràng ung thư đại tràng có thể gặp ở bất cứ vị trí nào của đại tràng : đại tràng sigma , đại tràng xuống , đại tràng ngang , đại tràng lên và manh tràng .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "không kiểm soát được nhiễm trùng thường gặp nhất do nhiễm khuẩn lan ra vùng quanh van hoặc do loại vi khuẩn khó điều trị và là chỉ định phẫu thuật sớm ở bệnh nhân viêm nội tâm mạc nhiễm khuẩn .",
+    "entities": [
+      {
+        "text": "viêm nội tâm mạc nhiễm khuẩn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "có 4 triệu chứng báo hiệu chẩn đoán sớm ung thư da : ổ loét lâu liền hoặc loét rớm máu ổ dầy sừng có loét , nổi cục , dễ chảy máu ổ loét hoặc u trên nền sẹo cũ nốt đỏ mạn tính có loét , thay đổi kích thước của nốt ruồi .",
+    "entities": [
+      {
+        "text": "nốt đỏ mạn tính có loét",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ổ dầy sừng có loét",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "u trên nền sẹo cũ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ổ loét lâu liền",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "loét rớm máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "dễ chảy máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ung thư da",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nổi cục",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tắt tiếng ồn trong một số trường hợp \"tắt tiếng ồn\" có thể giúp ngăn chặn những âm thanh để ít khó chịu .",
+    "entities": [
+      {
+        "text": "tắt tiếng ồn trong một số trường hợp \"tắt tiếng ồn\" có thể giúp ngăn chặn những âm thanh để ít khó chịu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "biến chứng có thể gặp khi mắc bệnh phình tách động mạch chủ biến chứng thường gặp bao gồm : giảm tưới máu cho động mạch tách ra từ động mạch chủ ( bao gồm cả động mạch vành ) ; giãn nở và trào ngược van động mạch chủ; suy tim ; vỡ động mạch chủ gây tử vong do đi vào màng tim , tâm nhĩ phải hoặc khoang màng phổi trái .",
+    "entities": [
+      {
+        "text": "bệnh phình tách động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc gây tê khu vực , chẳng hạn như lidocain ( xylocaine ) , có thể có hiệu quả chống đau đau đầu cơn khi được sử dụng ở dạng thuốc nhỏ mũi .",
+    "entities": [
+      {
+        "text": "thuốc gây tê khu vực",
+        "type": "THUỐC"
+      },
+      {
+        "text": "đau đau đầu cơn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xylocaine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "lidocain",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "trong số 19 loài sán máng thuộc giống schistosoma có 6 loài được xác định là gây bệnh ở người như schistosoma hematobium chủ yếu ký sinh trong tĩnh mạch bàng quang gây tổn thương ở bàng quang; s . japonicum , s . mekongi , s . intercalatum và s . malayensis chủ yếu ký sinh ở tĩnh mạch cửa và gây tổn thương ở ruột .",
+    "entities": []
+  },
+  {
+    "text": "thực phẩm có nhiều chất béo và đường như kem , pho mát và thực phẩm chế biến có thể gây ra hoặc làm nặng thêm táo bón .",
+    "entities": [
+      {
+        "text": "táo bón",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mặc quần áo mềm , rộng rãi , thoáng mát sử dụng các thuốc hạ sốt theo đúng hướng dẫn nếu sốt cao có thể sử dụng kháng sinh nếu có biểu hiện nhiễm trùng ở các nốt phỏng hoặc biến chứng như viêm phổi , viêm não màng não .",
+    "entities": [
+      {
+        "text": "viêm não màng não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt cao",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sốt thấp khớp , một tình trạng nghiêm trọng có thể ảnh hưởng đến tim , khớp , hệ thần kinh và da .",
+    "entities": [
+      {
+        "text": "sốt thấp khớp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "cụ thể : nguyên nhân từ phía mẹ mẹ mắc một số bệnh như tăng huyết áp , tiền sản giật , bệnh lý gan thận làm cho thai nghén kém phát triển và giảm chức năng tái tạo nước ối mẹ dùng một số thuốc trong quá trình mang thai : ức chế men chuyển , ức chế tổng hợp prostagladin , hóa trị ung thư .",
+    "entities": [
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiền sản giật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu người bệnh không thấy các triệu chứng trong vài tuần , bác sĩ có thể kê đơn thuốc theo toa hoặc phẫu thuật .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nghĩ rằng nguyên nhân gerd gây thiệt hại cho thực quản khi thực quản cố gắng để tự chữa bệnh , các tế bào có thể thay đổi .",
+    "entities": [
+      {
+        "text": "gerd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các thuốc như sildenafil , tadalafil ức chế cgmp ( cyclic guanosine monophosphate ) – enzyme trong quá trình giáng hóa no , từ đó tăng quá trình giãn mạch .",
+    "entities": [
+      {
+        "text": "sildenafil , tadalafil",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục mặc dù không thể ngăn ngừa cận thị , có thể giúp bảo vệ đôi mắt và tầm nhìn .",
+    "entities": [
+      {
+        "text": "cận thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc thay thế rất ít nghiên cứu phương pháp trị liệu bổ sung và thay thế đã được thực hiện cho khối u não .",
+    "entities": [
+      {
+        "text": "phương pháp trị liệu bổ sung",
+        "type": "THUỐC"
+      },
+      {
+        "text": "khối u não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hút thuốc lá có khả năng tăng nguy cơ phát triển chứng sa sút trí tuệ mất trí vì nguy cơ cao xơ vữa động mạch và các loại bệnh về mạch máu các biến chứng chứng sa sút trí tuệ mất trí nhớ có thể ảnh hưởng đến chức năng của nhiều hệ thống cơ thể và khả năng thực hiện nhiệm vụ hàng ngày .",
+    "entities": [
+      {
+        "text": "chứng sa sút trí tuệ mất trí nhớ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh về mạch máu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể sử dụng dụng cụ khác nhau , nhằm mục đích ánh sáng ở mắt và yêu cầu xem xét thông qua một loạt các ống kính để kiểm tra tầm nhìn từ xa và gần .",
+    "entities": [
+      {
+        "text": "kiểm tra tầm nhìn từ xa và gần",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sử dụng dụng cụ khác nhau",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "một phần thường gây phiền nhiễu tự nhiên của sự lão hóa , lão thị thường trở nên đáng chú ý vào đầu đến giữa độ tuổi 40 và tiếp tục xấu đi cho đến khoảng tuổi 60. có thể nhận thức trở thành lão thị khi bắt đầu giữ sổ sách và báo chí ở khoảng cách của cánh tay để có thể đọc chúng .",
+    "entities": [
+      {
+        "text": "lão thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số yếu tố nguy cơ của ung thư thận : hút thuốc lá : hút thuốc lá tăng nguy cơ mắc ung thư thận gấp 2 lần tiếp xúc hóa chất độc hại : công nhân tiếp xúc với các hóa chất như thuốc nhuộm aniline hay kim loại nặng có nguy cơ mắc ung thư thận cao hơn béo phì : người béo phì có nguy cơ bị ung thư thận cao hơn .",
+    "entities": [
+      {
+        "text": "ung thư thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "béo phì",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sinh thiết : sinh thiết được thực hiện trong quá trình soi bàng quang để lấy một mẫu mô nhỏ đem đi soi .",
+    "entities": [
+      {
+        "text": "soi bàng quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "barrett thực quản , một tình trạng mà trong đó các tế bào niêm mạc thực quản thay đổi , là một yếu tố nguy cơ ung thư thực quản .",
+    "entities": [
+      {
+        "text": "barrett thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc : một vài loại thuốc đã được chứng minh thúc đẩy bệnh bao gồm aspirin , sulfamide , xanh methylen , vitamin c liều cao , quinine và các loại thuốc điều trị sốt rét có nguồn gốc từ quinine , hoạt chất chứa naphthalene .",
+    "entities": [
+      {
+        "text": "sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm để xác định mức độ của bệnh ung thư sau khi chẩn đoán được xác nhận , kiểm tra để xác định mức độ ( giai đoạn ) của ung thư , chẳng hạn như thử nghiệm hình ảnh .",
+    "entities": [
+      {
+        "text": "kiểm tra để xác định mức độ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "thử nghiệm hình ảnh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phòng chống mặc dù khó nuốt không thể được ngăn chặn khi nguyên nhân do thiệt hại hay rối loạn thần kinh , đôi khi có thể giảm nguy cơ gặp khó nuốt bằng cách ăn chậm và nhai thức ăn tốt .",
+    "entities": [
+      {
+        "text": "khó nuốt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số thuốc nhỏ mắt có chứa kháng histamin hoặc thuốc khác có thể hữu ích cho những người bị viêm kết mạc dị ứng .",
+    "entities": [
+      {
+        "text": "thuốc khác có thể hữu ích cho những người bị viêm kết mạc dị ứng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc nhỏ mắt có chứa kháng histamin",
+        "type": "THUỐC"
+      }
+    ]
+  }
+]

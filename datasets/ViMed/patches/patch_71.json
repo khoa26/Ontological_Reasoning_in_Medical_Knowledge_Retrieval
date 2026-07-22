@@ -1,0 +1,484 @@
+[
+  {
+    "text": "đây là hậu quả của quá trình rối loạn tiêu hóa ( chán ăn , ăn không tiêu , chướng bụng ) do không có dịch mật được bài xuất xuống ruột .",
+    "entities": [
+      {
+        "text": "ăn không tiêu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chướng bụng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc hầu hết màng nhĩ thủng chữa lành mà không điều trị trong vòng một vài tuần .",
+    "entities": [
+      {
+        "text": "màng nhĩ thủng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều này có thể gây ra tổn thương da không thể phục hồi như : sưng hoặc căng da ; phát ban ở cẳng chân ; da sạm màu / đổi màu ; loét ( vết thương ) xung quanh hoặc trên mắt cá chân .",
+    "entities": [
+      {
+        "text": "phát ban ở cẳng chân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "da sạm màu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "căng da",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đổi màu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sưng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "loét",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các biện pháp điều trị bệnh ung thư hậu môn điều trị ung thư trực tràng hiện nay có 3 phương pháp chính : phẫu thuật , xạ trị và hóa chất .",
+    "entities": [
+      {
+        "text": "ung thư trực tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư hậu môn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hóa chất",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu có sự thoái hóa điểm vàng , khi nhìn vào lưới điện một số đường thẳng có thể dường như đã bị mờ , bị hỏng hoặc bị bóp méo .",
+    "entities": [
+      {
+        "text": "thoái hóa điểm vàng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bị bóp méo",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bị hỏng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bị mờ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "teo dây thần kinh thị giác do thiếu máu nuôi dưỡng cũng có thể xảy ra sau xạ trị vùng đầu mặt cổ từ 3 tháng đến 8 năm , trung bình khoảng 1,5 năm do tổn thương mô đệm của mạch máu , có thể kết hợp với tổn thương dĩa thị .",
+    "entities": [
+      {
+        "text": "teo dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xạ trị vùng đầu mặt cổ",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "vì lý do này , bác sĩ có thể khuyên nên tiếp tục làm giảm acid bằng thuốc và kiểm tra nội soi định kỳ .",
+    "entities": [
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "đối với viêm mạch ít nghiêm trọng hơn , khởi đầu điều trị bằng corticosteroid kết hợp với các thuốc ức chế miễn dịch ít độc ví dụ như : methotrexate , azathioprine , mycophenolate mofetil hoặc rituximab .",
+    "entities": [
+      {
+        "text": "mycophenolate mofetil",
+        "type": "THUỐC"
+      },
+      {
+        "text": "corticosteroid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "methotrexate",
+        "type": "THUỐC"
+      },
+      {
+        "text": "azathioprine",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rituximab",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng của bệnh động mạch vành bao gồm : đau ngực , tức ngực và khó chịu ở ngực ( đau thắt ngực ) .",
+    "entities": [
+      {
+        "text": "bệnh động mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó chịu ở ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau thắt ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tức ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "gần như tất cả kháng sinh có thể gây ra tiêu chảy , viêm đại tràng hoặc viêm đại tràng giả .",
+    "entities": [
+      {
+        "text": "viêm đại tràng giả",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "người bệnh thoái hóa khớp háng để hai đầu gối chạm xuống đất , từ từ nâng hai chân tạo với mặt sàn một góc 90 độ .",
+    "entities": [
+      {
+        "text": "bệnh thoái hóa khớp háng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "táo bón thường thấy ở ung thư đại tràng trái nhiều hơn , táo bón kéo dài làm người bệnh khó chịu , nhức đầu , chán ăn , ảnh hưởng đến sức khoẻ .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhức đầu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nút đệm sẽ ngăn ngừa hạt từ kênh bán nguyệt di chuyển vào tai để đáp ứng với di chuyển đầu nói chung .",
+    "entities": [
+      {
+        "text": "nút đệm",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thủ thuật được tiến hành cùng lúc với siêu âm hoặc ct scan để hướng dẫn kim vào khối u . nội soi sinh thiết : bác sĩ chuyên khoa tiêu hóa thực hiện thủ thuật này bằng cách đưa một ống nội soi qua miệng , dạ dày , và sau đó vào tá tràng .",
+    "entities": [
+      {
+        "text": "nội soi sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct scan",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp tiêu chảy do kháng sinh nhẹ , bác sĩ có thể khuyên nên dùng thuốc chống tiêu chảy , như loperamide .",
+    "entities": [
+      {
+        "text": "thuốc chống tiêu chảy",
+        "type": "THUỐC"
+      },
+      {
+        "text": "loperamide",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc các mục tiêu chính trong điều trị viêm mống mắt là để bảo vệ thị lực và làm giảm các cơn đau liên quan với tình trạng này .",
+    "entities": [
+      {
+        "text": "điều trị viêm mống mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phẫu thuật lấy huyết khối , hoặc can thiệp lấy huyết khối bằng ống thông : cần được thực hiện ở trung tâm ngoại khoa có đầy đủ trang thiết bị và kinh nghiệm .",
+    "entities": [
+      {
+        "text": "can thiệp lấy huyết khối bằng ống thông",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật lấy huyết khối",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thường gặp những dấu hiệu và triệu chứng của đau tim các triệu chứng chính của cơn đau tim : đau hoặc khó chịu ở ngực .",
+    "entities": [
+      {
+        "text": "khó chịu ở ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "một trong những thành phần của crest , hiện tượng raynaud cũng có thể xảy ra ở những người bị xơ gan đường mật .",
+    "entities": [
+      {
+        "text": "xơ gan đường mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "raynaud",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "crest",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "để kiểm tra lại mắt , bác sĩ mắt sẽ giãn mắt bằng cách sử dụng thuốc nhỏ mắt và sau đó sử dụng một ống kính đặc biệt .",
+    "entities": [
+      {
+        "text": "sử dụng một ống kính đặc biệt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "sử dụng thuốc nhỏ mắt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đến cơ sở chăm sóc y tế ngay lập tức nếu có các triệu chứng sau : khó thở ; chóng mặt ; tức ngực khó chịu ; ngất xỉu ; tim đập nhanh kéo dài , không cải thiện hoặc nặng hơn; tiền sử bệnh tim; cảm giác lo lắng về tim đập nhanh .",
+    "entities": [
+      {
+        "text": "tim đập nhanh kéo dài",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tức ngực khó chịu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngất xỉu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể sinh thiết hạch để loại bỏ tất cả hoặc một phần của hạch bạch huyết để xét nghiệm .",
+    "entities": [
+      {
+        "text": "sinh thiết hạch",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng bệnh ung thư thận triệu chứng của ung thư thận được biểu hiện bởi tam chứng cổ điển : tiểu máu , khối u vùng thắt lưng và đau .",
+    "entities": [
+      {
+        "text": "khối u vùng thắt lưng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bệnh ung thư thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tiểu máu",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu đã có nhiễm trùng lặp đi lặp lại , bác sĩ có thể khuyên nên dùng kháng sinh trước khi làm thủ tục có khả năng gây nhiễm trùng , chẳng hạn như các thủ tục nội soi hoặc phẫu thuật .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "đối với hầu hết mọi người , tiêu chảy do kháng sinh gây ra dấu hiệu và triệu chứng nhẹ , chẳng hạn như : phân sống .",
+    "entities": [
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phân sống",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm giúp bác sĩ loại ra vấn đề tuyến giáp hoặc các chất khác trong máu có thể dẫn đến rung nhĩ .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa viêm thanh quản là tình trạng viêm thanh quản từ kích thích , lạm dụng hoặc nhiễm trùng .",
+    "entities": [
+      {
+        "text": "viêm thanh quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những bệnh nhân rung nhĩ tái đi tái lại không cần nhập viện trừ khi có triệu chứng nặng liên quan đến rung nhĩ đòi hỏi phải điều trị ở bệnh viện .",
+    "entities": [
+      {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu có các triệu chứng của viêm mống mắt , gặp bác sĩ càng sớm càng tốt để đánh giá và điều trị .",
+    "entities": [
+      {
+        "text": "viêm mống mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . ) , ức chế men chuyển / ức chế thụ thể ( lisinopril , captopril , valsartal , losartan , .",
+    "entities": [
+      {
+        "text": "ức chế men chuyển",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ức chế thụ thể",
+        "type": "THUỐC"
+      },
+      {
+        "text": "lisinopril",
+        "type": "THUỐC"
+      },
+      {
+        "text": "captopril",
+        "type": "THUỐC"
+      },
+      {
+        "text": "valsartal",
+        "type": "THUỐC"
+      },
+      {
+        "text": "losartan",
+        "type": "THUỐC"
+      }
+    ]
+  }
+]

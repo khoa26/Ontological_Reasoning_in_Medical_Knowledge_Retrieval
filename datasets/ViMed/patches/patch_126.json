@@ -1,0 +1,420 @@
+[
+  {
+    "text": "cấp tính điều trị cắt cơn nhịp thanh thất cáp tính tùy thuộc vào triệu chứng và thời gian của cơn .",
+    "entities": [
+      {
+        "text": "nhịp thanh thất",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "rối loạn nhịp là kết quả của sự bất thường về hình thành xung động , dẫn truyền xung động hoặc cả hai .",
+    "entities": [
+      {
+        "text": "rối loạn nhịp",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thuốc thay thế không phụ thuộc vào các biện pháp thảo dược cho việc chăm sóc chính bệnh tăng nhãn áp .",
+    "entities": [
+      {
+        "text": "bệnh tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "siêu âm tim sử dụng sóng âm thanh để tạo ra hình ảnh của tim được hiển thị trên màn hình điện tử giúp bác sĩ phát hiện các bất thường về tim .",
+    "entities": [
+      {
+        "text": "siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa bệnh viêm động mạch takayasu là một loại hiếm gặp của viêm mạch , một nhóm các rối loạn gây viêm mạch máu .",
+    "entities": [
+      {
+        "text": "bệnh viêm động mạch takayasu",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "giữ ấm phát hiện sớm , điều trị kịp thời những sản phụ có nguy cơ cao để ngăn xảy ra sản giật .",
+    "entities": [
+      {
+        "text": "sản giật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi ung thư tuyến tụy tiến triển và phương pháp điều trị không có khả năng cung cấp lợi ích , bác sĩ có thể gợi ý những cách để làm giảm triệu chứng và làm cho thoải mái như có thể .",
+    "entities": [
+      {
+        "text": "ung thư tuyến tụy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vaginal estrogen : để làm dịu chứng khô âm đạo , estrogen có thể được đưa trực tiếp vào âm đạo và được hấp thụ bởi các mô âm đạo .",
+    "entities": [
+      {
+        "text": "khô âm đạo",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong xơ gan đường mật , sự phá hủy của đường mật có thể gây ra tích tụ các chất độc hại trong gan và đôi khi dẫn đến sẹo không thể đảo ngược của mô gan ( xơ gan ) .",
+    "entities": [
+      {
+        "text": "xơ gan đường mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị bao gồm việc xác định gan to và kiểm soát các nguyên nhân cơ bản của tình trạng này .",
+    "entities": [
+      {
+        "text": "gan to",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "mri thường không được sử dụng thường xuyên như ct trong chẩn đoán tụ máu nội sọ bởi vì mất nhiều thời gian để thực hiện và không phổ biến rộng rãi .",
+    "entities": [
+      {
+        "text": "tụ máu nội sọ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "nhưng quét mri sử dụng sóng radio thay vì tia x . năng lượng từ sóng vô tuyến được hấp thụ và sau đó được giải phóng tạo nên hình ảnh các mô cơ thể và một số bệnh nhất định .",
+    "entities": [
+      {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm này có thể phát hiện vi khuẩn liên cầu khuẩn trong vài phút bằng cách tìm kiếm các chất lạ ( kháng nguyên ) trong cổ họng .",
+    "entities": [
+      {
+        "text": "xét nghiệm này có thể phát hiện vi khuẩn liên cầu khuẩn",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "tìm kiếm các chất lạ ( kháng nguyên ) trong cổ họng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ung thư thận giai đoạn 3 : ung thư đã xâm lấn các vùng lân cận như mô quanh thận , tuyến thượng thận , các tĩnh mạch lớn ung thư thận giai đoạn cuối : ung thư di căn tới các bộ phận khác của cơ thể , bệnh nhân mệt mỏ i , suy kiệt dần dần .",
+    "entities": [
+      {
+        "text": "ung thư thận",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy kiệt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các bệnh truyền nhiễm có thể làm tăng nguy cơ tổn thương gan bao gồm sốt rét và sốt q . bệnh viêm gan vi rút .",
+    "entities": [
+      {
+        "text": "bệnh viêm gan vi rút",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh truyền nhiễm",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt rét",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sốt q",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , đây không phải luôn luôn có thể , và có thể cần điều trị bổ sung cùng với các chiến lược để ngăn ngừa tiếp xúc .",
+    "entities": [
+      {
+        "text": "chiến lược để ngăn ngừa tiếp xúc",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đối với những người làm việc trong một số ngành công nghiệp liên quan đến tăng nguy cơ ung thư tuyến nước bọt , thực hiện các biện pháp phòng ngừa để bảo vệ bản thân có thể giúp giảm nguy cơ .",
+    "entities": [
+      {
+        "text": "ung thư tuyến nước bọt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể khuyên nên dùng thuốc để kiểm soát cơn đau và có thể giới thiệu đến chuyên gia đau .",
+    "entities": [
+      {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "thoái hóa võng mạc là thuật ngữ nhằm ám chỉ các tổn thương của lớp tế bào võng mạc trong mắt , trong đó thoái hóa điểm vàng là thể bệnh nguy hiểm nhất của thoái hóa võng mạc .",
+    "entities": [
+      {
+        "text": "thoái hóa điểm vàng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thoái hóa võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số bệnh mãn tính , chẳng hạn như : bệnh tim ; bệnh phổi ; ung thư và cách điều trị; bệnh viêm ruột ( bệnh crohn hoặc viêm loét đại tràng ) .",
+    "entities": [
+      {
+        "text": "viêm loét đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh viêm ruột",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh phổi",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tim",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "dùng nhiều lớp chăn hoặc áo khoác khô để làm ấm người : che đầu của người đó , chỉ để hở mặt .",
+    "entities": [
+      {
+        "text": "dùng nhiều lớp chăn",
+        "type": "THUỐC"
+      },
+      {
+        "text": "áo khoác khô",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "vì corticosteroid có nhiều tác dụng phụ do đó bệnh nhân sử dụng corticosteroid mỗi ngày với liều ≥ 7,5 mg prednisone hoặc liều corticosteroid tương đương kéo dài cần được bổ sung canxi và vitamin d và bisphosphonates để ngăn ngừa hoặc giảm thiểu tình trạng loãng xương; cần theo dõi mật độ xương .",
+    "entities": [
+      {
+        "text": "corticosteroid",
+        "type": "THUỐC"
+      },
+      {
+        "text": "prednisone",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "lồng ruột là một rối loạn trong đó một phần ruột - thường là ruột non - trượt trong phần khác .",
+    "entities": [
+      {
+        "text": "lồng ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc kháng sinh dùng để điều trị viêm xoang cấp tính gây ra do nhiễm trùng bởi vi khuẩn bao gồm amoxicillin , doxycycline hoặc thuốc kết hợp trimethoprim - sulfamethoxazole .",
+    "entities": [
+      {
+        "text": "thuốc kết hợp trimethoprim - sulfamethoxazole",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm xoang cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "amoxicillin",
+        "type": "THUỐC"
+      },
+      {
+        "text": "doxycycline",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "ở giai đoạn muộn , bệnh nhân xuất hiện thiếu máu , nhiễm khuẩn , xuất huyết và các biểu hiện chèn ép , xâm lấn của tổ chức lympho .",
+    "entities": [
+      {
+        "text": "nhiễm khuẩn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xuất huyết",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "thiếu máu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng của ung thư vòm họng thường gặp : triệu chứng ở tai : thường biểu hiện ở 1 bên như ù tai , đau tai , chảy dịch ở tai .",
+    "entities": [
+      {
+        "text": "ung thư vòm họng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy dịch ở tai",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau tai",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán thông liên nhĩ khi khám lâm sàng , bác sĩ sẽ nghe thấy tim có tiếng thổi tâm thu cường độ nhỏ ở ổ van động mạch phổi do tăng lưu lượng máu qua van động mạch phổi .",
+    "entities": [
+      {
+        "text": "tăng lưu lượng máu qua van động mạch phổi",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong khi thuốc kháng histamin đường uống không có vẻ giúp viêm mũi không dị ứng , chống dị ứng ở dạng thuốc xịt mũi có thể làm giảm triệu chứng của viêm mũi không dị ứng .",
+    "entities": [
+      {
+        "text": "thuốc kháng histamin đường uống",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm mũi không dị ứng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc xịt mũi",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đối với làm sạch , nắp thanh quản được lau bằng một miếng gạc cotton và các mẫu mô được kiểm tra hib .",
+    "entities": [
+      {
+        "text": "kiểm tra hib",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng phổ biến nhất của giãn tĩnh mạch bao gồm : đau ( cảm giác đau nhức hoặc chuột rút ) ; nặng nề và khó chịu chân ; cảm giác nóng rát hoặc ngứa ran ; sưng tấy hoặc đau nhói ; chuột rút cơ ở chân , đặc biệt là vào ban đêm; da khô , ngứa và mỏng trên tĩnh mạch bị ảnh hưởng; thay đổi màu sắc trên da .",
+    "entities": [
+      {
+        "text": "thay đổi màu sắc trên da",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "chuột rút cơ ở chân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "giãn tĩnh mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "khó chịu chân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau nhức",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nóng rát",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ngứa ran",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sưng tấy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau nhói",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nặng nề",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "da khô",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  }
+]

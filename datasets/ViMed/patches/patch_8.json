@@ -1,0 +1,374 @@
+[
+  {
+    "text": "nếu không được điều trị kịp thời , hội chứng tắc ruột sơ sinh sẽ dẫn tới những hậu quả rất nghiêm trọng , bệnh nhi có thể tử vong .",
+    "entities": [
+      {
+        "text": "hội chứng tắc ruột sơ sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chế độ sinh hoạt và phòng ngừa những thói quen sinh hoạt có thể giúp bạn hạn chế diễn tiến của phình động mạch não chế độ sinh hoạt : bỏ thuốc lá .",
+    "entities": [
+      {
+        "text": "phình động mạch não",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số nữ giới phơi nhiễm virus rubella dễ gặp biến chứng viêm khớp ở cổ tay , ngón tay và đầu gối .",
+    "entities": []
+  },
+  {
+    "text": "có tới 2/3 số bệnh nhân bị chảy máu tĩnh mạch bị nhiễm trùng , thường gặp nhất là viêm phúc mạc do vi khuẩn tự phát , nhiễm trùng tiểu hoặc viêm phổi .",
+    "entities": [
+      {
+        "text": "chảy máu tĩnh mạch",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "viêm phúc mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm phổi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tuy nhiên , phương pháp này có thể ảnh hưởng lâu dài tới sự phát triển của trẻ nên phải cân nhắc kỹ trước khi quyết định xạ trị .",
+    "entities": [
+      {
+        "text": "xạ trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "xạ trị tại chỗ ( xạ trị áp sát ) : ngoài phương pháp xạ trị thông thường , hiện nay còn có xạ trị áp sát , nghĩa là dùng nguồn phóng xạ áp sát vào tổn thương ung thư lưỡi để có thể tiêu diệt tổn thương ác tính tại chỗ .",
+    "entities": [
+      {
+        "text": "xạ trị tại chỗ",
+        "type": "THUỐC"
+      },
+      {
+        "text": "xạ trị áp sát",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư lưỡi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sử dụng đèn khe hoặc một thiết bị đặc biệt gọi là một ophthalmoscope , bác sĩ mắt có thể kiểm tra ống kính cho thấy các dấu hiệu của đục thủy tinh thể .",
+    "entities": [
+      {
+        "text": "đục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ophthalmoscope",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "đèn khe",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "siêu âm tim : sử dụng sóng âm thanh để tạo ra hình ảnh của tim được hiển thị trên màn hình điện tử giúp bác sĩ phát hiện các bất thường về tim các biện pháp điều trị bệnh thấp tim bệnh thấp tim cấp tính có thể xảy ra sau khi nhiễm trùng họng do liên cầu gây ra .",
+    "entities": [
+      {
+        "text": "bệnh thấp tim cấp tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm : tổng phân tích tế bào máu , sinh hóa máu ; ct bụng ngực hoặc pet , pet/ct mỗi 6 tháng trong 2 năm đầu .",
+    "entities": [
+      {
+        "text": "tổng phân tích tế bào máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sinh hóa máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ct bụng ngực",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "pet/ct",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ở người lớn , việc phẫu thuật được khuyến cáo ở tất cả các đối tượng để tránh trường hợp xảy ra các biến chứng không mong muốn đồng thời điều trị dứt điểm thoát vị rốn .",
+    "entities": [
+      {
+        "text": "thoát vị rốn",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "kết hợp các loại thuốc bao gồm hai loại thuốc kháng sinh cùng với một ức chế acid hoặc bao phủ cytoprotective ( helidac , prevpac ) đã được thiết kế đặc biệt để điều trị nhiễm trùng h . pylori .",
+    "entities": [
+      {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "helidac",
+        "type": "THUỐC"
+      },
+      {
+        "text": "prevpac",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đối với các bệnh nhân nhỏ tuổi có thể chỉ cần dùng siêu âm qua thành ngực còn đối với các bệnh nhân lớn tuổi , thành ngực dày , đôi khi cần làm siêu âm qua thực quản .",
+    "entities": [
+      {
+        "text": "siêu âm qua thành ngực",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "siêu âm qua thực quản",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "tiêm cồn vào khối u . trong khi tiêm cồn , cồn nguyên chất được tiêm trực tiếp vào khối u . cồn làm khô các tế bào của khối u và cuối cùng là các tế bào sẽ chết .",
+    "entities": [
+      {
+        "text": "tiêm cồn vào khối u",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "các nhà nghiên cứu nghĩ rằng suy nghĩ có thể giúp não phát triển một mạng lưới tế bào thần kinh mạnh bù đáp thiệt hại tế bào thần kinh gây ra bởi bệnh alzheimer .",
+    "entities": [
+      {
+        "text": "phát triển một mạng lưới tế bào thần kinh mạnh bù đáp thiệt hại tế bào thần kinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh alzheimer",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "còn được gọi là một khối u nhú nhày tại chỗ , loại hình này tăng trưởng thường là tiền ung thư hoặc ung thư .",
+    "entities": [
+      {
+        "text": "u nhú nhày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi hở van ba lá , máu bị chảy ngược xuống tâm nhĩ mà không theo động mạch phổi để lên phổi trao đổi khí được .",
+    "entities": [
+      {
+        "text": "hở van ba lá",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tiên lượng sống sau 5 năm theo giai đoạn là : giai đoạn 1 : 90% giai đoạn 2 : 80 - 83% giai đoạn 3 : 60% giai đoạn 4 : 11% nguyên nhân bệnh ung thư đại tràng nguyên nhân ung thư đại tràng bao gồm : polyp đại tràng : là nguyên nhân quan trọng gây ung thư đại tràng .",
+    "entities": [
+      {
+        "text": "bệnh ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "polyp đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chụp giúp xác định thay đổi kích thước não , đột quỵ và các vấn đề khác như nước thừa trong não ( tràn dịch não ) hoặc chảy máu bề mặt của nã o ( subdural hematoma ) .",
+    "entities": [
+      {
+        "text": "chụp giúp xác định thay đổi kích thước não",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "các vấn đề khác như nước thừa trong não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chảy máu bề mặt của nã",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "subdural hematoma",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tràn dịch não",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nói chung , alosetron chỉ nên được sử dụng nếu điều trị thông thường cho hội chứng ruột kích thích đã thất bại .",
+    "entities": [
+      {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "alosetron",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "sỏi mật cũng là bệnh lý đường tiêu hóa thường gặp nhất ở mỹ và 75 - 90% bệnh nhân ung thư túi mật có tiền sử sỏi mật .",
+    "entities": [
+      {
+        "text": "ung thư túi mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sỏi mật",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư gan là sự tăng trưởng và phát triển không kiểm soát của các tế bào ung thư tại gan .",
+    "entities": [
+      {
+        "text": "ung thư gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "kỹ thuật này hoạt động để mở ống dẫn nước mắt bị tật bẩm sinh ở hầu hết các trẻ sơ sinh .",
+    "entities": [
+      {
+        "text": "ống dẫn nước mắt bị tật bẩm sinh",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": ". . xem thêm : biến chứng nguy hiểm của tắc mạch ối thuyên tắc ối : nguyên nhân , triệu chứng , chẩn đoán và điều trị nhiễm trùng ối : nguyên nhân , triệu chứng , chẩn đoán và điều trị chủ đề : cấp cứu sản khoa mang thai đa ối tắc mạch ối sinh con cạn nước ối nước ối thai sản rỉ ối",
+    "entities": [
+      {
+        "text": "thuyên tắc ối",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tắc mạch ối",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đa ối",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phong cách sống và biện pháp khắc phục mặc dù không thể ngăn ngừa lão thị , có thể giúp bảo vệ đôi mắt và tầm nhìn .",
+    "entities": [
+      {
+        "text": "lão thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các lỗi khúc xạ ngoài cận thị , các lỗi khác khúc xạ bao gồm : viễn thị ( hyperopia ) .",
+    "entities": [
+      {
+        "text": "viễn thị ( hyperopia )",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "các lỗi khác khúc xạ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "các lỗi khúc xạ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cận thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị viêm mạch phụ thuộc vào loại , nguyên nhân , mức độ lan rộng và mức độ nghiêm trọng của bệnh .",
+    "entities": [
+      {
+        "text": "viêm mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong thủ tục này , bác sĩ sử dụng ống thông để thổi phồng một quả bóng nhỏ mở rộng mạch máu bị hẹp trong não .",
+    "entities": [
+      {
+        "text": "bác sĩ sử dụng ống thông để thổi phồng một quả bóng nhỏ mở rộng mạch máu bị hẹp trong não",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "duy trì hoạt động để giúp ngăn ngừa táo bón và giảm áp lực lên tĩnh mạch do đứng hoặc ngồi trong một thời gian dài .",
+    "entities": [
+      {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trung thất giữa : u nang phế quản , u cơ tim , nang bạch huyết , hạch to , lymphoma , u nang màng ngoài tim , bất thường mạch máu .",
+    "entities": []
+  },
+  {
+    "text": "sau khi nhiễm khỏi bệnh hoặc tiêm vaccine phòng bệnh rubella , cơ thể sẽ có miễn dịch bền vững và bảo vệ trọn đời .",
+    "entities": [
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

@@ -1,0 +1,424 @@
+[
+  {
+    "text": "trong một số trường hợp , thuốc steroid được sử dụng để điều trị viêm dây thần kinh thị giác , bởi vì chúng giúp giảm viêm thần kinh thị giác .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thuốc steroid",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "để điều trị cụ thể bệnh than , thường sử dụng các phương pháp sau : điều trị nội khoa bằng sử dụng kháng sinh kết hợp với truyền thuốc qua đường tĩnh mạch .",
+    "entities": [
+      {
+        "text": "điều trị nội khoa bằng sử dụng kháng sinh kết hợp với truyền thuốc qua đường tĩnh mạch",
+        "type": "THUỐC"
+      },
+      {
+        "text": "bệnh than",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ sẽ sờ và tìm kiếm các hạch bạch huyết mở rộng ( cục dưới da ) ở cổ , vì đây có thể là dấu hiệu của ung thư lan rộng .",
+    "entities": [
+      {
+        "text": "cục dưới da",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu bác sĩ mắt nghi ngờ một điều kiện hệ thống đang gây ra viêm mống mắt , người đó có thể làm việc chặt chẽ với nhà cung cấp chăm sóc chính để xác định nguyên nhân cơ bản .",
+    "entities": [
+      {
+        "text": "viêm mống mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , ráy tai tắc nghẽn thường xảy ra khi mọi người cố gắng tự làm sạch đôi tai của mình bằng cách đặt gạc bông hoặc các loại khác trong tai .",
+    "entities": [
+      {
+        "text": "ráy tai tắc nghẽn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa suy tim hiệu quả kiểm soát các yếu tố nguy cơ gây suy tim như : bệnh động mạch vành , tăng huyết áp , đái tháo đường , … duy trì chế độ ăn uống cân bằng , hạn chế chất béo , không ăn quá mặn , … duy trì lối sống khoa học : thường xuyên tập thể dục , kiểm soát cân nặng , không hút thuốc lá , hạn chế rượu bia , … mọi thông tin trên đây chỉ mang tính chất tham khảo .",
+    "entities": [
+      {
+        "text": "bệnh động mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số bằng chứng cho thấy chế phẩm sinh học dùng trong quá trình điều trị kháng sinh có thể làm giảm nguy cơ tiêu chảy ở những người đã bị tiêu chảy do do c . difficile khi dùng kháng sinh trong quá khứ .",
+    "entities": [
+      {
+        "text": "kháng sinh",
+        "type": "THUỐC"
+      },
+      {
+        "text": "tiêu chảy",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "triệu chứng thực thể : sờ thấy khối lồng : khối lồng thường có dạng hình khúc dồi , thay đổi theo vị trí và diễn tiến của lồng ruột , có thể sờ thấy trong 70 - 85% các trường hợp .",
+    "entities": [
+      {
+        "text": "lồng ruột",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "loại bỏ toàn bộ tuyến nước bọt trong trường hợp khối u lớn hơn loại bỏ các hạch bạch huyết ở cổ nếu có bằng chứng cho thấy ung thư đã lan đến các hạch bạch huyết ở cổ phẫu thuật tái tạo .",
+    "entities": [
+      {
+        "text": "loại bỏ toàn bộ tuyến nước bọt",
+        "type": "THUỐC"
+      },
+      {
+        "text": "phẫu thuật tái tạo",
+        "type": "THUỐC"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thay vào đó , bác sĩ có thể giới thiệu các cách để bạn tránh các tác nhân gây ra đánh trống ngực .",
+    "entities": [
+      {
+        "text": "đánh trống ngực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nghiên cứu những người có barrett thực quản gần nhất cho thấy nguy cơ ung thư thực quản báo cáo trước kia cao hơn nhiều thực tế .",
+    "entities": [
+      {
+        "text": "barrett thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư thực quản",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khám lâm sàng : khám lâm sàng tai - thần kinh toàn diện kết hợp với đánh giá chức năng tai chẩn đoán hình ảnh : chụp cắt lớp vi tính sọ não , chụp cộng hưởng từ , chụp mạch não đồ tìm một số nguyên nhân gây ra chứng ù tai .",
+    "entities": [
+      {
+        "text": "chụp cắt lớp vi tính sọ não",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "chụp mạch não đồ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "rối loạn ăn uống càng nghiêm trọng hoặc lâu dài , nhiều khả năng trải nghiệm những biến chứng nghiêm trọng .",
+    "entities": [
+      {
+        "text": "rối loạn ăn uống",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "vì huyết áp thường dao động theo thời gian trong ngày nên việc đo huyết áp có thể cần phải đo ở nhiều lần khám khác nhau hoặc đo huyết áp tại nhà nếu cần trong những trường hợp khó chẩn đoán ( cao huyết áp ẩn giấu hoặc cao huyết áp áo choàng trắng - thường gặp khi bệnh nhân cảm thấy hồi hộp và tăng huyết áp khi gặp nhân viên y tế ) trước khi xác nhận bạn có tình trạng cao huyết áp .",
+    "entities": [
+      {
+        "text": "cao huyết áp áo choàng trắng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "cao huyết áp ẩn giấu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "mất trí nhớ , khó khăn trong sự quan tâm , lo lắng , khó ngủ và đau đầu có thể xảy ra và tiếp tục một thời gian .",
+    "entities": [
+      {
+        "text": "khó khăn trong sự quan tâm",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mất trí nhớ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "lo lắng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó ngủ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa viêm mạch hiệu quả phần lớn bệnh viêm mạch là bệnh tự miễn ( hệ miễn dịch của cơ thể tấn công vào các mạch máu ) nên không có biện pháp phòng ngừa .",
+    "entities": [
+      {
+        "text": "bệnh viêm mạch",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hầu như tất cả mọi người trải nghiệm nó sau tuổi 40. tuy nhiên , một số người có thể phát triển lão thị sớm hơn so với tuổi 40 như là kết quả của bệnh nào đó hoặc một số loại thuốc .",
+    "entities": [
+      {
+        "text": "lão thị",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "yếu tố nguy cơ chóng mặt lành tính xảy ra thường xuyên nhất ở những người 60 tuổi trở lên nhưng có thể xảy ra ở mọi lứa tuổi .",
+    "entities": [
+      {
+        "text": "chóng mặt lành tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chích xơ : sử dụng 1 - 2 ml chất làm xơ ( thường là natri tetradecyl sulfate hoặc phenol 5% , quinine , urea hydrochloride , polidocanol ) được tiêm bằng kim 25 - gauge vào lớp dưới niêm của búi trĩ .",
+    "entities": [
+      {
+        "text": "chích xơ",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "những người có trải nghiệm co thắt thực quản lan tỏa , cơn co thắt liên tục trong các cơ thực quản thường được đi kèm với nôn thức ăn hoặc chất lỏng .",
+    "entities": [
+      {
+        "text": "co thắt thực quản lan tỏa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "sau đây hai điều kiện tự miễn dịch thường được kết hợp với viêm dây thần kinh thị giác : đa xơ cứng .",
+    "entities": [
+      {
+        "text": "viêm dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đa xơ cứng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các giai đoạn chóng mặt lành tính tư thế chỉ xẩy ra những ngày bệnh bộc phát và hình thức chóng mặt có thể biến mất sau một thời gian và sau đó tái diễn .",
+    "entities": [
+      {
+        "text": "chóng mặt lành tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các triệu chứng các dấu hiệu và triệu chứng của bệnh đục thủy tinh thể bao gồm : - báo gấm hay mờ hoặc thị lực mờ .",
+    "entities": [
+      {
+        "text": "bệnh đục thủy tinh thể",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "thị lực mờ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "báo gấm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "trong thủ tục , bác sĩ cũng có thể lấy mẫu mô nhỏ ( sinh thiết ) để phân tích trong phòng thí nghiệm .",
+    "entities": [
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "vào ngày thứ 2 - 3 của bệnh trong thời kỳ toàn phát , bệnh nhân sốt cao hơn 38 - 38,5 độ kèm nuốt đau , da tái xanh , mệt mỏi , mạch nhanh , huyết áp tụt .",
+    "entities": [
+      {
+        "text": "huyết áp tụt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "da tái xanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mạch nhanh",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nuốt đau",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa u ác tính là một loại ung thư phát triển trong các tế bào sản xuất melanin - sắc tố mang lại cho làn da màu sắc của nó .",
+    "entities": [
+      {
+        "text": "u ác tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau khi phục hồi đã bắt đầu , sẽ cần vật lý trị liệu để giúp lấy lại sức mạnh và chuyển động thích hợp .",
+    "entities": [
+      {
+        "text": "vật lý trị liệu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đột ngột mất thị giác ở một mắt , mờ đột ngột hoặc mờ mắt , ánh sáng nhấp nháy , đốm đen , hoặc quầng hoặc cầu vồng xung quanh đèn có thể báo hiệu một vấn đề mắt nghiêm trọng , chẳng hạn như xuất huyết mắt hoặc bong võng mạc , đòi hỏi phải chăm sóc y tế khẩn cấp .",
+    "entities": [
+      {
+        "text": "cầu vồng xung quanh đèn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "ánh sáng nhấp nháy",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "xuất huyết mắt",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bong võng mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "mất thị giác",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đốm đen",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "mờ mắt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "quầng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "siêu âm doppler hai chiều có thể giúp bác sĩ phân biệt các dạng bệnh lý cơ tim , định lượng mức độ phì đại của cơ tim và mức độ tắc nghẽn đường ra .",
+    "entities": [
+      {
+        "text": "siêu âm doppler hai chiều",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "khi vỡ u nang , dịch phát hành có thể làm hỏng các mạch máu gần đó và gây chảy máu nặng .",
+    "entities": [
+      {
+        "text": "chảy máu nặng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "u nang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

@@ -1,0 +1,339 @@
+[
+  {
+    "text": "sử dụng thuốc nhỏ mắt corticosteroid để điều trị rối loạn mắt có thể làm tăng nguy cơ viêm giác mạc phát triển hoặc làm xấu đi viêm giác mạc hiện có .",
+    "entities": [
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong một số trường hợp , bác sĩ trị liệu có thể đề nghị tư vấn gia đình và những người thân thích nghi với những thay đổi do hội chứng guillain - barre .",
+    "entities": [
+      {
+        "text": "hội chứng guillain - barre",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "chúng bao gồm : đau bụng , thường tập trung ở phía dưới bên phải , nhưng cơn đau đôi khi có thể lan rộng hơn .",
+    "entities": [
+      {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra , một số triệu chứng cụ thể và các vấn đề hành vi có thể được điều trị bằng thuốc an thần , thuốc chống trầm cảm và các thuốc khác , nhưng một số các thuốc này có thể gây các triệu chứng khác .",
+    "entities": [
+      {
+        "text": "điều trị bằng thuốc an thần",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc chống trầm cảm",
+        "type": "THUỐC"
+      },
+      {
+        "text": "các thuốc khác",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "huyết áp quá cao và cũng có thể quá thấp có thể đặt vào nguy cơ phát triển bệnh alzheimer và sa sút trí tuệ mạch máu .",
+    "entities": [
+      {
+        "text": "sa sút trí tuệ mạch máu",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "huyết áp quá cao",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh alzheimer",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "xét nghiệm nước tiểu : loại trừ nguyên nhân gây đau khi nhiễm trùng đường tiểu hoặc sỏi thận thử que : loại trừ thai ngoài tử cung là nguyên nhân gây các triệu chứng tương tự viêm ruột thừa cấp .",
+    "entities": [
+      {
+        "text": "viêm ruột thừa cấp",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sỏi thận",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể khuyên nên cảnh giác với các triệu chứng của biến chứng sỏi mật , chẳng hạn như đau ở vùng bụng trên bên phải .",
+    "entities": [
+      {
+        "text": "đau ở vùng bụng trên bên phải",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hội chứng marfan là một rối loạn di truyền ảnh hưởng đến mô liên kết - các sợi hỗ trợ và neo giữ các cơ quan cũng như các cấu trúc khác trong cơ thể của bạn .",
+    "entities": [
+      {
+        "text": "hội chứng marfan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các hoạt động gây lên những dấu hiệu và triệu chứng của chóng mặt lành tính có thể khác nhau từ người sang người , nhưng hầu như luôn luôn bởi một sự thay đổi tư thế của đầu .",
+    "entities": [
+      {
+        "text": "chóng mặt lành tính",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nếu bác sĩ yêu cầu xét nghiệm , rất có thể đó sẽ là xét nghiệm máu có thể phát hiện kháng thể đối với vi khuẩn streptococcus có ở trong máu .",
+    "entities": [
+      {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "các xét nghiệm và chẩn đoán chẩn đoán viêm giác mạc thường bao gồm những điều sau đây : kiểm tra mắt .",
+    "entities": [
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "kiểm tra mắt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ống dẫn tai nếu đã bị viêm tai giữa với tràn dịch , liên tục tích tụ chất dịch trong tai sau khi bị nhiễm trùng hoặc trong trường hợp không bị nhiễm trùng , bác sĩ có thể đề nghị một thủ tục dẫn nước từ tai giữa .",
+    "entities": [
+      {
+        "text": "viêm tai giữa",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tràn dịch",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nếu làm mất tầm nhìn từ thưởng thức hoạt động hoặc cản trở khả năng để thực hiện công việc hàng ngày , hãy gặp bác sĩ mắt .",
+    "entities": [
+      {
+        "text": "mất tầm nhìn",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "nhiễm herpes zoster - thường được gọi là bệnh giời leo - có thể gây ra viêm mống mắt nếu có herpes da trên khuôn mặt , đặc biệt là trán hay má .",
+    "entities": [
+      {
+        "text": "nhiễm herpes zoster",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh giời leo",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm mống mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp điều trị và thuốc bạn có thể muốn sử dụng thuốc nhỏ mắt , nước mắt nhân tạo chẳng hạn để làm dịu cảm giác hỗn tạp nào có trong mắt .",
+    "entities": [
+      {
+        "text": "nước mắt nhân tạo",
+        "type": "THUỐC"
+      },
+      {
+        "text": "thuốc nhỏ mắt",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thảo luận với bác sĩ những tác dụng phụ đang có khả năng trải nghiệm và liệu pháp điều trị kết hợp sẽ cung cấp những lợi ích lớn hơn .",
+    "entities": [
+      {
+        "text": "liệu pháp điều trị kết hợp",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "đường lây truyền bệnh thiếu men g6pd bệnh thiếu men g6pd là một bệnh lý di truyền nên không lây nhiễm giữa người bệnh sang người lành thông qua các con đường tiếp xúc thông thường .",
+    "entities": [
+      {
+        "text": "bệnh thiếu men g6pd",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "việc điều trị trước khi diễn tiến đến teo dây thần kinh thị giác giúp bảo tồn chức năng của mắt .",
+    "entities": [
+      {
+        "text": "teo dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phát hiện phù bằng cách ấn trên nền cứng kèm theo biểu hiện mẹ tăng cân nhanh và nhiều , tăng &gt;500gram/tuần hay &gt;2250gram/tháng .",
+    "entities": [
+      {
+        "text": "phù",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "chứng khó nuốt không giải thích được một số người trải nghiệm chứng khó nuốt mà không có nguyên nhân giải phẫu .",
+    "entities": [
+      {
+        "text": "chứng khó nuốt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thuốc men nếu chỉ thay đổi lối sống không hiệu quả , có thể cần dùng thuốc để kiểm soát các triệu chứng bệnh tim và ngăn ngừa các biến chứng .",
+    "entities": [
+      {
+        "text": "bệnh tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "viêm đường mật trong gan mãn tính có thể dẫn đến các mô sẹo ( xơ gan ) , chết tế bào gan và cuối cùng , sự hoạt động của gan bất lực .",
+    "entities": [
+      {
+        "text": "viêm đường mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "xơ gan",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "các biến chứng nắp thanh quản có thể gây ra một số biến chứng , bao gồm : suy hô hấp .",
+    "entities": [
+      {
+        "text": "suy hô hấp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "tăng đường máu cũng gây giảm cân , buồn nôn và nôn , và nhìn mờ , và xu hướng nhiễm khuẩn hoặc nấm .",
+    "entities": [
+      {
+        "text": "nhiễm khuẩn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "giảm cân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nhìn mờ",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "nấm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các hoạt động như săn bắn , trượt tuyết và nghe nhạc rất lớn cho thời gian dài có thể làm hỏng đôi tai .",
+    "entities": []
+  },
+  {
+    "text": "sau khi nhiễm sởi , thời gian ủ bệnh thông thường của sởi từ 12 – 14 ngày , thậm chí kéo dài đến 21 ngày .",
+    "entities": [
+      {
+        "text": "sởi",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ngoài ra còn do một số bệnh lý di truyền , tăng huyết áp , hút thuốc , uống nhiều rượu bia , nhiễm nấm , nhễim khuẩn , chấn thương , nghiện ma túy ( đặc biệt là cocain ) .",
+    "entities": [
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "nhiều chuyên gia xem xét xơ gan đường mật là một bệnh tự miễn , trong đó cơ thể chống lại các tế bào của riêng của mình , mặc dù nó có thể là yếu tố di truyền và môi trường cũng đóng một phần .",
+    "entities": [
+      {
+        "text": "xơ gan đường mật",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh tự miễn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số bác sĩ cho rằng việc điều trị những người có nguy cơ cao đối với h . pylori trước khi nó gây ra các biến chứng có thể giúp ngăn ngừa các bệnh nghiêm trọng , chẳng hạn như ung thư dạ dày .",
+    "entities": [
+      {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số u nang có liên quan với căn bệnh hiếm gặp - chẳng hạn như bệnh von hippel - lindau , là một rối loạn di truyền có thể ảnh hưởng đến não , võng mạc , tuyến thượng thận , thận và tuyến tụy .",
+    "entities": [
+      {
+        "text": "bệnh von hippel - lindau",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "u nang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]

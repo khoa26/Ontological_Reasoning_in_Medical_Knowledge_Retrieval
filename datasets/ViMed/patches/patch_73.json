@@ -1,0 +1,420 @@
+[
+  {
+    "text": "thật không may , một số người dùng những loại thuốc này cho các triệu chứng của bệnh loét dạ dày , nhưng họ có thể làm cho tình trạng tồi tệ hơn .",
+    "entities": [
+      {
+        "text": "bệnh loét dạ dày",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "hội chứng down là một điều kiện di truyền , kết quả thêm một nhiễm sắc thể 21 . sởi đức ( rubella ) .",
+    "entities": [
+      {
+        "text": "hội chứng down",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "sởi đức",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "rubella",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "những chỉ định cận lâm sàng được đưa ra để đánh giá tình trạng bệnh lý về tim , thận có nguyên nhân từ việc tăng huyết áp bao gồm : xét nghiệm nồng độ cholesterol có trong máu .",
+    "entities": [
+      {
+        "text": "xét nghiệm nồng độ cholesterol có trong máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "thống kê cho thấy , khoảng 10.000 người ở độ tuổi 30 – 60 sẽ có 1 người mắc bệnh hở van động mạch chủ .",
+    "entities": [
+      {
+        "text": "bệnh hở van động mạch chủ",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "block tim ( block nhĩ thất ) nhịp tim chậm cũng có thể xảy ra nếu các tín hiệu điện của tim không di chuyển chính xác từ các ngăn trên ( tâm nhĩ ) đến các ngăn dưới ( tâm thất ) .",
+    "entities": [
+      {
+        "text": "block nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhịp tim chậm",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "tiền sử gia đình bị đau tim : nếu anh chị em , cha mẹ hoặc ông bà của bạn bị đau tim sớm ( ở tuổi 55 đối với nam và 65 tuổi đối với nữ ) , bạn có thể có nguy cơ cao hơn .",
+    "entities": [
+      {
+        "text": "đau tim",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các tình trạng tim liên quan đến đánh trống ngực bao gồm : trước cơn đau tim ; bệnh động mạch vành ; suy tim ; các vấn đề về van tim; các vấn đề về cơ tim .",
+    "entities": [
+      {
+        "text": "bệnh động mạch vành",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "đánh trống ngực",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "cơn đau tim",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "trong thử nghiệm uống bari , chất lỏng có chứa bari tạo lớp phủ niêm mạc của thực quản tạm thời để nó có thể được nhìn thấy trên hình ảnh x quang .",
+    "entities": [
+      {
+        "text": "x quang",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "ghép gan là một lựa chọn cho những người bị bệnh gan nặng hoặc những người bị chảy máu tái phát do giãn tĩnh mạch thực quản .",
+    "entities": [
+      {
+        "text": "giãn tĩnh mạch thực quản",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ghép gan",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "một số bằng chứng liên kết giảm nguy cơ khối u và ung thư đại tràng khi sử dụng aspirin thường xuyên .",
+    "entities": [
+      {
+        "text": "ung thư đại tràng",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "aspirin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "mặc dù chủ yếu được sử dụng để điều trị bệnh alzheimer , nó có thể giúp cải thiện triệu chứng trong sa sút trí tuệ khác .",
+    "entities": [
+      {
+        "text": "sa sút trí tuệ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bệnh alzheimer",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "một số yếu tố nguy cơ phổ biến dẫn đến ung thư bàng quang là : những người lớn tuổi có nguy cơ mắc ung thư bàng quang cao hơn những người trẻ .",
+    "entities": [
+      {
+        "text": "ung thư bàng quang",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp chẩn đoán và điều trị phương pháp xét nghiệm và chẩn đoán bệnh viêm mạch xét nghiệm cơ bản để chẩn đoán viêm mạch , đánh giá giai đoạn bệnh như : công thức máu , máu lắng , crp , albumin , protein huyết thanh , ast và alt , ure và creatinine , xét nghiệm nước tiểu .",
+    "entities": [
+      {
+        "text": "xét nghiệm nước tiểu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "protein huyết thanh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "bệnh viêm mạch",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "creatinine",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "máu lắng",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "albumin",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "crp",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ast",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "alt",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ure",
+        "type": "TÊN_XÉT_NGHIỆM"
+      }
+    ]
+  },
+  {
+    "text": "bác sĩ có thể nghi ngờ khiếm khuyết tim như kênh nhĩ thất , nếu em bé khó thở hoặc gặp khó trong việc cho ăn và tăng cân .",
+    "entities": [
+      {
+        "text": "kênh nhĩ thất",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "tăng cân",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "hóa trị : chỉ định hóa chất trước khi phẫu thuật giúp giảm thể tích của khối u và hạch cổ .",
+    "entities": [
+      {
+        "text": "phẫu thuật",
+        "type": "THUỐC"
+      },
+      {
+        "text": "hóa trị",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "thuốc chống trầm cảm ba vòng , như amitriptyline và nortriptyline , đã được sử dụng với một số thành công .",
+    "entities": [
+      {
+        "text": "thuốc chống trầm cảm ba vòng",
+        "type": "THUỐC"
+      },
+      {
+        "text": "amitriptyline",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nortriptyline",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "nếu mất thị lực chỉ xảy ra ở một mắt , người bệnh thường khó nhận thấy vì mắt lành bên còn lại có thể nhìn thấy rõ ràng xuất huyết thủy tinh thể xuất hiện điểm mù trước mắt mắt thường không đau .",
+    "entities": [
+      {
+        "text": "mất thị lực",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "không dùng sildenafil - tên gọi khác là viagra ( điều trị chứng rối loạn cương dương ) khi đang sử dụng nitroglycerin .",
+    "entities": [
+      {
+        "text": "nitroglycerin",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "khu vực xung quanh mắt và khuôn mặt có thể cảm thấy bị sưng , có thể có cơn đau nhói mặt hay đau đầu .",
+    "entities": [
+      {
+        "text": "cơn đau nhói mặt",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "bị sưng",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "biên tập viên : trần tiến phong đánh giá : trần trà my , trần phương phương định nghĩa túi dưới mắt sưng nhẹ hoặc bọng dưới mắt là phổ biến theo độ tuổi .",
+    "entities": [
+      {
+        "text": "túi dưới mắt sưng nhẹ",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "bọng dưới mắt",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "toa thuốc xịt mũi cortisone có thể làm giảm viêm trong mũi và giúp ngăn ngừa sổ mũ i , làm giảm nguy cơ tắc nghẽn mũi và nhiễm trùng xoang .",
+    "entities": [
+      {
+        "text": "toa thuốc xịt mũi cortisone",
+        "type": "THUỐC"
+      },
+      {
+        "text": "nhiễm trùng xoang",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "viêm trong mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "tắc nghẽn mũi",
+        "type": "TRIỆU_CHỨNG"
+      },
+      {
+        "text": "sổ mũ",
+        "type": "TRIỆU_CHỨNG"
+      }
+    ]
+  },
+  {
+    "text": "các hình ảnh này sau đó được tải xuống , hiển thị trên màn hình và kiểm tra các dấu hiệu của bệnh crohn .",
+    "entities": [
+      {
+        "text": "bệnh crohn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "điều trị u tuyến yên bằng những phương pháp cụ thể sau : đối với những bệnh nhân ở giai đoạn đầu của bệnh không cần điều trị hoặc có thể sử dụng thuốc dưới sự chỉ định của bác sĩ .",
+    "entities": [
+      {
+        "text": "u tuyến yên",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối phó và hỗ trợ những thủ thuật giúp giao tiếp dễ dàng hơn mặc dù mất thính lực : vị trí của mình nghe .",
+    "entities": [
+      {
+        "text": "mất thính lực",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "đối với viêm giác mạc do vi khuẩn nhẹ , thuốc nhỏ mắt kháng khuẩn có thể được tất cả hiệu quả điều trị các nhiễm trùng cần phải có .",
+    "entities": [
+      {
+        "text": "thuốc nhỏ mắt kháng khuẩn",
+        "type": "THUỐC"
+      },
+      {
+        "text": "viêm giác mạc",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "khi phát hiện khối u trong tuyến tụy , bác sĩ cần làm sinh thiết để xác định ung thư bằng giải phẫu bệnh .",
+    "entities": [
+      {
+        "text": "giải phẫu bệnh",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "ung thư vòm họn g giai đoạn 2 : u xâm lấn tới vùng hầu hoặc có hạch cùng bên , hạch có đường kính nhỏ hơn 6 cm .",
+    "entities": [
+      {
+        "text": "ung thư vòm họn",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "sau đó , trong căn bệnh này , lao động trị liệu có thể giúp ăn uống , mặc quần áo và những thách thức vệ sinh .",
+    "entities": [
+      {
+        "text": "lao động trị liệu",
+        "type": "THUỐC"
+      }
+    ]
+  },
+  {
+    "text": "không phải ung thư ( khối u lành tính ) phát triển trên các dây thần kinh sọ chạy từ não đến tai trong điều khiển cân bằng .",
+    "entities": [
+      {
+        "text": "khối u lành tính",
+        "type": "CHẨN_ĐOÁN"
+      },
+      {
+        "text": "ung thư",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  },
+  {
+    "text": "phương pháp phòng ngừa bệnh van tim bạn nên áp dụng các thay đổi lối sống có lợi cho tim mạch như đã nêu ở trên .",
+    "entities": [
+      {
+        "text": "bệnh van tim",
+        "type": "CHẨN_ĐOÁN"
+      }
+    ]
+  }
+]
