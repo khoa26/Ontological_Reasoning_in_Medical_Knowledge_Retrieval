@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 
 load_dotenv() 
 # --- CẤU HÌNH HỆ THỐNG ---
-API_KEY = os.getenv("GEMINI_API_KEY2")  # Nhập API Key của bạn
+API_KEY = os.getenv("GEMINI_API_KEY")  # Nhập API Key của bạn
 INPUT_DIR = "datasets/data_gen/source" # Thư mục chứa 100 file .txt thô
 OUTPUT_FILE = "datasets/data_gen/silver_dataset.json"
 

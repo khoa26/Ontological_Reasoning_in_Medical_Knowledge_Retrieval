@@ -2,9 +2,8 @@ import json
 import os
 
 input_files =[
-    "datasets/data_gen/base_dataset.json",
-    "datasets/data_gen/synthetic_dataset.json",
-    "datasets/data_gen/synthetic_dataset_2.json"
+    "datasets/data_gen/final_semantic_dataset.json",
+    "datasets/data_gen/final_semantic_dataset_2.json",
 ]
 output_file = "datasets/data_gen/final_silver_dataset.json"
 def merge_datasets():

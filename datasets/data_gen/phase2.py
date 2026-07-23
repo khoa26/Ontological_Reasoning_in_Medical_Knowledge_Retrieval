@@ -11,12 +11,12 @@ from pydantic import BaseModel
 load_dotenv() 
 
 # --- CẤU HÌNH HỆ THỐNG ---
-API_KEY = os.getenv("GEMINI_API_KEY3") 
-INPUT_FILE = "datasets/data_gen/base_dataset.json"
-OUTPUT_FILE = "datasets/data_gen/synthetic_dataset_2.json"
+API_KEY = os.getenv("GEMINI_API_KEY") 
+INPUT_FILE = "datasets/data_gen/final_semantic_dataset.json"
+OUTPUT_FILE = "datasets/data_gen/synthetic_dataset.json"
 
 # Cấu hình số lượng
-TOTAL_NEW_SAMPLES_NEEDED = 750  # Tổng số mẫu bạn muốn sinh thêm
+TOTAL_NEW_SAMPLES_NEEDED = 1000  # Tổng số mẫu bạn muốn sinh thêm
 SAMPLES_PER_REQUEST = 5         # Số mẫu sinh ra trong mỗi lần gọi API
 NUM_SEED_EXAMPLES = 2           # Số mẫu gốc dùng làm mồi (few-shot)
 

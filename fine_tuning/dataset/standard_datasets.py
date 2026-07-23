@@ -1,82 +1,95 @@
 import json
 import random
 
-# Tên file đầu vào
-input_file1 = 'datasets/ViMed/vimed_cleaned_dataset.json'
-input_file2 = 'datasets/data_gen/final_silver_dataset.json'
+def process_and_merge_datasets(file_paths, output_train_path, output_val_path, split_ratio=0.9):
+    # 1. Định nghĩa Template chuẩn của NuExtract3
+    # Bắt buộc sử dụng mảng chứa "verbatim-string" để ép mô hình trích xuất nguyên bản
+    template_dict = {
+        "TRIỆU_CHỨNG": ["verbatim-string"],
+        "TÊN_XÉT_NGHIỆM": ["verbatim-string"],
+        "KẾT_QUẢ_XÉT_NGHIỆM": ["verbatim-string"],
+        "CHẨN_ĐOÁN": ["verbatim-string"],
+        "THUỐC": ["verbatim-string"]
+    }
+    
+    # Dump template ra chuỗi string định dạng JSON
+    template_str = json.dumps(template_dict, ensure_ascii=False, indent=2)
+    
+    merged_data = []
 
-# Tên file đầu ra cho Train và Validation
-train_output_file = 'fine_tuning/dataset/nuextract_train.jsonl'
-val_output_file = 'fine_tuning/dataset/nuextract_val.jsonl'
+    # 2. Đọc và gộp các file dữ liệu gốc
+    for path in file_paths:
+        with open(path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            merged_data.extend(data)
+            
+    print(f"Tổng số bệnh án thu thập được: {len(merged_data)}")
 
-# Định nghĩa các nhãn cần trích xuất (để tạo Template)
-template_keys = [
-    "TRIỆU_CHỨNG", 
-    "TÊN_XÉT_NGHIỆM", 
-    "KẾT_QUẢ_XÉT_NGHIỆM", 
-    "CHẨN_ĐOÁN", 
-    "THUỐC"
-]
+    # Trộn ngẫu nhiên dữ liệu để tránh thiên lệch khi train
+    random.seed(42)
+    random.shuffle(merged_data)
 
-def write_jsonl(data, output_path):
-    """Hàm phụ trách việc format và ghi dữ liệu ra file .jsonl"""
-    with open(output_path, 'w', encoding='utf-8') as out_f:
-        for item in data:
-            raw_text = item.get("text", "").strip()
-            entities = item.get("entities", [])
-            
-            # 1. Khởi tạo dictionary kết quả
-            predict_dict = {key: [] for key in template_keys}
-            
-            # 2. Phân loại các thực thể vào đúng key trong dictionary
-            for ent in entities:
-                ent_text = ent.get("text")
-                ent_type = ent.get("type")
-                
-                # Bỏ qua nếu nhãn không nằm trong template hoặc thực thể đã tồn tại (lọc trùng)
-                if ent_type in predict_dict and ent_text not in predict_dict[ent_type]:
-                    predict_dict[ent_type].append(ent_text)
-            
-            # 3. Tạo chuỗi JSON cho Template (rỗng) và Predict (có dữ liệu)
-            template_str = json.dumps({key: [] for key in template_keys}, ensure_ascii=False, indent=2)
-            predict_str = json.dumps(predict_dict, ensure_ascii=False, indent=2)
-            
-            # 4. Lắp ghép thành cấu trúc Prompt chuẩn của NuExtract
-            formatted_text = f"<|input|>\n### Template:\n{template_str}\n### Text:\n{raw_text}\n\n<|predict|>\n{predict_str}<|end_of_text|>"
-            
-            # 5. Đóng gói vào key "text" và ghi từng dòng ra file JSONL
-            jsonl_record = {"text": formatted_text}
-            out_f.write(json.dumps(jsonl_record, ensure_ascii=False) + '\n')
+    formatted_dataset = []
 
+    # 3. Xử lý từng bệnh án sang chuẩn Prompt của NuExtract
+    for item in merged_data:
+        text_content = item.get("text", "").strip()
+        entities = item.get("entities", [])
 
-def convert_and_split_data():
-    # 1. Đọc dữ liệu từ cả 2 file
-    with open(input_file1, 'r', encoding='utf-8') as f1:
-        vimed_data = json.load(f1)
+        # Khởi tạo Output rỗng chứa mảng
+        output_dict = {
+            "TRIỆU_CHỨNG": [],
+            "TÊN_XÉT_NGHIỆM": [],
+            "KẾT_QUẢ_XÉT_NGHIỆM": [],
+            "CHẨN_ĐOÁN": [],
+            "THUỐC": []
+        }
+
+        # Bóc tách và gom nhóm các entities từ dữ liệu gốc
+        for ent in entities:
+            ent_type = ent.get("type")
+            ent_text = ent.get("text")
+            
+            # Chỉ thêm vào nếu type hợp lệ và chưa tồn tại trong mảng (tránh trùng lặp)
+            if ent_type in output_dict and ent_text not in output_dict[ent_type]:
+                output_dict[ent_type].append(ent_text)
+
+        # Chuyển Output dict thành chuỗi JSON
+        output_str = json.dumps(output_dict, ensure_ascii=False, indent=2)
+
+        # 4. Ghép chuỗi Prompt hoàn chỉnh
+        full_prompt = f"<|input|>\n### Template:\n{template_str}\n### Text:\n{text_content}\n<|predict|>\n{output_str}<|end_of_text|>"
         
-    with open(input_file2, 'r', encoding='utf-8') as f2:
-        test_data = json.load(f2)
+        # Đưa vào danh sách kết quả (chỉ chứa 1 key "text" duy nhất cho Unsloth)
+        formatted_dataset.append({"text": full_prompt})
 
-    # 2. Gộp chung và xáo trộn ngẫu nhiên
-    combined_data = vimed_data + test_data
-    random.seed(42) # Cố định seed để dễ dàng tái tạo lại bộ dữ liệu khi cần
-    random.shuffle(combined_data)
+    # 5. Chia tập Train / Validation
+    split_index = int(len(formatted_dataset) * split_ratio)
+    train_data = formatted_dataset[:split_index]
+    val_data = formatted_dataset[split_index:]
 
-    # 3. Tính toán vị trí cắt (90% cho Train, 10% cho Val)
-    total_samples = len(combined_data)
-    split_index = int(total_samples * 0.9)
+    # Hàm lưu file JSONL
+    def save_jsonl(data_list, filename):
+        with open(filename, 'w', encoding='utf-8') as f:
+            for record in data_list:
+                f.write(json.dumps(record, ensure_ascii=False) + '\n')
 
-    train_data = combined_data[:split_index]
-    val_data = combined_data[split_index:]
+    # 6. Xuất file
+    save_jsonl(train_data, output_train_path)
+    save_jsonl(val_data, output_val_path)
 
-    # 4. Ghi ra 2 file riêng biệt
-    write_jsonl(train_data, train_output_file)
-    write_jsonl(val_data, val_output_file)
+    print(f"Đã tạo file Train: {output_train_path} ({len(train_data)} mẫu)")
+    print(f"Đã tạo file Val:   {output_val_path} ({len(val_data)} mẫu)")
 
-    # In báo cáo kết quả
-    print(f"✅ Đã trộn và chia thành công {total_samples} mẫu.")
-    print(f"   -> Tập Train (90%): {len(train_data)} mẫu lưu tại {train_output_file}")
-    print(f"   -> Tập Val (10%): {len(val_data)} mẫu lưu tại {val_output_file}")
+# ==========================================
+# CÁCH SỬ DỤNG
+# ==========================================
+# Thay thế tên file gốc bằng file thực tế của bạn đang lưu trên Colab
+input_files = ["datasets/data_gen/final_silver_dataset.json", "datasets/ViMed/vimed_cleaned_dataset.json"] 
 
-if __name__ == "__main__":
-    convert_and_split_data()
+process_and_merge_datasets(
+    file_paths=input_files,
+    output_train_path="fine_tuning/dataset/nuextract3_train.jsonl",
+    output_val_path="fine_tuning/dataset/nuextract3_val.jsonl",
+    split_ratio=0.9
+)
