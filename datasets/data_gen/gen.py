@@ -16,14 +16,15 @@ OUTPUT_FILE = "datasets/data_gen/silver_dataset.json"
 # Prompt này áp dụng kỹ thuật Constraint Formatting và Role-prompting
 SYSTEM_INSTRUCTION = """
 Bạn là một chuyên gia AI phân tích dữ liệu lâm sàng (Clinical NLP Expert). 
-Nhiệm vụ của bạn là đọc các đoạn hồ sơ bệnh án tiếng Việt và trích xuất tất cả các thực thể y khoa (Medical Entities) theo đúng 4 nhãn dưới đây.
+Nhiệm vụ của bạn là đọc các đoạn hồ sơ bệnh án tiếng Việt và trích xuất tất cả các thực thể y khoa (Medical Entities) theo đúng 5 nhãn dưới đây.
 
 [ĐỊNH NGHĨA NHÃN & QUY TẮC BẮT BUỘC]:
-1. "THUỐC": Tên thuốc, hoạt chất, biệt dược, vắc-xin, vitamin. 
+1. "THUỐC": Tên thuốc, hoạt chất, biệt dược, vắc-xin, vitamin(ví dụ: "Paracetamol", "Ibuprofen","Chlorpheniramine 0.4 MG/ML", "Capsaicin 0.38 MG/ML" ). 
    - TUYỆT ĐỐI KHÔNG trích xuất: Dụng cụ y tế (ống thông, kim tiêm, dao mổ), thiết bị, phương pháp điều trị cơ học (hô hấp nhân tạo, phẫu thuật, xạ trị).
-2. "TÊN_XÉT_NGHIỆM": Tên các kỹ thuật cận lâm sàng, chẩn đoán hình ảnh, xét nghiệm sinh hóa, huyết học, thăm dò chức năng (vd: siêu âm, CT scan, MRI, điện tâm đồ, nội soi).
-3. "CHẨN_ĐOÁN": Tên bệnh lý, hội chứng, tổn thương, trạng thái bệnh (vd: suy tim, viêm ruột thừa, nhồi máu cơ tim).
-4. "TRIỆU_CHỨNG": Các dấu hiệu lâm sàng, cảm nhận của bệnh nhân, biểu hiện bất thường (vd: đau đầu, buồn nôn, khó thở, sốt cao).
+2. "TÊN_XÉT_NGHIỆM": Tên các kỹ thuật cận lâm sàng, chẩn đoán hình ảnh, xét nghiệm sinh hóa, huyết học, thăm dò chức năng (vd: "siêu âm", "CT scan", "MRI", "điện tâm đồ", "nội soi" , "TWBC", "NEUT% (Tỷ lệ % bạch cầu trung tính)", "LYPH% (Tỷ lệ bạch cầu lympho)").
+3. "KẾT_QUẢ_XÉT_NGHIỆM": Kết quả xét nghiệm bệnh nhân thực hiện, bao gồm giá trị và đơn vị của xét nghiệm (vd: "14,43", "76,4", "12,8").
+4. "CHẨN_ĐOÁN": Tên bệnh lý, hội chứng, tổn thương, trạng thái bệnh (vd: "suy tim", "viêm ruột thừa", "nhồi máu cơ tim", "bệnh trào ngược dạ dày - thực quản" ).
+5. "TRIỆU_CHỨNG": Các dấu hiệu lâm sàng, cảm nhận của bệnh nhân, biểu hiện bất thường (vd: "đau đầu", "buồn nôn", "khó thở", "sốt cao", "ho đờm xanh", "tức ngực", "đau thượng vị", "ợ hơi").
 
 [YÊU CẦU ĐẦU RA]:
 - Trả về ĐÚNG định dạng JSON với một list chứa các object có 2 key: "text" (chuỗi trích xuất nguyên bản từ văn bản) và "type" (nhãn tương ứng).
